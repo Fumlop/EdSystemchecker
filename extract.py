@@ -73,29 +73,27 @@ def calculate_current_progress_cp(state: str, progress_percent: float) -> int:
     else:
         return 0
 
-def calculate_natural_decay(state: str, current_progress_cp: int) -> int:
+def calculate_natural_decay(state: str, current_progress_cp: int, undermining: int = None) -> int:
     """
     Calculate natural decay using formulas from Formulas.md
     
     Args:
         state: System state (Stronghold, Fortified, Exploited)
         current_progress_cp: Current progress CP value
+        undermining: Undermining value (not used in calculation, kept for compatibility)
         
     Returns:
         int: Natural decay amount (positive value showing CP loss)
     """
     if state == "Stronghold":
-        # Normalize CP to 0-1 range first
         normalized_cp = current_progress_cp / 1000000
-        # decay = 1 000 000 × (–0.2087 × normalized_cp + 0.0527)
+        # Formel: 1 000 000 × (–0.2087 × normalized_cp + 0.0527)
         return int(1000000 * (-0.2087 * normalized_cp + 0.0527)) * -1
     elif state == "Fortified":
-        # Normalize CP to 0-1 range first
         normalized_cp = current_progress_cp / 650000
-        # decay = 650 000 × (–0.1707 × normalized_cp + 0.0425)
-        return int(650000 * (-0.1707 * normalized_cp + 0.0425)) * -1
+        # decay = 650 000 × (–0.1923 × normalized_cp + 0.0485)
+        return int(650000 * (-0.1923 * normalized_cp + 0.0485)) * -1
     elif state == "Exploited":
-        # Normalize CP to 0-1 range first
         normalized_cp = current_progress_cp / 350000
         # decay = 350 000 × (–0.0833 × normalized_cp + 0.0207)
         return int(350000 * (-0.0833 * normalized_cp + 0.0207)) * -1
@@ -192,7 +190,6 @@ class InaraHTMLParser(HTMLParser):
             
             # Calculate current progress CP using formulas from Formulas.md
             current_progress_cp = calculate_current_progress_cp(state, progress_percent)
-            
             # Calculate last_cycle_cp_actual using formula from Formulas.md
             last_cycle_cp_actual = current_progress_cp + undermining
             
@@ -214,9 +211,9 @@ class InaraHTMLParser(HTMLParser):
             
             # Only add natural_decay, expected_progress_cp and net_cp for systems with > 25% progress
             if progress_percent > 25.0:
-                natural_decay = calculate_natural_decay(state, current_progress_cp)
-                expected_progress_cp = last_cycle_cp_actual - natural_decay
-                net_cp = expected_progress_cp - current_progress_cp
+                natural_decay = int(round(calculate_natural_decay(state, current_progress_cp,undermining)))
+                expected_progress_cp = int(round(last_cycle_cp_actual - natural_decay))
+                net_cp = int(round(expected_progress_cp - current_progress_cp))
                 system_data["natural_decay"] = natural_decay
                 system_data["expected_progress_cp"] = expected_progress_cp
                 system_data["net_cp"] = net_cp
