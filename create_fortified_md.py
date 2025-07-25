@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate exploited status markdown report from JSON data
+Generate fortified status markdown report from JSON data
 """
 import json
 from datetime import datetime
@@ -24,13 +24,13 @@ def categorize_by_activity(systems, activity_field='undermining'):
     
     return high, medium, low
 
-def generate_exploited_report():
-    """Generate exploited status report"""
+def generate_fortified_report():
+    """Generate fortified status report"""
     
-    # Load exploited data
-    json_file = Path("json/exploited_systems.json")
+    # Load fortified data
+    json_file = Path("json/fortified_systems.json")
     if not json_file.exists():
-        print("❌ exploited_systems.json not found. Run extract.py first!")
+        print("❌ fortified_systems.json not found. Run extract.py first!")
         return
     
     with open(json_file, 'r', encoding='utf-8') as f:
@@ -52,11 +52,11 @@ def generate_exploited_report():
     under_high, under_medium, under_low = categorize_by_activity(undermining_winning)
     
     # Generate report
-    report = f"""# 🏭 Exploited Status Report
+    report = f"""# 🛡️ Fortified Status Report
 
 **Report Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 **Data Source:** {data.get('last_update', 'Unknown')}
-**Total Exploited:** {len(systems)} ({len(systems_with_net_cp)} with decay analysis)
+**Total Fortified:** {len(systems)} ({len(systems_with_net_cp)} with decay analysis)
 
 ---
 
@@ -76,7 +76,7 @@ def generate_exploited_report():
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {system['progress_percent']}% | {natural_decay} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 High Reinforcement |\n"
     else:
-        report += "\n*No exploited systems with high reinforcement activity*\n"
+        report += "\n*No fortified systems with high reinforcement activity*\n"
     
     report += f"\n### 🔵 Medium Activity (500-999 CP Reinforcement)\n"
     
@@ -90,7 +90,7 @@ def generate_exploited_report():
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {system['progress_percent']}% | {natural_decay} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Medium Reinforcement |\n"
     else:
-        report += "\n*No exploited systems with medium reinforcement activity*\n"
+        report += "\n*No fortified systems with medium reinforcement activity*\n"
     
     report += f"\n### 🔵 Low Activity (100-499 CP Reinforcement)\n"
     
@@ -104,7 +104,7 @@ def generate_exploited_report():
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {system['progress_percent']}% | {natural_decay} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Low Reinforcement |\n"
     else:
-        report += "\n*No exploited systems with low reinforcement activity*\n"
+        report += "\n*No fortified systems with low reinforcement activity*\n"
 
     report += """
 
@@ -126,7 +126,7 @@ def generate_exploited_report():
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {system['progress_percent']}% | {natural_decay} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | ⚠️ High Undermining |\n"
     else:
-        report += "\n*No exploited systems with high undermining activity*\n"
+        report += "\n*No fortified systems with high undermining activity*\n"
     
     report += f"\n### 🔶 Medium Activity (500-999 CP Undermining)\n"
     
@@ -140,7 +140,7 @@ def generate_exploited_report():
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {system['progress_percent']}% | {natural_decay} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | 🔶 Medium Undermining |\n"
     else:
-        report += "\n*No exploited systems with medium undermining activity*\n"
+        report += "\n*No fortified systems with medium undermining activity*\n"
     
     report += f"\n### 🟡 Low Activity (100-499 CP Undermining)\n"
     
@@ -154,7 +154,7 @@ def generate_exploited_report():
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {system['progress_percent']}% | {natural_decay} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | 🟡 Low Undermining |\n"
     else:
-        report += "\n*No exploited systems with low undermining activity*\n"
+        report += "\n*No fortified systems with low undermining activity*\n"
 
     # Quick summary
     report += f"""
@@ -180,12 +180,12 @@ def generate_exploited_report():
         report += "*No systems currently gaining CP*\n"
 
     # Write report
-    output_file = Path("exploited_status.md")
+    output_file = Path("fortified_status.md")
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(report)
     
-    print(f"✅ Exploited report generated: {output_file}")
+    print(f"✅ Fortified report generated: {output_file}")
     print(f"📊 {len(reinforcement_winning)} systems gaining CP, {len(undermining_winning)} systems losing CP")
 
 if __name__ == "__main__":
-    generate_exploited_report()
+    generate_fortified_report()
