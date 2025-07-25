@@ -6,8 +6,52 @@ import os
 import json
 import re
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 from html.parser import HTMLParser
+
+def is_current_powerplay_cycle(extracted_at_str: str) -> bool:
+    """
+    Determine if a system's data is from the current PowerPlay cycle.
+    PowerPlay cycles run Thursday to Thursday (settlement on Thursday 7-11 UTC).
+    
+    Args:
+        extracted_at_str: ISO timestamp string when the data was extracted
+        
+    Returns:
+        bool: True if data is from current cycle, False otherwise
+    """
+    try:
+        # Parse the extraction timestamp
+        extracted_at = datetime.fromisoformat(extracted_at_str.replace('Z', '+00:00'))
+        if extracted_at.tzinfo is None:
+            # Assume local time if no timezone info
+            extracted_at = extracted_at.replace(tzinfo=None)
+        else:
+            # Convert to local time for comparison
+            extracted_at = extracted_at.replace(tzinfo=None)
+        
+        # Get current date
+        now = datetime.now()
+        
+        # Find the most recent Thursday (PowerPlay settlement day)
+        days_since_thursday = (now.weekday() - 3) % 7  # Thursday is weekday 3
+        if days_since_thursday == 0 and now.weekday() == 3:
+            # If today is Thursday, consider current cycle start as this Thursday
+            cycle_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
+        else:
+            # Find last Thursday
+            cycle_start = now - timedelta(days=days_since_thursday)
+            cycle_start = cycle_start.replace(hour=0, minute=0, second=0, microsecond=0)
+        
+        # Current cycle runs from last Thursday to next Thursday
+        cycle_end = cycle_start + timedelta(days=7)
+        
+        # Check if extraction time is within current cycle
+        return cycle_start <= extracted_at < cycle_end
+        
+    except Exception as e:
+        print(f"Error checking PowerPlay cycle for timestamp {extracted_at_str}: {e}")
+        return False
 
 def calculate_current_progress_cp(state: str, progress_percent: float) -> int:
     """
@@ -152,6 +196,9 @@ class InaraHTMLParser(HTMLParser):
             # Calculate last_cycle_cp_actual using formula from Formulas.md
             last_cycle_cp_actual = current_progress_cp + undermining
             
+            # Get extraction timestamp
+            extracted_at = datetime.now().isoformat()
+            
             # Calculate natural decay only for systems with > 25% progress
             system_data = {
                 "system": system_name,
@@ -161,7 +208,8 @@ class InaraHTMLParser(HTMLParser):
                 "progress_percent": progress_percent,
                 "current_progress_cp": current_progress_cp,
                 "last_cycle_cp_actual": last_cycle_cp_actual,
-                "extracted_at": datetime.now().isoformat()
+                "extracted_at": extracted_at,
+                "current_cycle_refresh": is_current_powerplay_cycle(extracted_at)
             }
             
             # Only add natural_decay, expected_progress_cp and net_cp for systems with > 25% progress
