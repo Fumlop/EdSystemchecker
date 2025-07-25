@@ -73,7 +73,7 @@ def calculate_current_progress_cp(state: str, progress_percent: float) -> int:
     else:
         return 0
 
-def calculate_natural_decay(state: str, current_progress_cp: int, undermining: int = None) -> int:
+def calculate_natural_decay(state: str, current_progress_cp: int, undermining: int) -> int:
     """
     Calculate natural decay using formulas from Formulas.md
     
@@ -85,18 +85,16 @@ def calculate_natural_decay(state: str, current_progress_cp: int, undermining: i
     Returns:
         int: Natural decay amount (positive value showing CP loss)
     """
+    before = (current_progress_cp + undermining) 
     if state == "Stronghold":
-        normalized_cp = current_progress_cp / 1000000
-        # Formel: 1 000 000 × (–0.2087 × normalized_cp + 0.0527)
-        return int(1000000 * (-0.2087 * normalized_cp + 0.0527)) * -1
+        current_cp_normiert = before/ 1000000
+        return  (0.852137 * current_cp_normiert + 0.018411)
     elif state == "Fortified":
-        normalized_cp = current_progress_cp / 650000
-        # decay = 650 000 × (–0.1923 × normalized_cp + 0.0485)
-        return int(650000 * (-0.1923 * normalized_cp + 0.0485)) * -1
+        current_cp_normiert = before / 650000
+        return (0.814443  * current_cp_normiert + 0.011009)
     elif state == "Exploited":
-        normalized_cp = current_progress_cp / 350000
-        # decay = 350 000 × (–0.0833 × normalized_cp + 0.0207)
-        return int(350000 * (-0.0833 * normalized_cp + 0.0207)) * -1
+        current_cp_normiert = before / 350000
+        return (0.965505 * current_cp_normiert + 0.009839)
     else:
         return 0
 
@@ -211,9 +209,14 @@ class InaraHTMLParser(HTMLParser):
             
             # Only add natural_decay, expected_progress_cp and net_cp for systems with > 25% progress
             if progress_percent > 25.0:
-                natural_decay = int(round(calculate_natural_decay(state, current_progress_cp,undermining)))
-                expected_progress_cp = int(round(last_cycle_cp_actual - natural_decay))
-                net_cp = int(round(expected_progress_cp - current_progress_cp))
+                natural_decay = calculate_natural_decay(state, current_progress_cp,undermining)
+                if (state == "Stronghold"):
+                    expected_progress_cp = int(round(1000000 * natural_decay))
+                if (state == "Fortified"):
+                    expected_progress_cp = int(round(650000 * natural_decay))
+                if (state == "Exploited"):
+                    expected_progress_cp = int(round(350000 * natural_decay))
+                net_cp = int(round(current_progress_cp - expected_progress_cp ))
                 system_data["natural_decay"] = natural_decay
                 system_data["expected_progress_cp"] = expected_progress_cp
                 system_data["net_cp"] = net_cp
