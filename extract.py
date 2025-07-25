@@ -9,110 +9,54 @@ from pathlib import Path
 from datetime import datetime
 from html.parser import HTMLParser
 
-# Formula constants from Formulas.md - ORIGINAL VERSION
-FORMULAS = {
-    "Stronghold": {
-        "cp_100_percent": 1000000,
-        "coefficient": 0.852137,
-        "constant": 0.018411
-    },
-    "Fortified": {
-        "cp_100_percent": 650000,
-        "coefficient": 0.814443,
-        "constant": 0.011009
-    },
-    "Exploited": {
-        "cp_100_percent": 350000,
-        "coefficient": 0.965505,
-        "constant": 0.009839
-    }
-}
-
-def calculate_cp_progress(state: str, progress_percent: float) -> int:
+def calculate_current_progress_cp(state: str, progress_percent: float) -> int:
     """
-    Calculate CP (Control Points) based on state and progress percentage
+    Calculate current progress CP using formulas from Formulas.md
     
     Args:
         state: System state (Stronghold, Fortified, Exploited)
         progress_percent: Progress as percentage (0-100)
         
     Returns:
-        int: Calculated CP value
+        int: Current progress CP
     """
-    if state not in FORMULAS:
+    if state == "Stronghold":
+        return int(1000000 * (progress_percent / 100.0))
+    elif state == "Fortified":
+        return int(650000 * (progress_percent / 100.0))
+    elif state == "Exploited":
+        return int(350000 * (progress_percent / 100.0))
+    else:
         return 0
-    
-    formula = FORMULAS[state]
-    cp_max = formula["cp_100_percent"]
-    
-    # Convert percentage to CP
-    cp_value = int((progress_percent / 100.0) * cp_max)
-    return cp_value
 
-def calculate_last_cycle_cp(state: str, current_progress: float) -> int:
+def calculate_natural_decay(state: str, last_cycle_cp_actual: int) -> int:
     """
-    Calculate what the progress was in the previous cycle using reverse formula
+    Calculate natural decay using formulas from Formulas.md
     
     Args:
         state: System state (Stronghold, Fortified, Exploited)
-        current_progress: Current progress as percentage (0-100)
+        last_cycle_cp_actual: Last cycle CP actual value
         
     Returns:
-        int: Previous cycle CP value
+        int: Natural decay amount (multiplied by -1 for correct direction)
     """
-    if state not in FORMULAS:
-        # Fallback to current CP
-        return calculate_cp_progress(state, current_progress)
-    
-    formula = FORMULAS[state]
-    
-    # Convert percentage to decimal (0-1)
-    current_inf = current_progress / 100.0
-    
-    # Reverse formula: last_inf = (current_inf - constant) / coefficient
-    last_inf = (current_inf - formula["constant"]) / formula["coefficient"]
-    
-    # Convert to CP
-    last_cycle_cp = int(last_inf * formula["cp_100_percent"])
-    
-    return last_cycle_cp
-
-def calculate_expected_undermining_decay(state: str, last_cycle_cp: int, current_progress_percent: float) -> int:
-    """
-    Calculate expected current CP from last cycle CP using forward decay formula
-    
-    This represents what we would expect the system to have naturally decayed to
-    without any undermining activity. For systems ≤25%, no natural decay occurs.
-    
-    Args:
-        state: System state (Stronghold, Fortified, Exploited)
-        last_cycle_cp: Last cycle CP value
-        current_progress_percent: Current progress percentage (to check 25% threshold)
-        
-    Returns:
-        int: Expected current CP value after natural decay (or current CP if ≤25%)
-    """
-    if state not in FORMULAS:
-        return last_cycle_cp
-    
-    formula = FORMULAS[state]
-    cp_max = formula["cp_100_percent"]
-    
-    # For systems ≤25%, no natural decay occurs
-    if current_progress_percent <= 25.0:
-        return int((current_progress_percent / 100.0) * cp_max)
-    
-    # Apply natural decay formula for systems >25%
-    # Convert CP to inf (0-1)
-    last_inf = last_cycle_cp / cp_max
-    
-    # Apply formula: current_inf = coefficient × last_inf + constant
-    current_inf = formula["coefficient"] * last_inf + formula["constant"]
-    
-    # Convert back to CP
-    expected_undermining_decay = int(current_inf * cp_max)
-    
-    return expected_undermining_decay
+    if state == "Stronghold":
+        # Normalize CP to 0-1 range first
+        normalized_cp = last_cycle_cp_actual / 1000000
+        # decay = 1 000 000 × (–0.2087 × normalized_cp + 0.0527)
+        return int(1000000 * (-0.2087 * normalized_cp + 0.0527)) * -1
+    elif state == "Fortified":
+        # Normalize CP to 0-1 range first
+        normalized_cp = last_cycle_cp_actual / 650000
+        # decay = 650 000 × (–0.1707 × normalized_cp + 0.0425)
+        return int(650000 * (-0.1707 * normalized_cp + 0.0425)) * -1
+    elif state == "Exploited":
+        # Normalize CP to 0-1 range first
+        normalized_cp = last_cycle_cp_actual / 350000
+        # decay = 350 000 × (–0.0833 × normalized_cp + 0.0207)
+        return int(350000 * (-0.0833 * normalized_cp + 0.0207)) * -1
+    else:
+        return 0
 
 class InaraHTMLParser(HTMLParser):
     """Custom HTML parser for Inara system data"""
@@ -156,22 +100,19 @@ class InaraHTMLParser(HTMLParser):
     def extract_system_from_row(self, cells):
         """Extract system data from table row cells"""
         try:
-            if not cells or len(cells) < 6:  # Need at least 6 columns: System, State, Opposing, Under, Reinf, Progress
+            if not cells or len(cells) < 6:  # Need at least 6 columns
                 return None
             
-            # First cell is usually system name - clean Unicode characters
+            # First cell: System name - clean Unicode characters
             system_name = cells[0].strip()
-            # Remove unwanted Unicode characters and HTML artifacts
             system_name = system_name.replace("\ue81d", "").replace("︎", "").strip()
-            # Remove any remaining HTML tags
-            import re
             system_name = re.sub(r'<[^>]+>', '', system_name)
             
             # Skip header rows
             if not system_name or system_name.lower() in ['system', 'name', 'star system']:
                 return None
             
-            # Extract state from second cell
+            # Second cell: State
             state = "Unknown"
             state_cell = cells[1].lower()
             if 'stronghold' in state_cell:
@@ -181,97 +122,65 @@ class InaraHTMLParser(HTMLParser):
             elif 'exploited' in state_cell:
                 state = 'Exploited'
             
-            # Extract undermining from 4th cell (index 3)
+            # Fourth cell: Undermining
             undermining = 0
             if len(cells) > 3:
                 under_cell = cells[3]
-                # Look for numbers in undermining cell
                 number_match = re.search(r'(\d+(?:,\d+)*)', under_cell)
                 if number_match:
                     undermining = int(number_match.group(1).replace(',', ''))
             
-            # Extract reinforcement from 5th cell (index 4)
+            # Fifth cell: Reinforcement
             reinforcement = 0
             if len(cells) > 4:
                 reinf_cell = cells[4]
-                # Look for numbers in reinforcement cell
                 number_match = re.search(r'(\d+(?:,\d+)*)', reinf_cell)
                 if number_match:
                     reinforcement = int(number_match.group(1).replace(',', ''))
             
-            # Extract progress from 6th cell (index 5)
+            # Sixth cell: Progress
             progress_percent = 0.0
             if len(cells) > 5:
                 progress_cell = cells[5]
-                # Look for percentage
                 percent_match = re.search(r'(\d+(?:\.\d+)?)\s*%', progress_cell)
                 if percent_match:
                     progress_percent = float(percent_match.group(1))
             
-            # Calculate CP
-            curr_progress_cp = calculate_cp_progress(state, progress_percent)
+            # Calculate current progress CP using formulas from Formulas.md
+            current_progress_cp = calculate_current_progress_cp(state, progress_percent)
             
-            # Calculate THEORETICAL last cycle CP using REVERSE FORMULA
-            # This represents what the system would have needed to be to reach current progress through natural decay
-            last_cycle_cp_formula = calculate_last_cycle_cp(state, progress_percent)
+            # Calculate last_cycle_cp_actual using formula from Formulas.md
+            last_cycle_cp_actual = current_progress_cp + undermining
             
-            # Calculate ACTUAL last cycle CP: current + undermining  
-            # This is what the system actually had (if we assume curr_progress_cp + undermining logic)
-            last_cycle_cp_actual = curr_progress_cp + undermining
-            
-            # Use the ACTUAL last cycle CP for decay analysis
-            # Apply forward formula: current_inf = coefficient × last_inf + constant
-            expected_undermining_decay = calculate_expected_undermining_decay(state, last_cycle_cp_actual, progress_percent)
-            
-            # Calculate real undermining: difference between actual and expected
-            # Only meaningful for systems >25% progress (natural decay zone)
-            if progress_percent > 25.0:
-                real_undermining = curr_progress_cp - expected_undermining_decay
-            else:
-                real_undermining = 0  # No natural decay for systems ≤25%
-            
-            # Check for possible state change from last cycle
-            # If undermining + curr_progress_cp exceeds the max CP for current state,
-            # the system was likely in a higher state last cycle
-            formula = FORMULAS.get(state, {"cp_100_percent": 0})
-            cp_max_current = formula["cp_100_percent"]
-            possible_state_change = (undermining + curr_progress_cp) > cp_max_current
-            
-            # Calculate NET value: reinforcement - undermining 
-            # Negative = more undermining than reinforcement (bad)
-            # Positive = more reinforcement than undermining (good)
-            net_activity = reinforcement - real_undermining
-            
-            return {
+            # Calculate natural decay only for systems with > 25% progress
+            system_data = {
                 "system": system_name,
                 "state": state,
                 "undermining": undermining,
-                "real_reinforcement": reinforcement,
-                "curr_progress": progress_percent,
-                "curr_progress_cp": curr_progress_cp,
-                "last_cycle_cp_formula": last_cycle_cp_formula,
+                "reinforcement": reinforcement,
+                "progress_percent": progress_percent,
+                "current_progress_cp": current_progress_cp,
                 "last_cycle_cp_actual": last_cycle_cp_actual,
-                "expected_undermining_decay": expected_undermining_decay,
-                "real_undermining": real_undermining,
-                "net_activity": net_activity,
-                "possible_state_change": possible_state_change,
                 "extracted_at": datetime.now().isoformat()
             }
+            
+            # Only add natural_decay, expected_progress_cp and net_cp for systems with > 25% progress
+            if progress_percent > 25.0:
+                natural_decay = calculate_natural_decay(state, last_cycle_cp_actual)
+                expected_progress_cp = last_cycle_cp_actual - natural_decay
+                net_cp = expected_progress_cp - current_progress_cp
+                system_data["natural_decay"] = natural_decay
+                system_data["expected_progress_cp"] = expected_progress_cp
+                system_data["net_cp"] = net_cp
+            
+            return system_data
             
         except Exception as e:
             print(f"Error extracting system data: {e}")
             return None
 
 def parse_html_file(file_path: str) -> list:
-    """
-    Parse HTML file and extract system data
-    
-    Args:
-        file_path: Path to HTML file
-        
-    Returns:
-        list: List of system dictionaries
-    """
+    """Parse HTML file and extract system data"""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
@@ -284,25 +193,8 @@ def parse_html_file(file_path: str) -> list:
         print(f"Error parsing {file_path}: {e}")
         return []
 
-def extract_state_from_text(text: str) -> str:
-    """Extract state from text"""
-    text_lower = text.lower()
-    if 'stronghold' in text_lower:
-        return 'Stronghold'
-    elif 'fortified' in text_lower:
-        return 'Fortified'
-    elif 'exploited' in text_lower:
-        return 'Exploited'
-    return 'Unknown'
-
 def save_systems_by_state(systems: list, output_dir: str = "json"):
-    """
-    Save systems grouped by state to separate JSON files
-    
-    Args:
-        systems: List of system dictionaries
-        output_dir: Output directory for JSON files
-    """
+    """Save systems grouped by state to separate JSON files"""
     # Create output directory
     Path(output_dir).mkdir(exist_ok=True)
     
@@ -323,7 +215,6 @@ def save_systems_by_state(systems: list, output_dir: str = "json"):
             "state": state,
             "system_count": len(state_systems),
             "last_update": datetime.now().isoformat(),
-            "extracted_at": datetime.now().isoformat(),
             "systems": state_systems
         }
         

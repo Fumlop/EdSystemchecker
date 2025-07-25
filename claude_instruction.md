@@ -31,25 +31,6 @@
 - Helper-Methoden extrahieren
 - Logik vereinfachen
 
-### Datei-Status Tracking
-
-#### Vollständig optimiert:
-- `pluginConfig.py` - Kompakt, keine weitere Optimierung nötig
-- `pluginUI.py` - Widget-Management optimiert
-- `pluginDetailsUI.py` - UI-Logik und Styling abgeschlossen
-- `power.py` - JSON-Handling optimiert, DRY-Prinzip angewendet
-- `system.py` - StarSystem-Klasse refactored, Code-Duplikation eliminiert
-- `report.py` - Discord-Integration optimiert, bessere Fehlerbehandlung, URL-Validierung
-
-#### Analysiert, aber nicht optimiert:
-- `load.py` - Plugin Loader (360 Zeilen, große Datei - teilweise optimiert: Imports bereinigt, Update-Funktionen refactored, strategische Logger.info hinzugefügt)
-
-#### Noch nicht analysiert:
-- `history.py` - Merit-History
-- `log.py` - Logging-Utilities
-- `salvage.py` - Salvage-Handling
-- `ppcargo.py` - PowerPlay Cargo
-
 ### Chunk-Analyse Richtlinien
 
 **Schritt 1: Dateigröße & Überblick**
@@ -69,12 +50,6 @@ grep -E "^(class|def|import)" datei.py  # Struktur
 - **Hauptklassen**: Methode für Methode
 - **Main-Logic**: Event-Handler, Entry-Points
 
-**Für große Dateien (>150 Zeilen):**
-1. **Header-Chunk**: Imports, Globals, Init (Zeilen 1-50)
-2. **Core-Methods-Chunk**: Hauptfunktionalität (Zeilen 51-100) 
-3. **Utility-Chunk**: Helper-Methoden, JSON-Handling (Zeilen 101+)
-4. **UI-Chunk**: GUI-Komponenten separat betrachten
-
 ### Vermeidung von Token-Verschwendung
 
 ❌ Nicht wiederholen:
@@ -86,27 +61,3 @@ grep -E "^(class|def|import)" datei.py  # Struktur
 - Konkrete Änderungsvorschläge
 - Spezifische Optimierungspotentiale  
 - Neue Funktionalitäten oder Bugfixes
-
-### Projektstruktur (Referenz)
-
-```
-EliteMeritTracker/
-├── pluginConfig.py      ✅ Optimiert
-├── pluginUI.py          ✅ Optimiert  
-├── pluginDetailsUI.py   ✅ Optimiert
-├── power.py             ✅ Optimiert
-├── system.py            ✅ Optimiert
-├── load.py              📋 Teiloptimiert
-├── report.py            ⏳ Pending
-├── history.py           ⏳ Pending
-├── log.py               ⏳ Pending
-├── salvage.py           ⏳ Pending
-├── ppcargo.py           ⏳ Pending
-└── assets/              📁 Assets
-```
-
-### Nächste Optimierungskandidaten
-
-1. **load.py** - Plugin-Initialisierung  
-2. **report.py** - Discord-Integration
-3. **history.py** - Merit-History Management
