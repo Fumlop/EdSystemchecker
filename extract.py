@@ -73,7 +73,40 @@ def calculate_current_progress_cp(state: str, progress_percent: float) -> int:
     else:
         return 0
 
-def calculate_natural_decay(state: str, current_progress_cp: int, undermining: int) -> int:
+def get_max_cp(state: str) -> int:
+    """
+    Get maximum CP for a system state
+    
+    Args:
+        state: System state (Stronghold, Fortified, Exploited)
+        
+    Returns:
+        int: Maximum CP for the state
+    """
+    if state == "Stronghold":
+        return 1000000
+    elif state == "Fortified":
+        return 650000
+    elif state == "Exploited":
+        return 350000
+    else:
+        return 1
+
+def calculate_last_cycle_percent(last_cycle_cp_actual: int, state: str) -> float:
+    """
+    Calculate last cycle percentage from last_cycle_cp_actual
+    
+    Args:
+        last_cycle_cp_actual: Last cycle CP actual value
+        state: System state (Stronghold, Fortified, Exploited)
+        
+    Returns:
+        float: Last cycle percentage (0-100)
+    """
+    max_cp = get_max_cp(state)
+    return round((last_cycle_cp_actual / max_cp) * 100.0, 1)
+
+def calculate_natural_decay(state: str, current_progress_cp: int, undermining: int, reinforcement: int) -> int:
     """
     Calculate natural decay using formulas from Formulas.md
     
@@ -85,7 +118,7 @@ def calculate_natural_decay(state: str, current_progress_cp: int, undermining: i
     Returns:
         int: Natural decay amount (positive value showing CP loss)
     """
-    before = (current_progress_cp + undermining) 
+    before = (current_progress_cp + undermining - reinforcement) 
     if state == "Stronghold":
         current_cp_normiert = before/ 1000000
         return  (0.852137 * current_cp_normiert + 0.018411)
@@ -190,6 +223,8 @@ class InaraHTMLParser(HTMLParser):
             current_progress_cp = calculate_current_progress_cp(state, progress_percent)
             # Calculate last_cycle_cp_actual using formula from Formulas.md
             last_cycle_cp_actual = current_progress_cp + undermining
+            # Calculate last cycle percentage
+            last_cycle_percent = calculate_last_cycle_percent(last_cycle_cp_actual, state)
             
             # Get extraction timestamp
             extracted_at = datetime.now().isoformat()
@@ -203,13 +238,14 @@ class InaraHTMLParser(HTMLParser):
                 "progress_percent": progress_percent,
                 "current_progress_cp": current_progress_cp,
                 "last_cycle_cp_actual": last_cycle_cp_actual,
+                "last_cycle_percent": last_cycle_percent,
                 "extracted_at": extracted_at,
                 "current_cycle_refresh": is_current_powerplay_cycle(extracted_at)
             }
             
             # Only add natural_decay, expected_progress_cp and net_cp for systems with > 25% progress
             if progress_percent > 25.0:
-                natural_decay = calculate_natural_decay(state, current_progress_cp,undermining)
+                natural_decay = calculate_natural_decay(state, current_progress_cp,undermining, reinforcement)
                 if (state == "Stronghold"):
                     expected_progress_cp = int(round(1000000 * natural_decay))
                 if (state == "Fortified"):
