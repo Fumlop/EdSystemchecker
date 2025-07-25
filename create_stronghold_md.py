@@ -72,7 +72,7 @@ def generate_stronghold_report():
 |--------|--------|---------------|-------------|------------|------------|--------|----------|
 """
         for system in reinf_high:
-            status_icon = "✅" if system['progress_percent'] >= 20 else "👁️"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "�"
             report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 High Reinforcement |\n"
     else:
         report += "\n*No strongholds with high reinforcement activity*\n"
@@ -85,7 +85,7 @@ def generate_stronghold_report():
 |--------|--------|---------------|-------------|------------|------------|--------|----------|
 """
         for system in reinf_medium:
-            status_icon = "✅" if system['progress_percent'] >= 20 else "👁️"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "�"
             report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Medium Reinforcement |\n"
     else:
         report += "\n*No strongholds with medium reinforcement activity*\n"
@@ -98,7 +98,7 @@ def generate_stronghold_report():
 |--------|--------|---------------|-------------|------------|------------|--------|----------|
 """
         for system in reinf_low:
-            status_icon = "✅" if system['progress_percent'] >= 20 else "👁️"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "�"
             report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Low Reinforcement |\n"
     else:
         report += "\n*No strongholds with low reinforcement activity*\n"
@@ -118,7 +118,7 @@ def generate_stronghold_report():
 |--------|--------|-------------|---------------|------------|------------|--------|---------------|----------|
 """
         for system in under_high:
-            status_icon = "✅" if system['progress_percent'] >= 20 else "👁️"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "�"
             natural_decay = system.get('natural_decay', 'N/A')
             if isinstance(natural_decay, int):
                 natural_decay = f"{natural_decay:,}"
@@ -134,7 +134,7 @@ def generate_stronghold_report():
 |--------|--------|-------------|---------------|------------|------------|--------|---------------|----------|
 """
         for system in under_medium:
-            status_icon = "✅" if system['progress_percent'] >= 20 else "👁️"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "�"
             natural_decay = system.get('natural_decay', 'N/A')
             if isinstance(natural_decay, int):
                 natural_decay = f"{natural_decay:,}"
@@ -150,7 +150,7 @@ def generate_stronghold_report():
 |--------|--------|-------------|---------------|------------|------------|--------|---------------|----------|
 """
         for system in under_low:
-            status_icon = "✅" if system['progress_percent'] >= 20 else "👁️"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "�"
             natural_decay = system.get('natural_decay', 'N/A')
             if isinstance(natural_decay, int):
                 natural_decay = f"{natural_decay:,}"
