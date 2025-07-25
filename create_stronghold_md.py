@@ -15,11 +15,11 @@ def categorize_by_activity(systems, activity_field='undermining'):
     for system in systems:
         activity = abs(system.get('net_cp', 0))
          
-        if activity >= 1000:
+        if activity >= 10000:
             high.append(system)
-        elif activity >= 500:
+        elif activity >= 5000:
             medium.append(system)
-        elif activity >= 100:
+        elif activity >= 1000:
             low.append(system)
     
     return high, medium, low
