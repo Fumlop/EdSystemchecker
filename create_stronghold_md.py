@@ -13,13 +13,8 @@ def categorize_by_activity(systems, activity_field='undermining'):
     low = []
     
     for system in systems:
-        if activity_field == 'undermining':
-            # For undermining, use absolute value of net_cp (how much CP is being lost)
-            activity = abs(system.get('net_cp', 0))
-        else:
-            # For reinforcement, use the reinforcement field value
-            activity = system.get(activity_field, 0)
-        
+        activity = abs(system.get('net_cp', 0))
+         
         if activity >= 1000:
             high.append(system)
         elif activity >= 500:
@@ -73,11 +68,12 @@ def generate_stronghold_report():
     
     if reinf_high:
         report += """
-| System | Reinforcement | Undermining | Progress % | Current CP | Net CP | Status |
-|--------|---------------|-------------|------------|------------|--------|---------|
+| Status | System | Reinforcement | Undermining | Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|------------|------------|--------|----------|
 """
         for system in reinf_high:
-            report += f"| {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 High Reinforcement |\n"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "👁️"
+            report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 High Reinforcement |\n"
     else:
         report += "\n*No strongholds with high reinforcement activity*\n"
     
@@ -85,11 +81,12 @@ def generate_stronghold_report():
     
     if reinf_medium:
         report += """
-| System | Reinforcement | Undermining | Progress % | Current CP | Net CP | Status |
-|--------|---------------|-------------|------------|------------|--------|---------|
+| Status | System | Reinforcement | Undermining | Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|------------|------------|--------|----------|
 """
         for system in reinf_medium:
-            report += f"| {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Medium Reinforcement |\n"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "👁️"
+            report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Medium Reinforcement |\n"
     else:
         report += "\n*No strongholds with medium reinforcement activity*\n"
     
@@ -97,11 +94,12 @@ def generate_stronghold_report():
     
     if reinf_low:
         report += """
-| System | Reinforcement | Undermining | Progress % | Current CP | Net CP | Status |
-|--------|---------------|-------------|------------|------------|--------|---------|
+| Status | System | Reinforcement | Undermining | Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|------------|------------|--------|----------|
 """
         for system in reinf_low:
-            report += f"| {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Low Reinforcement |\n"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "👁️"
+            report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Low Reinforcement |\n"
     else:
         report += "\n*No strongholds with low reinforcement activity*\n"
     
@@ -116,14 +114,15 @@ def generate_stronghold_report():
     
     if under_high:
         report += """
-| System | Undermining | Reinforcement | Progress % | Current CP | Net CP | Natural Decay | Status |
-|--------|-------------|---------------|------------|------------|--------|---------------|---------|
+| Status | System | Undermining | Reinforcement | Progress % | Current CP | Net CP | Natural Decay | Activity |
+|--------|--------|-------------|---------------|------------|------------|--------|---------------|----------|
 """
         for system in under_high:
+            status_icon = "✅" if system['progress_percent'] >= 20 else "👁️"
             natural_decay = system.get('natural_decay', 'N/A')
             if isinstance(natural_decay, int):
                 natural_decay = f"{natural_decay:,}"
-            report += f"| {system['system']} | {system['undermining']:,} | {system['reinforcement']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | {system['net_cp']} | {natural_decay} | ⚠️ High Undermining |\n"
+            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {system['reinforcement']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | {system['net_cp']} | {natural_decay} | ⚠️ High Undermining |\n"
     else:
         report += "\n*No strongholds with high undermining activity*\n"
     
@@ -131,14 +130,15 @@ def generate_stronghold_report():
     
     if under_medium:
         report += """
-| System | Undermining | Reinforcement | Progress % | Current CP | Net CP | Natural Decay | Status |
-|--------|-------------|---------------|------------|------------|--------|---------------|---------|
+| Status | System | Undermining | Reinforcement | Progress % | Current CP | Net CP | Natural Decay | Activity |
+|--------|--------|-------------|---------------|------------|------------|--------|---------------|----------|
 """
         for system in under_medium:
+            status_icon = "✅" if system['progress_percent'] >= 20 else "👁️"
             natural_decay = system.get('natural_decay', 'N/A')
             if isinstance(natural_decay, int):
                 natural_decay = f"{natural_decay:,}"
-            report += f"| {system['system']} | {system['undermining']:,} | {system['reinforcement']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | {system['net_cp']} | {natural_decay} | 🔶 Medium Undermining |\n"
+            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {system['reinforcement']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | {system['net_cp']} | {natural_decay} | 🔶 Medium Undermining |\n"
     else:
         report += "\n*No strongholds with medium undermining activity*\n"
     
@@ -146,14 +146,15 @@ def generate_stronghold_report():
     
     if under_low:
         report += """
-| System | Undermining | Reinforcement | Progress % | Current CP | Net CP | Natural Decay | Status |
-|--------|-------------|---------------|------------|------------|--------|---------------|---------|
+| Status | System | Undermining | Reinforcement | Progress % | Current CP | Net CP | Natural Decay | Activity |
+|--------|--------|-------------|---------------|------------|------------|--------|---------------|----------|
 """
         for system in under_low:
+            status_icon = "✅" if system['progress_percent'] >= 20 else "👁️"
             natural_decay = system.get('natural_decay', 'N/A')
             if isinstance(natural_decay, int):
                 natural_decay = f"{natural_decay:,}"
-            report += f"| {system['system']} | {system['undermining']:,} | {system['reinforcement']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | {system['net_cp']} | {natural_decay} | 🟡 Low Undermining |\n"
+            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {system['reinforcement']:,} | {system['progress_percent']}% | {system['current_progress_cp']:,} | {system['net_cp']} | {natural_decay} | 🟡 Low Undermining |\n"
     else:
         report += "\n*No strongholds with low undermining activity*\n"
     
