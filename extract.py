@@ -217,7 +217,7 @@ class InaraHTMLParser(HTMLParser):
                 if (state == "Exploited"):
                     expected_progress_cp = int(round(350000 * natural_decay))
                 net_cp = int(round(current_progress_cp - expected_progress_cp ))
-                system_data["natural_decay"] = natural_decay
+                system_data["natural_decay"] = natural_decay 
                 system_data["expected_progress_cp"] = expected_progress_cp
                 system_data["net_cp"] = net_cp
             
