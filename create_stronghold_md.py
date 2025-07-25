@@ -13,23 +13,19 @@ def categorize_by_activity(systems, activity_field='undermining'):
     low = []
     
     for system in systems:
-        activity = system.get(activity_field, 0)
-        
-        # For undermining, use absolute values for thresholds
         if activity_field == 'undermining':
-            if activity >= 1000:
-                high.append(system)
-            elif activity >= 500:
-                medium.append(system)
-            elif activity >= 100:
-                low.append(system)
-        else:  # For reinforcement, keep original thresholds
-            if activity >= 1000:
-                high.append(system)
-            elif activity >= 500:
-                medium.append(system)
-            elif activity >= 100:
-                low.append(system)
+            # For undermining, use absolute value of net_cp (how much CP is being lost)
+            activity = abs(system.get('net_cp', 0))
+        else:
+            # For reinforcement, use the reinforcement field value
+            activity = system.get(activity_field, 0)
+        
+        if activity >= 1000:
+            high.append(system)
+        elif activity >= 500:
+            medium.append(system)
+        elif activity >= 100:
+            low.append(system)
     
     return high, medium, low
 

@@ -1,6 +1,6 @@
 # Stronghold Systems Status Report
 
-**Report Generated:** 2025-07-25 21:26:33  
+**Report Generated:** 2025-07-25 21:29:23  
 **Data Source:** 2025-07-25T21:17:19.023501  
 **Total Strongholds:** 55 (32 with decay analysis)
 
@@ -45,22 +45,23 @@
 | LHS 317 | 130,753 | 19,487 | 76.6% | 765,999 | -3699 | 134,452 | ⚠️ High Undermining |
 | Noti | 66,416 | 12,969 | 51.5% | 515,000 | -2225 | 68,641 | ⚠️ High Undermining |
 | LP 726-6 | 111,458 | 11,456 | 68.5% | 685,000 | -2062 | 113,520 | ⚠️ High Undermining |
-| Orishpucho | 105,885 | 6,036 | 65.8% | 657,999 | -837 | 106,722 | ⚠️ High Undermining |
-| Carnoeck | 12,895 | 6,356 | 30.5% | 305,000 | -749 | 13,644 | ⚠️ High Undermining |
-| HIP 50489 | 69,666 | 5,652 | 52.0% | 520,000 | -697 | 70,363 | ⚠️ High Undermining |
-| NLTT 19808 | 23,327 | 4,548 | 34.3% | 343,000 | -425 | 23,752 | ⚠️ High Undermining |
-| Algorab | 78,166 | 2,900 | 55.0% | 550,000 | -232 | 78,398 | ⚠️ High Undermining |
-| Andel | 105,083 | 2,576 | 65.2% | 652,000 | -220 | 105,303 | ⚠️ High Undermining |
-| Inovik | 100,750 | 2,354 | 63.5% | 635,000 | -101 | 100,851 | ⚠️ High Undermining |
-| LTT 3607 | 51,811 | 3,900 | 44.9% | 449,000 | -8 | 51,819 | ⚠️ High Undermining |
 
 ### 🔶 Medium Activity (500-999 CP Undermining)
 
-*No strongholds with medium undermining activity*
+| System | Undermining | Reinforcement | Progress % | Current CP | Net CP | Natural Decay | Status |
+|--------|-------------|---------------|------------|------------|--------|---------------|---------|
+| Orishpucho | 105,885 | 6,036 | 65.8% | 657,999 | -837 | 106,722 | 🔶 Medium Undermining |
+| Carnoeck | 12,895 | 6,356 | 30.5% | 305,000 | -749 | 13,644 | 🔶 Medium Undermining |
+| HIP 50489 | 69,666 | 5,652 | 52.0% | 520,000 | -697 | 70,363 | 🔶 Medium Undermining |
 
 ### 🟡 Low Activity (100-499 CP Undermining)
 
-*No strongholds with low undermining activity*
+| System | Undermining | Reinforcement | Progress % | Current CP | Net CP | Natural Decay | Status |
+|--------|-------------|---------------|------------|------------|--------|---------------|---------|
+| NLTT 19808 | 23,327 | 4,548 | 34.3% | 343,000 | -425 | 23,752 | 🟡 Low Undermining |
+| Algorab | 78,166 | 2,900 | 55.0% | 550,000 | -232 | 78,398 | 🟡 Low Undermining |
+| Andel | 105,083 | 2,576 | 65.2% | 652,000 | -220 | 105,303 | 🟡 Low Undermining |
+| Inovik | 100,750 | 2,354 | 63.5% | 635,000 | -101 | 100,851 | 🟡 Low Undermining |
 
 ---
 
@@ -77,9 +78,9 @@
 - **Low (100-499 CP):** 3 systems
 
 ### Undermining Activity Levels
-- **High (≥1,000 CP):** 12 systems
-- **Medium (500-999 CP):** 0 systems
-- **Low (100-499 CP):** 0 systems
+- **High (≥1,000 CP):** 4 systems
+- **Medium (500-999 CP):** 3 systems
+- **Low (100-499 CP):** 4 systems
 
 ### Critical Systems Analysis
 
