@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-25 23:37:07
-**Data Source:** 2025-07-25T23:37:07.291259
+**Report Generated:** 2025-07-25 23:40:45
+**Data Source:** 2025-07-25T23:40:44.785684
 **Total Fortified:** 130 (49 with decay analysis)
 
 ---
@@ -9,7 +9,7 @@
 ## 🔵 Active Reinforcement (Positive Net CP)
 *Systems where reinforcement is winning against undermining*
 
-### 🔵 High Activity (≥1,000 CP Reinforcement)
+### 🔵 High Activity (≥10,000 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
@@ -63,11 +63,11 @@
 | ✅ | Timbalderis | 85 | 10,099 | 33.4% | 0.28% | 31.8% | 206,700 | +23043 | 🔵 High Reinforcement |
 | ✅ | Turni | 86 | 3,358 | 27.6% | 0.24% | 27.1% | 176,150 | +22865 | 🔵 High Reinforcement |
 
-### 🔵 Medium Activity (500-999 CP Reinforcement)
+### 🔵 Medium Activity (5000-9999 CP Reinforcement)
 
 *No fortified systems with medium reinforcement activity*
 
-### 🔵 Low Activity (100-499 CP Reinforcement)
+### 🔵 Low Activity (1000-4999 CP Reinforcement)
 
 *No fortified systems with low reinforcement activity*
 
@@ -77,15 +77,15 @@
 ## ⚠️ Active Undermining (Negative Net CP)
 *Systems where undermining is winning against reinforcement*
 
-### ⚠️ High Activity (≥1,000 CP Undermining)
+### ⚠️ High Activity (≥10,000 CP Undermining)
 
 *No fortified systems with high undermining activity*
 
-### 🔶 Medium Activity (500-999 CP Undermining)
+### 🔶 Medium Activity (5000-9999 CP Undermining)
 
 *No fortified systems with medium undermining activity*
 
-### 🟡 Low Activity (100-499 CP Undermining)
+### 🟡 Low Activity (1000-4999 CP Undermining)
 
 *No fortified systems with low undermining activity*
 

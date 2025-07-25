@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-25 23:37:07
-**Data Source:** 2025-07-25T23:37:07.293311
+**Report Generated:** 2025-07-25 23:40:44
+**Data Source:** 2025-07-25T23:40:44.788700
 **Total Strongholds:** 55 (32 with decay analysis)
 
 ---
@@ -9,7 +9,7 @@
 ## 🔵 Active Reinforcement (Positive Net CP)
 *Systems where reinforcement is winning against undermining*
 
-### 🔵 High Activity (≥1,000 CP Reinforcement)
+### 🔵 High Activity (≥10,000 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
@@ -27,7 +27,7 @@
 | ✅ | Siki | 646 | 28,666 | 38.9% | 35.00% | 36.0% | 360,000 | +10943 | 🔵 High Reinforcement |
 | ✅ | BD-01 1707 | 20,994 | 99,875 | 75.1% | 64.00% | 65.1% | 650,999 | +10630 | 🔵 High Reinforcement |
 
-### 🔵 Medium Activity (500-999 CP Reinforcement)
+### 🔵 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
@@ -37,7 +37,7 @@
 | ✅ | LTT 3607 | 4,299 | 51,835 | 50.2% | 44.00% | 45.0% | 450,000 | +7620 | 🔵 Medium Reinforcement |
 | ✅ | Belgitan | 23 | 39,500 | 44.0% | 39.00% | 40.0% | 400,000 | +7094 | 🔵 Medium Reinforcement |
 
-### 🔵 Low Activity (100-499 CP Reinforcement)
+### 🔵 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
@@ -49,13 +49,13 @@
 ## ⚠️ Active Undermining (Negative Net CP)
 *Systems where undermining is winning against reinforcement*
 
-### ⚠️ High Activity (≥1,000 CP Undermining)
+### ⚠️ High Activity (≥10,000 CP Undermining)
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 | ✅ | HIP 52780 | 103,083 | 74.5% | 65.00% | 64.2% | 0 | 642,000 | -11324 | ⚠️ High Undermining |
 
-### 🔶 Medium Activity (500-999 CP Undermining)
+### 🔶 Medium Activity (5000-9999 CP Undermining)
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
@@ -68,7 +68,7 @@
 | ✅ | LHS 1928 | 89,958 | 68.3% | 60.00% | 59.3% | 1,114 | 593,000 | -6436 | 🔶 Medium Undermining |
 | ✅ | Orishpucho | 105,885 | 76.5% | 66.00% | 65.9% | 6,974 | 659,000 | -5255 | 🔶 Medium Undermining |
 
-### 🟡 Low Activity (100-499 CP Undermining)
+### 🟡 Low Activity (1000-4999 CP Undermining)
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
