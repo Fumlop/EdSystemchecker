@@ -1,7 +1,7 @@
-# Stronghold Systems Status Report
+# 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-25 21:48:15  
-**Data Source:** 2025-07-25T21:48:00.357555  
+**Report Generated:** 2025-07-25 21:53:55
+**Data Source:** 2025-07-25T21:48:00.357555
 **Total Strongholds:** 55 (32 with decay analysis)
 
 ---
@@ -11,40 +11,40 @@
 
 ### 🔵 High Activity (≥1,000 CP Reinforcement)
 
-| Status | System | Reinforcement | Undermining | Progress % | Current CP | Net CP | Activity |
-|--------|--------|---------------|-------------|------------|------------|--------|----------|
-| ✅ | LHS 317 | 19,487 | 130,753 | 76.6% | 765,999 | +23590 | 🔵 High Reinforcement |
-| ✅ | HIP 52780 | 0 | 103,083 | 64.2% | 642,000 | +21798 | 🔵 High Reinforcement |
-| ✅ | Andel | 2,576 | 105,083 | 65.2% | 652,000 | +21711 | 🔵 High Reinforcement |
-| ✅ | Orishpucho | 6,036 | 105,885 | 65.8% | 657,999 | +21261 | 🔵 High Reinforcement |
-| ✅ | LP 726-6 | 11,456 | 111,458 | 68.5% | 685,000 | +21199 | 🔵 High Reinforcement |
-| ✅ | Fousang | 323 | 99,541 | 62.9% | 629,000 | +20969 | 🔵 High Reinforcement |
-| ✅ | Inovik | 2,354 | 100,750 | 63.5% | 635,000 | +20926 | 🔵 High Reinforcement |
-| ✅ | Gurus | 0 | 98,625 | 62.5% | 625,000 | +20888 | 🔵 High Reinforcement |
-| ✅ | Rhea | 0 | 97,958 | 62.2% | 622,000 | +20847 | 🔵 High Reinforcement |
-| ✅ | Asetsi | 1,276 | 96,750 | 61.9% | 619,000 | +20265 | 🔵 High Reinforcement |
-| ✅ | LHS 1928 | 1,109 | 89,958 | 59.3% | 593,000 | +18899 | 🔵 High Reinforcement |
-| ✅ | BD-01 1707 | 20,773 | 99,875 | 65.0% | 650,000 | +16920 | 🔵 High Reinforcement |
-| ✅ | Algorab | 2,900 | 78,166 | 55.0% | 550,000 | +16081 | 🔵 High Reinforcement |
-| ✅ | Athena | 138 | 70,791 | 51.9% | 519,000 | +15176 | 🔵 High Reinforcement |
-| ✅ | Lulua | 35 | 69,208 | 51.3% | 513,000 | +14845 | 🔵 High Reinforcement |
-| ✅ | HIP 50489 | 5,652 | 69,666 | 52.0% | 520,000 | +13842 | 🔵 High Reinforcement |
-| ✅ | Noti | 12,969 | 66,416 | 51.5% | 515,000 | +11636 | 🔵 High Reinforcement |
-| ✅ | LTT 3607 | 3,900 | 51,811 | 44.9% | 449,000 | +10805 | 🔵 High Reinforcement |
-| ✅ | Belgitan | 23 | 39,500 | 40.0% | 400,000 | +8720 | 🔵 High Reinforcement |
-| ✅ | Kaura | 359 | 35,995 | 38.7% | 387,000 | +7929 | 🔵 High Reinforcement |
-| ✅ | Matipu | 0 | 32,125 | 37.2% | 372,000 | +7189 | 🔵 High Reinforcement |
-| ✅ | HIP 38747 | 85 | 30,250 | 36.5% | 365,000 | +6775 | 🔵 High Reinforcement |
-| ✅ | Siki | 646 | 28,666 | 36.0% | 360,000 | +6235 | 🔵 High Reinforcement |
-| ✅ | NLTT 19808 | 4,548 | 23,327 | 34.3% | 343,000 | +4443 | 🔵 High Reinforcement |
-| ✅ | Xiriwal | 0 | 16,166 | 31.1% | 311,000 | +3961 | 🔵 High Reinforcement |
-| ✅ | Corbenic | 899 | 16,166 | 31.2% | 312,000 | +3752 | 🔵 High Reinforcement |
-| ✅ | Karnarki | 0 | 13,250 | 30.0% | 300,000 | +3340 | 🔵 High Reinforcement |
-| ✅ | Mbambiva | 55 | 12,506 | 29.7% | 297,000 | +3223 | 🔵 High Reinforcement |
-| ✅ | Albicevci | 65 | 9,833 | 28.7% | 287,000 | +2637 | 🔵 High Reinforcement |
-| ✅ | Carnoeck | 6,356 | 12,895 | 30.5% | 305,000 | +1942 | 🔵 High Reinforcement |
-| ✅ | Neche | 564 | 5,487 | 27.1% | 271,000 | +1630 | 🔵 High Reinforcement |
-| ✅ | LP 490-68 | 0 | 5,250 | 27.0% | 270,000 | +1601 | 🔵 High Reinforcement |
+| Status | System | Reinforcement | Undermining | Natural Decay | Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|---------------|------------|------------|--------|----------|
+| ✅ | LHS 317 | 19,487 | 130,753 | 107,163 | 76.6% | 765,999 | +23590 | 🔵 High Reinforcement |
+| ✅ | HIP 52780 | 0 | 103,083 | 81,285 | 64.2% | 642,000 | +21798 | 🔵 High Reinforcement |
+| ✅ | Andel | 2,576 | 105,083 | 83,372 | 65.2% | 652,000 | +21711 | 🔵 High Reinforcement |
+| ✅ | Orishpucho | 6,036 | 105,885 | 84,624 | 65.8% | 657,999 | +21261 | 🔵 High Reinforcement |
+| ✅ | LP 726-6 | 11,456 | 111,458 | 90,259 | 68.5% | 685,000 | +21199 | 🔵 High Reinforcement |
+| ✅ | Fousang | 323 | 99,541 | 78,572 | 62.9% | 629,000 | +20969 | 🔵 High Reinforcement |
+| ✅ | Inovik | 2,354 | 100,750 | 79,824 | 63.5% | 635,000 | +20926 | 🔵 High Reinforcement |
+| ✅ | Gurus | 0 | 98,625 | 77,737 | 62.5% | 625,000 | +20888 | 🔵 High Reinforcement |
+| ✅ | Rhea | 0 | 97,958 | 77,111 | 62.2% | 622,000 | +20847 | 🔵 High Reinforcement |
+| ✅ | Asetsi | 1,276 | 96,750 | 76,485 | 61.9% | 619,000 | +20265 | 🔵 High Reinforcement |
+| ✅ | LHS 1928 | 1,109 | 89,958 | 71,059 | 59.3% | 593,000 | +18899 | 🔵 High Reinforcement |
+| ✅ | BD-01 1707 | 20,773 | 99,875 | 82,955 | 65.0% | 650,000 | +16920 | 🔵 High Reinforcement |
+| ✅ | Algorab | 2,900 | 78,166 | 62,085 | 55.0% | 550,000 | +16081 | 🔵 High Reinforcement |
+| ✅ | Athena | 138 | 70,791 | 55,615 | 51.9% | 519,000 | +15176 | 🔵 High Reinforcement |
+| ✅ | Lulua | 35 | 69,208 | 54,363 | 51.3% | 513,000 | +14845 | 🔵 High Reinforcement |
+| ✅ | HIP 50489 | 5,652 | 69,666 | 55,824 | 52.0% | 520,000 | +13842 | 🔵 High Reinforcement |
+| ✅ | Noti | 12,969 | 66,416 | 54,780 | 51.5% | 515,000 | +11636 | 🔵 High Reinforcement |
+| ✅ | LTT 3607 | 3,900 | 51,811 | 41,006 | 44.9% | 449,000 | +10805 | 🔵 High Reinforcement |
+| ✅ | Belgitan | 23 | 39,500 | 30,780 | 40.0% | 400,000 | +8720 | 🔵 High Reinforcement |
+| ✅ | Kaura | 359 | 35,995 | 28,066 | 38.7% | 387,000 | +7929 | 🔵 High Reinforcement |
+| ✅ | Matipu | 0 | 32,125 | 24,936 | 37.2% | 372,000 | +7189 | 🔵 High Reinforcement |
+| ✅ | HIP 38747 | 85 | 30,250 | 23,475 | 36.5% | 365,000 | +6775 | 🔵 High Reinforcement |
+| ✅ | Siki | 646 | 28,666 | 22,431 | 36.0% | 360,000 | +6235 | 🔵 High Reinforcement |
+| ✅ | NLTT 19808 | 4,548 | 23,327 | 18,884 | 34.3% | 343,000 | +4443 | 🔵 High Reinforcement |
+| ✅ | Xiriwal | 0 | 16,166 | 12,205 | 31.1% | 311,000 | +3961 | 🔵 High Reinforcement |
+| ✅ | Corbenic | 899 | 16,166 | 12,414 | 31.2% | 312,000 | +3752 | 🔵 High Reinforcement |
+| ✅ | Karnarki | 0 | 13,250 | 9,910 | 30.0% | 300,000 | +3340 | 🔵 High Reinforcement |
+| ✅ | Mbambiva | 55 | 12,506 | 9,283 | 29.7% | 297,000 | +3223 | 🔵 High Reinforcement |
+| ✅ | Albicevci | 65 | 9,833 | 7,196 | 28.7% | 287,000 | +2637 | 🔵 High Reinforcement |
+| ✅ | Carnoeck | 6,356 | 12,895 | 10,953 | 30.5% | 305,000 | +1942 | 🔵 High Reinforcement |
+| ✅ | Neche | 564 | 5,487 | 3,857 | 27.1% | 271,000 | +1630 | 🔵 High Reinforcement |
+| ✅ | LP 490-68 | 0 | 5,250 | 3,649 | 27.0% | 270,000 | +1601 | 🔵 High Reinforcement |
 
 ### 🔵 Medium Activity (500-999 CP Reinforcement)
 
@@ -54,9 +54,10 @@
 
 *No strongholds with low reinforcement activity*
 
+
 ---
 
-## 🔴 Active Undermining (Negative Net CP)
+## ⚠️ Active Undermining (Negative Net CP)
 *Systems where undermining is winning against reinforcement*
 
 ### ⚠️ High Activity (≥1,000 CP Undermining)
@@ -71,36 +72,17 @@
 
 *No strongholds with low undermining activity*
 
+
 ---
 
-## 📊 Stronghold Summary
+## 📊 Quick Summary
 
-### Activity Overview
-- **Total Strongholds with Activity:** 32
-- **Reinforcement Winning:** 32 systems
-- **Undermining Winning:** 0 systems
+### Top 5 Most Threatened (Most Negative Net CP)
+*No systems currently losing CP*
 
-### Reinforcement Activity Levels
-- **High (≥1,000 CP):** 32 systems
-- **Medium (500-999 CP):** 0 systems  
-- **Low (100-499 CP):** 0 systems
-
-### Undermining Activity Levels
-- **High (≥1,000 CP):** 0 systems
-- **Medium (500-999 CP):** 0 systems
-- **Low (100-499 CP):** 0 systems
-
-### Critical Systems Analysis
-
-**Top 5 Best Defended Strongholds:**
+### Top 5 Best Protected (Most Positive Net CP)
 1. **LHS 317:** +23590 CP (U:130,753, R:19,487)
 2. **HIP 52780:** +21798 CP (U:103,083, R:0)
 3. **Andel:** +21711 CP (U:105,083, R:2,576)
 4. **Orishpucho:** +21261 CP (U:105,885, R:6,036)
 5. **LP 726-6:** +21199 CP (U:111,458, R:11,456)
-
----
-
-*Report generated by EdSystemChecker*  
-*Net CP: Positive = Reinforcement Winning, Negative = Undermining Winning*  
-*Activity Levels: High ≥1,000 CP, Medium 500-999 CP, Low 100-499 CP*
