@@ -48,75 +48,62 @@ def load_system_data(json_dir: str = "json") -> dict:
 
 def analyze_undermining(systems_data: dict, threshold_cp: int = 1) -> dict:
     """
-    Analyze systems for undermining activity
+    Analyze systems for real undermining activity (positive real_undermining only)
     
     Args:
         systems_data: Dictionary with system data by state
-        threshold_cp: CP threshold for considering undermining (default: 1000)
+        threshold_cp: CP threshold for considering undermining (default: 1)
         
     Returns:
-        dict: Analysis results separated by progress threshold
+        dict: Analysis results by state with only real undermining
     """
-    results = {
-        "above_25": [],  # Systems with >25% progress
-        "below_25": []   # Systems with <=25% progress
-    }
+    results = {}
     
     for state, data in systems_data.items():
         systems = data["systems"]
+        state_systems = []
         
         for system in systems:
             curr_progress = system.get("curr_progress", 0.0)
-            curr_progress_cp = system.get("curr_progress_cp", 0)
-            expected_undermining_decay = system.get("expected_undermining_decay", 0)
-            undermining = system.get("undermining", 0)
+            real_undermining = system.get("real_undermining", 0)
             
-            # Calculate CP difference (actual vs expected)
-            cp_difference = curr_progress_cp - expected_undermining_decay
-            
-            # Prepare system data
-            system_data = {
-                "system": system.get("system", "Unknown"),
-                "state": state,
-                "curr_progress": curr_progress,
-                "curr_progress_cp": curr_progress_cp,
-                "expected_undermining_decay": expected_undermining_decay,
-                "cp_difference": cp_difference,
-                "undermining": undermining
-            }
-            
-            # Categorize by progress threshold
-            if curr_progress > 25.0:
-                # For systems >25%, check if CP difference exceeds threshold
-                if abs(cp_difference) >= threshold_cp:
-                    results["above_25"].append(system_data)
-            else:
-                # For systems <=25%, any difference indicates activity
-                if abs(cp_difference) >= threshold_cp:
-                    results["below_25"].append(system_data)
-    
-    # Sort by CP difference (highest absolute difference first)
-    results["above_25"].sort(key=lambda x: abs(x["cp_difference"]), reverse=True)
-    results["below_25"].sort(key=lambda x: abs(x["cp_difference"]), reverse=True)
+            # Only include systems with positive real_undermining (actual undermining)
+            if real_undermining > threshold_cp:
+                system_data = {
+                    "system": system.get("system", "Unknown"),
+                    "state": state,
+                    "curr_progress": curr_progress,
+                    "curr_progress_cp": system.get("curr_progress_cp", 0),
+                    "expected_undermining_decay": system.get("expected_undermining_decay", 0),
+                    "real_undermining": real_undermining,
+                    "undermining": system.get("undermining", 0),
+                    "real_reinforcement": system.get("real_reinforcement", 0),
+                    "net_activity": system.get("net_activity", 0)
+                }
+                state_systems.append(system_data)
+        
+        if state_systems:
+            # Sort by real_undermining (highest first)
+            state_systems.sort(key=lambda x: x["real_undermining"], reverse=True)
+            results[state] = state_systems
     
     return results
 
-def generate_markdown_report(analysis_results: dict, systems_data: dict, output_file: str = "active_undermining.md"):
+def generate_markdown_report(analysis_results: dict, systems_data: dict, output_file: str = "undermining.md"):
     """
-    Generate markdown report for active undermining
+    Generate markdown report for real undermining activities
     
     Args:
-        analysis_results: Analysis results from analyze_undermining
+        analysis_results: Analysis results from analyze_undermining (by state)
         systems_data: Original system data for metadata
         output_file: Output file name
     """
-    above_25 = analysis_results["above_25"]
-    below_25 = analysis_results["below_25"]
+    total_systems = sum(len(systems) for systems in analysis_results.values())
     
     with open(output_file, 'w', encoding='utf-8') as f:
-        f.write("# Active Undermining Analysis Report\n\n")
+        f.write("# Real Undermining Activity Report\n\n")
         f.write(f"**Report Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write(f"**Analysis Threshold:** Systems with CP difference ≥ 1\n\n")
+        f.write(f"**Systems with Real Undermining:** {total_systems}\n\n")
         
         # Data sources section
         f.write("## Data Sources\n\n")
@@ -127,116 +114,75 @@ def generate_markdown_report(analysis_results: dict, systems_data: dict, output_
                 formatted_time = dt.strftime('%Y-%m-%d %H:%M:%S')
             except:
                 formatted_time = last_update
-            f.write(f"- **{state}**: {len(data['systems'])} systems (updated: {formatted_time})\n")
+            f.write(f"- **{state}**: {len(data['systems'])} systems total (updated: {formatted_time})\n")
         f.write("\n")
         
-        # Summary
-        f.write("## Summary\n\n")
-        f.write(f"- **Systems >25% Progress:** {len(above_25)} systems showing undermining activity\n")
-        f.write(f"- **Systems ≤25% Progress:** {len(below_25)} systems showing activity\n")
-        f.write(f"- **Total Systems Analyzed:** {sum(len(data['systems']) for data in systems_data.values())}\n\n")
+        # Summary by state
+        f.write("## Summary by State\n\n")
+        f.write("| State | Systems with Real Undermining | Total Systems | Percentage |\n")
+        f.write("|-------|--------------------------------|---------------|------------|\n")
+        
+        for state, data in systems_data.items():
+            state_undermining = len(analysis_results.get(state, []))
+            total_state = len(data['systems'])
+            percentage = (state_undermining / total_state * 100) if total_state > 0 else 0
+            f.write(f"| **{state}** | {state_undermining} | {total_state} | {percentage:.1f}% |\n")
+        f.write("\n")
         
         # Explanation
         f.write("## Analysis Method\n\n")
-        f.write("### Systems >25% Progress\n")
-        f.write("- **Natural Decay Applied:** These systems experience natural influence decay\n")
-        f.write("- **CP Difference:** Actual CP minus Expected CP (after natural decay)\n")
-        f.write("- **Positive Difference:** More CP than expected = Active undermining/fortification\n")
-        f.write("- **Negative Difference:** Less CP than expected = Possible preparation activity\n\n")
+        f.write("- **Real Undermining:** Positive values indicating actual player undermining activity\n")
+        f.write("- **Expected Decay:** What the system should have after natural influence decay\n")
+        f.write("- **Net Activity:** Real Reinforcement - Real Undermining (positive = more fortification)\n")
+        f.write("- **Only systems with confirmed undermining activity are shown**\n\n")
         
-        f.write("### Systems ≤25% Progress\n")
-        f.write("- **No Natural Decay:** These systems maintain their progress\n")
-        f.write("- **Expected = Actual:** Under normal circumstances\n")
-        f.write("- **Any Difference:** Indicates recent activity (undermining/fortification)\n\n")
-        
-        # Systems >25% Progress Table
-        f.write("## Systems >25% Progress (Natural Decay Applied)\n\n")
-        
-        if not above_25:
-            f.write("**No systems >25% showing significant undermining activity**\n\n")
-        else:
-            f.write(f"**{len(above_25)} systems showing activity:**\n\n")
-            
-            # Group by state
-            above_25_by_state = {}
-            for system in above_25:
-                state = system["state"]
-                if state not in above_25_by_state:
-                    above_25_by_state[state] = []
-                above_25_by_state[state].append(system)
-            
-            for state, systems in above_25_by_state.items():
-                f.write(f"### {state} Systems ({len(systems)} systems)\n\n")
-                f.write("| System | Progress | Current CP | Expected CP | CP Difference | Reported Undermining |\n")
-                f.write("|--------|----------|------------|-------------|---------------|----------------------|\n")
+        # Systems by state
+        for state in ["Stronghold", "Fortified", "Exploited"]:
+            if state in analysis_results:
+                systems = analysis_results[state]
+                f.write(f"## {state} Systems ({len(systems)} systems)\n\n")
+                
+                f.write("| System | Progress | Current CP | Expected CP | Real Undermining | Real Reinforcement | Net Activity |\n")
+                f.write("|--------|----------|------------|-------------|------------------|--------------------|--------------|\n")
                 
                 for system in systems:
-                    diff_sign = "+" if system["cp_difference"] >= 0 else ""
+                    net_sign = "+" if system["net_activity"] >= 0 else ""
                     f.write(f"| **{system['system']}** | ")
                     f.write(f"{system['curr_progress']:.1f}% | ")
                     f.write(f"{system['curr_progress_cp']:,} | ")
                     f.write(f"{system['expected_undermining_decay']:,} | ")
-                    f.write(f"**{diff_sign}{system['cp_difference']:,}** | ")
-                    f.write(f"{system['undermining']:,} |\n")
-                
-                f.write("\n")
-        
-        # Systems ≤25% Progress Table
-        f.write("## Systems ≤25% Progress (No Natural Decay)\n\n")
-        
-        if not below_25:
-            f.write("**No systems ≤25% showing significant activity**\n\n")
-        else:
-            f.write(f"**{len(below_25)} systems showing activity:**\n\n")
-            
-            # Group by state
-            below_25_by_state = {}
-            for system in below_25:
-                state = system["state"]
-                if state not in below_25_by_state:
-                    below_25_by_state[state] = []
-                below_25_by_state[state].append(system)
-            
-            for state, systems in below_25_by_state.items():
-                f.write(f"### {state} Systems ({len(systems)} systems)\n\n")
-                f.write("| System | Progress | Current CP | Expected CP | CP Difference | Reported Undermining |\n")
-                f.write("|--------|----------|------------|-------------|---------------|----------------------|\n")
-                
-                for system in systems:
-                    diff_sign = "+" if system["cp_difference"] >= 0 else ""
-                    f.write(f"| **{system['system']}** | ")
-                    f.write(f"{system['curr_progress']:.1f}% | ")
-                    f.write(f"{system['curr_progress_cp']:,} | ")
-                    f.write(f"{system['expected_undermining_decay']:,} | ")
-                    f.write(f"**{diff_sign}{system['cp_difference']:,}** | ")
-                    f.write(f"{system['undermining']:,} |\n")
+                    f.write(f"**{system['real_undermining']:,}** | ")
+                    f.write(f"{system['real_reinforcement']:,} | ")
+                    f.write(f"**{net_sign}{system['net_activity']:,}** |\n")
                 
                 f.write("\n")
         
         # Top 10 overall
-        all_systems = above_25 + below_25
+        all_systems = []
+        for systems in analysis_results.values():
+            all_systems.extend(systems)
+        
         if all_systems:
-            f.write("## Top 10 Systems by Activity\n\n")
-            f.write("| Rank | System | State | Progress | CP Difference | Category |\n")
-            f.write("|------|--------|-------|----------|---------------|----------|\n")
+            f.write("## Top 10 Systems by Undermining Activity\n\n")
+            f.write("| Rank | System | State | Progress | Real Undermining | Net Activity |\n")
+            f.write("|------|--------|-------|----------|------------------|---------------|\n")
             
-            top_10 = sorted(all_systems, key=lambda x: abs(x["cp_difference"]), reverse=True)[:10]
+            top_10 = sorted(all_systems, key=lambda x: x["real_undermining"], reverse=True)[:10]
             
             for i, system in enumerate(top_10, 1):
-                category = ">25%" if system["curr_progress"] > 25.0 else "≤25%"
-                diff_sign = "+" if system["cp_difference"] >= 0 else ""
+                net_sign = "+" if system["net_activity"] >= 0 else ""
                 f.write(f"| {i} | **{system['system']}** | ")
                 f.write(f"{system['state']} | ")
                 f.write(f"{system['curr_progress']:.1f}% | ")
-                f.write(f"**{diff_sign}{system['cp_difference']:,}** | ")
-                f.write(f"{category} |\n")
+                f.write(f"**{system['real_undermining']:,}** | ")
+                f.write(f"**{net_sign}{system['net_activity']:,}** |\n")
         
         f.write("\n---\n")
         f.write(f"*Report generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} using PowerPlay data from Inara.cz*\n")
 
 def main():
     """Main function"""
-    print("🔍 Analyzing systems for active undermining...")
+    print("🔍 Analyzing systems for real undermining activity...")
     print("-" * 60)
     
     # Load system data
@@ -246,31 +192,30 @@ def main():
         print("❌ No system data found!")
         return
     
-    # Analyze for undermining
+    # Analyze for real undermining
     analysis_results = analyze_undermining(systems_data, threshold_cp=1)
     
-    above_25_count = len(analysis_results["above_25"])
-    below_25_count = len(analysis_results["below_25"])
+    total_undermining = sum(len(systems) for systems in analysis_results.values())
     
     print(f"\n📊 Analysis Results:")
-    print(f"- Systems >25% with activity: {above_25_count}")
-    print(f"- Systems ≤25% with activity: {below_25_count}")
-    print(f"- Total systems with activity: {above_25_count + below_25_count}")
+    for state, systems in analysis_results.items():
+        print(f"- {state}: {len(systems)} systems with real undermining")
+    print(f"- Total systems with real undermining: {total_undermining}")
     
     # Generate report
     generate_markdown_report(analysis_results, systems_data)
-    print(f"\n✅ Report generated: active_undermining.md")
+    print(f"\n✅ Report generated: undermining.md")
     
-    # Show top 5 for each category
-    if analysis_results["above_25"]:
-        print(f"\n🔥 Top 5 Systems >25%:")
-        for i, system in enumerate(analysis_results["above_25"][:5], 1):
-            print(f"  {i}. {system['system']} ({system['state']}): {system['cp_difference']:+,} CP")
+    # Show top 5 overall
+    all_systems = []
+    for systems in analysis_results.values():
+        all_systems.extend(systems)
     
-    if analysis_results["below_25"]:
-        print(f"\n⚡ Top 5 Systems ≤25%:")
-        for i, system in enumerate(analysis_results["below_25"][:5], 1):
-            print(f"  {i}. {system['system']} ({system['state']}): {system['cp_difference']:+,} CP")
+    if all_systems:
+        top_5 = sorted(all_systems, key=lambda x: x["real_undermining"], reverse=True)[:5]
+        print(f"\n🔥 Top 5 Systems with Real Undermining:")
+        for i, system in enumerate(top_5, 1):
+            print(f"  {i}. {system['system']} ({system['state']}): {system['real_undermining']:,} CP")
 
 if __name__ == "__main__":
     main()
