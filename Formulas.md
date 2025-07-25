@@ -1,5 +1,5 @@
 ##Generel
-last_cycle_cp_actual = curr_progress_cp + undermining
+last_cycle_cp_actual = curr_progress_cp + undermining - reinforcement
 
 ##Stronghold:
 current_progress_cp = 1000000 * progress_percent

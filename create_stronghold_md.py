@@ -74,7 +74,7 @@ def generate_stronghold_report():
         for system in reinf_high:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
-            natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
+            natural_decay = f"{system.get('natural_decay', 0) * 100:.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
             report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 High Reinforcement |\n"
     else:
@@ -90,7 +90,7 @@ def generate_stronghold_report():
         for system in reinf_medium:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
-            natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
+            natural_decay = f"{system.get('natural_decay', 0) * 100:.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
             report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Medium Reinforcement |\n"
     else:
@@ -106,7 +106,7 @@ def generate_stronghold_report():
         for system in reinf_low:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
-            natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
+            natural_decay = f"{system.get('natural_decay', 0) * 100:.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
             report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Low Reinforcement |\n"
     else:
@@ -130,7 +130,7 @@ def generate_stronghold_report():
         for system in under_high:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
-            natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
+            natural_decay = f"{system.get('natural_decay', 0) * 100:.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
             report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | ⚠️ High Undermining |\n"
     else:
@@ -146,7 +146,7 @@ def generate_stronghold_report():
         for system in under_medium:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
-            natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
+            natural_decay = f"{system.get('natural_decay', 0) * 100:.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
             report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | 🔶 Medium Undermining |\n"
     else:
@@ -162,7 +162,7 @@ def generate_stronghold_report():
         for system in under_low:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
-            natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
+            natural_decay = f"{system.get('natural_decay', 0) * 100:.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
             report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | 🟡 Low Undermining |\n"
     else:
