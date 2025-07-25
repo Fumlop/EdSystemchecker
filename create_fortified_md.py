@@ -63,7 +63,7 @@ def generate_fortified_report():
 ## 🔵 Active Reinforcement (Positive Net CP)
 *Systems where reinforcement is winning against undermining*
 
-### 🔵 High Activity (≥1,000 CP Reinforcement)
+### 🔵 High Activity (≥10,000 CP Reinforcement)
 """
     
     if reinf_high:
@@ -80,7 +80,7 @@ def generate_fortified_report():
     else:
         report += "\n*No fortified systems with high reinforcement activity*\n"
     
-    report += f"\n### 🔵 Medium Activity (500-999 CP Reinforcement)\n"
+    report += f"\n### 🔵 Medium Activity (5000-9999 CP Reinforcement)\n"
     
     if reinf_medium:
         report += """
@@ -96,7 +96,7 @@ def generate_fortified_report():
     else:
         report += "\n*No fortified systems with medium reinforcement activity*\n"
     
-    report += f"\n### 🔵 Low Activity (100-499 CP Reinforcement)\n"
+    report += f"\n### 🔵 Low Activity (1000-4999 CP Reinforcement)\n"
     
     if reinf_low:
         report += """
@@ -119,7 +119,7 @@ def generate_fortified_report():
 ## ⚠️ Active Undermining (Negative Net CP)
 *Systems where undermining is winning against reinforcement*
 
-### ⚠️ High Activity (≥1,000 CP Undermining)
+### ⚠️ High Activity (≥10,000 CP Undermining)
 """
     
     if under_high:
@@ -136,7 +136,7 @@ def generate_fortified_report():
     else:
         report += "\n*No fortified systems with high undermining activity*\n"
     
-    report += f"\n### 🔶 Medium Activity (500-999 CP Undermining)\n"
+    report += f"\n### 🔶 Medium Activity (5000-9999 CP Undermining)\n"
     
     if under_medium:
         report += """
@@ -152,7 +152,7 @@ def generate_fortified_report():
     else:
         report += "\n*No fortified systems with medium undermining activity*\n"
     
-    report += f"\n### 🟡 Low Activity (100-499 CP Undermining)\n"
+    report += f"\n### 🟡 Low Activity (1000-4999 CP Undermining)\n"
     
     if under_low:
         report += """
