@@ -15,7 +15,7 @@ Automated tool for analyzing Elite Dangerous PowerPlay system status from Inara 
 - **[Fortified Systems JSON](json/fortified_systems.json)** - Raw fortified system data
 
 ### System no current Inara data
-*All systems up to date!*
+_norefresh_
 
 ## 🚀 Quick Start
 

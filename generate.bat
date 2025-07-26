@@ -45,10 +45,19 @@ if errorlevel 1 (
 )
 
 echo.
-echo [5/5] Generating fortified report...
+echo [5/6] Generating fortified report...
 python python\create_fortified_md.py
 if errorlevel 1 (
     echo ❌ Fortified report failed
+    pause
+    exit /b 1
+)
+
+echo.
+echo [6/6] Generating README...
+python python\genreadme.py
+if errorlevel 1 (
+    echo ❌ README generation failed
     pause
     exit /b 1
 )
@@ -63,5 +72,6 @@ echo   • json\fortified_systems.json
 echo   • stronghold_status.md
 echo   • exploited_status.md
 echo   • fortified_status.md
+echo   • README.md
 echo.
 pause

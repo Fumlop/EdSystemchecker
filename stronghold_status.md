@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-26 15:34:52
-**Data Source:** 2025-07-26T15:34:41.003732
+**Report Generated:** 2025-07-26 17:02:46
+**Data Source:** 2025-07-26T17:02:46.642035
 **Total Strongholds:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
