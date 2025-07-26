@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-26 20:02:29
-**Data Source:** 2025-07-26T20:02:29.633067
+**Report Generated:** 2025-07-26 20:07:45
+**Data Source:** 2025-07-26T20:07:45.149104
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -70,7 +70,7 @@
 | ✅ | Matipu | 5,520 | 32,125 | 41.0% | 37.31% | 37.8% | 377,999 | +4,874 | 🔵 Low Reinforcement |
 | ✅ | LTT 3607 | 5,542 | 51,835 | 50.3% | 44.72% | 45.1% | 451,000 | +3,781 | 🔵 Low Reinforcement |
 | ✅ | Fousang | 6,121 | 99,541 | 73.4% | 63.12% | 63.4% | 634,000 | +2,821 | 🔵 Low Reinforcement |
-| ✅ | Neche | 2,442 | 5,487 | 27.8% | 27.04% | 27.3% | 273,000 | +2,643 | 🔵 Low Reinforcement |
+| ✅ | Neche | 2,562 | 5,487 | 27.8% | 27.03% | 27.3% | 273,000 | +2,739 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 2,293 | 16,166 | 33.0% | 31.18% | 31.4% | 314,000 | +2,213 | 🔵 Low Reinforcement |
 | ✅ | Kaura | 2,682 | 35,995 | 42.5% | 38.73% | 38.9% | 389,000 | +1,719 | 🔵 Low Reinforcement |
 | ✅ | HIP 38747 | 1,960 | 30,250 | 39.7% | 36.57% | 36.7% | 367,000 | +1,320 | 🔵 Low Reinforcement |
