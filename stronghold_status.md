@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-26 20:56:04
-**Data Source:** 2025-07-26T20:56:04.526126
+**Report Generated:** 2025-07-26 21:39:07
+**Data Source:** 2025-07-26T21:39:07.640600
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -33,10 +33,10 @@
 
 | Status | System | Net CP | Activity Type | CP Amount | Progress |
 |--------|--------|--------|---------------|-----------|----------|
-| ✅ | **LHS 317** | +22,145 CP | 🔵 Reinforcement | 34,936 | 77.3% |
-| ✅ | **BD-01 1707** | +17,854 CP | 🔵 Reinforcement | 20,994 | 65.1% |
-| ✅ | **Noti** | +14,796 CP | 🔵 Reinforcement | 16,929 | 51.9% |
-| ✅ | **LP 726-6** | +12,524 CP | 🔵 Reinforcement | 16,122 | 69.0% |
+| ✅ | **LHS 317** | +22,145 CP | 🛡️ Reinforcement | 34,936 | 77.3% |
+| ✅ | **BD-01 1707** | +17,854 CP | 🛡️ Reinforcement | 20,994 | 65.1% |
+| ✅ | **Noti** | +14,796 CP | 🛡️ Reinforcement | 16,929 | 51.9% |
+| ✅ | **LP 726-6** | +12,524 CP | 🛡️ Reinforcement | 16,122 | 69.0% |
 
 ---
 

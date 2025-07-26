@@ -1,7 +1,7 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-07-26 20:56:05
-**Data Source:** 2025-07-26T20:56:03.904331
+**Report Generated:** 2025-07-26 21:39:08
+**Data Source:** 2025-07-26T21:39:07.125817
 **Total Contested:** 1739 systems
 **Total Expansion:** 761 systems
 **Priority Acquisition Targets:** 3 of 3 systems are contested
@@ -10,12 +10,12 @@
 
 ## 📊 Quick Summary
 
-### 🟢 Top 5 High Progress Contested Systems (≥70%)
+### 🟢 Top 5 High Progress Contested Systems (>=70%)
 
 | Status | System | Winters Progress | Opposition |
 |--------|--------|------------------|------------|
-| ⚔️ | Puppis Sector HW-W b1-6 | 🟢 **92.5%** | 0.3% |
-| ⚔️ | 212 Puppis | 🟢 **86.3%** | 0.0% |
+| ⚔ | Puppis Sector HW-W b1-6 | 🟢 **92.5%** | 0.3% |
+| ⚔ | 212 Puppis | 🟢 **86.3%** | 0.0% |
 
 ### 🔴 Top 5 Difficult Contested Systems (Opposition > Progress)
 
@@ -25,19 +25,19 @@
 | 🔥 | Crucis Sector FB-X b1-8 | 11.1% | 🔴 **109.1%** |
 | 🔥 | Jamanu | 1.3% | 🔴 **103.5%** |
 | 🔥 | Mombilar | 3.2% | 🔴 **100.1%** |
-| ⚔️ | Jumadis | 19.4% | 🔴 **92.4%** |
+| ⚔ | Jumadis | 19.4% | 🔴 **92.4%** |
 
 ### 🎯 FAT Target
 
 | Status | System | Winters Progress | Opposition |
 |--------|--------|------------------|------------|
-| ⚔️ | Crucis Sector DB-X b1-6 | 29.3% | 🔴 **75.4%** |
-| ⚔️ | Puppis Sector FB-X b1-1 | 🟢 **13.9%** | 0.0% |
-| ⚔️ | Alpha Circini | 0.3% | 🔴 **7.9%** |
+| ⚔ | Crucis Sector DB-X b1-6 | 29.3% | 🔴 **75.4%** |
+| ⚔ | Puppis Sector FB-X b1-1 | 🟢 **13.9%** | 0.0% |
+| ⚔ | Alpha Circini | 0.3% | 🔴 **7.9%** |
 
 ---
 
-## 🟢 High Progress Contested Systems (≥70%)
+## 🟢 High Progress Contested Systems (>=70%)
 *Systems where Felicia Winters has strong progress but faces opposition*
 
 | Status | System | Progress % | Opposing Powers | State |
@@ -983,7 +983,7 @@
 
 ---
 
-## ⚔️ All Contested Systems
+## ⚔ All Contested Systems
 *Systems under contest by opposing powers*
 
 | Status | System | Progress % | Opposing Powers |
