@@ -81,6 +81,13 @@ jobs:
         if git commit -m "🤖 Auto-update PowerPlay reports - $(date '+%Y-%m-%d %H:%M:%S UTC')"; then
           echo "✅ Changes committed successfully"
           
+          # Pull latest changes before pushing
+          echo "🔄 Pulling latest changes from remote..."
+          git pull --rebase origin main || {
+            echo "⚠️ Pull failed, trying merge strategy..."
+            git pull origin main
+          }
+          
           # Try to push with retry logic
           for i in {1..3}; do
             if git push; then
@@ -89,6 +96,12 @@ jobs:
             else
               echo "⚠️ Push attempt $i failed, retrying in 5 seconds..."
               sleep 5
+              
+              # Try pulling again before retry
+              if [ $i -lt 3 ]; then
+                echo "🔄 Pulling latest changes before retry..."
+                git pull --rebase origin main || git pull origin main
+              fi
             fi
           done
         else

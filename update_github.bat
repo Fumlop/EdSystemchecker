@@ -28,7 +28,17 @@ if %errorlevel% neq 0 (
     echo 📝 Changes detected, committing...
     
     REM Add all report files
-    git add *.md json\*.json
+    git add *.md json\*.json html\*.html
+    
+    REM Pull latest changes first to avoid conflicts
+    echo 🔄 Pulling latest changes from GitHub...
+    git pull origin main
+    if %errorlevel% neq 0 (
+        echo ⚠️ Pull failed, there might be conflicts to resolve
+        echo 💡 Check git status and resolve any conflicts manually
+        pause
+        exit /b 1
+    )
     
     REM Create commit with timestamp
     for /f "tokens=1-3 delims=/ " %%a in ('date /t') do set mydate=%%c-%%a-%%b
