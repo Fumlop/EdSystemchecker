@@ -24,32 +24,6 @@ Automated tool for analyzing Elite Dangerous PowerPlay system status from Inara 
 
 ## 🚀 Quick Start
 
-## 🚀 Quick Start
-
-### 🔄 Automated Updates
-- **🌐 GitHub Actions**: [![Run Workflow](https://img.shields.io/badge/🚀_Update_Reports-GitHub_Actions-success?style=for-the-badge)](https://github.com/Fumlop/EdSystemchecker/actions/workflows/update-reports.yml)
-- **💻 Local Pipeline**: Run `python python/github_update.py` (extracts data + generates all reports)
-
-### 📋 Manual Process  
-1. **Extract System Data**: Run `python python/extract.py` to process HTML files
-2. **Generate Reports**: Run the universal generator:
-   ```bash
-   python python/create_universal_md.py stronghold
-   python python/create_universal_md.py fortified  
-   python python/create_universal_md.py exploited
-   python python/create_contested_md.py
-   ```
-
-### 🛠️ Git Integration
-- **Auto-Update Hook**: Git hook automatically updates reports when HTML/JSON files change
-- **Batch Script**: `update_github.bat` for one-click local updates with git commit/push
-- **Status Badges**: [![Last Commit](https://img.shields.io/github/last-commit/Fumlop/EdSystemchecker?style=flat-square&label=Last%20Update)](https://github.com/Fumlop/EdSystemchecker/commits/main)
-
-### ⚠️ GitHub Actions Setup Required
-**First-time Setup:** Enable workflow permissions in [Repository Settings > Actions](https://github.com/Fumlop/EdSystemchecker/settings/actions):
-- Set "Workflow permissions" to **"Read and write permissions"**
-- Enable **"Allow GitHub Actions to create and approve pull requests"**
-
 ## 📈 Report Features
 
 - **Natural Decay Analysis**: Calculates system decay based on PowerPlay formulas
