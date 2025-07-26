@@ -18,9 +18,9 @@ def fetch_inara_data():
     
     # Felicia Winters PowerPlay URLs (Power ID 5 based on existing files)
     inara_endpoints = {
-        'power-controlled-5': 'https://inara.cz/elite/powerplay-power-controlled/5/',
-        'power-exploited-5': 'https://inara.cz/elite/powerplay-power-exploited/5/', 
-        'power-contested-5': 'https://inara.cz/elite/powerplay-power-contested/5/'
+        'power-controlled-5': 'https://inara.cz/elite/power-controlled/5/',
+        'power-exploited-5': 'https://inara.cz/elite/power-exploited/5/', 
+        'power-contested-5': 'https://inara.cz/elite/power-contested/5/'
     }
     
     # Create html directory if it doesn't exist

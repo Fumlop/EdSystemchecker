@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-26 21:46:55
-**Data Source:** 2025-07-26T21:46:55.202799
+**Report Generated:** 2025-07-26 21:49:21
+**Data Source:** 2025-07-26T21:49:21.713544
 **Total Fortified:** 130 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -66,8 +66,8 @@
 | ✅ | UBV 8670 | 4,984 | 22,085 | 45.6% | 41.49% | 42.2% | 274,300 | +4,604 | 🔵 Low Reinforcement |
 | ✅ | HIP 37879 | 3,974 | 14,640 | 38.8% | 35.95% | 36.5% | 237,250 | +3,544 | 🔵 Low Reinforcement |
 | ✅ | Aasgay | 11,925 | 0 | 25.5% | 25.00% | 25.5% | 165,750 | +3,250 | 🔵 Low Reinforcement |
-| ✅ | Umbrigua | 2,319 | 3,023 | 28.1% | 27.32% | 27.6% | 179,400 | +1,818 | 🔵 Low Reinforcement |
-| ✅ | Nugua | 1,752 | 47,440 | 68.0% | 60.44% | 60.7% | 394,550 | +1,672 | 🔵 Low Reinforcement |
+| ✅ | Nugua | 3,181 | 47,440 | 68.2% | 60.43% | 60.9% | 395,850 | +3,078 | 🔵 Low Reinforcement |
+| ✅ | Umbrigua | 2,704 | 3,023 | 28.2% | 27.35% | 27.7% | 180,049 | +2,248 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 1,830 | 33,158 | 55.1% | 49.76% | 50.0% | 325,000 | +1,568 | 🔵 Low Reinforcement |
 | ✅ | Sanos | 1,741 | 33,910 | 55.8% | 50.36% | 50.6% | 328,900 | +1,545 | 🔵 Low Reinforcement |
 | ✅ | 54 G. Antlia | 1,664 | 38,283 | 59.7% | 53.58% | 53.8% | 349,699 | +1,447 | 🔵 Low Reinforcement |

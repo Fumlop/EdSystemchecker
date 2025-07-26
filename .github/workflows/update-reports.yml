@@ -35,10 +35,10 @@ jobs:
       run: |
         echo "🌐 Downloading PowerPlay data from Inara..."
         
-        # Download Felicia Winters PowerPlay pages (Power ID 5)
-        curl -s -o html/power-controlled-5.html "https://inara.cz/elite/powerplay-power-controlled/5/"
-        curl -s -o html/power-exploited-5.html "https://inara.cz/elite/powerplay-power-exploited/5/"
-        curl -s -o html/power-contested-5.html "https://inara.cz/elite/powerplay-power-contested/5/"
+        # Download Felicia Winters PowerPlay pages (Power ID 5) with corrected URLs
+        curl -s -o html/power-controlled-5.html "https://inara.cz/elite/power-controlled/5/"
+        curl -s -o html/power-exploited-5.html "https://inara.cz/elite/power-exploited/5/"
+        curl -s -o html/power-contested-5.html "https://inara.cz/elite/power-contested/5/"
         
         echo "✅ Downloaded HTML files:"
         ls -la html/
