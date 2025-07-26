@@ -149,7 +149,7 @@ def generate_universal_report(state):
 
 ---
 
-## 🔵 Active Reinforcement (Positive Net CP)
+## 🛡️ Active Reinforcement (Positive Net CP)
 *Systems where reinforcement is winning against undermining*
 
 ### 🟢 High Activity (≥10,000 CP Reinforcement)
