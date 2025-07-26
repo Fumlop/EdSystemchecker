@@ -13,26 +13,37 @@ import subprocess
 import sys
 
 def fetch_inara_data():
-    """Fetch latest data from Inara API or web scraping"""
-    # Placeholder for actual Inara data fetching
-    # This would need to be implemented based on Inara's API/data source
+    """Fetch latest data from Inara for Felicia Winters (Power ID 2)"""
     print("🌐 Fetching latest data from Inara...")
     
-    # Example structure - replace with actual implementation
+    # Felicia Winters PowerPlay URLs (Power ID 2)
     inara_endpoints = {
-        'stronghold': 'https://inara.cz/elite/powerplay-stronghold-systems/',
-        'fortified': 'https://inara.cz/elite/powerplay-fortified-systems/', 
-        'exploited': 'https://inara.cz/elite/powerplay-exploited-systems/',
-        'contested': 'https://inara.cz/elite/powerplay-contested-systems/'
+        'stronghold': 'https://inara.cz/elite/powerplay-stronghold-systems/2/',
+        'exploited': 'https://inara.cz/elite/powerplay-exploited-systems/2/', 
+        'fortified': 'https://inara.cz/elite/powerplay-fortified-systems/2/',
+        'contested': 'https://inara.cz/elite/powerplay-contested-systems/2/'
     }
     
     # Create html directory if it doesn't exist
     html_dir = Path('html')
     html_dir.mkdir(exist_ok=True)
     
-    # For now, skip actual fetching since it needs implementation
-    print("ℹ️  Data fetching not yet implemented - using existing HTML files")
-    return True
+    success_count = 0
+    
+    for system_type, url in inara_endpoints.items():
+        try:
+            print(f"📥 Downloading {system_type} data from {url}")
+            response = requests.get(url, timeout=30)
+            response.raise_for_status()
+            
+            with open(f'html/{system_type}.html', 'w', encoding='utf-8') as f:
+                f.write(response.text)
+            print(f"✅ {system_type} data saved ({len(response.text)} chars)")
+            success_count += 1
+        except Exception as e:
+            print(f"❌ Error fetching {system_type}: {e}")
+    
+    return success_count == len(inara_endpoints)
 
 def run_extraction():
     """Run the data extraction pipeline"""
@@ -115,9 +126,9 @@ def main():
     print("🚀 Starting PowerPlay Data Update Pipeline")
     print("=" * 50)
     
-    # Step 1: Fetch latest data (if implemented)
-    # if not fetch_inara_data():
-    #     print("❌ Data fetching failed, using existing data")
+    # Step 1: Fetch latest data from Inara
+    if not fetch_inara_data():
+        print("❌ Data fetching failed, trying with existing HTML files")
     
     # Step 2: Extract data from HTML files
     if not run_extraction():
