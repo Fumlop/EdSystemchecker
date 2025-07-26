@@ -99,6 +99,10 @@ def main():
         {
             'url': 'https://inara.cz/elite/power-exploited/5/',
             'filename': 'power-exploited-5.html'
+        },
+        {
+            'url': 'https://inara.cz/elite/power-contested/5/',
+            'filename': 'power-contested-5.html'
         }
     ]
     

@@ -267,13 +267,142 @@ class InaraHTMLParser(HTMLParser):
             print(f"Error extracting system data: {e}")
             return None
 
+class InaraContestedHTMLParser(HTMLParser):
+    """Custom HTML parser for Inara contested system data"""
+    
+    def __init__(self):
+        super().__init__()
+        self.systems = []
+        self.current_row = []
+        self.current_cell = ""
+        self.in_table = False
+        self.in_row = False
+        self.in_cell = False
+    
+    def handle_starttag(self, tag, attrs):
+        if tag == 'table':
+            self.in_table = True
+        elif tag == 'tr' and self.in_table:
+            self.in_row = True
+            self.current_row = []
+        elif tag in ['td', 'th'] and self.in_row:
+            self.in_cell = True
+            self.current_cell = ""
+    
+    def handle_endtag(self, tag):
+        if tag == 'table':
+            self.in_table = False
+        elif tag == 'tr' and self.in_row:
+            self.in_row = False
+            if len(self.current_row) >= 4:  # Process rows with enough data
+                system_data = self.extract_contested_system_from_row(self.current_row)
+                if system_data:
+                    self.systems.append(system_data)
+        elif tag in ['td', 'th'] and self.in_cell:
+            self.in_cell = False
+            self.current_row.append(self.current_cell.strip())
+    
+    def handle_data(self, data):
+        if self.in_cell:
+            self.current_cell += data
+    
+    def extract_contested_system_from_row(self, cells):
+        """Extract contested system data from table row cells"""
+        try:
+            if not cells or len(cells) < 4:  # Need at least 4 columns
+                return None
+            
+            # Skip header rows
+            if cells[0].lower().strip() in ['star system', '']:
+                return None
+            
+            # Extract system name (remove HTML tags and extra text)
+            system_name = cells[0]
+            
+            # Remove common HTML artifacts
+            if 'staricon' in system_name:
+                # Extract system name after staricon
+                parts = system_name.split('staricon')
+                if len(parts) > 1:
+                    system_name = parts[1].split('Copied!')[0].strip()
+                    # Remove remaining HTML artifacts
+                    system_name = system_name.replace('>', '').replace('<', '').strip()
+            
+            # Simple fix: remove the last character (usually a Unicode artifact)
+            if system_name:
+                # Remove multiple possible Unicode artifacts from the end
+                import re
+                system_name = re.sub(r'[\ue81d︎\u200b\u200c\u200d\ufeff]+$', '', system_name).strip()
+            
+            if "102" in system_name:
+                print(f"DEBUG: Cleaned system name: '{system_name}'")
+            
+            # Extract state (Contested, Expansion, etc.)
+            state = cells[1].replace('Contested', 'Contested')
+            contested = 'Contested' in state
+            
+            # Extract opposing powers (can be multiple)
+            opposing_powers = []
+            opposing_text = cells[2]
+            if opposing_text and opposing_text.strip():
+                # Parse multiple powers with percentages
+                # Format: "PowerName 1.5% PowerName2 0.0%"
+                # Split by power class identifiers or common patterns
+                import re
+                power_pattern = r'([^<>]+?)(\d+\.\d+)%'
+                matches = re.findall(power_pattern, opposing_text)
+                for match in matches:
+                    power_name = match[0].strip()
+                    power_percentage = float(match[1])
+                    # Clean up power name
+                    power_name = re.sub(r'[<>\/]', '', power_name).strip()
+                    if power_name and not any(x in power_name.lower() for x in ['class', 'href', 'span']):
+                        opposing_powers.append({
+                            'name': power_name,
+                            'progress_percent': power_percentage
+                        })
+            
+            # Extract progress percentage
+            progress_text = cells[3].replace('%', '').strip()
+            try:
+                progress_percent = float(progress_text) if progress_text and progress_text != '-' else 0.0
+            except ValueError:
+                progress_percent = 0.0
+            
+            # Skip rows with invalid data
+            if not system_name or system_name.lower() in ['star system', '']:
+                return None
+            
+            extracted_at = datetime.now().isoformat()
+            
+            system_data = {
+                "system": system_name,
+                "contested": contested,
+                "state": state,
+                "opposing_powers": opposing_powers,
+                "progress_percent": progress_percent,
+                "extracted_at": extracted_at,
+                "current_cycle_refresh": is_current_powerplay_cycle(extracted_at)
+            }
+            
+            return system_data
+            
+        except Exception as e:
+            print(f"Error extracting contested system data: {e}")
+            return None
+
 def parse_html_file(file_path: str) -> list:
     """Parse HTML file and extract system data"""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
         
-        parser = InaraHTMLParser()
+        # Use contested parser for contested systems file
+        if 'contested' in file_path.lower():
+            parser = InaraContestedHTMLParser()
+        else:
+            parser = InaraHTMLParser()
+            
         parser.feed(content)
         return parser.systems
     
@@ -323,6 +452,7 @@ def main():
     print("-" * 60)
     
     all_systems = []
+    contested_systems = []
     
     # Process HTML files
     html_files = list(html_dir.glob("*.html"))
@@ -334,14 +464,21 @@ def main():
     for html_file in html_files:
         print(f"Processing: {html_file}")
         systems = parse_html_file(str(html_file))
-        all_systems.extend(systems)
-        print(f"  > Extracted {len(systems)} systems")
+        
+        # Separate contested systems from regular systems
+        if 'contested' in html_file.name.lower():
+            contested_systems.extend(systems)
+            print(f"  > Extracted {len(systems)} contested systems")
+        else:
+            all_systems.extend(systems)
+            print(f"  > Extracted {len(systems)} systems")
     
     print("-" * 60)
-    print(f"Total systems extracted: {len(all_systems)}")
+    print(f"Total regular systems extracted: {len(all_systems)}")
+    print(f"Total contested systems extracted: {len(contested_systems)}")
     
+    # Save regular systems grouped by state
     if all_systems:
-        # Save systems grouped by state
         save_systems_by_state(all_systems)
         
         # Print summary by state
@@ -350,10 +487,32 @@ def main():
             state = system.get('state', 'Unknown')
             states[state] = states.get(state, 0) + 1
         
-        print("\nSummary by state:")
+        print("\nRegular systems summary by state:")
         for state, count in sorted(states.items()):
             print(f"  {state}: {count} systems")
+    
+    # Save contested systems
+    if contested_systems:
+        json_dir = Path("json")
+        json_dir.mkdir(exist_ok=True)
         
+        output_path = json_dir / "contested_systems.json"
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(contested_systems, f, indent=2, ensure_ascii=False)
+        
+        print(f"\n* Saved {len(contested_systems)} contested systems to {output_path}")
+        
+        # Print contested systems summary
+        contested_states = {}
+        for system in contested_systems:
+            state = system.get('state', 'Unknown')
+            contested_states[state] = contested_states.get(state, 0) + 1
+        
+        print("\nContested systems summary by state:")
+        for state, count in sorted(contested_states.items()):
+            print(f"  {state}: {count} systems")
+    
+    if all_systems or contested_systems:
         print(f"\nSUCCESS: Extraction complete! JSON files saved in /json/")
     else:
         print("WARNING: No systems extracted. Check HTML file structure.")
