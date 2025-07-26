@@ -6,9 +6,6 @@ on:
   # Scheduled updates (every 4 hours during PowerPlay cycle)
   schedule:
     - cron: '0 */4 * * *'
-  # Trigger on push to main branch
-  push:
-    branches: [ main ]
 
 # Grant write permissions to the workflow
 permissions:
