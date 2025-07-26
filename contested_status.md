@@ -1,6 +1,6 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-07-26 19:11:50
+**Report Generated:** 2025-07-26 19:22:15
 **Data Source:** 2025-07-26T19:05:36.839857
 **Total Contested:** 1739 systems
 **Total Expansion:** 759 systems
@@ -11,20 +11,29 @@
 ## 📊 Quick Summary
 
 ### 🟢 Top 5 High Progress Contested Systems (≥70%)
-1. **Puppis Sector HW-W b1-6:** 92.5% (vs Arissa Lavigny-Duval (0.3%), Zemina Torval (0.0%))
-2. **212 Puppis:** 86.3% (vs Zemina Torval (0.0%))
+
+| Status | System | Winters Progress | Opposition |
+|--------|--------|------------------|------------|
+| ⚔️ | Puppis Sector HW-W b1-6 | 🟢 **92.5%** | 0.3% |
+| ⚔️ | 212 Puppis | 🟢 **86.3%** | 0.0% |
 
 ### 🔴 Top 5 Difficult Contested Systems (Opposition > Progress)
-1. **HIP 49806:** 3.6% vs 137.1% opposition (Aisling Duval (4.1%), Arissa Lavigny-Duval (133.0%))
-2. **Crucis Sector FB-X b1-8:** 11.1% vs 109.1% opposition (Aisling Duval (16.5%), Arissa Lavigny-Duval (82.8%), Denton Patreus (9.5%), Edmund Mahon (0.3%), Yuri Grom (0.0%))
-3. **Jamanu:** 1.3% vs 103.5% opposition (Aisling Duval (81.0%), Zemina Torval (22.5%))
-4. **Mombilar:** 3.2% vs 100.1% opposition (Aisling Duval (56.7%), Arissa Lavigny-Duval (22.2%), Zemina Torval (21.2%))
-5. **Jumadis:** 19.4% vs 92.4% opposition (Aisling Duval (26.2%), Arissa Lavigny-Duval (61.2%), Denton Patreus (3.2%), Edmund Mahon (0.7%), Yuri Grom (0.0%), Zemina Torval (1.1%))
 
-### 🎯 FAT Target (from accquise.conf)
-1. 🟠 **Crucis Sector DB-X b1-6:** 29.3% vs 75.3% opposition (Aisling Duval (48.5%), Arissa Lavigny-Duval (15.0%), Edmund Mahon (1.2%), Yuri Grom (10.4%), Zemina Torval (0.2%))
-2. 🔴 **Puppis Sector FB-X b1-1:** 13.9% (vs Zemina Torval (0.0%))
-3. 🔴 **Alpha Circini:** 0.3% vs 7.9% opposition (Aisling Duval (1.1%), Arissa Lavigny-Duval (0.6%), Edmund Mahon (1.2%), Yuri Grom (5.0%))
+| Status | System | Winters Progress | Opposition |
+|--------|--------|------------------|------------|
+| 🔥 | HIP 49806 | 3.6% | 🔴 **137.1%** |
+| 🔥 | Crucis Sector FB-X b1-8 | 11.1% | 🔴 **109.1%** |
+| 🔥 | Jamanu | 1.3% | 🔴 **103.5%** |
+| 🔥 | Mombilar | 3.2% | 🔴 **100.1%** |
+| ⚔️ | Jumadis | 19.4% | 🔴 **92.4%** |
+
+### 🎯 FAT Target
+
+| Status | System | Winters Progress | Opposition |
+|--------|--------|------------------|------------|
+| ⚔️ | Crucis Sector DB-X b1-6 | 29.3% | 🔴 **75.3%** |
+| ⚔️ | Puppis Sector FB-X b1-1 | 🟢 **13.9%** | 0.0% |
+| ⚔️ | Alpha Circini | 0.3% | 🔴 **7.9%** |
 
 ---
 

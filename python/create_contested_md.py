@@ -46,6 +46,28 @@ def format_opposing_powers(opposing_powers):
     
     return ", ".join(power_strings)
 
+def get_progress_icon(winters_progress, total_opposition):
+    """Get progress icon based on Winters progress and opposition levels"""
+    if total_opposition > 100:
+        return "🔥"  # Brennender Ofen wenn Opposition > 100%
+    elif winters_progress > 100:
+        return "�"  # Stern wenn Winters Progress > 100%
+    else:
+        return "⚔️"  # Schwert wenn noch keiner 100% hat
+
+def format_progress_vs_opposition(winters_progress, total_opposition):
+    """Format progress vs opposition with color coding"""
+    winters_formatted = f"**{winters_progress:.1f}%**" if winters_progress > total_opposition else f"{winters_progress:.1f}%"
+    opposition_formatted = f"**{total_opposition:.1f}%**" if total_opposition > winters_progress else f"{total_opposition:.1f}%"
+    
+    # Color coding
+    if winters_progress > total_opposition:
+        winters_formatted = f"🟢 {winters_formatted}"
+    else:
+        opposition_formatted = f"🔴 {opposition_formatted}"
+    
+    return winters_formatted, opposition_formatted
+
 def get_status_emoji(contested, progress_percent):
     """Get status emoji based on contested status and progress"""
     if not contested:
@@ -129,46 +151,78 @@ def generate_contested_report():
     report.append("## 📊 Quick Summary")
     report.append("")
     
-    # Top 5 High Progress Contested Systems (≥70%)
+    # Top 5 High Progress Contested Systems Table (≥70%)
     if high_progress_contested:
         report.append("### 🟢 Top 5 High Progress Contested Systems (≥70%)")
+        report.append("")
+        report.append("| Status | System | Winters Progress | Opposition |")
+        report.append("|--------|--------|------------------|------------|")
+        
         top_5_high_contested = high_progress_contested[:5]
-        for i, system in enumerate(top_5_high_contested, 1):
-            opposing = format_opposing_powers(system.get('opposing_powers', []))
-            report.append(f"{i}. **{system['system']}:** {system.get('progress_percent', 0):.1f}% (vs {opposing})")
+        for system in top_5_high_contested:
+            progress = system.get('progress_percent', 0)
+            total_opposition = calculate_total_opposition(system)
+            
+            status_icon = get_progress_icon(progress, total_opposition)
+            winters_formatted, opposition_formatted = format_progress_vs_opposition(progress, total_opposition)
+            
+            report.append(f"| {status_icon} | {system['system']} | {winters_formatted} | {opposition_formatted} |")
+        
         report.append("")
     
-    # Top 5 Systems where Opposition > Progress (Difficult Situations)
+    # Top 5 Difficult Contested Systems Table (Opposition > Progress)
     if difficult_contested:
         report.append("### 🔴 Top 5 Difficult Contested Systems (Opposition > Progress)")
+        report.append("")
+        report.append("| Status | System | Winters Progress | Opposition |")
+        report.append("|--------|--------|------------------|------------|")
+        
         top_5_difficult = difficult_contested[:5]
-        for i, system in enumerate(top_5_difficult, 1):
+        for system in top_5_difficult:
             progress = system.get('progress_percent', 0)
             total_opposition = system.get('total_opposition', 0)
-            opposing = format_opposing_powers(system.get('opposing_powers', []))
-            report.append(f"{i}. **{system['system']}:** {progress:.1f}% vs {total_opposition:.1f}% opposition ({opposing})")
-        report.append("")
-    
-    # FAT Target Systems
-    if accquise_contested:
-        report.append("### 🎯 FAT Target (from accquise.conf)")
-        for i, system in enumerate(accquise_contested, 1):
-            progress = system.get('progress_percent', 0)
-            opposing = format_opposing_powers(system.get('opposing_powers', []))
-            total_opposition = calculate_total_opposition(system)
-            status_emoji = get_status_emoji(system.get('contested', False), progress)
             
-            if total_opposition > progress:
-                report.append(f"{i}. {status_emoji} **{system['system']}:** {progress:.1f}% vs {total_opposition:.1f}% opposition ({opposing})")
-            else:
-                report.append(f"{i}. {status_emoji} **{system['system']}:** {progress:.1f}% (vs {opposing})")
+            status_icon = get_progress_icon(progress, total_opposition)
+            winters_formatted, opposition_formatted = format_progress_vs_opposition(progress, total_opposition)
+            
+            report.append(f"| {status_icon} | {system['system']} | {winters_formatted} | {opposition_formatted} |")
+        
         report.append("")
     
+    # FAT Target Systems Table
+    if accquise_contested:
+        report.append("### 🎯 FAT Target")
+        report.append("")
+        report.append("| Status | System | Winters Progress | Opposition |")
+        report.append("|--------|--------|------------------|------------|")
+        
+        for system in accquise_contested:
+            progress = system.get('progress_percent', 0)
+            total_opposition = calculate_total_opposition(system)
+            
+            status_icon = get_progress_icon(progress, total_opposition)
+            winters_formatted, opposition_formatted = format_progress_vs_opposition(progress, total_opposition)
+            
+            report.append(f"| {status_icon} | {system['system']} | {winters_formatted} | {opposition_formatted} |")
+        
+        report.append("")
+    
+    # Top 5 Expansion Systems Table (≥70% Progress)
     if high_progress_expansion:
         report.append("### 🔵 Top 5 Expansion Systems (≥70% Progress)")
+        report.append("")
+        report.append("| Status | System | Winters Progress |")
+        report.append("|--------|--------|------------------|")
+        
         top_5_expansion = high_progress_expansion[:5]
-        for i, system in enumerate(top_5_expansion, 1):
-            report.append(f"{i}. **{system['system']}:** {system.get('progress_percent', 0)}%")
+        for system in top_5_expansion:
+            progress = system.get('progress_percent', 0)
+            
+            status_icon = get_progress_icon(progress, 0)  # No opposition for expansion
+            winters_formatted = f"🟢 **{progress:.1f}%**"  # Always green/bold for expansion
+            
+            report.append(f"| {status_icon} | {system['system']} | {winters_formatted} |")
+        
         report.append("")
     
     report.append("---")

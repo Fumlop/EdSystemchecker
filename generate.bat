@@ -4,7 +4,7 @@ echo =====================================
 cd /d d:\Apps\EdSystemChecker
 
 echo.
-echo echo [1/9] Downloading HTML data...
+echo [1/7] Downloading HTML data...
 if exist "html\power-controlled-5.html" if exist "html\power-exploited-5.html" (
     echo → Found existing files, cleaning up and downloading fresh data...
     python python\download.py
@@ -19,7 +19,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [2/9] Extracting system data...
+echo [2/7] Extracting system data...
 python python\extract.py
 if errorlevel 1 (
     echo ❌ Extraction failed
@@ -28,7 +28,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [3/9] Generating stronghold report...
+echo [3/7] Generating stronghold report...
 python python\create_stronghold_md.py
 if errorlevel 1 (
     echo ❌ Stronghold report failed
@@ -37,7 +37,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [4/9] Generating exploited report...
+echo [4/7] Generating exploited report...
 python python\create_exploited_md.py
 if errorlevel 1 (
     echo ❌ Exploited report failed
@@ -46,7 +46,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [5/9] Generating fortified report...
+echo [5/7] Generating fortified report...
 python python\create_fortified_md.py
 if errorlevel 1 (
     echo ❌ Fortified report failed
@@ -55,7 +55,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [6/9] Generating contested systems report...
+echo [6/7] Generating contested systems report...
 python python\create_contested_md.py
 if errorlevel 1 (
     echo ❌ Contested systems report failed
@@ -64,16 +64,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [7/9] Generating priority acquisition report...
-python python\create_accquise_md.py
-if errorlevel 1 (
-    echo ❌ Priority acquisition report failed
-    pause
-    exit /b 1
-)
-
-echo.
-echo [8/9] Generating README...
+echo [7/7] Generating README...
 python python\genreadme.py
 if errorlevel 1 (
     echo ❌ README generation failed
@@ -93,7 +84,6 @@ echo   • stronghold_status.md
 echo   • exploited_status.md
 echo   • fortified_status.md
 echo   • contested_status.md
-echo   • accquise_status.md
 echo   • README.md
 echo.
 pause
