@@ -1,13 +1,13 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-26 17:10:54
-**Data Source:** 2025-07-26T17:10:53.807692
+**Report Generated:** 2025-07-26 17:23:15
+**Data Source:** 2025-07-26T17:23:15.529376
 **Total Fortified:** 130 (49 with decay analysis)
 
 ## 📊 Quick Summary
 
 ### Top 5 Most Threatened (Most Negative Net CP)
-1. **Timbalderis:** -1477 CP (U:10,373, R:138)
+1. **Timbalderis:** -1502 CP (U:10,403, R:138)
 2. **Turni:** -868 CP (U:3,358, R:86)
 3. **HR 3277:** -451 CP (U:11,838, R:0)
 4. **LTT 4487:** -417 CP (U:13,717, R:25)
@@ -15,9 +15,9 @@
 
 ### Top 5 Best Protected (Most Positive Net CP)
 1. **Hyades Sector KC-U c3-21:** +24738 CP (U:8,900, R:25,195)
-2. **Tarhul:** +21450 CP (U:398, R:50,227)
-3. **Tau Centauri:** +16344 CP (U:22,567, R:16,672)
-4. **Kharahua:** +12593 CP (U:6,216, R:13,117)
+2. **Tau Centauri:** +16344 CP (U:22,567, R:16,672)
+3. **Kharahua:** +12593 CP (U:6,216, R:13,117)
+4. **Tarhul:** +12156 CP (U:3,638, R:12,583)
 5. **Mentesuri:** +6966 CP (U:22,977, R:7,240)
 
 
@@ -31,9 +31,9 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Hyades Sector KC-U c3-21 | 25,195 | 8,900 | 36.9% | 31.69% | 35.5% | 230,750 | +24738 | 🔵 High Reinforcement |
-| ✅ | Tarhul | 50,227 | 398 | 28.4% | 25.00% | 28.3% | 183,950 | +21450 | 🔵 High Reinforcement |
 | ✅ | Tau Centauri | 16,672 | 22,567 | 47.9% | 41.89% | 44.4% | 288,600 | +16344 | 🔵 High Reinforcement |
 | ✅ | Kharahua | 13,117 | 6,216 | 32.6% | 29.66% | 31.6% | 205,400 | +12593 | 🔵 High Reinforcement |
+| ✅ | Tarhul | 12,583 | 3,638 | 30.3% | 27.83% | 29.7% | 193,050 | +12156 | 🔵 High Reinforcement |
 
 ### 🔵 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -71,4 +71,4 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Timbalderis | 10,373 | 33.3% | 31.93% | 31.7% | 138 | 206,050 | -1477 | 🟡 Low Undermining |
+| ✅ | Timbalderis | 10,403 | 33.3% | 31.93% | 31.7% | 138 | 206,050 | -1502 | 🟡 Low Undermining |

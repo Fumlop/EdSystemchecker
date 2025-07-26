@@ -4,17 +4,18 @@ echo =====================================
 cd /d d:\Apps\EdSystemChecker
 
 echo.
-echo [1/5] Checking for HTML files...
+echo [1/5] Downloading fresh data (with cleanup)...
 if exist "html\power-controlled-5.html" if exist "html\power-exploited-5.html" (
-    echo ✓ HTML files found, skipping download
-) else (
-    echo → Running download script...
+    echo → Found existing files, cleaning up and downloading fresh data...
     python python\download.py
-    if errorlevel 1 (
-        echo ❌ Download failed
-        pause
-        exit /b 1
-    )
+) else (
+    echo → No existing files found, downloading fresh data...
+    python python\download.py
+)
+if errorlevel 1 (
+    echo ❌ Download failed
+    pause
+    exit /b 1
 )
 
 echo.

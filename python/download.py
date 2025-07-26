@@ -4,8 +4,38 @@ Download HTML files from Inara power pages
 """
 import os
 import requests
+import glob
 from pathlib import Path
 from datetime import datetime
+
+def cleanup_old_files():
+    """
+    Delete old HTML and JSON files before downloading fresh data
+    """
+    print("Cleaning up old files...")
+    
+    # Files to clean up
+    cleanup_patterns = [
+        "html/*.html",
+        "json/*.json"
+    ]
+    
+    total_deleted = 0
+    for pattern in cleanup_patterns:
+        files = glob.glob(pattern)
+        for file_path in files:
+            try:
+                os.remove(file_path)
+                print(f"* Deleted: {file_path}")
+                total_deleted += 1
+            except Exception as e:
+                print(f"WARNING: Could not delete {file_path}: {e}")
+    
+    if total_deleted > 0:
+        print(f"* Cleanup complete: {total_deleted} files deleted")
+    else:
+        print("* No old files found to delete")
+    print()
 
 def download_html(url: str, filename: str, output_dir: str = "html") -> bool:
     """
@@ -54,6 +84,12 @@ def download_html(url: str, filename: str, output_dir: str = "html") -> bool:
 
 def main():
     """Main function to download both Inara pages"""
+    print(f"Starting download at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print("=" * 60)
+    
+    # Clean up old files first
+    cleanup_old_files()
+    
     # URLs to download
     urls = [
         {
@@ -66,7 +102,7 @@ def main():
         }
     ]
     
-    print(f"Starting download at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print("Downloading fresh data...")
     print("-" * 50)
     
     success_count = 0
@@ -76,6 +112,7 @@ def main():
     
     print("-" * 50)
     print(f"Download complete: {success_count}/{len(urls)} files successful")
+    print("=" * 60)
     
     if success_count == len(urls):
         print("* All downloads completed successfully!")
