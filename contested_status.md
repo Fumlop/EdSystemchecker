@@ -1,7 +1,7 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-07-26 20:02:06
-**Data Source:** 2025-07-26T20:02:05.971911
+**Report Generated:** 2025-07-26 20:02:29
+**Data Source:** 2025-07-26T20:02:29.186205
 **Total Contested:** 1740 systems
 **Total Expansion:** 760 systems
 **Priority Acquisition Targets:** 3 of 3 systems are contested
