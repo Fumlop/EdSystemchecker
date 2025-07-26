@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-26 19:05:37
-**Data Source:** 2025-07-26T19:05:37.460634
+**Report Generated:** 2025-07-26 19:29:24
+**Data Source:** 2025-07-26T19:29:24.461144
 **Total Fortified:** 130 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -53,6 +53,7 @@
 | ✅ | Nugua | 1,752 | 47,440 | 68.0% | 60.44% | 60.7% | 394,550 | +1672 | 🔵 Low Reinforcement |
 | ✅ | Sanos | 1,741 | 33,910 | 55.8% | 50.36% | 50.6% | 328,900 | +1545 | 🔵 Low Reinforcement |
 | ✅ | 54 G. Antlia | 1,664 | 38,283 | 59.7% | 53.58% | 53.8% | 349,699 | +1447 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 1,486 | 33,158 | 55.1% | 49.80% | 50.0% | 325,000 | +1284 | 🔵 Low Reinforcement |
 
 
 ---
