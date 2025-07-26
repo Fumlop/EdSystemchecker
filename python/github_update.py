@@ -13,15 +13,14 @@ import subprocess
 import sys
 
 def fetch_inara_data():
-    """Fetch latest data from Inara for Felicia Winters (Power ID 2)"""
+    """Fetch latest data from Inara for Felicia Winters (Power ID 5)"""
     print("🌐 Fetching latest data from Inara...")
     
-    # Felicia Winters PowerPlay URLs (Power ID 2)
+    # Felicia Winters PowerPlay URLs (Power ID 5 based on existing files)
     inara_endpoints = {
-        'stronghold': 'https://inara.cz/elite/powerplay-stronghold-systems/2/',
-        'exploited': 'https://inara.cz/elite/powerplay-exploited-systems/2/', 
-        'fortified': 'https://inara.cz/elite/powerplay-fortified-systems/2/',
-        'contested': 'https://inara.cz/elite/powerplay-contested-systems/2/'
+        'power-controlled-5': 'https://inara.cz/elite/powerplay-power-controlled/5/',
+        'power-exploited-5': 'https://inara.cz/elite/powerplay-power-exploited/5/', 
+        'power-contested-5': 'https://inara.cz/elite/powerplay-power-contested/5/'
     }
     
     # Create html directory if it doesn't exist
@@ -30,18 +29,18 @@ def fetch_inara_data():
     
     success_count = 0
     
-    for system_type, url in inara_endpoints.items():
+    for file_name, url in inara_endpoints.items():
         try:
-            print(f"📥 Downloading {system_type} data from {url}")
+            print(f"📥 Downloading {file_name} data from {url}")
             response = requests.get(url, timeout=30)
             response.raise_for_status()
             
-            with open(f'html/{system_type}.html', 'w', encoding='utf-8') as f:
+            with open(f'html/{file_name}.html', 'w', encoding='utf-8') as f:
                 f.write(response.text)
-            print(f"✅ {system_type} data saved ({len(response.text)} chars)")
+            print(f"✅ {file_name} data saved ({len(response.text)} chars)")
             success_count += 1
         except Exception as e:
-            print(f"❌ Error fetching {system_type}: {e}")
+            print(f"❌ Error fetching {file_name}: {e}")
     
     return success_count == len(inara_endpoints)
 

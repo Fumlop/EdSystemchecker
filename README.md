@@ -2,7 +2,7 @@
 
 Automated tool for analyzing Elite Dangerous PowerPlay system status from Inara data.
 
-**Last Updated:** 2025-07-26 21:39:08 UTC
+**Last Updated:** 2025-07-26 21:46:55 UTC
 
 ## 📊 Current PowerPlay Status Reports
 
@@ -27,8 +27,8 @@ Automated tool for analyzing Elite Dangerous PowerPlay system status from Inara 
 ## 🚀 Quick Start
 
 ### 🔄 Automated Updates
+- **🌐 GitHub Actions**: [![Run Workflow](https://img.shields.io/badge/🚀_Update_Reports-GitHub_Actions-success?style=for-the-badge)](https://github.com/Fumlop/EdSystemchecker/actions/workflows/update-reports.yml)
 - **💻 Local Pipeline**: Run `python python/github_update.py` (extracts data + generates all reports)
-- **🤖 GitHub Actions**: Manual trigger available in repository Actions tab
 
 ### 📋 Manual Process  
 1. **Extract System Data**: Run `python python/extract.py` to process HTML files
@@ -43,6 +43,7 @@ Automated tool for analyzing Elite Dangerous PowerPlay system status from Inara 
 ### 🛠️ Git Integration
 - **Auto-Update Hook**: Git hook automatically updates reports when HTML/JSON files change
 - **Batch Script**: `update_github.bat` for one-click local updates with git commit/push
+- **Status Badges**: [![Last Commit](https://img.shields.io/github/last-commit/Fumlop/EdSystemchecker?style=flat-square&label=Last%20Update)](https://github.com/Fumlop/EdSystemchecker/commits/main)
 
 ## 📈 Report Features
 
