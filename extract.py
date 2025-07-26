@@ -121,13 +121,13 @@ def calculate_natural_decay(state: str, current_progress_cp: int, undermining: i
     before = (current_progress_cp + undermining - reinforcement) 
     if state == "Stronghold":
         current_cp_normiert = before/ 1000000
-        return  (0.852137 * current_cp_normiert + 0.018411)
+        return  (0.799384 * current_cp_normiert + 0.049691)
     elif state == "Fortified":
         current_cp_normiert = before / 650000
-        return (0.814443  * current_cp_normiert + 0.011009)
+        return (0.827635  * current_cp_normiert + 0.04388)
     elif state == "Exploited":
         current_cp_normiert = before / 350000
-        return (0.965505 * current_cp_normiert + 0.009839)
+        return (0.922557 * current_cp_normiert + 0.018819)
     else:
         return 0
 
