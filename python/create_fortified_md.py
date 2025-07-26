@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Generate fortified status markdown report from JSON d## [BLUE] Active Reinfo            repo            repo            report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | [LOW] Low Reinforcement |\n"t += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | [MED] Medium Reinforcement |\n"t += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | [HIGH] High Reinforcement |\n"cement (Positive Net CP)
+Generate fortified status markdown report from JSON d## 🔵 Active Reinfo            repo            repo            report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔴 Low Reinforcement |\n"t += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🟡 Medium Reinforcement |\n"t += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🟢 High Reinforcement |\n"cement (Positive Net CP)
 *Systems where reinforcement is winning against undermining*
 
-### [HIGH] High Activity (≥10,000 CP Reinforcement)
+### 🟢 High Activity (≥10,000 CP Reinforcement)
 """
 import json
 from datetime import datetime
@@ -61,7 +61,7 @@ def generate_fortified_report():
 **Data Source:** {data.get('last_update', 'Unknown')}
 **Total Fortified:** {len(systems)} ({len(systems_with_net_cp)} with decay analysis)
 
-## [INFO] Quick Summary
+## 📊 Quick Summary
 
 ### Top 5 Most Threatened (Most Negative Net CP)
 """
@@ -83,7 +83,7 @@ def generate_fortified_report():
 
 ---
 
-## [BLUE] Active Reinforcement (Positive Net CP)
+## 🔵 Active Reinforcement (Positive Net CP)
 *Systems where reinforcement is winning against undermining*
 
 ### � High Activity (≥10,000 CP Reinforcement)
@@ -95,7 +95,7 @@ def generate_fortified_report():
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 """
         for system in reinf_high:
-            status_icon = "[OK]" if system['progress_percent'] >= 20 else "[FIRE]"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
@@ -111,7 +111,7 @@ def generate_fortified_report():
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 """
         for system in reinf_medium:
-            status_icon = "[OK]" if system['progress_percent'] >= 20 else "[FIRE]"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
@@ -127,7 +127,7 @@ def generate_fortified_report():
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 """
         for system in reinf_low:
-            status_icon = "[OK]" if system['progress_percent'] >= 20 else "[FIRE]"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
@@ -139,10 +139,10 @@ def generate_fortified_report():
 
 ---
 
-## [WARN] Active Undermining (Negative Net CP)
+## ⚠️ Active Undermining (Negative Net CP)
 *Systems where undermining is winning against reinforcement*
 
-### [WARN] High Activity (≥10,000 CP Undermining)
+### ⚠️ High Activity (≥10,000 CP Undermining)
 """
     
     if under_high:
@@ -151,15 +151,15 @@ def generate_fortified_report():
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 """
         for system in under_high:
-            status_icon = "[OK]" if system['progress_percent'] >= 20 else "[FIRE]"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
-            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | [WARN] High Undermining |\n"
+            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | ⚠️ High Undermining |\n"
     else:
         report += "\n*No fortified systems with high undermining activity*\n"
     
-    report += f"\n### [ORANGE] Medium Activity (5000-9999 CP Undermining)\n"
+    report += f"\n### 🔶 Medium Activity (5000-9999 CP Undermining)\n"
     
     if under_medium:
         report += """
@@ -167,15 +167,15 @@ def generate_fortified_report():
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 """
         for system in under_medium:
-            status_icon = "[OK]" if system['progress_percent'] >= 20 else "[FIRE]"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
-            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | [ORANGE] Medium Undermining |\n"
+            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | 🔶 Medium Undermining |\n"
     else:
         report += "\n*No fortified systems with medium undermining activity*\n"
     
-    report += f"\n### [MED] Low Activity (1000-4999 CP Undermining)\n"
+    report += f"\n### 🟡 Low Activity (1000-4999 CP Undermining)\n"
     
     if under_low:
         report += """
@@ -183,11 +183,11 @@ def generate_fortified_report():
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 """
         for system in under_low:
-            status_icon = "[OK]" if system['progress_percent'] >= 20 else "[FIRE]"
+            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
-            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | [MED] Low Undermining |\n"
+            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | 🟡 Low Undermining |\n"
     else:
         report += "\n*No fortified systems with low undermining activity*\n"
 
