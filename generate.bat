@@ -9,7 +9,7 @@ if exist "html\power-controlled-5.html" if exist "html\power-exploited-5.html" (
     echo ✓ HTML files found, skipping download
 ) else (
     echo → Running download script...
-    python download.py
+    python python\download.py
     if errorlevel 1 (
         echo ❌ Download failed
         pause
@@ -19,7 +19,7 @@ if exist "html\power-controlled-5.html" if exist "html\power-exploited-5.html" (
 
 echo.
 echo [2/5] Extracting system data...
-python extract.py
+python python\extract.py
 if errorlevel 1 (
     echo ❌ Extraction failed
     pause
@@ -28,7 +28,7 @@ if errorlevel 1 (
 
 echo.
 echo [3/5] Generating stronghold report...
-python create_stronghold_md.py
+python python\create_stronghold_md.py
 if errorlevel 1 (
     echo ❌ Stronghold report failed
     pause
@@ -37,7 +37,7 @@ if errorlevel 1 (
 
 echo.
 echo [4/5] Generating exploited report...
-python create_exploited_md.py
+python python\create_exploited_md.py
 if errorlevel 1 (
     echo ❌ Exploited report failed
     pause
@@ -46,7 +46,7 @@ if errorlevel 1 (
 
 echo.
 echo [5/5] Generating fortified report...
-python create_fortified_md.py
+python python\create_fortified_md.py
 if errorlevel 1 (
     echo ❌ Fortified report failed
     pause

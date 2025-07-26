@@ -3,6 +3,7 @@
 Complete PowerPlay System Analysis Generator
 Runs the full pipeline: Download → Extract → Generate all MD reports
 """
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -55,6 +56,11 @@ def main():
     print("Elite Dangerous PowerPlay System Analysis Generator")
     print(f"Started at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     
+    # Change to parent directory (main project folder)
+    project_root = Path(__file__).parent.parent
+    os.chdir(project_root)
+    print(f"Working directory: {project_root}")
+    
     # Check if HTML files already exist
     html_dir = Path("html")
     html_files_exist = html_dir.exists() and list(html_dir.glob("*.html"))
@@ -63,16 +69,16 @@ def main():
     scripts = []
     
     if not html_files_exist:
-        scripts.append(("download.py", "Downloading system data from Inara"))
+        scripts.append(("python/download.py", "Downloading system data from Inara"))
         print("HTML files not found - will download fresh data")
     else:
         print(f"Found existing HTML files in {html_dir} - skipping download")
     
     scripts.extend([
-        ("extract.py", "Extracting and processing system data"), 
-        ("create_stronghold_md.py", "Generating Stronghold status report"),
-        ("create_exploited_md.py", "Generating Exploited status report"),
-        ("create_fortified_md.py", "Generating Fortified status report")
+        ("python/extract.py", "Extracting and processing system data"), 
+        ("python/create_stronghold_md.py", "Generating Stronghold status report"),
+        ("python/create_exploited_md.py", "Generating Exploited status report"),
+        ("python/create_fortified_md.py", "Generating Fortified status report")
     ])
     
     # Check if all required scripts exist

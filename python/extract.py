@@ -308,14 +308,14 @@ def save_systems_by_state(systems: list, output_dir: str = "json"):
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
         
-        print(f"✓ Saved {len(state_systems)} {state} systems to {output_path}")
+        print(f"* Saved {len(state_systems)} {state} systems to {output_path}")
 
 def main():
     """Main extraction function"""
     html_dir = Path("html")
     
     if not html_dir.exists():
-        print("❌ HTML directory not found. Run download.py first!")
+        print("ERROR: HTML directory not found. Run download.py first!")
         return
     
     print(f"Starting extraction at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
@@ -327,14 +327,14 @@ def main():
     html_files = list(html_dir.glob("*.html"))
     
     if not html_files:
-        print("❌ No HTML files found in html/ directory")
+        print("ERROR: No HTML files found in html/ directory")
         return
     
     for html_file in html_files:
         print(f"Processing: {html_file}")
         systems = parse_html_file(str(html_file))
         all_systems.extend(systems)
-        print(f"  → Extracted {len(systems)} systems")
+        print(f"  > Extracted {len(systems)} systems")
     
     print("-" * 60)
     print(f"Total systems extracted: {len(all_systems)}")
@@ -349,13 +349,13 @@ def main():
             state = system.get('state', 'Unknown')
             states[state] = states.get(state, 0) + 1
         
-        print("\n📊 Summary by state:")
+        print("\nSummary by state:")
         for state, count in sorted(states.items()):
             print(f"  {state}: {count} systems")
         
-        print(f"\n✅ Extraction complete! JSON files saved in /json/")
+        print(f"\nSUCCESS: Extraction complete! JSON files saved in /json/")
     else:
-        print("⚠ No systems extracted. Check HTML file structure.")
+        print("WARNING: No systems extracted. Check HTML file structure.")
 
 if __name__ == "__main__":
     main()

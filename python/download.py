@@ -42,14 +42,14 @@ def download_html(url: str, filename: str, output_dir: str = "html") -> bool:
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(response.text)
         
-        print(f"✓ Saved: {output_path} ({len(response.text):,} chars)")
+        print(f"* Saved: {output_path} ({len(response.text):,} chars)")
         return True
         
     except requests.exceptions.RequestException as e:
-        print(f"✗ Error downloading {url}: {e}")
+        print(f"ERROR downloading {url}: {e}")
         return False
     except Exception as e:
-        print(f"✗ Unexpected error: {e}")
+        print(f"ERROR: Unexpected error: {e}")
         return False
 
 def main():
@@ -78,9 +78,9 @@ def main():
     print(f"Download complete: {success_count}/{len(urls)} files successful")
     
     if success_count == len(urls):
-        print("✓ All downloads completed successfully!")
+        print("* All downloads completed successfully!")
     else:
-        print("⚠ Some downloads failed!")
+        print("WARNING: Some downloads failed!")
 
 if __name__ == "__main__":
     main()
