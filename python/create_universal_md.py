@@ -15,7 +15,18 @@ def categorize_by_activity(systems, activity_field='undermining'):
     low = []
     
     for system in systems:
-        activity = abs(system.get('net_cp', 0))
+        # Use net_cp if available, otherwise check if system dropped due to decay+undermining
+        if 'net_cp' in system:
+            activity = abs(system.get('net_cp', 0))
+        else:
+            # For systems without net_cp, check if they dropped from above 25%
+            last_cycle = system.get('last_cycle_percent', 0)
+            current = system.get('progress_percent', 0)
+            if last_cycle >= 25.0 and current < 25.0:
+                # System dropped significantly - treat as high activity
+                activity = 10000  # Treat as high activity to ensure visibility
+            else:
+                continue  # Skip systems without meaningful activity
          
         if activity >= 10000:
             high.append(system)
@@ -25,6 +36,15 @@ def categorize_by_activity(systems, activity_field='undermining'):
             low.append(system)
     
     return high, medium, low
+
+def get_net_cp_display(system):
+    """Get Net CP display string, handling systems without net_cp"""
+    if 'net_cp' in system:
+        return f"{system['net_cp']:,}"
+    else:
+        # For systems that dropped from above 25%, show as decay indication
+        drop = system.get('last_cycle_percent', 0) - system.get('progress_percent', 0)
+        return f"Decay+Under. (-{drop:.1f}%)"
 
 def get_state_config(state):
     """Get configuration for each state type"""
@@ -68,15 +88,30 @@ def generate_universal_report(state):
         data = json.load(f)
     
     systems = data['systems']
-    systems_with_net_cp = [s for s in systems if 'net_cp' in s]
+    
+    # Include systems with net_cp OR systems that dropped from above 25% (decay+undermining)
+    systems_with_analysis = []
+    for s in systems:
+        if 'net_cp' in s:
+            systems_with_analysis.append(s)
+        elif s.get('last_cycle_percent', 0) >= 25.0 and s.get('progress_percent', 0) < 25.0:
+            # System dropped from above 25% - likely decay+undermining
+            systems_with_analysis.append(s)
     
     # Separate by Net CP (positive = reinforcement winning, negative = undermining winning)
-    reinforcement_winning = [s for s in systems_with_net_cp if s['net_cp'] > 0]
-    undermining_winning = [s for s in systems_with_net_cp if s['net_cp'] < 0]
+    reinforcement_winning = [s for s in systems_with_analysis if s.get('net_cp', 0) > 0]
+    undermining_winning = [s for s in systems_with_analysis if s.get('net_cp', 0) < 0]
+    
+    # Add systems that dropped from above 25% to undermining_winning if they don't have net_cp
+    for s in systems_with_analysis:
+        if 'net_cp' not in s and s.get('last_cycle_percent', 0) >= 25.0 and s.get('progress_percent', 0) < 25.0:
+            undermining_winning.append(s)
     
     # Sort: Positive Net CP descending, Negative Net CP ascending (most negative first)
-    reinforcement_winning.sort(key=lambda x: x['net_cp'], reverse=True)
-    undermining_winning.sort(key=lambda x: x['net_cp'])
+    # For systems without net_cp, sort by progress drop (last_cycle - current)
+    reinforcement_winning.sort(key=lambda x: x.get('net_cp', 0), reverse=True)
+    undermining_winning.sort(key=lambda x: x.get('net_cp', 
+        -(x.get('last_cycle_percent', 0) - x.get('progress_percent', 0)) * 1000))
     
     # Categorize by activity levels
     reinf_high, reinf_medium, reinf_low = categorize_by_activity(reinforcement_winning)
@@ -87,7 +122,7 @@ def generate_universal_report(state):
 
 **Report Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 **Data Source:** {data.get('last_update', 'Unknown')}
-**Total {state.title()}:** {len(systems)} ({len(systems_with_net_cp)} with decay analysis)
+**Total {state.title()}:** {len(systems)} ({len(systems_with_analysis)} with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -100,7 +135,8 @@ def generate_universal_report(state):
     if reinforcement_winning:
         for system in reinforcement_winning[:5]:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
-            report += f"\n| {status_icon} | **{system['system']}** | +{system['net_cp']:,} CP | {system['undermining']:,} | {system['reinforcement']:,} | {system['progress_percent']}% |"
+            net_cp_display = f"+{system.get('net_cp', 0):,}"
+            report += f"\n| {status_icon} | **{system['system']}** | {net_cp_display} CP | {system['undermining']:,} | {system['reinforcement']:,} | {system['progress_percent']}% |"
     else:
         report += "\n| - | *No systems currently gaining CP* | - | - | - | - |"
     
@@ -115,7 +151,8 @@ def generate_universal_report(state):
     if undermining_winning:
         for system in undermining_winning[:5]:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
-            report += f"\n| {status_icon} | **{system['system']}** | {system['net_cp']:,} CP | {system['undermining']:,} | {system['reinforcement']:,} | {system['progress_percent']}% |"
+            net_cp_display = get_net_cp_display(system)
+            report += f"\n| {status_icon} | **{system['system']}** | {net_cp_display} CP | {system['undermining']:,} | {system['reinforcement']:,} | {system['progress_percent']}% |"
     else:
         report += "\n| - | *No systems currently losing CP* | - | - | - | - |"
 
