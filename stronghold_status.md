@@ -1,25 +1,39 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-26 19:52:18
-**Data Source:** 2025-07-26T19:52:18.535333
+**Report Generated:** 2025-07-26 20:02:23
+**Data Source:** 2025-07-26T20:02:22.995614
 **Total Strongholds:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
 
-### Top 5 Most Threatened (Most Negative Net CP)
-1. **HIP 52780:** -3298 CP (U:103,083, R:0)
-2. **Rhea:** -3214 CP (U:97,958, R:0)
-3. **Asetsi:** -1814 CP (U:96,750, R:1,296)
-4. **LHS 1928:** -1746 CP (U:89,958, R:1,114)
-5. **Inovik:** -956 CP (U:100,750, R:2,354)
+### 🟢 Top 5 Best Protected (Most Positive Net CP)
 
-### Top 5 Best Protected (Most Positive Net CP)
-1. **LHS 317:** +22145 CP (U:139,066, R:34,936)
-2. **BD-01 1707:** +17854 CP (U:99,875, R:20,994)
-3. **Noti:** +14796 CP (U:66,508, R:16,929)
-4. **LP 726-6:** +11060 CP (U:111,458, R:14,792)
-5. **Carnoeck:** +9131 CP (U:12,895, R:9,183)
+| Status | System | Net CP | Undermining | Reinforcement | Current Progress |
+|--------|--------|--------|-------------|---------------|------------------|
+| ✅ | LHS 317 | +22145 CP | 139,066 | 34,936 | 77.3% |
+| ✅ | BD-01 1707 | +17854 CP | 99,875 | 20,994 | 65.1% |
+| ✅ | Noti | +14796 CP | 66,508 | 16,929 | 51.9% |
+| ✅ | LP 726-6 | +11060 CP | 111,458 | 14,792 | 68.8% |
+| ✅ | Carnoeck | +9131 CP | 12,895 | 9,183 | 30.8% |
 
+### 🔴 Top 5 Most Threatened (Most Negative Net CP)
+
+| Status | System | Net CP | Undermining | Reinforcement | Current Progress |
+|--------|--------|--------|-------------|---------------|------------------|
+| ✅ | HIP 52780 | -3298 CP | 103,083 | 0 | 64.2% |
+| ✅ | Rhea | -3214 CP | 97,958 | 0 | 62.2% |
+| ✅ | Asetsi | -1814 CP | 96,750 | 1,296 | 61.9% |
+| ✅ | LHS 1928 | -1746 CP | 89,958 | 1,114 | 59.3% |
+| ✅ | Inovik | -956 CP | 100,750 | 2,354 | 63.5% |
+
+### 🟢 High Activity Systems (≥10,000 CP Activity)
+
+| Status | System | Net CP | Activity Type | CP Amount | Current Progress |
+|--------|--------|--------|---------------|-----------|------------------|
+| ✅ | LHS 317 | +22145 CP | Reinforcement | 34,936 | 77.3% |
+| ✅ | BD-01 1707 | +17854 CP | Reinforcement | 20,994 | 65.1% |
+| ✅ | Noti | +14796 CP | Reinforcement | 16,929 | 51.9% |
+| ✅ | LP 726-6 | +11060 CP | Reinforcement | 14,792 | 68.8% |
 
 ---
 

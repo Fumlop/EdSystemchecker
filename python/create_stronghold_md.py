@@ -60,21 +60,55 @@ def generate_stronghold_report():
 
 ## 📊 Quick Summary
 
-### Top 5 Most Threatened (Most Negative Net CP)
-"""
+### 🟢 Top 5 Best Protected (Most Positive Net CP)
+
+| Status | System | Net CP | Undermining | Reinforcement | Current Progress |
+|--------|--------|--------|-------------|---------------|------------------|"""
+    
+    if reinforcement_winning:
+        for system in reinforcement_winning[:5]:
+            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
+            report += f"\n| {status_icon} | {system['system']} | +{system['net_cp']} CP | {system['undermining']:,} | {system['reinforcement']:,} | {system['progress_percent']}% |"
+    else:
+        report += "\n| - | *No systems currently gaining CP* | - | - | - | - |"
+    
+    report += f"""
+
+### 🔴 Top 5 Most Threatened (Most Negative Net CP)
+
+| Status | System | Net CP | Undermining | Reinforcement | Current Progress |
+|--------|--------|--------|-------------|---------------|------------------|"""
     
     if undermining_winning:
-        for i, system in enumerate(undermining_winning[:5], 1):
-            report += f"{i}. **{system['system']}:** {system['net_cp']} CP (U:{system['undermining']:,}, R:{system['reinforcement']:,})\n"
+        for system in undermining_winning[:5]:
+            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
+            report += f"\n| {status_icon} | {system['system']} | {system['net_cp']} CP | {system['undermining']:,} | {system['reinforcement']:,} | {system['progress_percent']}% |"
     else:
-        report += "*No systems currently losing CP*\n"
+        report += "\n| - | *No systems currently losing CP* | - | - | - | - |"
+
+    report += f"""
+
+### 🟢 High Activity Systems (≥10,000 CP Activity)
+
+| Status | System | Net CP | Activity Type | CP Amount | Current Progress |
+|--------|--------|--------|---------------|-----------|------------------|"""
     
-    report += f"\n### Top 5 Best Protected (Most Positive Net CP)\n"
-    if reinforcement_winning:
-        for i, system in enumerate(reinforcement_winning[:5], 1):
-            report += f"{i}. **{system['system']}:** +{system['net_cp']} CP (U:{system['undermining']:,}, R:{system['reinforcement']:,})\n"
+    high_activity_systems = []
+    if reinf_high:
+        high_activity_systems.extend([(s, "Reinforcement", s['reinforcement']) for s in reinf_high])
+    if under_high:
+        high_activity_systems.extend([(s, "Undermining", s['undermining']) for s in under_high])
+    
+    # Sort by absolute net CP
+    high_activity_systems.sort(key=lambda x: abs(x[0]['net_cp']), reverse=True)
+    
+    if high_activity_systems:
+        for system, activity_type, cp_amount in high_activity_systems[:5]:
+            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
+            net_cp_display = f"+{system['net_cp']}" if system['net_cp'] > 0 else str(system['net_cp'])
+            report += f"\n| {status_icon} | {system['system']} | {net_cp_display} CP | {activity_type} | {cp_amount:,} | {system['progress_percent']}% |"
     else:
-        report += "*No systems currently gaining CP*\n"
+        report += "\n| - | *No high activity systems* | - | - | - | - |"
 
     report += f"""
 
