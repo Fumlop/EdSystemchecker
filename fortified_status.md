@@ -1,13 +1,13 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-26 18:02:12
-**Data Source:** 2025-07-26T18:02:12.174650
+**Report Generated:** 2025-07-26 19:05:37
+**Data Source:** 2025-07-26T19:05:37.460634
 **Total Fortified:** 130 (50 with decay analysis)
 
 ## 📊 Quick Summary
 
 ### Top 5 Most Threatened (Most Negative Net CP)
-1. **Timbalderis:** -1502 CP (U:10,403, R:138)
+1. **Timbalderis:** -1352 CP (U:10,411, R:192)
 2. **Turni:** -868 CP (U:3,358, R:86)
 3. **HR 3277:** -451 CP (U:11,838, R:0)
 4. **LTT 4487:** -417 CP (U:13,717, R:25)
@@ -72,4 +72,4 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Timbalderis | 10,403 | 33.3% | 31.93% | 31.7% | 138 | 206,050 | -1502 | 🟡 Low Undermining |
+| ✅ | Timbalderis | 10,411 | 33.4% | 32.01% | 31.8% | 192 | 206,700 | -1352 | 🟡 Low Undermining |

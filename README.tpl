@@ -8,11 +8,14 @@ Automated tool for analyzing Elite Dangerous PowerPlay system status from Inara 
 - **🏛️ [Stronghold Systems](stronghold_status.md)** - Control systems status and undermining analysis
 - **🏭 [Exploited Systems](exploited_status.md)** - Exploited systems status and undermining analysis  
 - **🛡️ [Fortified Systems](fortified_status.md)** - Fortified systems status and undermining analysis
+- **⚔️ [Contested Systems](contested_status.md)** - Contested and expansion systems analysis
+- **🎯 [Priority Acquisition](accquise_prio.md)** - High priority acquisition target systems
 
 ### JSON Data Files
 - **[Stronghold Systems JSON](json/stronghold_systems.json)** - Raw stronghold system data
 - **[Exploited Systems JSON](json/exploited_systems.json)** - Raw exploited system data
 - **[Fortified Systems JSON](json/fortified_systems.json)** - Raw fortified system data
+- **[Contested Systems JSON](json/contested_systems.json)** - Raw contested system data
 
 ### System no current Inara data
 _norefresh_
@@ -24,6 +27,8 @@ _norefresh_
    - `python create_stronghold_md.py`
    - `python create_exploited_md.py`
    - `python create_fortified_md.py`
+   - `python create_contested_md.py`
+   - `python create_accquise_prio.py`
 
 ## 📈 Report Features
 
