@@ -4,7 +4,7 @@ echo =====================================
 cd /d d:\Apps\EdSystemChecker
 
 echo.
-echo [1/5] Downloading fresh data (with cleanup)...
+echo echo [1/7] Downloading HTML data...
 if exist "html\power-controlled-5.html" if exist "html\power-exploited-5.html" (
     echo → Found existing files, cleaning up and downloading fresh data...
     python python\download.py
@@ -19,7 +19,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [2/5] Extracting system data...
+echo [2/7] Extracting system data...
 python python\extract.py
 if errorlevel 1 (
     echo ❌ Extraction failed
@@ -28,7 +28,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [3/5] Generating stronghold report...
+echo [3/7] Generating stronghold report...
 python python\create_stronghold_md.py
 if errorlevel 1 (
     echo ❌ Stronghold report failed
@@ -37,7 +37,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [4/5] Generating exploited report...
+echo [4/7] Generating exploited report...
 python python\create_exploited_md.py
 if errorlevel 1 (
     echo ❌ Exploited report failed
@@ -46,7 +46,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [5/6] Generating fortified report...
+echo [5/7] Generating fortified report...
 python python\create_fortified_md.py
 if errorlevel 1 (
     echo ❌ Fortified report failed
@@ -55,7 +55,16 @@ if errorlevel 1 (
 )
 
 echo.
-echo [6/6] Generating README...
+echo [6/7] Generating contested systems report...
+python python\create_contested_md.py
+if errorlevel 1 (
+    echo ❌ Contested systems report failed
+    pause
+    exit /b 1
+)
+
+echo.
+echo [7/7] Generating README...
 python python\genreadme.py
 if errorlevel 1 (
     echo ❌ README generation failed

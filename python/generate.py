@@ -79,6 +79,7 @@ def main():
         ("python/create_stronghold_md.py", "Generating Stronghold status report"),
         ("python/create_exploited_md.py", "Generating Exploited status report"),
         ("python/create_fortified_md.py", "Generating Fortified status report"),
+        ("python/create_contested_md.py", "Generating Contested systems report"),
         ("python/genreadme.py", "Generating README from template")
     ])
     

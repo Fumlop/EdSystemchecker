@@ -59,9 +59,26 @@ def generate_contested_report():
     contested_systems.sort(key=lambda x: x.get('progress_percent', 0), reverse=True)
     expansion_systems.sort(key=lambda x: x.get('progress_percent', 0), reverse=True)
     
-    # Get high progress systems (>80%)
-    high_progress_contested = [s for s in contested_systems if s.get('progress_percent', 0) >= 80]
-    high_progress_expansion = [s for s in expansion_systems if s.get('progress_percent', 0) >= 80]
+    # Get high progress systems (≥70% instead of 80%)
+    high_progress_contested = [s for s in contested_systems if s.get('progress_percent', 0) >= 70]
+    high_progress_expansion = [s for s in expansion_systems if s.get('progress_percent', 0) >= 70]
+    
+    # Get systems where opposition > progress (difficult situations)
+    def calculate_total_opposition(system):
+        """Calculate total opposition percentage"""
+        opposing_powers = system.get('opposing_powers', [])
+        return sum(power.get('progress_percent', 0) for power in opposing_powers)
+    
+    difficult_contested = []
+    for system in contested_systems:
+        total_opposition = calculate_total_opposition(system)
+        progress = system.get('progress_percent', 0)
+        if total_opposition > progress:
+            system['total_opposition'] = total_opposition
+            difficult_contested.append(system)
+    
+    # Sort difficult systems by opposition strength (highest first)  
+    difficult_contested.sort(key=lambda x: x.get('total_opposition', 0), reverse=True)
     
     # Generate timestamp
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -81,16 +98,28 @@ def generate_contested_report():
     report.append("## 📊 Quick Summary")
     report.append("")
     
+    # Top 5 High Progress Contested Systems (≥70%)
     if high_progress_contested:
-        report.append("### 🟢 Top Contested Systems (≥80% Progress)")
-        top_5_contested = high_progress_contested[:5]
-        for i, system in enumerate(top_5_contested, 1):
+        report.append("### 🟢 Top 5 High Progress Contested Systems (≥70%)")
+        top_5_high_contested = high_progress_contested[:5]
+        for i, system in enumerate(top_5_high_contested, 1):
             opposing = format_opposing_powers(system.get('opposing_powers', []))
-            report.append(f"{i}. **{system['system']}:** {system.get('progress_percent', 0)}% (Opponents: {opposing})")
+            report.append(f"{i}. **{system['system']}:** {system.get('progress_percent', 0)}% (vs {opposing})")
+        report.append("")
+    
+    # Top 5 Systems where Opposition > Progress (Difficult Situations)
+    if difficult_contested:
+        report.append("### 🔴 Top 5 Difficult Contested Systems (Opposition > Progress)")
+        top_5_difficult = difficult_contested[:5]
+        for i, system in enumerate(top_5_difficult, 1):
+            progress = system.get('progress_percent', 0)
+            total_opposition = system.get('total_opposition', 0)
+            opposing = format_opposing_powers(system.get('opposing_powers', []))
+            report.append(f"{i}. **{system['system']}:** {progress}% vs {total_opposition}% opposition ({opposing})")
         report.append("")
     
     if high_progress_expansion:
-        report.append("### 🔵 Top Expansion Systems (≥80% Progress)")
+        report.append("### 🔵 Top 5 Expansion Systems (≥70% Progress)")
         top_5_expansion = high_progress_expansion[:5]
         for i, system in enumerate(top_5_expansion, 1):
             report.append(f"{i}. **{system['system']}:** {system.get('progress_percent', 0)}%")
@@ -101,7 +130,7 @@ def generate_contested_report():
     
     # High Progress Contested Systems Table
     if high_progress_contested:
-        report.append("## 🟢 High Progress Contested Systems (≥80%)")
+        report.append("## 🟢 High Progress Contested Systems (≥70%)")
         report.append("*Systems where Felicia Winters has strong progress but faces opposition*")
         report.append("")
         report.append("| Status | System | Progress % | Opposing Powers | State |")
@@ -114,6 +143,27 @@ def generate_contested_report():
             progress = system.get('progress_percent', 0)
             
             report.append(f"| {status} | {system['system']} | {progress}% | {opposing} | {state} |")
+        
+        report.append("")
+        report.append("---")
+        report.append("")
+    
+    # Difficult Contested Systems Table
+    if difficult_contested:
+        report.append("## 🔴 Difficult Contested Systems (Opposition > Progress)")
+        report.append("*Systems where opposition is stronger than our progress*")
+        report.append("")
+        report.append("| Status | System | Our Progress % | Total Opposition % | Opposing Powers | State |")
+        report.append("|--------|--------|----------------|-------------------|----------------|-------|")
+        
+        for system in difficult_contested:
+            status = get_status_emoji(system.get('contested', False), system.get('progress_percent', 0))
+            opposing = format_opposing_powers(system.get('opposing_powers', []))
+            state = system.get('state', 'Unknown')
+            progress = system.get('progress_percent', 0)
+            total_opposition = system.get('total_opposition', 0)
+            
+            report.append(f"| {status} | {system['system']} | {progress}% | {total_opposition}% | {opposing} | {state} |")
         
         report.append("")
         report.append("---")
@@ -158,9 +208,11 @@ def generate_contested_report():
     print(f"✅ Contested status report generated: {output_path}")
     print(f"📊 {len(contested_systems)} contested systems, {len(expansion_systems)} expansion systems")
     if high_progress_contested:
-        print(f"🟢 {len(high_progress_contested)} high progress contested systems (≥80%)")
+        print(f"🟢 {len(high_progress_contested)} high progress contested systems (≥70%)")
+    if difficult_contested:
+        print(f"🔴 {len(difficult_contested)} difficult contested systems (opposition > progress)")
     if high_progress_expansion:
-        print(f"🔵 {len(high_progress_expansion)} high progress expansion systems (≥80%)")
+        print(f"🔵 {len(high_progress_expansion)} high progress expansion systems (≥70%)")
 
 if __name__ == "__main__":
     generate_contested_report()
