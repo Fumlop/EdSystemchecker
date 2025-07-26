@@ -58,7 +58,7 @@ def generate_stronghold_report():
 **Data Source:** {data.get('last_update', 'Unknown')}
 **Total Strongholds:** {len(systems)} ({len(systems_with_net_cp)} with decay analysis)
 
-## 📊 Quick Summary
+## [INFO] Quick Summary
 
 ### Top 5 Most Threatened (Most Negative Net CP)
 """
@@ -80,10 +80,10 @@ def generate_stronghold_report():
 
 ---
 
-## 🔵 Active Reinforcement (Positive Net CP)
+## [BLUE] Active Reinforcement (Positive Net CP)
 *Systems where reinforcement is winning against undermining*
 
-### 🔵 High Activity (≥10,000 CP Reinforcement)
+### [HIGH] High Activity (≥10,000 CP Reinforcement)
 """
     
     if reinf_high:
@@ -92,15 +92,15 @@ def generate_stronghold_report():
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 """
         for system in reinf_high:
-            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
+            status_icon = "[OK]" if system['progress_percent'] >= 20 else "[FIRE]"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
-            report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 High Reinforcement |\n"
+            report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | [HIGH] High Reinforcement |\n"
     else:
         report += "\n*No strongholds with high reinforcement activity*\n"
     
-    report += f"\n### 🔵 Medium Activity (5000-9999 CP Reinforcement)\n"
+    report += f"\n### [MED] Medium Activity (5000-9999 CP Reinforcement)\n"
     
     if reinf_medium:
         report += """
@@ -108,15 +108,15 @@ def generate_stronghold_report():
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 """
         for system in reinf_medium:
-            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
+            status_icon = "[OK]" if system['progress_percent'] >= 20 else "[FIRE]"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
-            report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Medium Reinforcement |\n"
+            report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | [MED] Medium Reinforcement |\n"
     else:
         report += "\n*No strongholds with medium reinforcement activity*\n"
     
-    report += f"\n### 🔵 Low Activity (1000-4999 CP Reinforcement)\n"
+    report += f"\n### [LOW] Low Activity (1000-4999 CP Reinforcement)\n"
     
     if reinf_low:
         report += """
@@ -124,11 +124,11 @@ def generate_stronghold_report():
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 """
         for system in reinf_low:
-            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
+            status_icon = "[OK]" if system['progress_percent'] >= 20 else "[FIRE]"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
-            report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Low Reinforcement |\n"
+            report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | [BLUE] Low Reinforcement |\n"
     else:
         report += "\n*No strongholds with low reinforcement activity*\n"
 
@@ -136,10 +136,10 @@ def generate_stronghold_report():
 
 ---
 
-## ⚠️ Active Undermining (Negative Net CP)
+## [WARN] Active Undermining (Negative Net CP)
 *Systems where undermining is winning against reinforcement*
 
-### ⚠️ High Activity (≥10,000 CP Undermining)
+### [WARN] High Activity (≥10,000 CP Undermining)
 """
     
     if under_high:
@@ -148,15 +148,15 @@ def generate_stronghold_report():
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 """
         for system in under_high:
-            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
+            status_icon = "[OK]" if system['progress_percent'] >= 20 else "[FIRE]"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
-            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | ⚠️ High Undermining |\n"
+            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | [WARN] High Undermining |\n"
     else:
         report += "\n*No strongholds with high undermining activity*\n"
     
-    report += f"\n### 🔶 Medium Activity (5000-9999 CP Undermining)\n"
+    report += f"\n### [ORANGE] Medium Activity (5000-9999 CP Undermining)\n"
     
     if under_medium:
         report += """
@@ -164,15 +164,15 @@ def generate_stronghold_report():
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 """
         for system in under_medium:
-            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
+            status_icon = "[OK]" if system['progress_percent'] >= 20 else "[FIRE]"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
-            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | 🔶 Medium Undermining |\n"
+            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | [ORANGE] Medium Undermining |\n"
     else:
         report += "\n*No strongholds with medium undermining activity*\n"
     
-    report += f"\n### 🟡 Low Activity (1000-4999 CP Undermining)\n"
+    report += f"\n### [MED] Low Activity (1000-4999 CP Undermining)\n"
     
     if under_low:
         report += """
@@ -180,11 +180,11 @@ def generate_stronghold_report():
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 """
         for system in under_low:
-            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
+            status_icon = "[OK]" if system['progress_percent'] >= 20 else "[FIRE]"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
             natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
-            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | 🟡 Low Undermining |\n"
+            report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | [MED] Low Undermining |\n"
     else:
         report += "\n*No strongholds with low undermining activity*\n"
 
@@ -193,8 +193,8 @@ def generate_stronghold_report():
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(report)
     
-    print(f"✅ Stronghold report generated: {output_file}")
-    print(f"📊 {len(reinforcement_winning)} systems gaining CP, {len(undermining_winning)} systems losing CP")
+    print(f"[OK] Stronghold report generated: {output_file}")
+    print(f"[INFO] {len(reinforcement_winning)} systems gaining CP, {len(undermining_winning)} systems losing CP")
 
 if __name__ == "__main__":
     generate_stronghold_report()
