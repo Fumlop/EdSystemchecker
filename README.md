@@ -24,22 +24,6 @@ Automated tool for analyzing Elite Dangerous PowerPlay system status from Inara 
 
 ## 🚀 Quick Start
 
-## 🚀 Quick Start
-
-### 🔄 Automated Updates
-- **🌐 GitHub Actions**: [![Run Workflow](https://img.shields.io/badge/🚀_Update_Reports-GitHub_Actions-success?style=for-the-badge)](https://github.com/Fumlop/EdSystemchecker/actions/workflows/update-reports.yml)
-- **💻 Local Pipeline**: Run `python python/github_update.py` (extracts data + generates all reports)
-
-### 📋 Manual Process  
-1. **Extract System Data**: Run `python python/extract.py` to process HTML files
-2. **Generate Reports**: Run the universal generator:
-   ```bash
-   python python/create_universal_md.py stronghold
-   python python/create_universal_md.py fortified  
-   python python/create_universal_md.py exploited
-   python python/create_contested_md.py
-   ```
-
 ## 📈 Report Features
 
 - **Natural Decay Analysis**: Calculates system decay based on PowerPlay formulas
