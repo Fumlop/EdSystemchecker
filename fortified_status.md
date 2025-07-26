@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-26 15:20:53
-**Data Source:** 2025-07-26T15:18:47.668063
+**Report Generated:** 2025-07-26 15:22:58
+**Data Source:** 2025-07-26T15:22:50.030692
 **Total Fortified:** 130 (49 with decay analysis)
 
 ## 📊 Quick Summary
@@ -30,25 +30,25 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Tarhul | 50,227 | 398 | 28.4% | 2147.00% | 28.3% | 183,950 | +44425 | 🔵 High Reinforcement |
-| ✅ | Hyades Sector KC-U c3-21 | 25,195 | 8,900 | 36.9% | 3169.00% | 35.5% | 230,750 | +24738 | 🔵 High Reinforcement |
-| ✅ | Tau Centauri | 11,180 | 22,567 | 47.1% | 4192.00% | 43.6% | 283,400 | +10902 | 🔵 High Reinforcement |
+| ✅ | Tarhul | 50,227 | 398 | 28.4% | 21.47% | 28.3% | 183,950 | +44425 | 🔵 High Reinforcement |
+| ✅ | Hyades Sector KC-U c3-21 | 25,195 | 8,900 | 36.9% | 31.69% | 35.5% | 230,750 | +24738 | 🔵 High Reinforcement |
+| ✅ | Tau Centauri | 11,180 | 22,567 | 47.1% | 41.92% | 43.6% | 283,400 | +10902 | 🔵 High Reinforcement |
 
 ### 🔵 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Mentesuri | 7,240 | 22,977 | 46.8% | 4223.00% | 43.3% | 281,450 | +6966 | 🔵 Medium Reinforcement |
+| ✅ | Mentesuri | 7,240 | 22,977 | 46.8% | 42.23% | 43.3% | 281,450 | +6966 | 🔵 Medium Reinforcement |
 
 ### 🔵 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | UBV 8670 | 4,890 | 22,085 | 45.6% | 4150.00% | 42.2% | 274,300 | +4527 | 🔵 Low Reinforcement |
-| ✅ | NLTT 21088 | 4,270 | 50,533 | 71.1% | 6267.00% | 63.3% | 411,450 | +4109 | 🔵 Low Reinforcement |
-| ✅ | Kharahua | 3,714 | 6,201 | 31.2% | 2970.00% | 30.2% | 196,300 | +3255 | 🔵 Low Reinforcement |
-| ✅ | Sanos | 1,698 | 33,910 | 55.8% | 5037.00% | 50.6% | 328,900 | +1509 | 🔵 Low Reinforcement |
-| ✅ | 54 G. Antlia | 1,664 | 38,283 | 59.7% | 5358.00% | 53.8% | 349,699 | +1447 | 🔵 Low Reinforcement |
+| ✅ | UBV 8670 | 4,890 | 22,085 | 45.6% | 41.50% | 42.2% | 274,300 | +4527 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 4,270 | 50,533 | 71.1% | 62.67% | 63.3% | 411,450 | +4109 | 🔵 Low Reinforcement |
+| ✅ | Kharahua | 3,714 | 6,201 | 31.2% | 29.70% | 30.2% | 196,300 | +3255 | 🔵 Low Reinforcement |
+| ✅ | Sanos | 1,698 | 33,910 | 55.8% | 50.37% | 50.6% | 328,900 | +1509 | 🔵 Low Reinforcement |
+| ✅ | 54 G. Antlia | 1,664 | 38,283 | 59.7% | 53.58% | 53.8% | 349,699 | +1447 | 🔵 Low Reinforcement |
 
 
 ---
@@ -68,4 +68,4 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Timbalderis | 10,099 | 33.4% | 3198.00% | 31.8% | 85 | 206,700 | -1182 | 🟡 Low Undermining |
+| ✅ | Timbalderis | 10,099 | 33.4% | 31.98% | 31.8% | 85 | 206,700 | -1182 | 🟡 Low Undermining |
