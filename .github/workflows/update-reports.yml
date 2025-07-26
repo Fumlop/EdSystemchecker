@@ -1,0 +1,54 @@
+name: Update PowerPlay Reports
+
+on:
+  # Manual trigger via GitHub UI
+  workflow_dispatch:
+  # Scheduled updates (every 4 hours during PowerPlay cycle)
+  schedule:
+    - cron: '0 */4 * * *'
+  # Trigger on new data files
+  push:
+    paths:
+      - 'html/**'
+      - 'json/**'
+
+jobs:
+  update-reports:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # Add any required packages here if needed
+        
+    - name: Extract system data (if HTML files exist)
+      run: |
+        if [ -d "html" ] && [ "$(ls -A html)" ]; then
+          python python/extract.py
+        else
+          echo "No HTML files found, skipping extraction"
+        fi
+      
+    - name: Generate all reports
+      run: |
+        python python/create_universal_md.py stronghold
+        python python/create_universal_md.py fortified  
+        python python/create_universal_md.py exploited
+        python python/create_contested_md.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add *.md json/*.json
+        git diff --staged --quiet || git commit -m "🤖 Auto-update PowerPlay reports - $(date '+%Y-%m-%d %H:%M:%S')"
+        git push
