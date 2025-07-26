@@ -140,7 +140,7 @@ def generate_universal_report(state):
         for system, activity_type, cp_amount in high_activity_systems[:5]:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             net_cp_display = f"+{system['net_cp']:,}" if system['net_cp'] > 0 else f"{system['net_cp']:,}"
-            activity_icon = "🔵" if activity_type == "Reinforcement" else "⚠️"
+            activity_icon = "🛡️" if activity_type == "Reinforcement" else "⚠️"
             report += f"\n| {status_icon} | **{system['system']}** | {net_cp_display} CP | {activity_icon} {activity_type} | {cp_amount:,} | {system['progress_percent']}% |"
     else:
         report += "\n| - | *No high activity systems found* | - | - | - | - |"
