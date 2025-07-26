@@ -6,6 +6,23 @@ import json
 from datetime import datetime
 from pathlib import Path
 
+def load_accquise_systems():
+    """Load priority acquisition systems from accquise.conf"""
+    config_path = Path("accquise.conf")
+    if not config_path.exists():
+        print("WARNING: accquise.conf not found!")
+        return []
+    
+    systems = []
+    with open(config_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith('#'):  # Skip empty lines and comments
+                systems.append(line)
+    
+    print(f"Loaded {len(systems)} priority acquisition systems from accquise.conf")
+    return systems
+
 def load_contested_systems():
     """Load contested systems from JSON file"""
     json_path = Path("json/contested_systems.json")
@@ -25,7 +42,7 @@ def format_opposing_powers(opposing_powers):
     for power in opposing_powers:
         name = power.get('name', 'Unknown')
         percent = power.get('progress_percent', 0.0)
-        power_strings.append(f"{name} ({percent}%)")
+        power_strings.append(f"{name} ({percent:.1f}%)")
     
     return ", ".join(power_strings)
 
@@ -46,10 +63,20 @@ def get_status_emoji(contested, progress_percent):
 def generate_contested_report():
     """Generate contested systems status report"""
     systems = load_contested_systems()
+    accquise_systems = load_accquise_systems()
     
     if not systems:
         print("No contested systems data found!")
         return
+    
+    # Create a dict for faster lookup
+    system_dict = {s['system']: s for s in systems}
+    
+    # Find priority acquisition systems that are contested
+    accquise_contested = []
+    for system_name in accquise_systems:
+        if system_name in system_dict:
+            accquise_contested.append(system_dict[system_name])
     
     # Separate contested and expansion systems
     contested_systems = [s for s in systems if s.get('contested', False)]
@@ -92,6 +119,10 @@ def generate_contested_report():
     report.append(f"**Data Source:** {extraction_time}")
     report.append(f"**Total Contested:** {len(contested_systems)} systems")
     report.append(f"**Total Expansion:** {len(expansion_systems)} systems")
+    if accquise_systems:
+        report.append(f"**Priority Acquisition Targets:** {len(accquise_contested)} of {len(accquise_systems)} systems are contested")
+    report.append("")
+    report.append(f"**Total Expansion:** {len(expansion_systems)} systems")
     report.append("")
     
     # Quick summary
@@ -104,7 +135,7 @@ def generate_contested_report():
         top_5_high_contested = high_progress_contested[:5]
         for i, system in enumerate(top_5_high_contested, 1):
             opposing = format_opposing_powers(system.get('opposing_powers', []))
-            report.append(f"{i}. **{system['system']}:** {system.get('progress_percent', 0)}% (vs {opposing})")
+            report.append(f"{i}. **{system['system']}:** {system.get('progress_percent', 0):.1f}% (vs {opposing})")
         report.append("")
     
     # Top 5 Systems where Opposition > Progress (Difficult Situations)
@@ -115,7 +146,22 @@ def generate_contested_report():
             progress = system.get('progress_percent', 0)
             total_opposition = system.get('total_opposition', 0)
             opposing = format_opposing_powers(system.get('opposing_powers', []))
-            report.append(f"{i}. **{system['system']}:** {progress}% vs {total_opposition}% opposition ({opposing})")
+            report.append(f"{i}. **{system['system']}:** {progress:.1f}% vs {total_opposition:.1f}% opposition ({opposing})")
+        report.append("")
+    
+    # FAT Target Systems
+    if accquise_contested:
+        report.append("### 🎯 FAT Target (from accquise.conf)")
+        for i, system in enumerate(accquise_contested, 1):
+            progress = system.get('progress_percent', 0)
+            opposing = format_opposing_powers(system.get('opposing_powers', []))
+            total_opposition = calculate_total_opposition(system)
+            status_emoji = get_status_emoji(system.get('contested', False), progress)
+            
+            if total_opposition > progress:
+                report.append(f"{i}. {status_emoji} **{system['system']}:** {progress:.1f}% vs {total_opposition:.1f}% opposition ({opposing})")
+            else:
+                report.append(f"{i}. {status_emoji} **{system['system']}:** {progress:.1f}% (vs {opposing})")
         report.append("")
     
     if high_progress_expansion:
@@ -142,7 +188,28 @@ def generate_contested_report():
             state = system.get('state', 'Unknown')
             progress = system.get('progress_percent', 0)
             
-            report.append(f"| {status} | {system['system']} | {progress}% | {opposing} | {state} |")
+            report.append(f"| {status} | {system['system']} | {progress:.1f}% | {opposing} | {state} |")
+        
+        report.append("")
+        report.append("---")
+        report.append("")
+    
+    # FAT Target Systems Table
+    if accquise_contested:
+        report.append("## 🎯 FAT Target")
+        report.append("*High priority systems from accquise.conf that are currently contested*")
+        report.append("")
+        report.append("| Status | System | Progress % | Total Opposition % | Opposing Powers | State |")
+        report.append("|--------|--------|------------|-------------------|----------------|-------|")
+        
+        for system in accquise_contested:
+            status = get_status_emoji(system.get('contested', False), system.get('progress_percent', 0))
+            opposing = format_opposing_powers(system.get('opposing_powers', []))
+            state = system.get('state', 'Unknown')
+            progress = system.get('progress_percent', 0)
+            total_opposition = calculate_total_opposition(system)
+            
+            report.append(f"| {status} | {system['system']} | {progress:.1f}% | {total_opposition:.1f}% | {opposing} | {state} |")
         
         report.append("")
         report.append("---")
@@ -163,7 +230,7 @@ def generate_contested_report():
             progress = system.get('progress_percent', 0)
             total_opposition = system.get('total_opposition', 0)
             
-            report.append(f"| {status} | {system['system']} | {progress}% | {total_opposition}% | {opposing} | {state} |")
+            report.append(f"| {status} | {system['system']} | {progress:.1f}% | {total_opposition:.1f}% | {opposing} | {state} |")
         
         report.append("")
         report.append("---")
@@ -181,7 +248,7 @@ def generate_contested_report():
         opposing = format_opposing_powers(system.get('opposing_powers', []))
         progress = system.get('progress_percent', 0)
         
-        report.append(f"| {status} | {system['system']} | {progress}% | {opposing} |")
+        report.append(f"| {status} | {system['system']} | {progress:.1f}% | {opposing} |")
     
     report.append("")
     report.append("---")
@@ -198,7 +265,7 @@ def generate_contested_report():
         status = get_status_emoji(system.get('contested', False), system.get('progress_percent', 0))
         progress = system.get('progress_percent', 0)
         
-        report.append(f"| {status} | {system['system']} | {progress}% |")
+        report.append(f"| {status} | {system['system']} | {progress:.1f}% |")
     
     # Write report to file
     output_path = Path("contested_status.md")

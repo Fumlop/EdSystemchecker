@@ -55,7 +55,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [7/8] Generating contested systems report...
+echo [6/9] Generating contested systems report...
 python python\create_contested_md.py
 if errorlevel 1 (
     echo ❌ Contested systems report failed
@@ -64,8 +64,8 @@ if errorlevel 1 (
 )
 
 echo.
-echo [8/8] Generating priority acquisition report...
-python python\create_accquise_prio.py
+echo [7/9] Generating priority acquisition report...
+python python\create_accquise_md.py
 if errorlevel 1 (
     echo ❌ Priority acquisition report failed
     pause
@@ -73,7 +73,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [9/9] Generating README...
+echo [8/9] Generating README...
 python python\genreadme.py
 if errorlevel 1 (
     echo ❌ README generation failed
@@ -86,11 +86,14 @@ echo ✅ Pipeline complete! All reports generated.
 echo.
 echo Generated files:
 echo   • json\stronghold_systems.json
-echo   • json\exploited_systems.json
+echo   • json\exploited_systems.json  
 echo   • json\fortified_systems.json
+echo   • json\contested_systems.json
 echo   • stronghold_status.md
 echo   • exploited_status.md
 echo   • fortified_status.md
+echo   • contested_status.md
+echo   • accquise_status.md
 echo   • README.md
 echo.
 pause
