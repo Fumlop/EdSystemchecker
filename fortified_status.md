@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-26 15:22:58
-**Data Source:** 2025-07-26T15:22:50.030692
+**Report Generated:** 2025-07-26 15:25:16
+**Data Source:** 2025-07-26T15:25:16.445524
 **Total Fortified:** 130 (49 with decay analysis)
 
 ## 📊 Quick Summary
@@ -14,8 +14,8 @@
 5. **LTT 4487:** -417 CP (U:13,717, R:25)
 
 ### Top 5 Best Protected (Most Positive Net CP)
-1. **Tarhul:** +44425 CP (U:398, R:50,227)
-2. **Hyades Sector KC-U c3-21:** +24738 CP (U:8,900, R:25,195)
+1. **Hyades Sector KC-U c3-21:** +24738 CP (U:8,900, R:25,195)
+2. **Tarhul:** +21450 CP (U:398, R:50,227)
 3. **Tau Centauri:** +10902 CP (U:22,567, R:11,180)
 4. **Mentesuri:** +6966 CP (U:22,977, R:7,240)
 5. **UBV 8670:** +4527 CP (U:22,085, R:4,890)
@@ -30,8 +30,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Tarhul | 50,227 | 398 | 28.4% | 21.47% | 28.3% | 183,950 | +44425 | 🔵 High Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 25,195 | 8,900 | 36.9% | 31.69% | 35.5% | 230,750 | +24738 | 🔵 High Reinforcement |
+| ✅ | Tarhul | 50,227 | 398 | 28.4% | 25.00% | 28.3% | 183,950 | +21450 | 🔵 High Reinforcement |
 | ✅ | Tau Centauri | 11,180 | 22,567 | 47.1% | 41.92% | 43.6% | 283,400 | +10902 | 🔵 High Reinforcement |
 
 ### 🔵 Medium Activity (5000-9999 CP Reinforcement)

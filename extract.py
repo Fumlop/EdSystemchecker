@@ -106,7 +106,7 @@ def calculate_last_cycle_percent(last_cycle_cp_actual: int, state: str) -> float
     max_cp = get_max_cp(state)
     return round((last_cycle_cp_actual / max_cp) * 100.0, 1)
 
-def calculate_natural_decay(state: str, current_progress_cp: int, undermining: int, reinforcement: int) -> int:
+def calculate_natural_decay(state: str, current_progress_cp: int, undermining: int, reinforcement: int) -> float:
     """
     Calculate natural decay using formulas from Formulas.md
     
@@ -116,20 +116,23 @@ def calculate_natural_decay(state: str, current_progress_cp: int, undermining: i
         undermining: Undermining value (not used in calculation, kept for compatibility)
         
     Returns:
-        int: Natural decay amount (positive value showing CP loss)
+        float: Natural decay amount as decimal (0.25 = 25%), minimum 0.25
     """
     before = (current_progress_cp + undermining - reinforcement) 
     if state == "Stronghold":
         current_cp_normiert = before/ 1000000
-        return  (0.799384 * current_cp_normiert + 0.049691)
+        decay = (0.799384 * current_cp_normiert + 0.049691)
     elif state == "Fortified":
         current_cp_normiert = before / 650000
-        return (0.827635  * current_cp_normiert + 0.04388)
+        decay = (0.827635  * current_cp_normiert + 0.04388)
     elif state == "Exploited":
         current_cp_normiert = before / 350000
-        return (0.922557 * current_cp_normiert + 0.018819)
+        decay = (0.922557 * current_cp_normiert + 0.018819)
     else:
-        return 0
+        decay = 0.25
+    
+    # Ensure natural decay never goes below 25%
+    return max(decay, 0.25)
 
 class InaraHTMLParser(HTMLParser):
     """Custom HTML parser for Inara system data"""
