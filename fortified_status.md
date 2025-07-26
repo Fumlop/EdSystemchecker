@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-26 22:20:43
-**Data Source:** 2025-07-26T22:20:42.853880
+**Report Generated:** 2025-07-26 21:36:33
+**Data Source:** 2025-07-26T21:36:33.479020
 **Total Fortified:** 130 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -22,7 +22,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Timbalderis** | -1,674 CP | 10,665 | 192 | 31.7% |
+| ✅ | **Timbalderis** | -1,515 CP | 10,665 | 384 | 31.7% |
 | ✅ | **Turni** | -868 CP | 3,358 | 86 | 27.1% |
 | ✅ | **HR 3277** | -451 CP | 11,838 | 0 | 33.8% |
 | ✅ | **LTT 4487** | -417 CP | 13,717 | 25 | 35.2% |
@@ -91,4 +91,4 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Timbalderis | 10,665 | 33.3% | 31.96% | 31.7% | 192 | 206,050 | -1,674 | 🟡 Low Undermining |
+| ✅ | Timbalderis | 10,665 | 33.3% | 31.93% | 31.7% | 384 | 206,050 | -1,515 | 🟡 Low Undermining |
