@@ -2,8 +2,6 @@
 
 Automated tool for analyzing Elite Dangerous PowerPlay system status from Inara data.
 
-**Last Updated:** 2025-07-26 22:19:22 UTC
-
 ## 📊 Current PowerPlay Status Reports
 
 ### System Status Reports
@@ -23,6 +21,14 @@ Automated tool for analyzing Elite Dangerous PowerPlay system status from Inara 
 *All systems up to date!*
 
 ## 🚀 Quick Start
+
+1. **Extract System Data**: Run `python extract.py` to process HTML files
+2. **Generate Reports**: Run the markdown generators:
+   - `python create_stronghold_md.py`
+   - `python create_exploited_md.py`
+   - `python create_fortified_md.py`
+   - `python create_contested_md.py`
+   - `python create_accquise_prio.py`
 
 ## 📈 Report Features
 

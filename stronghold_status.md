@@ -1,12 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-<<<<<<< HEAD
-**Report Generated:** 2025-07-26 22:19:22
-**Data Source:** 2025-07-26T22:19:22.355560
-=======
-**Report Generated:** 2025-07-26 20:07:45
-**Data Source:** 2025-07-26T20:07:45.149104
->>>>>>> 451b8a053f6893477ed3ae70cd19579bf2a990eb
+**Report Generated:** 2025-07-26 22:20:43
+**Data Source:** 2025-07-26T22:20:42.855892
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -78,8 +73,8 @@
 | ✅ | Neche | 2,562 | 5,487 | 27.8% | 27.03% | 27.3% | 273,000 | +2,739 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 2,293 | 16,166 | 33.0% | 31.18% | 31.4% | 314,000 | +2,213 | 🔵 Low Reinforcement |
 | ✅ | Kaura | 2,682 | 35,995 | 42.5% | 38.73% | 38.9% | 389,000 | +1,719 | 🔵 Low Reinforcement |
+| ✅ | Algorab | 4,155 | 78,166 | 62.9% | 54.93% | 55.1% | 551,000 | +1,685 | 🔵 Low Reinforcement |
 | ✅ | HIP 38747 | 1,960 | 30,250 | 39.7% | 36.57% | 36.7% | 367,000 | +1,320 | 🔵 Low Reinforcement |
-| ✅ | Algorab | 3,487 | 78,166 | 62.9% | 54.98% | 55.1% | 551,000 | +1,151 | 🔵 Low Reinforcement |
 | ✅ | Lulua | 3,270 | 69,208 | 58.5% | 51.49% | 51.6% | 516,000 | +1,117 | 🔵 Low Reinforcement |
 
 
