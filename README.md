@@ -1,4 +1,4 @@
-# Elite Dangerous PowerPlay System Checker
+# Elite Dangerous PowerPlay System Checker Winters
 
 Automated tool for analyzing Elite Dangerous PowerPlay system status from Inara data.
 
