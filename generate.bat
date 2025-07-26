@@ -29,7 +29,7 @@ if errorlevel 1 (
 
 echo.
 echo [3/7] Generating stronghold report...
-python python\create_stronghold_md.py
+python python\create_universal_md.py stronghold
 if errorlevel 1 (
     echo ❌ Stronghold report failed
     pause
@@ -38,7 +38,7 @@ if errorlevel 1 (
 
 echo.
 echo [4/7] Generating exploited report...
-python python\create_exploited_md.py
+python python\create_universal_md.py exploited
 if errorlevel 1 (
     echo ❌ Exploited report failed
     pause
@@ -47,7 +47,7 @@ if errorlevel 1 (
 
 echo.
 echo [5/7] Generating fortified report...
-python python\create_fortified_md.py
+python python\create_universal_md.py fortified
 if errorlevel 1 (
     echo ❌ Fortified report failed
     pause
