@@ -246,8 +246,9 @@ class InaraHTMLParser(HTMLParser):
                 "current_cycle_refresh": is_current_powerplay_cycle(extracted_at)
             }
             
-            # Only add natural_decay, expected_progress_cp and net_cp for systems with > 25% progress
-            if progress_percent > 25.0:
+            # Add natural_decay, expected_progress_cp and net_cp calculations
+            # For systems at exactly 25%, we still need to show additional undermining
+            if progress_percent >= 25.0:
                 natural_decay = calculate_natural_decay(state, current_progress_cp,undermining, reinforcement)
                 if (state == "Stronghold"):
                     expected_progress_cp = int(round(1000000 * natural_decay))

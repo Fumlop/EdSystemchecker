@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-26 17:23:15
-**Data Source:** 2025-07-26T17:23:15.532465
+**Report Generated:** 2025-07-26 18:02:12
+**Data Source:** 2025-07-26T18:02:12.176657
 **Total Strongholds:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -40,7 +40,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Carnoeck | 9,138 | 12,895 | 32.1% | 29.89% | 30.8% | 308,000 | +9095 | 🔵 Medium Reinforcement |
-| ✅ | Orishpucho | 11,445 | 105,885 | 76.9% | 65.52% | 66.3% | 662,999 | +7823 | 🔵 Medium Reinforcement |
+| ✅ | Orishpucho | 12,598 | 105,885 | 77.0% | 65.51% | 66.4% | 664,000 | +8946 | 🔵 Medium Reinforcement |
 | ✅ | HIP 50489 | 7,854 | 69,666 | 59.3% | 51.72% | 52.3% | 523,000 | +5820 | 🔵 Medium Reinforcement |
 | ✅ | NLTT 19808 | 5,658 | 23,327 | 36.7% | 33.88% | 34.4% | 344,000 | +5197 | 🔵 Medium Reinforcement |
 
@@ -49,7 +49,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Matipu | 5,520 | 32,125 | 41.0% | 37.31% | 37.8% | 377,999 | +4874 | 🔵 Low Reinforcement |
-| ✅ | LTT 3607 | 5,318 | 51,835 | 50.3% | 44.74% | 45.1% | 451,000 | +3602 | 🔵 Low Reinforcement |
+| ✅ | LTT 3607 | 5,363 | 51,835 | 50.3% | 44.74% | 45.1% | 451,000 | +3638 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 2,162 | 16,166 | 33.0% | 31.19% | 31.4% | 314,000 | +2108 | 🔵 Low Reinforcement |
 | ✅ | Kaura | 2,682 | 35,995 | 42.5% | 38.73% | 38.9% | 389,000 | +1719 | 🔵 Low Reinforcement |
 | ✅ | HIP 38747 | 1,960 | 30,250 | 39.7% | 36.57% | 36.7% | 367,000 | +1320 | 🔵 Low Reinforcement |
