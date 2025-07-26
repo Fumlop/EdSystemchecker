@@ -1,12 +1,12 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-07-26 19:50:36
-**Data Source:** 2025-07-26T19:50:35.211906
+**Report Generated:** 2025-07-26 19:52:19
+**Data Source:** 2025-07-26T19:52:17.924082
 **Total Contested:** 1739 systems
-**Total Expansion:** 759 systems
+**Total Expansion:** 761 systems
 **Priority Acquisition Targets:** 3 of 3 systems are contested
 
-**Total Expansion:** 759 systems
+**Total Expansion:** 761 systems
 
 ## 📊 Quick Summary
 
@@ -3261,6 +3261,7 @@
 | 🔵 | Col 285 Sector LX-T d3-91 | 0.0% |
 | 🔵 | Col 285 Sector LZ-B b15-2 | 0.0% |
 | 🔵 | Col 285 Sector MK-A b16-2 | 0.0% |
+| 🔵 | Col 285 Sector MU-B b15-1 | 0.0% |
 | 🔵 | Col 285 Sector NI-R c5-7 | 0.0% |
 | 🔵 | Col 285 Sector NI-R c5-8 | 0.0% |
 | 🔵 | Col 285 Sector NK-A b16-2 | 0.0% |
@@ -3400,6 +3401,7 @@
 | 🔵 | HIP 63388 | 0.0% |
 | 🔵 | HIP 63440 | 0.0% |
 | 🔵 | HIP 64028 | 0.0% |
+| 🔵 | HIP 64128 | 0.0% |
 | 🔵 | HIP 64134 | 0.0% |
 | 🔵 | HIP 65049 | 0.0% |
 | 🔵 | HIP 65363 | 0.0% |
