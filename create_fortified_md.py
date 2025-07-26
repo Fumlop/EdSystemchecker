@@ -58,6 +58,26 @@ def generate_fortified_report():
 **Data Source:** {data.get('last_update', 'Unknown')}
 **Total Fortified:** {len(systems)} ({len(systems_with_net_cp)} with decay analysis)
 
+## 📊 Quick Summary
+
+### Top 5 Most Threatened (Most Negative Net CP)
+"""
+    
+    if undermining_winning:
+        for i, system in enumerate(undermining_winning[:5], 1):
+            report += f"{i}. **{system['system']}:** {system['net_cp']} CP (U:{system['undermining']:,}, R:{system['reinforcement']:,})\n"
+    else:
+        report += "*No systems currently losing CP*\n"
+    
+    report += f"\n### Top 5 Best Protected (Most Positive Net CP)\n"
+    if reinforcement_winning:
+        for i, system in enumerate(reinforcement_winning[:5], 1):
+            report += f"{i}. **{system['system']}:** +{system['net_cp']} CP (U:{system['undermining']:,}, R:{system['reinforcement']:,})\n"
+    else:
+        report += "*No systems currently gaining CP*\n"
+
+    report += f"""
+
 ---
 
 ## 🔵 Active Reinforcement (Positive Net CP)
@@ -74,7 +94,7 @@ def generate_fortified_report():
         for system in reinf_high:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
-            natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
+            natural_decay = f"{system.get('natural_decay', 0) * 100:.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
             report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 High Reinforcement |\n"
     else:
@@ -90,7 +110,7 @@ def generate_fortified_report():
         for system in reinf_medium:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
-            natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
+            natural_decay = f"{system.get('natural_decay', 0) * 100:.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
             report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Medium Reinforcement |\n"
     else:
@@ -106,7 +126,7 @@ def generate_fortified_report():
         for system in reinf_low:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
-            natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
+            natural_decay = f"{system.get('natural_decay', 0) * 100:.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
             report += f"| {status_icon} | {system['system']} | {system['reinforcement']:,} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['current_progress_cp']:,} | +{system['net_cp']} | 🔵 Low Reinforcement |\n"
     else:
@@ -130,7 +150,7 @@ def generate_fortified_report():
         for system in under_high:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
-            natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
+            natural_decay = f"{system.get('natural_decay', 0) * 100:.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
             report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | ⚠️ High Undermining |\n"
     else:
@@ -146,7 +166,7 @@ def generate_fortified_report():
         for system in under_medium:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
-            natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
+            natural_decay = f"{system.get('natural_decay', 0) * 100:.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
             report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | 🔶 Medium Undermining |\n"
     else:
@@ -162,34 +182,11 @@ def generate_fortified_report():
         for system in under_low:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
             last_cycle_percent = f"{system.get('last_cycle_percent', 0):.1f}%"
-            natural_decay = f"{system.get('natural_decay', 0):.2f}%" if 'natural_decay' in system else "N/A"
+            natural_decay = f"{system.get('natural_decay', 0) * 100:.2f}%" if 'natural_decay' in system else "N/A"
             current_progress = f"{system['progress_percent']}%"
             report += f"| {status_icon} | {system['system']} | {system['undermining']:,} | {last_cycle_percent} | {natural_decay} | {current_progress} | {system['reinforcement']:,} | {system['current_progress_cp']:,} | {system['net_cp']} | 🟡 Low Undermining |\n"
     else:
         report += "\n*No fortified systems with low undermining activity*\n"
-
-    # Quick summary
-    report += f"""
-
----
-
-## 📊 Quick Summary
-
-### Top 5 Most Threatened (Most Negative Net CP)
-"""
-    
-    if undermining_winning:
-        for i, system in enumerate(undermining_winning[:5], 1):
-            report += f"{i}. **{system['system']}:** {system['net_cp']} CP (U:{system['undermining']:,}, R:{system['reinforcement']:,})\n"
-    else:
-        report += "*No systems currently losing CP*\n"
-    
-    report += f"\n### Top 5 Best Protected (Most Positive Net CP)\n"
-    if reinforcement_winning:
-        for i, system in enumerate(reinforcement_winning[:5], 1):
-            report += f"{i}. **{system['system']}:** +{system['net_cp']} CP (U:{system['undermining']:,}, R:{system['reinforcement']:,})\n"
-    else:
-        report += "*No systems currently gaining CP*\n"
 
     # Write report
     output_file = Path("fortified_status.md")
