@@ -49,9 +49,9 @@ def format_opposing_powers(opposing_powers):
 def get_progress_icon(winters_progress, total_opposition):
     """Get progress icon based on Winters progress and opposition levels"""
     if total_opposition > 100:
-        return "🔥"  # Brennender Ofen wenn Opposition > 100%
+        return "💀"  # Brennender Ofen wenn Opposition > 100%
     elif winters_progress > 100:
-        return "�"  # Stern wenn Winters Progress > 100%
+        return "🔒"  # Stern wenn Winters Progress > 100%
     else:
         return "⚔"  # Schwert wenn noch keiner 100% hat
 
