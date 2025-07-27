@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-27 08:09:32
-**Data Source:** 2025-07-27T08:09:32.586427
+**Report Generated:** 2025-07-27 09:00:58
+**Data Source:** 2025-07-27T09:00:58.253922
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LHS 317** | +33,216 CP | 139,348 | 46,307 | 78.4% |
+| ✅ | **LHS 317** | +32,619 CP | 140,134 | 46,345 | 78.4% |
 | ✅ | **BD-01 1707** | +17,854 CP | 99,875 | 20,994 | 65.1% |
 | ✅ | **LP 726-6** | +16,665 CP | 111,528 | 20,368 | 69.4% |
 | ✅ | **Noti** | +15,224 CP | 66,508 | 17,214 | 52.0% |
-| ✅ | **Orishpucho** | +12,897 CP | 105,893 | 16,545 | 66.8% |
+| ✅ | **Orishpucho** | +13,600 CP | 105,893 | 17,173 | 66.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -33,11 +33,11 @@
 
 | Status | System | Net CP | Activity Type | CP Amount | Progress |
 |--------|--------|--------|---------------|-----------|----------|
-| ✅ | **LHS 317** | +33,216 CP | 🛡️ Reinforcement | 46,307 | 78.4% |
+| ✅ | **LHS 317** | +32,619 CP | 🛡️ Reinforcement | 46,345 | 78.4% |
 | ✅ | **BD-01 1707** | +17,854 CP | 🛡️ Reinforcement | 20,994 | 65.1% |
 | ✅ | **LP 726-6** | +16,665 CP | 🛡️ Reinforcement | 20,368 | 69.4% |
 | ✅ | **Noti** | +15,224 CP | 🛡️ Reinforcement | 17,214 | 52.0% |
-| ✅ | **Orishpucho** | +12,897 CP | 🛡️ Reinforcement | 16,545 | 66.8% |
+| ✅ | **Orishpucho** | +13,600 CP | 🛡️ Reinforcement | 17,173 | 66.9% |
 
 ---
 
@@ -48,11 +48,11 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 317 | 46,307 | 139,348 | 92.3% | 75.08% | 78.4% | 784,000 | +33,216 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 46,345 | 140,134 | 92.4% | 75.14% | 78.4% | 784,000 | +32,619 | 🟢 High Reinforcement |
 | ✅ | BD-01 1707 | 20,994 | 99,875 | 75.1% | 63.31% | 65.1% | 650,999 | +17,854 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 20,368 | 111,528 | 80.6% | 67.73% | 69.4% | 694,000 | +16,665 | 🟢 High Reinforcement |
 | ✅ | Noti | 17,214 | 66,508 | 58.7% | 50.48% | 52.0% | 520,000 | +15,224 | 🟢 High Reinforcement |
-| ✅ | Orishpucho | 16,545 | 105,893 | 77.4% | 65.51% | 66.8% | 667,999 | +12,897 | 🟢 High Reinforcement |
+| ✅ | Orishpucho | 17,173 | 105,893 | 77.5% | 65.54% | 66.9% | 669,000 | +13,600 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -69,7 +69,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 3607 | 5,751 | 51,835 | 50.3% | 44.71% | 45.1% | 451,000 | +3,948 | 🔵 Low Reinforcement |
+| ✅ | LTT 3607 | 5,801 | 51,835 | 50.3% | 44.70% | 45.1% | 451,000 | +3,988 | 🔵 Low Reinforcement |
 | ✅ | Algorab | 5,365 | 78,166 | 63.0% | 54.91% | 55.2% | 552,000 | +2,853 | 🔵 Low Reinforcement |
 | ✅ | Neche | 2,608 | 5,487 | 27.8% | 27.02% | 27.3% | 273,000 | +2,776 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 2,353 | 16,166 | 33.0% | 31.17% | 31.4% | 314,000 | +2,261 | 🔵 Low Reinforcement |
