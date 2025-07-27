@@ -31,26 +31,6 @@
 - Helper-Methoden extrahieren
 - Logik vereinfachen
 
-### Datei-Status Tracking
-
-#### Vollständig optimiert:
-- `python/extract.py` - PowerPlay Datenextraktion mit Unicode-Fixes
-- `python/create_contested_md.py` - Contested Systems Report mit FAT Target Integration
-- `python/create_stronghold_md.py` - Stronghold Status Report
-- `python/create_exploited_md.py` - Exploited Status Report
-- `python/create_fortified_md.py` - Fortified Status Report
-- `python/genreadme.py` - README Template Generator
-- `python/download.py` - HTML Download Script
-
-#### Analysiert, aber nicht optimiert:
-- `python/generate.py` - Pipeline Automation (kompakt, aber funktional)
-
-#### Projektstruktur-Status:
-- **Pipeline-Scripts**: Automatisierte Report-Generierung ✅
-- **JSON-Extraktion**: HTML Parsing mit Unicode-Handling ✅
-- **Markdown-Reports**: Formatierte Status-Reports ✅
-- **Template-System**: README mit dynamischen Inhalten ✅
-
 ### PowerPlay-Spezifische Richtlinien
 
 #### 1. Datenintegrität
@@ -104,31 +84,6 @@ grep -E "^(class|def|import)" datei.py  # Struktur
 - Neue Report-Features oder Formatierungen
 - Pipeline-Optimierungen und Automatisierung
 - Datenqualität und Accuracy Verbesserungen
-
-### Projektstruktur (Referenz)
-
-```
-EdSystemChecker/
-├── python/
-│   ├── extract.py              ✅ Optimiert (Unicode + HTML Parsing)
-│   ├── download.py             ✅ Optimiert (Multi-URL Download)
-│   ├── create_contested_md.py  ✅ Optimiert (FAT Target Integration)
-│   ├── create_stronghold_md.py ✅ Optimiert (Status Reports)
-│   ├── create_exploited_md.py  ✅ Optimiert (Status Reports)
-│   ├── create_fortified_md.py  ✅ Optimiert (Status Reports)
-│   ├── genreadme.py            ✅ Optimiert (Template System)
-│   └── generate.py             📋 Funktional (Pipeline Automation)
-├── json/                       📁 Generated JSON Data
-├── html/                       📁 Downloaded HTML Files
-├── accquise.conf              🎯 FAT Target Configuration
-├── README.tpl                 📝 README Template
-├── generate.bat               🔄 Windows Pipeline
-├── contested_status.md        📊 Main PowerPlay Report
-├── stronghold_status.md       📊 Stronghold Analysis
-├── exploited_status.md        📊 Exploited Systems
-├── fortified_status.md        📊 Fortified Systems
-└── README.md                  📖 Generated Documentation
-```
 
 ### Spezielle Optimierungsbereiche
 
