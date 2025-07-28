@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-28 00:38:35
-**Data Source:** 2025-07-28T00:38:35.662534
+**Report Generated:** 2025-07-28 04:24:47
+**Data Source:** 2025-07-28T04:24:47.659194
 **Total Fortified:** 130 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -53,7 +53,7 @@
 | ✅ | Kharahua | 13,605 | 6,216 | 32.7% | 29.68% | 31.7% | 206,050 | +13,109 | 🟢 High Reinforcement |
 | ✅ | HIP 37879 | 12,956 | 14,640 | 40.2% | 35.97% | 37.9% | 246,350 | +12,546 | 🟢 High Reinforcement |
 | ✅ | Tarhul | 12,583 | 3,638 | 30.3% | 27.83% | 29.7% | 193,050 | +12,156 | 🟢 High Reinforcement |
-| ✅ | Parapa | 11,014 | 19,013 | 43.8% | 39.26% | 40.9% | 265,850 | +10,681 | 🟢 High Reinforcement |
+| ✅ | Parapa | 11,168 | 19,013 | 43.8% | 39.24% | 40.9% | 265,850 | +10,808 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -62,13 +62,14 @@
 | ✅ | UBV 8670 | 8,762 | 22,085 | 46.2% | 41.51% | 42.8% | 278,200 | +8,403 | 🟡 Medium Reinforcement |
 | ✅ | NLTT 21088 | 8,455 | 50,533 | 71.7% | 62.63% | 63.9% | 415,350 | +8,245 | 🟡 Medium Reinforcement |
 | ✅ | Mentesuri | 7,240 | 22,977 | 46.8% | 42.23% | 43.3% | 281,450 | +6,966 | 🟡 Medium Reinforcement |
+| ✅ | LHS 2037 | 7,233 | 130 | 26.1% | 25.08% | 26.1% | 169,650 | +6,598 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Nugua | 4,018 | 47,440 | 68.3% | 60.40% | 61.0% | 396,500 | +3,883 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 5,034 | 3,733 | 28.5% | 27.31% | 27.9% | 181,349 | +3,813 | 🔵 Low Reinforcement |
-| ✅ | Nugua | 3,828 | 47,440 | 68.3% | 60.43% | 61.0% | 396,500 | +3,726 | 🔵 Low Reinforcement |
 | ✅ | Aasgay | 11,966 | 104 | 25.5% | 25.00% | 25.5% | 165,750 | +3,250 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 2,956 | 11,204 | 35.5% | 33.41% | 33.8% | 219,699 | +2,520 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 2,565 | 13,747 | 37.7% | 35.28% | 35.6% | 231,400 | +2,109 | 🔵 Low Reinforcement |
