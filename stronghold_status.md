@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-28 04:24:47
-**Data Source:** 2025-07-28T04:24:47.660798
+**Report Generated:** 2025-07-28 08:12:19
+**Data Source:** 2025-07-28T08:12:19.349165
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,9 +11,9 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LHS 317** | +52,730 CP | 140,254 | 66,605 | 80.4% |
+| ✅ | **LHS 317** | +54,164 CP | 140,286 | 68,180 | 80.5% |
 | ✅ | **Fousang** | +26,208 CP | 99,541 | 29,354 | 65.8% |
-| ✅ | **LP 726-6** | +24,064 CP | 111,528 | 27,867 | 70.1% |
+| ✅ | **LP 726-6** | +25,892 CP | 111,528 | 29,652 | 70.3% |
 | ✅ | **Orishpucho** | +24,031 CP | 105,893 | 27,713 | 67.9% |
 | ✅ | **Gurus** | +19,325 CP | 98,625 | 22,588 | 64.7% |
 
@@ -33,9 +33,9 @@
 
 | Status | System | Net CP | Activity Type | CP Amount | Progress |
 |--------|--------|--------|---------------|-----------|----------|
-| ✅ | **LHS 317** | +52,730 CP | 🛡️ Reinforcement | 66,605 | 80.4% |
+| ✅ | **LHS 317** | +54,164 CP | 🛡️ Reinforcement | 68,180 | 80.5% |
 | ✅ | **Fousang** | +26,208 CP | 🛡️ Reinforcement | 29,354 | 65.8% |
-| ✅ | **LP 726-6** | +24,064 CP | 🛡️ Reinforcement | 27,867 | 70.1% |
+| ✅ | **LP 726-6** | +25,892 CP | 🛡️ Reinforcement | 29,652 | 70.3% |
 | ✅ | **Orishpucho** | +24,031 CP | 🛡️ Reinforcement | 27,713 | 67.9% |
 | ✅ | **Gurus** | +19,325 CP | 🛡️ Reinforcement | 22,588 | 64.7% |
 
@@ -48,14 +48,14 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 317 | 66,605 | 140,254 | 94.4% | 75.13% | 80.4% | 804,000 | +52,730 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 68,180 | 140,286 | 94.5% | 75.08% | 80.5% | 805,000 | +54,164 | 🟢 High Reinforcement |
 | ✅ | Fousang | 29,354 | 99,541 | 75.8% | 63.18% | 65.8% | 657,999 | +26,208 | 🟢 High Reinforcement |
-| ✅ | LP 726-6 | 27,867 | 111,528 | 81.3% | 67.69% | 70.1% | 701,000 | +24,064 | 🟢 High Reinforcement |
+| ✅ | LP 726-6 | 29,652 | 111,528 | 81.5% | 67.71% | 70.3% | 703,000 | +25,892 | 🟢 High Reinforcement |
 | ✅ | Orishpucho | 27,713 | 105,893 | 78.5% | 65.50% | 67.9% | 679,000 | +24,031 | 🟢 High Reinforcement |
 | ✅ | Gurus | 22,588 | 98,625 | 74.6% | 62.77% | 64.7% | 647,000 | +19,325 | 🟢 High Reinforcement |
 | ✅ | BD-01 1707 | 20,994 | 99,875 | 75.1% | 63.31% | 65.1% | 650,999 | +17,854 | 🟢 High Reinforcement |
 | ✅ | Noti | 18,704 | 66,508 | 58.8% | 50.44% | 52.1% | 521,000 | +16,616 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 13,868 | 13,004 | 32.5% | 29.84% | 31.2% | 312,000 | +13,592 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 13,888 | 13,004 | 32.5% | 29.84% | 31.2% | 312,000 | +13,608 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -71,7 +71,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Neche | 3,176 | 5,487 | 27.8% | 26.98% | 27.3% | 273,000 | +3,230 | 🔵 Low Reinforcement |
+| ✅ | Neche | 3,725 | 5,487 | 27.9% | 27.01% | 27.4% | 273,999 | +3,869 | 🔵 Low Reinforcement |
 | ✅ | HIP 38747 | 3,081 | 30,250 | 39.8% | 36.56% | 36.8% | 368,000 | +2,417 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 2,358 | 16,166 | 33.0% | 31.17% | 31.4% | 314,000 | +2,265 | 🔵 Low Reinforcement |
 | ✅ | Kaura | 2,847 | 35,995 | 42.5% | 38.71% | 38.9% | 389,000 | +1,851 | 🔵 Low Reinforcement |
