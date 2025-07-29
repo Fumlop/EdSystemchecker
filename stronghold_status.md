@@ -1,7 +1,12 @@
 # 🏛️ Stronghold Status Report
 
+<<<<<<< HEAD
 **Report Generated:** 2025-07-29 10:58:43
 **Data Source:** 2025-07-29T10:58:43.191429
+=======
+**Report Generated:** 2025-07-29 08:11:02
+**Data Source:** 2025-07-29T08:11:02.074673
+>>>>>>> 183fe8b9c7d2458a5365b89a0f92b8c00745e6c0
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -68,7 +73,11 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+<<<<<<< HEAD
 | ✅ | LTT 3607 | 10,733 | 51,850 | 50.8% | 44.71% | 45.6% | 456,000 | +8,922 | 🟡 Medium Reinforcement |
+=======
+| ✅ | LTT 3607 | 10,718 | 51,850 | 50.8% | 44.71% | 45.6% | 456,000 | +8,910 | 🟡 Medium Reinforcement |
+>>>>>>> 183fe8b9c7d2458a5365b89a0f92b8c00745e6c0
 | ✅ | Matipu | 9,532 | 32,125 | 41.4% | 37.31% | 38.2% | 382,000 | +8,884 | 🟡 Medium Reinforcement |
 | ✅ | Algorab | 10,552 | 78,166 | 63.6% | 54.98% | 55.8% | 557,999 | +8,203 | 🟡 Medium Reinforcement |
 | ✅ | HIP 50489 | 8,254 | 69,666 | 59.3% | 51.69% | 52.3% | 523,000 | +6,139 | 🟡 Medium Reinforcement |

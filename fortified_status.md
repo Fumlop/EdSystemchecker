@@ -1,7 +1,12 @@
 # 🛡️ Fortified Status Report
 
+<<<<<<< HEAD
 **Report Generated:** 2025-07-29 10:58:43
 **Data Source:** 2025-07-29T10:58:43.189082
+=======
+**Report Generated:** 2025-07-29 08:11:02
+**Data Source:** 2025-07-29T08:11:02.072960
+>>>>>>> 183fe8b9c7d2458a5365b89a0f92b8c00745e6c0
 **Total Fortified:** 130 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -76,11 +81,18 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Aasgay | 12,988 | 104 | 25.7% | 25.00% | 25.7% | 167,050 | +4,550 | 🔵 Low Reinforcement |
+<<<<<<< HEAD
 | ✅ | Umbrigua | 6,287 | 4,405 | 28.7% | 27.32% | 28.0% | 182,000 | +4,406 | 🔵 Low Reinforcement |
+=======
+>>>>>>> 183fe8b9c7d2458a5365b89a0f92b8c00745e6c0
 | ✅ | Nugua | 4,018 | 47,440 | 68.3% | 60.40% | 61.0% | 396,500 | +3,883 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 4,329 | 11,204 | 35.7% | 33.40% | 34.0% | 221,000 | +3,881 | 🔵 Low Reinforcement |
 | ✅ | b2 Carinae | 4,170 | 5,859 | 30.8% | 29.35% | 29.9% | 194,350 | +3,579 | 🔵 Low Reinforcement |
 | ✅ | Kivah | 3,647 | 14,162 | 38.3% | 35.60% | 36.1% | 234,650 | +3,221 | 🔵 Low Reinforcement |
+<<<<<<< HEAD
+=======
+| ✅ | Umbrigua | 5,069 | 4,405 | 28.5% | 27.31% | 27.8% | 180,700 | +3,174 | 🔵 Low Reinforcement |
+>>>>>>> 183fe8b9c7d2458a5365b89a0f92b8c00745e6c0
 | ✅ | Agarda | 3,175 | 5,831 | 30.7% | 29.39% | 29.8% | 193,700 | +2,667 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 2,571 | 13,944 | 37.7% | 35.30% | 35.6% | 231,400 | +1,951 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 2,098 | 33,346 | 55.2% | 49.83% | 50.1% | 325,650 | +1,747 | 🔵 Low Reinforcement |
