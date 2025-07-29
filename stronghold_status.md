@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-29 10:12:54
-**Data Source:** 2025-07-29T10:12:54.417633
+**Report Generated:** 2025-07-29 12:14:19
+**Data Source:** 2025-07-29T12:14:19.401349
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LHS 317** | +71,286 CP | 140,286 | 85,332 | 82.2% |
+| ✅ | **LHS 317** | +75,628 CP | 140,286 | 89,509 | 82.7% |
 | ✅ | **LP 726-6** | +33,681 CP | 111,528 | 37,389 | 71.1% |
+| ✅ | **BD-01 1707** | +31,058 CP | 99,875 | 34,249 | 66.4% |
 | ✅ | **Orishpucho** | +29,550 CP | 105,941 | 33,159 | 68.5% |
 | ✅ | **Fousang** | +26,305 CP | 99,541 | 29,476 | 65.8% |
-| ✅ | **BD-01 1707** | +25,453 CP | 99,875 | 28,744 | 65.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -26,20 +26,22 @@
 | ✅ | **Athena** | -808 CP | 71,454 | 2,104 | 52.0% |
 | ✅ | **Asetsi** | -398 CP | 96,840 | 2,907 | 62.0% |
 | ✅ | **Xiriwal** | -222 CP | 16,166 | 0 | 31.1% |
-| ✅ | **Siki** | -190 CP | 22,833 | 182 | 33.7% |
+| ✅ | **Siki** | -126 CP | 22,833 | 263 | 33.7% |
 
 ### ⚡ **High Activity Systems**
 *Systems with ≥10,000 CP activity (reinforcement or undermining)*
 
 | Status | System | Net CP | Activity Type | CP Amount | Progress |
 |--------|--------|--------|---------------|-----------|----------|
-| ✅ | **LHS 317** | +71,286 CP | 🛡️ Reinforcement | 85,332 | 82.2% |
+| ✅ | **LHS 317** | +75,628 CP | 🛡️ Reinforcement | 89,509 | 82.7% |
 | ✅ | **LP 726-6** | +33,681 CP | 🛡️ Reinforcement | 37,389 | 71.1% |
+| ✅ | **BD-01 1707** | +31,058 CP | 🛡️ Reinforcement | 34,249 | 66.4% |
 | ✅ | **Orishpucho** | +29,550 CP | 🛡️ Reinforcement | 33,159 | 68.5% |
 | ✅ | **Fousang** | +26,305 CP | 🛡️ Reinforcement | 29,476 | 65.8% |
-| ✅ | **BD-01 1707** | +25,453 CP | 🛡️ Reinforcement | 28,744 | 65.8% |
+## 🔄 System Status Transitions
+*Systems that have exceeded 100% progress*
 
----
+**No systems found that have exceeded 100% progress.**
 
 ## 🛡️ Active Reinforcement (Positive Net CP)
 *Systems where reinforcement is winning against undermining*
@@ -48,23 +50,23 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 317 | 85,332 | 140,286 | 96.2% | 75.07% | 82.2% | 822,000 | +71,286 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 89,509 | 140,286 | 96.7% | 75.14% | 82.7% | 827,000 | +75,628 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 37,389 | 111,528 | 82.3% | 67.73% | 71.1% | 711,000 | +33,681 | 🟢 High Reinforcement |
+| ✅ | BD-01 1707 | 34,249 | 99,875 | 76.4% | 63.29% | 66.4% | 664,000 | +31,058 | 🟢 High Reinforcement |
 | ✅ | Orishpucho | 33,159 | 105,941 | 79.1% | 65.54% | 68.5% | 685,000 | +29,550 | 🟢 High Reinforcement |
 | ✅ | Fousang | 29,476 | 99,541 | 75.8% | 63.17% | 65.8% | 657,999 | +26,305 | 🟢 High Reinforcement |
-| ✅ | BD-01 1707 | 28,744 | 99,875 | 75.8% | 63.25% | 65.8% | 657,999 | +25,453 | 🟢 High Reinforcement |
 | ✅ | Gurus | 22,588 | 98,625 | 74.6% | 62.77% | 64.7% | 647,000 | +19,325 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 18,535 | 13,004 | 33.0% | 29.87% | 31.7% | 317,000 | +18,326 | 🟢 High Reinforcement |
 | ✅ | Noti | 18,709 | 66,508 | 58.8% | 50.44% | 52.1% | 521,000 | +16,620 | 🟢 High Reinforcement |
+| ✅ | LTT 3607 | 13,843 | 51,850 | 51.1% | 44.70% | 45.9% | 458,999 | +12,009 | 🟢 High Reinforcement |
 | ✅ | NLTT 19808 | 10,530 | 23,339 | 37.2% | 33.89% | 34.9% | 349,000 | +10,085 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 3607 | 10,733 | 51,850 | 50.8% | 44.71% | 45.6% | 456,000 | +8,922 | 🟡 Medium Reinforcement |
 | ✅ | Matipu | 9,532 | 32,125 | 41.4% | 37.31% | 38.2% | 382,000 | +8,884 | 🟡 Medium Reinforcement |
-| ✅ | Algorab | 10,552 | 78,166 | 63.6% | 54.98% | 55.8% | 557,999 | +8,203 | 🟡 Medium Reinforcement |
+| ✅ | Algorab | 10,553 | 78,166 | 63.6% | 54.98% | 55.8% | 557,999 | +8,204 | 🟡 Medium Reinforcement |
 | ✅ | HIP 50489 | 8,254 | 69,666 | 59.3% | 51.69% | 52.3% | 523,000 | +6,139 | 🟡 Medium Reinforcement |
 | ✅ | Neche | 6,030 | 5,692 | 28.2% | 27.01% | 27.6% | 276,000 | +5,949 | 🟡 Medium Reinforcement |
 
