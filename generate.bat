@@ -55,7 +55,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [6/7] Generating contested systems report...
+echo [6/10] Generating contested systems report...
 python python\create_contested_md.py
 if errorlevel 1 (
     echo ❌ Contested systems report failed
@@ -64,7 +64,34 @@ if errorlevel 1 (
 )
 
 echo.
-echo [7/7] Generating README...
+echo [7/10] Adding transition tracking to exploited report...
+python python\transition_tracker.py exploited
+if errorlevel 1 (
+    echo ❌ Exploited transition tracking failed
+    pause
+    exit /b 1
+)
+
+echo.
+echo [8/10] Adding transition tracking to fortified report...
+python python\transition_tracker.py fortified
+if errorlevel 1 (
+    echo ❌ Fortified transition tracking failed
+    pause
+    exit /b 1
+)
+
+echo.
+echo [9/10] Adding transition tracking to stronghold report...
+python python\transition_tracker.py stronghold
+if errorlevel 1 (
+    echo ❌ Stronghold transition tracking failed
+    pause
+    exit /b 1
+)
+
+echo.
+echo [10/10] Generating README...
 python python\genreadme.py
 if errorlevel 1 (
     echo ❌ README generation failed

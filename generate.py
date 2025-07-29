@@ -87,7 +87,10 @@ def main():
         ("extract.py", "Extracting and processing system data"), 
         ("python/create_universal_md.py stronghold", "Generating Stronghold status report"),
         ("python/create_universal_md.py exploited", "Generating Exploited status report"),
-        ("python/create_universal_md.py fortified", "Generating Fortified status report")
+        ("python/create_universal_md.py fortified", "Generating Fortified status report"),
+        ("python/transition_tracker.py stronghold", "Adding transition tracking to Stronghold report"),
+        ("python/transition_tracker.py exploited", "Adding transition tracking to Exploited report"),
+        ("python/transition_tracker.py fortified", "Adding transition tracking to Fortified report")
     ])
     
     # Check if all required scripts exist
@@ -127,9 +130,9 @@ def main():
         # List generated files
         print("\nGenerated Reports:")
         reports = [
-            ("stronghold_status.md", "Stronghold Systems Report"),
-            ("exploited_status.md", "Exploited Systems Report"), 
-            ("fortified_status.md", "Fortified Systems Report")
+            ("stronghold_status.md", "Stronghold Systems Report (with transition tracking)"),
+            ("exploited_status.md", "Exploited Systems Report (with transition tracking)"), 
+            ("fortified_status.md", "Fortified Systems Report (with transition tracking)")
         ]
         
         for filename, description in reports:
