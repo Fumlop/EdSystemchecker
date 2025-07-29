@@ -20,8 +20,7 @@ def find_transition_systems(systems, state):
                 'progress_percent': progress,
                 'reinforcement': system.get('reinforcement', 0),
                 'undermining': system.get('undermining', 0),
-                'net_cp': system.get('net_cp', 0),
-                'last_cycle_percent': system.get('last_cycle_percent', 0)
+                'net_cp': system.get('net_cp', 0)
             })
     
     # Sort by highest progress
@@ -56,8 +55,8 @@ def generate_transition_section(systems, state):
 
 **⚠️ {len(transition_systems)} system(s) have exceeded 100% progress!**
 
-| System | Progress % | Next Status | Net CP | Reinforcement | Undermining | Last Week % |
-|--------|------------|-------------|--------|---------------|-------------|-------------|"""
+| System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
+|--------|------------|-------------|--------|---------------|-------------|"""
 
     for system in transition_systems:
         progress_icon = "🚀" if system['progress_percent'] > 120 else "⬆️"
