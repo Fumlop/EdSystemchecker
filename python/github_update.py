@@ -59,20 +59,19 @@ def run_extraction():
         return False
 
 def generate_all_reports():
-    """Generate all markdown reports including transition tracking"""
+    """Generate all markdown reports with integrated transition tracking"""
     print("📄 Generating reports...")
     
     reports = [
-        ('stronghold', 'python/create_universal_md.py'),
-        ('fortified', 'python/create_universal_md.py'),
-        ('exploited', 'python/create_universal_md.py'),
-        ('contested', 'python/create_contested_md.py')
+        ('stronghold', 'python/create_universal_md.py', 'Stronghold report (with transition tracking)'),
+        ('fortified', 'python/create_universal_md.py', 'Fortified report (with transition tracking)'),
+        ('exploited', 'python/create_universal_md.py', 'Exploited report (with transition tracking)'),
+        ('contested', 'python/create_contested_md.py', 'Contested systems report')
     ]
     
-    # Generate base reports first
     success_count = 0
     
-    for report_type, script in reports:
+    for report_type, script, description in reports:
         try:
             if 'universal' in script:
                 cmd = [sys.executable, script, report_type]
@@ -80,22 +79,10 @@ def generate_all_reports():
                 cmd = [sys.executable, script]
                 
             result = subprocess.run(cmd, capture_output=True, text=True, check=True)
-            print(f"✅ {report_type.title()} report generated")
+            print(f"✅ {description}")
             success_count += 1
         except subprocess.CalledProcessError as e:
             print(f"❌ Failed to generate {report_type} report: {e}")
-            print(f"Error: {e.stderr}")
-    
-    # Add transition tracking to applicable reports
-    transition_reports = ['stronghold', 'fortified', 'exploited']
-    
-    for report_type in transition_reports:
-        try:
-            cmd = [sys.executable, 'python/transition_tracker.py', report_type]
-            result = subprocess.run(cmd, capture_output=True, text=True, check=True)
-            print(f"✅ Transition tracking added to {report_type} report")
-        except subprocess.CalledProcessError as e:
-            print(f"❌ Failed to add transition tracking to {report_type}: {e}")
             print(f"Error: {e.stderr}")
     
     return success_count

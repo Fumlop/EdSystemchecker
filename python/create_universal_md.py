@@ -8,6 +8,76 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+def find_transition_systems(systems, state):
+    """Find systems that have exceeded 100% progress and will transition"""
+    transition_systems = []
+    
+    for system in systems:
+        progress = system.get('progress_percent', 0)
+        if progress > 100.0:
+            transition_systems.append({
+                'system': system.get('system', 'Unknown'),
+                'progress_percent': progress,
+                'reinforcement': system.get('reinforcement', 0),
+                'undermining': system.get('undermining', 0),
+                'net_cp': system.get('net_cp', 0),
+                'last_cycle_percent': system.get('last_cycle_percent', 0)
+            })
+    
+    # Sort by highest progress
+    transition_systems.sort(key=lambda x: x['progress_percent'], reverse=True)
+    return transition_systems
+
+def get_next_status(current_state):
+    """Determine next status after transition (system gets stronger when exceeding 100%)"""
+    transitions = {
+        'exploited': 'fortified',
+        'fortified': 'stronghold', 
+        'stronghold': 'stronghold (already max)'
+    }
+    return transitions.get(current_state, 'unknown')
+
+def generate_transition_section(systems, state):
+    """Generate transition tracking section"""
+    transition_systems = find_transition_systems(systems, state)
+    next_status = get_next_status(state)
+    
+    if not transition_systems:
+        return f"""
+## 🔄 System Status Transitions
+*Systems that have exceeded 100% progress*
+
+**No systems found that have exceeded 100% progress.**
+"""
+    
+    section = f"""
+## 🔄 System Status Transitions  
+*Systems that have exceeded 100% progress and will transition to "{next_status}"*
+
+**⚠️ {len(transition_systems)} system(s) have exceeded 100% progress!**
+
+| System | Progress % | Next Status | Net CP | Reinforcement | Undermining | Last Week % |
+|--------|------------|-------------|--------|---------------|-------------|-------------|"""
+
+    for system in transition_systems:
+        progress_icon = "🚀" if system['progress_percent'] > 120 else "⬆️"
+        net_cp_display = f"+{system['net_cp']:,}" if system['net_cp'] > 0 else f"{system['net_cp']:,}"
+        
+        section += f"""
+| {progress_icon} **{system['system']}** | {system['progress_percent']:.1f}% | {next_status} | {net_cp_display} | {system['reinforcement']:,} | {system['undermining']:,} | {system['last_cycle_percent']:.1f}% |"""
+
+    section += f"""
+
+### 📈 Transition Details
+- **Systems over 100%**: {len(transition_systems)}
+- **Highest Progress**: {max(s['progress_percent'] for s in transition_systems):.1f}%
+- **Status Change**: {state.title()} → {next_status.title()}
+
+---
+"""
+
+    return section
+
 def categorize_by_activity(systems, activity_field='undermining'):
     """Categorize systems by activity level"""
     high = []
@@ -182,10 +252,11 @@ def generate_universal_report(state):
     else:
         report += "\n| - | *No high activity systems found* | - | - | - | - |"
 
+    # Add Transition Tracking Section
+    transition_section = generate_transition_section(systems, state)
+    report += transition_section
+
     report += f"""
-
----
-
 ## 🛡️ Active Reinforcement (Positive Net CP)
 *Systems where reinforcement is winning against undermining*
 

@@ -85,12 +85,9 @@ def main():
     
     scripts.extend([
         ("extract.py", "Extracting and processing system data"), 
-        ("python/create_universal_md.py stronghold", "Generating Stronghold status report"),
-        ("python/create_universal_md.py exploited", "Generating Exploited status report"),
-        ("python/create_universal_md.py fortified", "Generating Fortified status report"),
-        ("python/transition_tracker.py stronghold", "Adding transition tracking to Stronghold report"),
-        ("python/transition_tracker.py exploited", "Adding transition tracking to Exploited report"),
-        ("python/transition_tracker.py fortified", "Adding transition tracking to Fortified report")
+        ("python/create_universal_md.py stronghold", "Generating Stronghold status report (with transition tracking)"),
+        ("python/create_universal_md.py exploited", "Generating Exploited status report (with transition tracking)"),
+        ("python/create_universal_md.py fortified", "Generating Fortified status report (with transition tracking)")
     ])
     
     # Check if all required scripts exist
