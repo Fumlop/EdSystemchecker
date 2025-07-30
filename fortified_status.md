@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-30 12:46:19
-**Data Source:** 2025-07-30T12:46:19.506468
+**Report Generated:** 2025-07-30 12:47:57
+**Data Source:** 2025-07-30T12:47:57.605250
 **Total Fortified:** 130 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -28,16 +28,19 @@
 | ✅ | **Col 285 Sector XT-F b12-7** | -371 CP | 15,152 | 26 | 36.3% |
 | ✅ | **Delta-2 Canis Minoris** | -368 CP | 9,447 | 10 | 32.1% |
 
-### ⚡ **High Activity Systems**
-*Systems with ≥10,000 CP activity (reinforcement or undermining)*
+### 🟢 **High Progress Systems (>=70%)**
+*Systems with strong progress that are close to completion*
 
-| Status | System | Net CP | Activity Type | CP Amount | Progress |
-|--------|--------|--------|---------------|-----------|----------|
-| ✅ | **Hyades Sector KC-U c3-21** | +92,074 CP | 🛡️ Reinforcement | 92,476 | 45.9% |
-| ✅ | **HIP 37879** | +31,729 CP | 🛡️ Reinforcement | 32,073 | 40.9% |
-| ✅ | **Mentesuri** | +25,068 CP | 🛡️ Reinforcement | 25,322 | 46.1% |
-| ✅ | **Tau Centauri** | +24,950 CP | 🛡️ Reinforcement | 25,351 | 45.7% |
-| ✅ | **Tarhul** | +22,651 CP | 🛡️ Reinforcement | 23,097 | 31.3% |
+| Status | System | Net CP | Progress | Undermining | Reinforcement |
+|--------|--------|--------|----------|-------------|---------------|
+| - | *No systems with >=70% progress found* | - | - | - | - |
+
+### 🔴 **Low Progress Systems (<25%)**
+*Systems with low progress that need attention*
+
+| Status | System | Net CP | Progress | Undermining | Reinforcement |
+|--------|--------|--------|----------|-------------|---------------|
+| - | *No systems with <25% progress found* | - | - | - | - |
 ## 🔄 System Status Transitions
 *Systems that have exceeded 100% progress*
 
