@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-30 12:47:57
-**Data Source:** 2025-07-30T12:47:57.605250
+**Report Generated:** 2025-07-30 13:04:18
+**Data Source:** 2025-07-30T13:04:18.548822
 **Total Fortified:** 130 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -69,7 +69,7 @@
 | ✅ | HR 3277 | 10,247 | 11,838 | 37.2% | 33.89% | 35.4% | 230,100 | +9,822 | 🟡 Medium Reinforcement |
 | ✅ | UBV 8670 | 8,875 | 22,085 | 46.2% | 41.49% | 42.8% | 278,200 | +8,497 | 🟡 Medium Reinforcement |
 | ✅ | LHS 2037 | 9,115 | 130 | 26.4% | 25.09% | 26.4% | 171,600 | +8,492 | 🟡 Medium Reinforcement |
-| ✅ | Mbutsi | 6,019 | 11,204 | 36.0% | 33.44% | 34.3% | 222,949 | +5,615 | 🟡 Medium Reinforcement |
+| ✅ | Mbutsi | 6,175 | 11,204 | 36.0% | 33.42% | 34.3% | 222,949 | +5,744 | 🟡 Medium Reinforcement |
 | ✅ | Aasgay | 14,030 | 104 | 25.8% | 25.00% | 25.8% | 167,700 | +5,200 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
