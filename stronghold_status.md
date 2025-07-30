@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-30 12:46:19
-**Data Source:** 2025-07-30T12:46:19.508095
+**Report Generated:** 2025-07-30 13:04:18
+**Data Source:** 2025-07-30T13:04:18.550494
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -27,16 +27,20 @@
 | ✅ | **Athena** | -295 CP | 71,454 | 2,495 | 52.1% |
 | ✅ | **Xiriwal** | -222 CP | 16,166 | 0 | 31.1% |
 
-### ⚡ **High Activity Systems**
-*Systems with ≥10,000 CP activity (reinforcement or undermining)*
+### 🟢 **High Progress Systems (>=70%)**
+*Systems with strong progress that are close to completion*
 
-| Status | System | Net CP | Activity Type | CP Amount | Progress |
-|--------|--------|--------|---------------|-----------|----------|
-| ✅ | **LHS 317** | +86,806 CP | 🛡️ Reinforcement | 100,760 | 83.8% |
-| ✅ | **LP 726-6** | +41,120 CP | 🛡️ Reinforcement | 44,937 | 71.8% |
-| ✅ | **Gurus** | +36,251 CP | 🛡️ Reinforcement | 39,496 | 66.4% |
-| ✅ | **Orishpucho** | +34,884 CP | 🛡️ Reinforcement | 38,576 | 69.0% |
-| ✅ | **BD-01 1707** | +33,283 CP | 🛡️ Reinforcement | 36,531 | 66.6% |
+| Status | System | Net CP | Progress | Undermining | Reinforcement |
+|--------|--------|--------|----------|-------------|---------------|
+| ✅ | **LHS 317** | +86,806 CP | 83.8% | 140,315 | 100,760 |
+| ✅ | **LP 726-6** | +41,120 CP | 71.8% | 111,528 | 44,937 |
+
+### 🔴 **Low Progress Systems (<25%)**
+*Systems with low progress that need attention*
+
+| Status | System | Net CP | Progress | Undermining | Reinforcement |
+|--------|--------|--------|----------|-------------|---------------|
+| - | *No systems with <25% progress found* | - | - | - | - |
 ## 🔄 System Status Transitions
 *Systems that have exceeded 100% progress*
 
