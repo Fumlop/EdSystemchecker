@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-30 12:13:57
-**Data Source:** 2025-07-30T12:13:57.706404
+**Report Generated:** 2025-07-30 12:46:19
+**Data Source:** 2025-07-30T12:46:19.508095
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -59,7 +59,7 @@
 | ✅ | Carnoeck | 21,036 | 13,004 | 33.3% | 29.91% | 32.0% | 320,000 | +20,927 | 🟢 High Reinforcement |
 | ✅ | Matipu | 21,358 | 32,125 | 42.5% | 37.25% | 39.3% | 392,999 | +20,544 | 🟢 High Reinforcement |
 | ✅ | LTT 3607 | 19,440 | 51,850 | 51.7% | 44.73% | 46.5% | 465,000 | +17,687 | 🟢 High Reinforcement |
-| ✅ | NLTT 19808 | 14,124 | 23,700 | 37.6% | 33.87% | 35.2% | 352,000 | +13,271 | 🟢 High Reinforcement |
+| ✅ | NLTT 19808 | 16,448 | 23,700 | 37.8% | 33.85% | 35.4% | 354,000 | +15,530 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -81,7 +81,7 @@
 | ✅ | Corbenic | 3,123 | 16,166 | 33.1% | 31.19% | 31.5% | 315,000 | +3,077 | 🔵 Low Reinforcement |
 | ✅ | HIP 38747 | 3,081 | 30,250 | 39.8% | 36.56% | 36.8% | 368,000 | +2,417 | 🔵 Low Reinforcement |
 | ✅ | Karnarki | 2,143 | 13,263 | 31.5% | 30.00% | 30.2% | 302,000 | +2,006 | 🔵 Low Reinforcement |
-| ✅ | Lulua | 3,983 | 69,208 | 58.6% | 51.51% | 51.7% | 517,000 | +1,888 | 🔵 Low Reinforcement |
+| ✅ | Lulua | 4,108 | 69,358 | 58.6% | 51.51% | 51.7% | 517,000 | +1,868 | 🔵 Low Reinforcement |
 
 
 ---
