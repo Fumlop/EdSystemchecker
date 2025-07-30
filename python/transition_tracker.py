@@ -81,15 +81,15 @@ def generate_transition_section(state):
 
 **⚠️ {len(transition_systems)} system(s) have exceeded 100% progress!**
 
-| System | Progress % | Next Status | Net CP | Reinforcement | Undermining | Last Week % |
-|--------|------------|-------------|--------|---------------|-------------|-------------|"""
+| System | Progress % | Next Status | Net CP | Reinforcement | Undermining | 
+|--------|------------|-------------|--------|---------------|-------------|"""
 
     for system in transition_systems:
         progress_icon = "🚀" if system['progress_percent'] > 120 else "⬆️"
         net_cp_display = f"+{system['net_cp']:,}" if system['net_cp'] > 0 else f"{system['net_cp']:,}"
         
         section += f"""
-| {progress_icon} **{system['system']}** | {system['progress_percent']:.1f}% | {next_status} | {net_cp_display} | {system['reinforcement']:,} | {system['undermining']:,} | {system['last_cycle_percent']:.1f}% |"""
+| {progress_icon} **{system['system']}** | {system['progress_percent']:.1f}% | {next_status} | {net_cp_display} | {system['reinforcement']:,} | {system['undermining']:,} |"""
 
     section += f"""
 
