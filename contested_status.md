@@ -10,7 +10,7 @@
 
 ## 📊 Quick Summary
 
-### 🟢 Nearly Conquered Systems (>=80% Winters Progress)
+### 🟢 Conquered Systems (>=80% Winters Progress)
 
 | Status | System | Winters Progress | Opposition |
 |--------|--------|------------------|------------|
@@ -20,7 +20,7 @@
 | 🔒 | Thep No Cha | 🟢 **101.1%** | 24.3% |
 | ⚔ | Hyades Sector WZ-N b7-3 | 🟢 **89.6%** | 0.0% |
 
-### 🔴 Nearly Lost Systems (>=80% Opposition)
+### 🔴 Lost Systems (>=80% Opposition)
 
 | Status | System | Winters Progress | Opposition |
 |--------|--------|------------------|------------|
