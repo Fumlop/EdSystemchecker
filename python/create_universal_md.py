@@ -63,7 +63,7 @@ def generate_transition_section(systems, state):
         net_cp_display = f"+{system['net_cp']:,}" if system['net_cp'] > 0 else f"{system['net_cp']:,}"
         
         section += f"""
-| {progress_icon} **{system['system']}** | {system['progress_percent']:.1f}% | {next_status} | {net_cp_display} | {system['reinforcement']:,} | {system['undermining']:,} | {system['last_cycle_percent']:.1f}% |"""
+| {progress_icon} **{system['system']}** | {system['progress_percent']:.1f}% | {next_status} | {net_cp_display} | {system['reinforcement']:,} | {system['undermining']:,} |"""
 
     section += f"""
 
