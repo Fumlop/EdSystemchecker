@@ -110,7 +110,7 @@ def generate_contested_report():
     
     # Get high progress systems (>=80% for nearly conquered)
     nearly_conquered_contested = [s for s in contested_systems if s.get('progress_percent', 0) >= 80]
-    high_progress_expansion = [s for s in expansion_systems if s.get('progress_percent', 0) >= 70]
+    high_progress_expansion = [s for s in expansion_systems if s.get('progress_percent', 0) >= 50]
     
     # Get systems where opposition > 80% (nearly lost situations)
     def calculate_total_opposition(system):
@@ -188,7 +188,7 @@ def generate_contested_report():
     
     # Top 5 Expansion Systems Table (>=70% Progress)
     if high_progress_expansion:
-        report.append("### 🔵 Top 5 Expansion Systems (>=70% Progress)")
+        report.append("### 🔵 Top 5 Expansion Systems (>=50% Progress)")
         report.append("")
         report.append("| Status | System | Winters Progress |")
         report.append("|--------|--------|------------------|")
