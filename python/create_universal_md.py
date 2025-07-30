@@ -2,6 +2,7 @@
 """
 Universal system status markdown report generator
 Supports: stronghold, fortified, exploited states
+Cache-bust: v1.1
 """
 import json
 import sys
