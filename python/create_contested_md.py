@@ -121,8 +121,8 @@ def generate_contested_report():
     nearly_lost_contested = []
     for system in contested_systems:
         total_opposition = calculate_total_opposition(system)
-        if total_opposition >= 80:
-            system['total_opposition'] = total_opposition
+        if total_opposition >= 80 and nearly_conquered_contested < 80:
+            system['total_opposition'] = total_opposition 
             nearly_lost_contested.append(system)
     
     # Sort nearly lost systems by opposition strength (highest first)  
