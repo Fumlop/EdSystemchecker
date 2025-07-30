@@ -108,26 +108,25 @@ def generate_contested_report():
     contested_systems.sort(key=lambda x: x.get('progress_percent', 0), reverse=True)
     expansion_systems.sort(key=lambda x: x.get('progress_percent', 0), reverse=True)
     
-    # Get high progress systems (>=70% instead of 80%)
-    high_progress_contested = [s for s in contested_systems if s.get('progress_percent', 0) >= 70]
+    # Get high progress systems (>=80% for nearly conquered)
+    nearly_conquered_contested = [s for s in contested_systems if s.get('progress_percent', 0) >= 80]
     high_progress_expansion = [s for s in expansion_systems if s.get('progress_percent', 0) >= 70]
     
-    # Get systems where opposition > progress (difficult situations)
+    # Get systems where opposition > 80% (nearly lost situations)
     def calculate_total_opposition(system):
         """Calculate total opposition percentage"""
         opposing_powers = system.get('opposing_powers', [])
         return sum(power.get('progress_percent', 0) for power in opposing_powers)
     
-    difficult_contested = []
+    nearly_lost_contested = []
     for system in contested_systems:
         total_opposition = calculate_total_opposition(system)
-        progress = system.get('progress_percent', 0)
-        if total_opposition > progress:
+        if total_opposition >= 80:
             system['total_opposition'] = total_opposition
-            difficult_contested.append(system)
+            nearly_lost_contested.append(system)
     
-    # Sort difficult systems by opposition strength (highest first)  
-    difficult_contested.sort(key=lambda x: x.get('total_opposition', 0), reverse=True)
+    # Sort nearly lost systems by opposition strength (highest first)  
+    nearly_lost_contested.sort(key=lambda x: x.get('total_opposition', 0), reverse=True)
     
     # Generate timestamp
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -151,15 +150,14 @@ def generate_contested_report():
     report.append("## 📊 Quick Summary")
     report.append("")
     
-    # Top 5 High Progress Contested Systems Table (>=70%)
-    if high_progress_contested:
-        report.append("### 🟢 Top 5 High Progress Contested Systems (>=70%)")
+    # Top Systems that are Nearly Conquered (>=80% Winters Progress)
+    if nearly_conquered_contested:
+        report.append("### 🟢 Nearly Conquered Systems (>=80% Winters Progress)")
         report.append("")
         report.append("| Status | System | Winters Progress | Opposition |")
         report.append("|--------|--------|------------------|------------|")
         
-        top_5_high_contested = high_progress_contested[:5]
-        for system in top_5_high_contested:
+        for system in nearly_conquered_contested:
             progress = system.get('progress_percent', 0)
             total_opposition = calculate_total_opposition(system)
             
@@ -170,35 +168,16 @@ def generate_contested_report():
         
         report.append("")
     
-    # Top 5 Difficult Contested Systems Table (Opposition > Progress)
-    if difficult_contested:
-        report.append("### 🔴 Top 5 Difficult Contested Systems (Opposition > Progress)")
+    # Top Systems that are Nearly Lost (>=80% Opposition)
+    if nearly_lost_contested:
+        report.append("### 🔴 Nearly Lost Systems (>=80% Opposition)")
         report.append("")
         report.append("| Status | System | Winters Progress | Opposition |")
         report.append("|--------|--------|------------------|------------|")
         
-        top_5_difficult = difficult_contested[:5]
-        for system in top_5_difficult:
+        for system in nearly_lost_contested:
             progress = system.get('progress_percent', 0)
             total_opposition = system.get('total_opposition', 0)
-            
-            status_icon = get_progress_icon(progress, total_opposition)
-            winters_formatted, opposition_formatted = format_progress_vs_opposition(progress, total_opposition)
-            
-            report.append(f"| {status_icon} | {system['system']} | {winters_formatted} | {opposition_formatted} |")
-        
-        report.append("")
-    
-    # FAT Target Systems Table
-    if accquise_contested:
-        report.append("### 🎯 FAT Target")
-        report.append("")
-        report.append("| Status | System | Winters Progress | Opposition |")
-        report.append("|--------|--------|------------------|------------|")
-        
-        for system in accquise_contested:
-            progress = system.get('progress_percent', 0)
-            total_opposition = calculate_total_opposition(system)
             
             status_icon = get_progress_icon(progress, total_opposition)
             winters_formatted, opposition_formatted = format_progress_vs_opposition(progress, total_opposition)
@@ -228,15 +207,15 @@ def generate_contested_report():
     report.append("---")
     report.append("")
     
-    # High Progress Contested Systems Table
-    if high_progress_contested:
-        report.append("## 🟢 High Progress Contested Systems (>=70%)")
-        report.append("*Systems where Felicia Winters has strong progress but faces opposition*")
+    # Nearly Conquered Systems Table (>=80%)
+    if nearly_conquered_contested:
+        report.append("## 🟢 Nearly Conquered Systems (>=80% Winters Progress)")
+        report.append("*Systems where Felicia Winters has strong progress and is close to winning*")
         report.append("")
         report.append("| Status | System | Progress % | Opposing Powers | State |")
         report.append("|--------|--------|------------|----------------|-------|")
         
-        for system in high_progress_contested:
+        for system in nearly_conquered_contested:
             status = get_status_emoji(system.get('contested', False), system.get('progress_percent', 0))
             opposing = format_opposing_powers(system.get('opposing_powers', []))
             state = system.get('state', 'Unknown')
@@ -248,36 +227,16 @@ def generate_contested_report():
         report.append("---")
         report.append("")
     
-    # FAT Target Systems Table
-    if accquise_contested:
-        report.append("## 🎯 FAT Target")
-        report.append("*High priority systems from accquise.conf that are currently contested*")
-        report.append("")
-        report.append("| Status | System | Progress % | Total Opposition % | Opposing Powers | State |")
-        report.append("|--------|--------|------------|-------------------|----------------|-------|")
-        
-        for system in accquise_contested:
-            status = get_status_emoji(system.get('contested', False), system.get('progress_percent', 0))
-            opposing = format_opposing_powers(system.get('opposing_powers', []))
-            state = system.get('state', 'Unknown')
-            progress = system.get('progress_percent', 0)
-            total_opposition = calculate_total_opposition(system)
-            
-            report.append(f"| {status} | {system['system']} | {progress:.1f}% | {total_opposition:.1f}% | {opposing} | {state} |")
-        
-        report.append("")
-        report.append("---")
-        report.append("")
     
-    # Difficult Contested Systems Table
-    if difficult_contested:
-        report.append("## 🔴 Difficult Contested Systems (Opposition > Progress)")
-        report.append("*Systems where opposition is stronger than our progress*")
+    # Nearly Lost Systems Table (>=80% Opposition)
+    if nearly_lost_contested:
+        report.append("## 🔴 Nearly Lost Systems (>=80% Opposition)")
+        report.append("*Systems where opposition is very strong and we might lose them*")
         report.append("")
         report.append("| Status | System | Our Progress % | Total Opposition % | Opposing Powers | State |")
         report.append("|--------|--------|----------------|-------------------|----------------|-------|")
         
-        for system in difficult_contested:
+        for system in nearly_lost_contested:
             status = get_status_emoji(system.get('contested', False), system.get('progress_percent', 0))
             opposing = format_opposing_powers(system.get('opposing_powers', []))
             state = system.get('state', 'Unknown')
@@ -328,10 +287,10 @@ def generate_contested_report():
     
     print(f"[OK] Contested status report generated: {output_path}")
     print(f"[INFO] {len(contested_systems)} contested systems, {len(expansion_systems)} expansion systems")
-    if high_progress_contested:
-        print(f"[HIGH] {len(high_progress_contested)} high progress contested systems (>=70%)")
-    if difficult_contested:
-        print(f"[LOW] {len(difficult_contested)} difficult contested systems (opposition > progress)")
+    if nearly_conquered_contested:
+        print(f"[HIGH] {len(nearly_conquered_contested)} nearly conquered systems (>=80% Winters progress)")
+    if nearly_lost_contested:
+        print(f"[LOW] {len(nearly_lost_contested)} nearly lost systems (>=80% opposition)")
     if high_progress_expansion:
         print(f"[BLUE] {len(high_progress_expansion)} high progress expansion systems (>=70%)")
 
