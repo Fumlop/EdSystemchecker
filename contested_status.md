@@ -1,7 +1,7 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-07-30 13:04:18
-**Data Source:** 2025-07-30T13:04:18.117353
+**Report Generated:** 2025-07-30 14:00:40
+**Data Source:** 2025-07-30T14:00:40.172900
 **Total Contested:** 1745 systems
 **Total Expansion:** 775 systems
 **Priority Acquisition Targets:** 4 of 4 systems are contested
@@ -306,11 +306,11 @@
 | 🔴 | Puppis Sector KR-W b1-1 | 3.4% | Arissa Lavigny-Duval (0.6%), Zemina Torval (0.0%) |
 | 🔴 | Taunets | 3.4% | Li Yong-Rui (0.0%) |
 | 🔴 | Crucis Sector ZP-X b1-2 | 3.3% | Nakato Kaine (0.0%) |
+| 🔴 | Hyades Sector QE-O b7-0 | 3.3% | Edmund Mahon (0.0%) |
 | 🔴 | Lyncis Sector EB-X c1-11 | 3.3% | Li Yong-Rui (0.2%) |
 | 🔴 | Tsimshis | 3.3% | Aisling Duval (0.3%) |
 | 🔴 | Binjuri Ku | 3.2% | Nakato Kaine (11.4%) |
 | 🔴 | Chuangubu | 3.2% | Nakato Kaine (0.0%) |
-| 🔴 | Hyades Sector QE-O b7-0 | 3.2% | Edmund Mahon (0.0%) |
 | 🔴 | Kunbudj | 3.2% | Aisling Duval (0.8%) |
 | 🔴 | Lambi | 3.2% | Arissa Lavigny-Duval (43.2%), Zemina Torval (0.0%) |
 | 🔴 | LHS 2317 | 3.2% | Edmund Mahon (9.3%) |
@@ -362,7 +362,7 @@
 | 🔴 | LHS 2848 | 2.5% | Edmund Mahon (0.0%), Jerome Archer (0.0%), Nakato Kaine (0.0%) |
 | 🔴 | Yorundi | 2.5% | Arissa Lavigny-Duval (70.0%), Zemina Torval (2.6%) |
 | 🔴 | Anapel | 2.4% | Nakato Kaine (1.0%) |
-| 🔴 | Crucis Sector YE-A d99 | 2.4% | Edmund Mahon (0.0%), Nakato Kaine (2.5%) |
+| 🔴 | Crucis Sector YE-A d99 | 2.4% | Edmund Mahon (0.0%), Nakato Kaine (2.6%) |
 | 🔴 | Decean | 2.4% | Aisling Duval (0.9%), Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Salintaula | 2.4% | Arissa Lavigny-Duval (2.1%) |
 | 🔴 | Sete | 2.4% | Edmund Mahon (0.7%) |
@@ -1543,7 +1543,7 @@
 | 🔴 | Hyades Sector IC-K b9-2 | 0.0% | Aisling Duval (0.0%), Arissa Lavigny-Duval (0.1%), Zemina Torval (0.0%) |
 | 🔴 | Hyades Sector IC-K b9-7 | 0.0% | Arissa Lavigny-Duval (0.0%), Zemina Torval (0.0%) |
 | 🔴 | Hyades Sector IH-V d2-98 | 0.0% | Edmund Mahon (0.0%) |
-| 🔴 | Hyades Sector JC-K b9-2 | 0.0% | Zemina Torval (24.7%) |
+| 🔴 | Hyades Sector JC-K b9-2 | 0.0% | Zemina Torval (26.2%) |
 | 🔴 | Hyades Sector JH-V d2-149 | 0.0% | Aisling Duval (2.7%), Arissa Lavigny-Duval (3.8%), Zemina Torval (0.0%) |
 | 🔴 | Hyades Sector LI-I b10-3 | 0.0% | Arissa Lavigny-Duval (0.1%), Zemina Torval (0.0%) |
 | 🔴 | Hyades Sector MD-Q b6-5 | 0.0% | Edmund Mahon (0.0%) |
