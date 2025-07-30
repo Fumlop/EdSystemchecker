@@ -64,7 +64,6 @@ def generate_transition_section(systems, state):
         
         section += f"""
 | {progress_icon} **{system['system']}** | {system['progress_percent']:.1f}% | {next_status} | {net_cp_display} | {system['reinforcement']:,} | {system['undermining']:,} |"""
-
     section += f"""
 
 ### 📈 Transition Details
