@@ -225,31 +225,45 @@ def generate_universal_report(state):
     else:
         report += "\n| - | *No systems currently losing CP* | - | - | - | - |"
 
-    # High Activity Summary
-    high_activity_systems = []
-    if reinf_high:
-        high_activity_systems.extend([(s, "Reinforcement", s['reinforcement']) for s in reinf_high])
-    if under_high:
-        high_activity_systems.extend([(s, "Undermining", s['undermining']) for s in under_high])
+    # High Progress and Low Progress Systems
+    high_progress_systems = [s for s in systems_with_analysis if s.get('progress_percent', 0) >= 70]
+    low_progress_systems = [s for s in systems_with_analysis if s.get('progress_percent', 0) < 25]
     
-    high_activity_systems.sort(key=lambda x: abs(x[0]['net_cp']), reverse=True)
+    # Sort by progress (highest first for high progress, lowest first for low progress)
+    high_progress_systems.sort(key=lambda x: x.get('progress_percent', 0), reverse=True)
+    low_progress_systems.sort(key=lambda x: x.get('progress_percent', 0))
 
     report += f"""
 
-### ⚡ **High Activity Systems**
-*Systems with ≥10,000 CP activity (reinforcement or undermining)*
+### 🟢 **High Progress Systems (>=70%)**
+*Systems with strong progress that are close to completion*
 
-| Status | System | Net CP | Activity Type | CP Amount | Progress |
-|--------|--------|--------|---------------|-----------|----------|"""
+| Status | System | Net CP | Progress | Undermining | Reinforcement |
+|--------|--------|--------|----------|-------------|---------------|"""
     
-    if high_activity_systems:
-        for system, activity_type, cp_amount in high_activity_systems[:5]:
+    if high_progress_systems:
+        for system in high_progress_systems:
             status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
-            net_cp_display = f"+{system['net_cp']:,}" if system['net_cp'] > 0 else f"{system['net_cp']:,}"
-            activity_icon = "🛡️" if activity_type == "Reinforcement" else "⚠️"
-            report += f"\n| {status_icon} | **{system['system']}** | {net_cp_display} CP | {activity_icon} {activity_type} | {cp_amount:,} | {system['progress_percent']}% |"
+            net_cp_display = f"+{system.get('net_cp', 0):,}" if system.get('net_cp', 0) >= 0 else f"{system.get('net_cp', 0):,}"
+            report += f"\n| {status_icon} | **{system['system']}** | {net_cp_display} CP | {system['progress_percent']}% | {system['undermining']:,} | {system['reinforcement']:,} |"
     else:
-        report += "\n| - | *No high activity systems found* | - | - | - | - |"
+        report += "\n| - | *No systems with >=70% progress found* | - | - | - | - |"
+
+    report += f"""
+
+### 🔴 **Low Progress Systems (<25%)**
+*Systems with low progress that need attention*
+
+| Status | System | Net CP | Progress | Undermining | Reinforcement |
+|--------|--------|--------|----------|-------------|---------------|"""
+    
+    if low_progress_systems:
+        for system in low_progress_systems:
+            status_icon = "✅" if system['progress_percent'] >= 20 else "🔥"
+            net_cp_display = f"+{system.get('net_cp', 0):,}" if system.get('net_cp', 0) >= 0 else f"{system.get('net_cp', 0):,}"
+            report += f"\n| {status_icon} | **{system['system']}** | {net_cp_display} CP | {system['progress_percent']}% | {system['undermining']:,} | {system['reinforcement']:,} |"
+    else:
+        report += "\n| - | *No systems with <25% progress found* | - | - | - | - |"
 
     # Add Transition Tracking Section
     transition_section = generate_transition_section(systems, state)
