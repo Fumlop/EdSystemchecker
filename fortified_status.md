@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-30 06:57:18
-**Data Source:** 2025-07-30T06:57:18.749187
+**Report Generated:** 2025-07-30 08:11:18
+**Data Source:** 2025-07-30T08:11:18.866584
 **Total Fortified:** 130 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -22,7 +22,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Timbalderis** | -3,090 CP | 12,413 | 500 | 31.5% |
+| ✅ | **Timbalderis** | -3,086 CP | 12,413 | 505 | 31.5% |
 | ✅ | **LTT 4716** | -506 CP | 4,399 | 76 | 28.2% |
 | ✅ | **Atat** | -409 CP | 6,508 | 0 | 29.9% |
 | ✅ | **Arnais** | -381 CP | 6,542 | 68 | 29.9% |
@@ -72,9 +72,9 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Mbutsi | 5,285 | 11,204 | 35.9% | 33.45% | 34.2% | 222,300 | +4,896 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 6,704 | 4,405 | 28.8% | 27.35% | 28.1% | 182,650 | +4,863 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 4,670 | 47,440 | 68.4% | 60.40% | 61.1% | 397,150 | +4,535 | 🔵 Low Reinforcement |
-| ✅ | Mbutsi | 4,601 | 11,204 | 35.8% | 33.45% | 34.1% | 221,650 | +4,218 | 🔵 Low Reinforcement |
 | ✅ | b2 Carinae | 4,772 | 5,918 | 30.8% | 29.28% | 29.9% | 194,350 | +4,029 | 🔵 Low Reinforcement |
 | ✅ | Kivah | 3,849 | 14,162 | 38.4% | 35.66% | 36.2% | 235,300 | +3,500 | 🔵 Low Reinforcement |
 | ✅ | Sanos | 3,387 | 33,910 | 56.0% | 50.32% | 50.8% | 330,200 | +3,131 | 🔵 Low Reinforcement |
@@ -107,4 +107,4 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Timbalderis | 12,413 | 33.4% | 31.98% | 31.5% | 500 | 204,750 | -3,090 | 🟡 Low Undermining |
+| ✅ | Timbalderis | 12,413 | 33.4% | 31.97% | 31.5% | 505 | 204,750 | -3,086 | 🟡 Low Undermining |
