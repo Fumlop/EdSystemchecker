@@ -1,8 +1,8 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-07-31 12:53:46
-**Data Source:** 2025-07-31T12:53:45.382349
-**Total Contested:** 1746 systems
+**Report Generated:** 2025-07-31 13:00:38
+**Data Source:** 2025-07-31T13:00:37.763137
+**Total Contested:** 1747 systems
 **Total Expansion:** 778 systems
 **Priority Acquisition Targets:** 3 of 4 systems are contested
 
@@ -408,6 +408,7 @@
 | 🔴 | Hydrae Sector FW-W b1-1 | 1.8% | Edmund Mahon (0.0%), Nakato Kaine (0.5%) |
 | 🔴 | Lelao | 1.8% | Arissa Lavigny-Duval (19.2%) |
 | 🔴 | LHS 1935 | 1.8% | Denton Patreus (0.0%), Edmund Mahon (0.0%), Jerome Archer (4.4%), Li Yong-Rui (0.0%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
+| 🔴 | LTT 2589 | 1.8% | Arissa Lavigny-Duval (20.4%), Zemina Torval (0.0%) |
 | 🔴 | Puppis Sector GW-N a6-5 | 1.8% | Arissa Lavigny-Duval (11.7%), Zemina Torval (0.0%) |
 | 🔴 | Puppis Sector LC-V b2-5 | 1.8% | Arissa Lavigny-Duval (0.2%), Zemina Torval (0.0%) |
 | 🔴 | Rishia | 1.8% | Aisling Duval (0.0%) |
@@ -477,7 +478,7 @@
 | 🔴 | HIP 54362 | 1.3% | Aisling Duval (6.2%), Nakato Kaine (3.5%) |
 | 🔴 | Irula | 1.3% | Aisling Duval (8.9%), Arissa Lavigny-Duval (2.0%), Zemina Torval (0.0%) |
 | 🔴 | Jamanu | 1.3% | Aisling Duval (81.2%), Zemina Torval (22.5%) |
-| 🔴 | LFT 476 | 1.3% | Arissa Lavigny-Duval (51.8%), Denton Patreus (0.9%), Jerome Archer (0.0%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
+| 🔴 | LFT 476 | 1.3% | Arissa Lavigny-Duval (60.4%), Denton Patreus (0.9%), Jerome Archer (4.3%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
 | 🔴 | LHS 2552 | 1.3% | Aisling Duval (0.8%), Edmund Mahon (1.7%), Jerome Archer (15.3%), Yuri Grom (1.2%), Zemina Torval (0.1%) |
 | 🔴 | Puppis Sector OI-T b3-6 | 1.3% | Aisling Duval (0.6%), Arissa Lavigny-Duval (0.0%), Edmund Mahon (0.1%), Yuri Grom (5.2%), Zemina Torval (0.0%) |
 | 🔴 | Sharru Sector GM-V b2-1 | 1.3% | Edmund Mahon (0.1%) |
