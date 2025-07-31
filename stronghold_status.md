@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-31 06:09:08
-**Data Source:** 2025-07-31T06:09:08.312925
+**Report Generated:** 2025-07-31 08:08:56
+**Data Source:** 2025-07-31T08:08:56.618608
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -59,9 +59,9 @@
 | ✅ | Noti | 38,736 | 66,508 | 60.8% | 50.44% | 54.1% | 541,000 | +36,642 | 🟢 High Reinforcement |
 | ✅ | BD-01 1707 | 36,688 | 99,875 | 76.6% | 63.26% | 66.6% | 665,999 | +33,408 | 🟢 High Reinforcement |
 | ✅ | Fousang | 32,965 | 99,541 | 76.1% | 63.13% | 66.1% | 660,999 | +29,696 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 22,663 | 13,004 | 33.4% | 29.86% | 32.1% | 321,000 | +22,428 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 24,214 | 13,004 | 33.6% | 29.89% | 32.3% | 322,999 | +24,069 | 🟢 High Reinforcement |
 | ✅ | Matipu | 21,585 | 32,125 | 42.6% | 37.31% | 39.4% | 393,999 | +20,926 | 🟢 High Reinforcement |
-| ✅ | LTT 3607 | 21,775 | 51,861 | 51.9% | 44.71% | 46.7% | 467,000 | +19,946 | 🟢 High Reinforcement |
+| ✅ | LTT 3607 | 22,437 | 51,873 | 52.0% | 44.73% | 46.8% | 468,000 | +20,667 | 🟢 High Reinforcement |
 | ✅ | NLTT 19808 | 16,448 | 23,700 | 37.8% | 33.85% | 35.4% | 354,000 | +15,530 | 🟢 High Reinforcement |
 | ✅ | Algorab | 13,873 | 78,166 | 63.9% | 54.95% | 56.1% | 561,000 | +11,460 | 🟢 High Reinforcement |
 
