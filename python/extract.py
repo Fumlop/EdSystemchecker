@@ -226,7 +226,7 @@ class InaraHTMLParser(HTMLParser):
     def extract_system_from_row(self, cells):
         """Extract system data from table row cells"""
         try:
-            if not cells or len(cells) < 7:  # Need at least 7 columns (including Update column)
+            if not cells or len(cells) < 8:  # Need at least 8 columns (including Update column at index 7)
                 return None
             
             # First cell: System name - clean Unicode characters
@@ -248,8 +248,8 @@ class InaraHTMLParser(HTMLParser):
             elif 'exploited' in state_cell:
                 state = 'Exploited'
             
-            # Third cell: Update time (e.g., "11 hours ago", "2 days ago")
-            update_text = cells[2].strip() if len(cells) > 2 else ""
+            # Eighth cell (index 7): Update time (e.g., "11 hours ago", "2 days ago")
+            update_text = cells[7].strip() if len(cells) > 7 else ""
             extracted_at = self.parse_update_time(update_text)
             
             # Fourth cell: Undermining
@@ -400,7 +400,7 @@ class InaraContestedHTMLParser(HTMLParser):
     def extract_contested_system_from_row(self, cells):
         """Extract contested system data from table row cells"""
         try:
-            if not cells or len(cells) < 5:  # Need at least 5 columns (including Update column)
+            if not cells or len(cells) < 6:  # Need at least 6 columns (including Update column at index 5)
                 return None
             
             # Skip header rows
@@ -460,14 +460,10 @@ class InaraContestedHTMLParser(HTMLParser):
             except ValueError:
                 progress_percent = 0.0
             
-            # Extract update time from 4th or 5th column (depending on table structure)
+            # Extract update time from 6th column (index 5)  
             update_text = ""
-            if len(cells) > 4:
-                # Try 5th column first (0-indexed: cells[4])
-                update_text = cells[4].strip()
-            if not update_text and len(cells) > 3:
-                # Fallback to 4th column if 5th is empty
-                update_text = cells[3].strip()
+            if len(cells) > 5:
+                update_text = cells[5].strip()
                 
             extracted_at = self.parse_update_time(update_text)
             
