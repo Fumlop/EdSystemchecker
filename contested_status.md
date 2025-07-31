@@ -1,8 +1,8 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-07-31 12:44:32
-**Data Source:** 2025-07-31T12:44:31.638695
-**Total Contested:** 1744 systems
+**Report Generated:** 2025-07-31 12:49:13
+**Data Source:** 2025-07-31T12:49:12.780487
+**Total Contested:** 1745 systems
 **Total Expansion:** 778 systems
 **Priority Acquisition Targets:** 3 of 4 systems are contested
 
@@ -1668,6 +1668,7 @@
 | 🔴 | LTT 4969 | 0.0% | Edmund Mahon (0.0%), Jerome Archer (0.1%), Nakato Kaine (0.0%) |
 | 🔴 | LTT 5373 | 0.0% | Aisling Duval (0.6%), Arissa Lavigny-Duval (0.0%), Edmund Mahon (0.6%), Yuri Grom (0.0%) |
 | 🔴 | LTT 5553 | 0.0% | Edmund Mahon (0.7%), Nakato Kaine (7.1%) |
+| 🔴 | Lugiu Dieva | 0.0% | Aisling Duval (1.0%), Zemina Torval (0.0%) |
 | 🔴 | Lyncis Sector DL-Y d77 | 0.0% | Li Yong-Rui (0.0%) |
 | 🔴 | Lyncis Sector EB-X c1-8 | 0.0% | Li Yong-Rui (0.0%) |
 | 🔴 | Lyncis Sector GW-W c1-9 | 0.0% | Li Yong-Rui (0.0%) |
