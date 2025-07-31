@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-31 20:06:40
-**Data Source:** 2025-07-31T20:06:40.286429
-**Total Fortified:** 73 (29 with decay analysis)
+**Report Generated:** 2025-07-31 22:06:01
+**Data Source:** 2025-07-31T22:06:01.630718
+**Total Fortified:** 86 (34 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -13,6 +13,7 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Parapa** | +28,393 CP | 19,560 | 28,765 | 44.0% |
 | ✅ | **Kivah** | +11,261 CP | 12,487 | 11,686 | 36.1% |
+| ✅ | **Wulpurna** | +73 CP | 34,047 | 235 | 50.5% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -23,7 +24,7 @@
 | ✅ | **Atat** | -513 CP | 5,415 | 0 | 29.0% |
 | ✅ | **Aasgay** | -496 CP | 927 | 0 | 25.7% |
 | ✅ | **b2 Carinae** | -494 CP | 5,528 | 0 | 29.1% |
-| ✅ | **LFT 601** | -485 CP | 1,862 | 0 | 26.4% |
+| ✅ | **Timbalderis** | -488 CP | 7,957 | 0 | 30.9% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
