@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-31 16:07:21
-**Data Source:** 2025-07-31T16:07:21.371915
-**Total Fortified:** 51 (21 with decay analysis)
+**Report Generated:** 2025-07-31 18:08:28
+**Data Source:** 2025-07-31T18:08:28.579379
+**Total Fortified:** 66 (27 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,7 +11,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Parapa** | +11,573 CP | 19,560 | 11,962 | 41.4% |
+| ✅ | **Parapa** | +28,393 CP | 19,560 | 28,765 | 44.0% |
+| ✅ | **Kivah** | +5,207 CP | 12,487 | 5,590 | 35.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -20,9 +21,9 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **LTT 4716** | -526 CP | 3,536 | 0 | 27.6% |
 | ✅ | **Atat** | -513 CP | 5,415 | 0 | 29.0% |
+| ✅ | **Aasgay** | -496 CP | 927 | 0 | 25.7% |
+| ✅ | **b2 Carinae** | -485 CP | 5,517 | 0 | 29.1% |
 | ✅ | **LFT 601** | -485 CP | 1,862 | 0 | 26.4% |
-| ✅ | **Timbalderis** | -461 CP | 7,925 | 0 | 30.9% |
-| ✅ | **Huangais** | -451 CP | 4,663 | 0 | 28.5% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -49,11 +50,13 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Parapa | 11,962 | 19,560 | 44.4% | 39.62% | 41.4% | 269,100 | +11,573 | 🟢 High Reinforcement |
+| ✅ | Parapa | 28,765 | 19,560 | 47.0% | 39.63% | 44.0% | 286,000 | +28,393 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
-*No fortified systems with medium reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Kivah | 5,590 | 12,487 | 37.1% | 34.40% | 35.2% | 228,800 | +5,207 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
