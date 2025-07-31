@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-31 08:08:56
-**Data Source:** 2025-07-31T08:08:56.618608
+**Report Generated:** 2025-07-31 10:06:45
+**Data Source:** 2025-07-31T10:06:45.609218
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,27 +11,29 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LHS 317** | +115,180 CP | 140,315 | 129,229 | 86.6% |
 | ✅ | **LP 726-6** | +47,003 CP | 111,528 | 50,791 | 72.4% |
 | ✅ | **Gurus** | +45,727 CP | 98,625 | 48,840 | 67.4% |
 | ✅ | **Orishpucho** | +41,433 CP | 105,941 | 45,013 | 69.7% |
 | ✅ | **Noti** | +36,642 CP | 66,508 | 38,736 | 54.1% |
+| ✅ | **BD-01 1707** | +33,408 CP | 99,875 | 36,688 | 66.6% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Rhea** | -3,214 CP | 97,958 | 0 | 62.2% |
+| ✅ | **LHS 317** | -4,355 CP | 128,500 | 3 | 73.8% |
+| ✅ | **Fousang** | -2,650 CP | 85,708 | 0 | 57.6% |
+| ✅ | **Rhea** | -2,374 CP | 77,583 | 0 | 54.5% |
+| ✅ | **LTT 3607** | -1,135 CP | 45,416 | 0 | 42.3% |
 | ✅ | **Xiriwal** | -222 CP | 16,166 | 0 | 31.1% |
-| ✅ | **Athena** | -214 CP | 71,454 | 2,596 | 52.1% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **LHS 317** | +115,180 CP | 86.6% | 140,315 | 129,229 |
+| ✅ | **LHS 317** | -4,355 CP | 73.8% | 128,500 | 3 |
 | ✅ | **LP 726-6** | +47,003 CP | 72.4% | 111,528 | 50,791 |
 
 ### 🔴 **Low Progress Systems (<25%)**
@@ -52,16 +54,13 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 317 | 129,229 | 140,315 | 100.6% | 75.08% | 86.6% | 866,000 | +115,180 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 50,791 | 111,528 | 83.6% | 67.70% | 72.4% | 724,000 | +47,003 | 🟢 High Reinforcement |
 | ✅ | Gurus | 48,840 | 98,625 | 77.3% | 62.83% | 67.4% | 674,000 | +45,727 | 🟢 High Reinforcement |
 | ✅ | Orishpucho | 45,013 | 105,941 | 80.3% | 65.56% | 69.7% | 697,000 | +41,433 | 🟢 High Reinforcement |
 | ✅ | Noti | 38,736 | 66,508 | 60.8% | 50.44% | 54.1% | 541,000 | +36,642 | 🟢 High Reinforcement |
 | ✅ | BD-01 1707 | 36,688 | 99,875 | 76.6% | 63.26% | 66.6% | 665,999 | +33,408 | 🟢 High Reinforcement |
-| ✅ | Fousang | 32,965 | 99,541 | 76.1% | 63.13% | 66.1% | 660,999 | +29,696 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 24,214 | 13,004 | 33.6% | 29.89% | 32.3% | 322,999 | +24,069 | 🟢 High Reinforcement |
 | ✅ | Matipu | 21,585 | 32,125 | 42.6% | 37.31% | 39.4% | 393,999 | +20,926 | 🟢 High Reinforcement |
-| ✅ | LTT 3607 | 22,437 | 51,873 | 52.0% | 44.73% | 46.8% | 468,000 | +20,667 | 🟢 High Reinforcement |
 | ✅ | NLTT 19808 | 16,448 | 23,700 | 37.8% | 33.85% | 35.4% | 354,000 | +15,530 | 🟢 High Reinforcement |
 | ✅ | Algorab | 13,873 | 78,166 | 63.9% | 54.95% | 56.1% | 561,000 | +11,460 | 🟢 High Reinforcement |
 
@@ -83,7 +82,6 @@
 | ✅ | Mbambiva | 3,896 | 12,622 | 31.4% | 29.73% | 30.1% | 301,000 | +3,719 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 3,918 | 16,166 | 33.1% | 31.13% | 31.5% | 315,000 | +3,712 | 🔵 Low Reinforcement |
 | ✅ | HIP 38747 | 3,081 | 30,250 | 39.8% | 36.56% | 36.8% | 368,000 | +2,417 | 🔵 Low Reinforcement |
-| ✅ | Karnarki | 2,209 | 13,263 | 31.6% | 30.07% | 30.3% | 303,000 | +2,259 | 🔵 Low Reinforcement |
 | ✅ | Lulua | 4,133 | 69,358 | 58.6% | 51.51% | 51.7% | 517,000 | +1,888 | 🔵 Low Reinforcement |
 
 
@@ -104,4 +102,7 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Rhea | 97,958 | 72.0% | 62.52% | 62.2% | 0 | 622,000 | -3,214 | 🟡 Low Undermining |
+| ✅ | LHS 317 | 128,500 | 86.7% | 74.24% | 73.8% | 3 | 738,000 | -4,355 | 🟡 Low Undermining |
+| ✅ | Fousang | 85,708 | 66.2% | 57.86% | 57.6% | 0 | 576,000 | -2,650 | 🟡 Low Undermining |
+| ✅ | Rhea | 77,583 | 62.3% | 54.74% | 54.5% | 0 | 545,000 | -2,374 | 🟡 Low Undermining |
+| ✅ | LTT 3607 | 45,416 | 46.8% | 42.41% | 42.3% | 0 | 423,000 | -1,135 | 🟡 Low Undermining |
