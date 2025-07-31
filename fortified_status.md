@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-31 10:06:45
-**Data Source:** 2025-07-31T10:06:45.607601
+**Report Generated:** 2025-07-31 11:25:29
+**Data Source:** 2025-07-31T11:25:29.405047
 **Total Fortified:** 130 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -25,8 +25,8 @@
 | ✅ | **LTT 4716** | -506 CP | 4,399 | 76 | 28.2% |
 | ✅ | **Huangais** | -451 CP | 4,663 | 0 | 28.5% |
 | ✅ | **LTT 4487** | -451 CP | 11,838 | 0 | 33.8% |
+| ✅ | **Eme** | -421 CP | 11,667 | 0 | 33.7% |
 | ✅ | **Timbalderis** | -420 CP | 7,875 | 0 | 30.9% |
-| ✅ | **Atat** | -409 CP | 6,508 | 0 | 29.9% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
