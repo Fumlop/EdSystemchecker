@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-30 22:06:07
-**Data Source:** 2025-07-30T22:06:07.738376
+**Report Generated:** 2025-07-31 00:27:04
+**Data Source:** 2025-07-31T00:27:04.184419
 **Total Fortified:** 130 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -69,8 +69,8 @@
 | ✅ | HR 3277 | 10,247 | 11,838 | 37.2% | 33.89% | 35.4% | 230,100 | +9,822 | 🟡 Medium Reinforcement |
 | ✅ | LHS 2037 | 9,490 | 130 | 26.4% | 25.05% | 26.4% | 171,600 | +8,802 | 🟡 Medium Reinforcement |
 | ✅ | UBV 8670 | 8,875 | 22,085 | 46.2% | 41.49% | 42.8% | 278,200 | +8,497 | 🟡 Medium Reinforcement |
-| ✅ | Mbutsi | 7,161 | 11,204 | 36.2% | 33.46% | 34.5% | 224,249 | +6,785 | 🟡 Medium Reinforcement |
-| ✅ | Umbrigua | 7,684 | 4,435 | 28.9% | 27.31% | 28.2% | 183,299 | +5,761 | 🟡 Medium Reinforcement |
+| ✅ | Mbutsi | 7,197 | 11,204 | 36.2% | 33.45% | 34.5% | 224,249 | +6,814 | 🟡 Medium Reinforcement |
+| ✅ | Umbrigua | 8,113 | 4,435 | 29.0% | 27.34% | 28.3% | 183,950 | +6,229 | 🟡 Medium Reinforcement |
 | ✅ | Aasgay | 14,030 | 111 | 25.8% | 25.00% | 25.8% | 167,700 | +5,200 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
@@ -83,16 +83,16 @@
 | ✅ | Sanos | 3,413 | 33,910 | 56.0% | 50.31% | 50.8% | 330,200 | +3,153 | 🔵 Low Reinforcement |
 | ✅ | Agarda | 3,489 | 5,831 | 30.8% | 29.43% | 29.9% | 194,350 | +3,039 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 2,770 | 13,944 | 37.7% | 35.27% | 35.6% | 231,400 | +2,115 | 🔵 Low Reinforcement |
-| ✅ | 54 G. Antlia | 2,776 | 39,022 | 59.9% | 53.61% | 53.9% | 350,350 | +1,868 | 🔵 Low Reinforcement |
+| ✅ | 54 G. Antlia | 2,844 | 39,022 | 59.9% | 53.60% | 53.9% | 350,350 | +1,924 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 2,120 | 33,346 | 55.2% | 49.83% | 50.1% | 325,650 | +1,765 | 🔵 Low Reinforcement |
 | ✅ | V902 Centauri | 2,067 | 26,995 | 49.5% | 45.05% | 45.3% | 294,450 | +1,600 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 1,727 | 33,124 | 55.1% | 49.77% | 50.0% | 325,000 | +1,511 | 🔵 Low Reinforcement |
 | ✅ | Delta Muscae | 2,384 | 14,696 | 38.0% | 35.50% | 35.7% | 232,050 | +1,285 | 🔵 Low Reinforcement |
 | ✅ | LFT 601 | 1,723 | 1,862 | 27.0% | 26.50% | 26.7% | 173,550 | +1,277 | 🔵 Low Reinforcement |
 | ✅ | HR 2798 | 1,384 | 28,580 | 51.0% | 46.42% | 46.6% | 302,900 | +1,179 | 🔵 Low Reinforcement |
+| ✅ | Lesheima | 1,691 | 17,423 | 40.8% | 37.92% | 38.1% | 247,650 | +1,144 | 🔵 Low Reinforcement |
 | ✅ | Huangais | 1,721 | 5,427 | 30.0% | 29.03% | 29.2% | 189,800 | +1,126 | 🔵 Low Reinforcement |
-| ✅ | Lesheima | 1,583 | 17,423 | 40.8% | 37.94% | 38.1% | 247,650 | +1,054 | 🔵 Low Reinforcement |
-| ✅ | Timbalderis | 4,716 | 12,465 | 34.0% | 31.94% | 32.1% | 208,650 | +1,029 | 🔵 Low Reinforcement |
+| ✅ | Timbalderis | 4,716 | 12,477 | 34.0% | 31.94% | 32.1% | 208,650 | +1,019 | 🔵 Low Reinforcement |
 
 
 ---
