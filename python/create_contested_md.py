@@ -114,9 +114,11 @@ def generate_contested_report():
     
     # Get systems where opposition > 80% (nearly lost situations)
     def calculate_total_opposition(system):
-        """Calculate total opposition percentage"""
+        """Calculate total opposition percentage - uses MAX instead of SUM"""
         opposing_powers = system.get('opposing_powers', [])
-        return sum(power.get('progress_percent', 0) for power in opposing_powers)
+        if not opposing_powers:
+            return 0
+        return max(power.get('progress_percent', 0) for power in opposing_powers)
     
     nearly_lost_contested = []
     for system in contested_systems:
