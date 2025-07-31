@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-31 14:07:23
-**Data Source:** 2025-07-31T14:07:23.308431
-**Total Fortified:** 35 (16 with decay analysis)
+**Report Generated:** 2025-07-31 16:07:21
+**Data Source:** 2025-07-31T16:07:21.371915
+**Total Fortified:** 51 (21 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| - | *No systems currently gaining CP* | - | - | - | - |
+| ✅ | **Parapa** | +11,573 CP | 19,560 | 11,962 | 41.4% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -20,9 +20,9 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **LTT 4716** | -526 CP | 3,536 | 0 | 27.6% |
 | ✅ | **Atat** | -513 CP | 5,415 | 0 | 29.0% |
+| ✅ | **LFT 601** | -485 CP | 1,862 | 0 | 26.4% |
+| ✅ | **Timbalderis** | -461 CP | 7,925 | 0 | 30.9% |
 | ✅ | **Huangais** | -451 CP | 4,663 | 0 | 28.5% |
-| ✅ | **LTT 4487** | -451 CP | 11,838 | 0 | 33.8% |
-| ✅ | **Kivah** | -428 CP | 12,487 | 0 | 34.3% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -47,7 +47,9 @@
 
 ### 🟢 High Activity (≥10,000 CP Reinforcement)
 
-*No fortified systems with high reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Parapa | 11,962 | 19,560 | 44.4% | 39.62% | 41.4% | 269,100 | +11,573 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
