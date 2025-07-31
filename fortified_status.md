@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-30 13:04:18
-**Data Source:** 2025-07-30T13:04:18.548822
-**Total Fortified:** 130 (50 with decay analysis)
+**Report Generated:** 2025-07-31 10:06:45
+**Data Source:** 2025-07-31T10:06:45.607601
+**Total Fortified:** 130 (51 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,10 +12,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Hyades Sector KC-U c3-21** | +92,074 CP | 8,900 | 92,476 | 45.9% |
-| ✅ | **HIP 37879** | +31,729 CP | 14,640 | 32,073 | 40.9% |
-| ✅ | **Mentesuri** | +25,068 CP | 22,977 | 25,322 | 46.1% |
-| ✅ | **Tau Centauri** | +24,950 CP | 22,607 | 25,351 | 45.7% |
-| ✅ | **Tarhul** | +22,651 CP | 3,638 | 23,097 | 31.3% |
+| ✅ | **HIP 37879** | +72,203 CP | 14,640 | 72,583 | 47.1% |
+| ✅ | **Mentesuri** | +47,029 CP | 22,977 | 47,390 | 49.4% |
+| ✅ | **Tarhul** | +27,571 CP | 3,638 | 28,094 | 32.0% |
+| ✅ | **Tau Centauri** | +26,224 CP | 22,607 | 26,619 | 45.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -23,10 +23,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **LTT 4716** | -506 CP | 4,399 | 76 | 28.2% |
+| ✅ | **Huangais** | -451 CP | 4,663 | 0 | 28.5% |
+| ✅ | **LTT 4487** | -451 CP | 11,838 | 0 | 33.8% |
+| ✅ | **Timbalderis** | -420 CP | 7,875 | 0 | 30.9% |
 | ✅ | **Atat** | -409 CP | 6,508 | 0 | 29.9% |
-| ✅ | **Arnais** | -381 CP | 6,542 | 68 | 29.9% |
-| ✅ | **Col 285 Sector XT-F b12-7** | -371 CP | 15,152 | 26 | 36.3% |
-| ✅ | **Delta-2 Canis Minoris** | -368 CP | 9,447 | 10 | 32.1% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -54,44 +54,41 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Hyades Sector KC-U c3-21 | 92,476 | 8,900 | 47.3% | 31.73% | 45.9% | 298,350 | +92,074 | 🟢 High Reinforcement |
-| ✅ | HIP 37879 | 32,073 | 14,640 | 43.2% | 36.02% | 40.9% | 265,850 | +31,729 | 🟢 High Reinforcement |
-| ✅ | Mentesuri | 25,322 | 22,977 | 49.6% | 42.24% | 46.1% | 299,650 | +25,068 | 🟢 High Reinforcement |
-| ✅ | Tau Centauri | 25,351 | 22,607 | 49.2% | 41.86% | 45.7% | 297,050 | +24,950 | 🟢 High Reinforcement |
-| ✅ | Tarhul | 23,097 | 3,638 | 31.9% | 27.82% | 31.3% | 203,450 | +22,651 | 🟢 High Reinforcement |
+| ✅ | HIP 37879 | 72,583 | 14,640 | 49.4% | 35.99% | 47.1% | 306,150 | +72,203 | 🟢 High Reinforcement |
+| ✅ | Mentesuri | 47,390 | 22,977 | 52.9% | 42.16% | 49.4% | 321,100 | +47,029 | 🟢 High Reinforcement |
+| ✅ | Tarhul | 28,094 | 3,638 | 32.6% | 27.76% | 32.0% | 208,000 | +27,571 | 🟢 High Reinforcement |
+| ✅ | Tau Centauri | 26,619 | 22,607 | 49.4% | 41.87% | 45.9% | 298,350 | +26,224 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 22,169 | 6,216 | 34.0% | 29.67% | 33.0% | 214,500 | +21,654 | 🟢 High Reinforcement |
-| ✅ | Parapa | 16,437 | 19,018 | 44.6% | 39.23% | 41.7% | 271,050 | +16,061 | 🟢 High Reinforcement |
-| ✅ | NLTT 21088 | 12,577 | 51,046 | 72.4% | 62.67% | 64.5% | 419,250 | +11,904 | 🟢 High Reinforcement |
+| ✅ | HR 2798 | 18,658 | 28,580 | 53.6% | 46.37% | 49.2% | 319,800 | +18,389 | 🟢 High Reinforcement |
+| ✅ | Parapa | 16,688 | 19,018 | 44.7% | 39.28% | 41.8% | 271,700 | +16,381 | 🟢 High Reinforcement |
+| ✅ | LHS 2037 | 11,336 | 130 | 26.7% | 25.06% | 26.7% | 173,550 | +10,666 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | HR 3277 | 10,247 | 11,838 | 37.2% | 33.89% | 35.4% | 230,100 | +9,822 | 🟡 Medium Reinforcement |
-| ✅ | UBV 8670 | 8,875 | 22,085 | 46.2% | 41.49% | 42.8% | 278,200 | +8,497 | 🟡 Medium Reinforcement |
-| ✅ | LHS 2037 | 9,115 | 130 | 26.4% | 25.09% | 26.4% | 171,600 | +8,492 | 🟡 Medium Reinforcement |
-| ✅ | Mbutsi | 6,175 | 11,204 | 36.0% | 33.42% | 34.3% | 222,949 | +5,744 | 🟡 Medium Reinforcement |
-| ✅ | Aasgay | 14,030 | 104 | 25.8% | 25.00% | 25.8% | 167,700 | +5,200 | 🟡 Medium Reinforcement |
+| ✅ | Mbutsi | 7,926 | 11,204 | 36.3% | 33.44% | 34.6% | 224,900 | +7,530 | 🟡 Medium Reinforcement |
+| ✅ | Umbrigua | 8,113 | 4,435 | 29.0% | 27.34% | 28.3% | 183,950 | +6,229 | 🟡 Medium Reinforcement |
+| ✅ | Aasgay | 14,030 | 111 | 25.8% | 25.00% | 25.8% | 167,700 | +5,200 | 🟡 Medium Reinforcement |
+| ✅ | Nugua | 5,244 | 47,440 | 68.5% | 60.41% | 61.2% | 397,800 | +5,122 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Umbrigua | 6,704 | 4,405 | 28.8% | 27.35% | 28.1% | 182,650 | +4,863 | 🔵 Low Reinforcement |
-| ✅ | Nugua | 4,670 | 47,440 | 68.4% | 60.40% | 61.1% | 397,150 | +4,535 | 🔵 Low Reinforcement |
 | ✅ | b2 Carinae | 4,772 | 5,918 | 30.8% | 29.28% | 29.9% | 194,350 | +4,029 | 🔵 Low Reinforcement |
-| ✅ | Kivah | 3,849 | 14,162 | 38.4% | 35.66% | 36.2% | 235,300 | +3,500 | 🔵 Low Reinforcement |
+| ✅ | Kivah | 3,867 | 14,162 | 38.4% | 35.66% | 36.2% | 235,300 | +3,515 | 🔵 Low Reinforcement |
+| ✅ | Agarda | 3,734 | 5,831 | 30.8% | 29.40% | 29.9% | 194,350 | +3,242 | 🔵 Low Reinforcement |
 | ✅ | Sanos | 3,413 | 33,910 | 56.0% | 50.31% | 50.8% | 330,200 | +3,153 | 🔵 Low Reinforcement |
-| ✅ | Agarda | 3,489 | 5,831 | 30.8% | 29.43% | 29.9% | 194,350 | +3,039 | 🔵 Low Reinforcement |
-| ✅ | LTT 4487 | 2,571 | 13,944 | 37.7% | 35.30% | 35.6% | 231,400 | +1,951 | 🔵 Low Reinforcement |
-| ✅ | 18 Puppis | 2,110 | 33,346 | 55.2% | 49.83% | 50.1% | 325,650 | +1,757 | 🔵 Low Reinforcement |
-| ✅ | 54 G. Antlia | 2,462 | 38,953 | 59.9% | 53.64% | 53.9% | 350,350 | +1,665 | 🔵 Low Reinforcement |
-| ✅ | Ralu | 1,517 | 33,124 | 55.1% | 49.79% | 50.0% | 325,000 | +1,338 | 🔵 Low Reinforcement |
-| ✅ | V902 Centauri | 1,842 | 26,995 | 49.4% | 45.00% | 45.2% | 293,800 | +1,301 | 🔵 Low Reinforcement |
-| ✅ | Delta Muscae | 2,384 | 14,696 | 38.0% | 35.50% | 35.7% | 232,050 | +1,285 | 🔵 Low Reinforcement |
-| ✅ | LFT 601 | 1,723 | 1,862 | 27.0% | 26.50% | 26.7% | 173,550 | +1,277 | 🔵 Low Reinforcement |
-| ✅ | HR 2798 | 1,384 | 28,580 | 51.0% | 46.42% | 46.6% | 302,900 | +1,179 | 🔵 Low Reinforcement |
-| ✅ | Huangais | 1,721 | 5,427 | 30.0% | 29.03% | 29.2% | 189,800 | +1,126 | 🔵 Low Reinforcement |
-| ✅ | Timbalderis | 4,716 | 12,413 | 34.0% | 31.94% | 32.1% | 208,650 | +1,072 | 🔵 Low Reinforcement |
+| ✅ | Gliese 2084 | 92,814 | 0 | 25.3% | 25.00% | 25.3% | 164,450 | +1,950 | 🔵 Low Reinforcement |
+| ✅ | 54 G. Antlia | 2,844 | 39,022 | 59.9% | 53.60% | 53.9% | 350,350 | +1,924 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 2,120 | 33,346 | 55.2% | 49.83% | 50.1% | 325,650 | +1,765 | 🔵 Low Reinforcement |
+| ✅ | V902 Centauri | 2,067 | 26,995 | 49.5% | 45.05% | 45.3% | 294,450 | +1,600 | 🔵 Low Reinforcement |
+| ✅ | LFT 601 | 2,025 | 1,862 | 27.0% | 26.47% | 26.7% | 173,550 | +1,527 | 🔵 Low Reinforcement |
+| ✅ | Ralu | 1,727 | 33,124 | 55.1% | 49.77% | 50.0% | 325,000 | +1,511 | 🔵 Low Reinforcement |
+| ✅ | Delta Muscae | 2,384 | 14,707 | 38.0% | 35.50% | 35.7% | 232,050 | +1,276 | 🔵 Low Reinforcement |
+| ✅ | Lesheima | 1,691 | 17,434 | 40.8% | 37.93% | 38.1% | 247,650 | +1,135 | 🔵 Low Reinforcement |
 
 
 ---
