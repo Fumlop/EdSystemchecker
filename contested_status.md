@@ -1,8 +1,8 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-07-31 12:49:13
-**Data Source:** 2025-07-31T12:49:12.780487
-**Total Contested:** 1745 systems
+**Report Generated:** 2025-07-31 12:53:46
+**Data Source:** 2025-07-31T12:53:45.382349
+**Total Contested:** 1746 systems
 **Total Expansion:** 778 systems
 **Priority Acquisition Targets:** 3 of 4 systems are contested
 
@@ -1274,6 +1274,7 @@
 | 🔴 | Col 285 Sector OS-T d3-102 | 0.0% | Zemina Torval (0.0%) |
 | 🔴 | Col 285 Sector OS-T d3-147 | 0.0% | Arissa Lavigny-Duval (3.4%), Zemina Torval (0.0%) |
 | 🔴 | Col 285 Sector PD-X b16-0 | 0.0% | Aisling Duval (0.1%), Arissa Lavigny-Duval (0.0%) |
+| 🔴 | Col 285 Sector QY-S a33-0 | 0.0% | Aisling Duval (0.0%), Arissa Lavigny-Duval (31.3%), Zemina Torval (0.0%) |
 | 🔴 | Col 285 Sector RY-H c10-20 | 0.0% | Aisling Duval (0.0%), Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Col 285 Sector RY-H c10-23 | 0.0% | Aisling Duval (2.4%), Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Col 285 Sector RY-H c10-25 | 0.0% | Aisling Duval (0.0%), Arissa Lavigny-Duval (0.0%) |
