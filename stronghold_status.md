@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-31 11:25:29
-**Data Source:** 2025-07-31T11:25:29.406653
+**Report Generated:** 2025-07-31 12:09:35
+**Data Source:** 2025-07-31T12:09:35.895016
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -22,8 +22,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LHS 317** | -3,567 CP | 128,500 | 737 | 73.9% |
 | ✅ | **LP 726-6** | -3,146 CP | 99,000 | 123 | 62.6% |
+| ✅ | **LHS 317** | -2,901 CP | 128,500 | 1,320 | 74.0% |
 | ✅ | **Fousang** | -2,650 CP | 85,708 | 0 | 57.6% |
 | ✅ | **Rhea** | -2,374 CP | 77,583 | 0 | 54.5% |
 | ✅ | **LTT 3607** | -1,135 CP | 45,416 | 0 | 42.3% |
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **LHS 317** | -3,567 CP | 73.9% | 128,500 | 737 |
+| ✅ | **LHS 317** | -2,901 CP | 74.0% | 128,500 | 1,320 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -58,7 +58,6 @@
 | ✅ | Noti | 38,736 | 66,508 | 60.8% | 50.44% | 54.1% | 541,000 | +36,642 | 🟢 High Reinforcement |
 | ✅ | BD-01 1707 | 36,688 | 99,875 | 76.6% | 63.26% | 66.6% | 665,999 | +33,408 | 🟢 High Reinforcement |
 | ✅ | Matipu | 21,585 | 32,125 | 42.6% | 37.31% | 39.4% | 393,999 | +20,926 | 🟢 High Reinforcement |
-| ✅ | NLTT 19808 | 16,448 | 23,700 | 37.8% | 33.85% | 35.4% | 354,000 | +15,530 | 🟢 High Reinforcement |
 | ✅ | Algorab | 13,873 | 78,166 | 63.9% | 54.95% | 56.1% | 561,000 | +11,460 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -98,8 +97,8 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | LHS 317 | 128,500 | 86.8% | 74.26% | 73.9% | 737 | 739,000 | -3,567 | 🟡 Low Undermining |
 | ✅ | LP 726-6 | 99,000 | 72.5% | 62.91% | 62.6% | 123 | 626,000 | -3,146 | 🟡 Low Undermining |
+| ✅ | LHS 317 | 128,500 | 86.9% | 74.29% | 74.0% | 1,320 | 740,000 | -2,901 | 🟡 Low Undermining |
 | ✅ | Fousang | 85,708 | 66.2% | 57.86% | 57.6% | 0 | 576,000 | -2,650 | 🟡 Low Undermining |
 | ✅ | Rhea | 77,583 | 62.3% | 54.74% | 54.5% | 0 | 545,000 | -2,374 | 🟡 Low Undermining |
 | ✅ | LTT 3607 | 45,416 | 46.8% | 42.41% | 42.3% | 0 | 423,000 | -1,135 | 🟡 Low Undermining |
