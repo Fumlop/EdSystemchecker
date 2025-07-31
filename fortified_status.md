@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-31 10:06:45
-**Data Source:** 2025-07-31T10:06:45.607601
-**Total Fortified:** 130 (51 with decay analysis)
+**Report Generated:** 2025-07-31 12:09:36
+**Data Source:** 2025-07-31T12:09:35.893374
+**Total Fortified:** 131 (51 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -22,11 +22,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LTT 4716** | -506 CP | 4,399 | 76 | 28.2% |
+| ✅ | **LTT 4716** | -526 CP | 3,536 | 0 | 27.6% |
+| ✅ | **Atat** | -513 CP | 5,415 | 0 | 29.0% |
 | ✅ | **Huangais** | -451 CP | 4,663 | 0 | 28.5% |
 | ✅ | **LTT 4487** | -451 CP | 11,838 | 0 | 33.8% |
-| ✅ | **Timbalderis** | -420 CP | 7,875 | 0 | 30.9% |
-| ✅ | **Atat** | -409 CP | 6,508 | 0 | 29.9% |
+| ✅ | **Eme** | -421 CP | 11,667 | 0 | 33.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -67,7 +67,6 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HR 3277 | 10,247 | 11,838 | 37.2% | 33.89% | 35.4% | 230,100 | +9,822 | 🟡 Medium Reinforcement |
 | ✅ | Mbutsi | 7,926 | 11,204 | 36.3% | 33.44% | 34.6% | 224,900 | +7,530 | 🟡 Medium Reinforcement |
 | ✅ | Umbrigua | 8,113 | 4,435 | 29.0% | 27.34% | 28.3% | 183,950 | +6,229 | 🟡 Medium Reinforcement |
 | ✅ | Aasgay | 14,030 | 111 | 25.8% | 25.00% | 25.8% | 167,700 | +5,200 | 🟡 Medium Reinforcement |
