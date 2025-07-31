@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-07-31 12:09:35
-**Data Source:** 2025-07-31T12:09:35.895016
+**Report Generated:** 2025-07-31 12:44:32
+**Data Source:** 2025-07-31T12:44:32.070620
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -14,8 +14,8 @@
 | ✅ | **Gurus** | +45,727 CP | 98,625 | 48,840 | 67.4% |
 | ✅ | **Orishpucho** | +41,699 CP | 105,941 | 45,345 | 69.7% |
 | ✅ | **Noti** | +36,642 CP | 66,508 | 38,736 | 54.1% |
-| ✅ | **BD-01 1707** | +33,408 CP | 99,875 | 36,688 | 66.6% |
 | ✅ | **Matipu** | +20,926 CP | 32,125 | 21,585 | 39.4% |
+| ✅ | **Algorab** | +11,460 CP | 78,166 | 13,873 | 56.1% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -23,17 +23,17 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **LP 726-6** | -3,146 CP | 99,000 | 123 | 62.6% |
-| ✅ | **LHS 317** | -2,901 CP | 128,500 | 1,320 | 74.0% |
+| ✅ | **BD-01 1707** | -2,680 CP | 86,750 | 0 | 58.0% |
 | ✅ | **Fousang** | -2,650 CP | 85,708 | 0 | 57.6% |
 | ✅ | **Rhea** | -2,374 CP | 77,583 | 0 | 54.5% |
-| ✅ | **LTT 3607** | -1,135 CP | 45,416 | 0 | 42.3% |
+| ✅ | **LHS 1928** | -2,257 CP | 71,916 | 0 | 52.3% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **LHS 317** | -2,901 CP | 74.0% | 128,500 | 1,320 |
+| ✅ | **LHS 317** | -1,267 CP | 74.1% | 128,500 | 3,113 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -56,7 +56,6 @@
 | ✅ | Gurus | 48,840 | 98,625 | 77.3% | 62.83% | 67.4% | 674,000 | +45,727 | 🟢 High Reinforcement |
 | ✅ | Orishpucho | 45,345 | 105,941 | 80.3% | 65.53% | 69.7% | 697,000 | +41,699 | 🟢 High Reinforcement |
 | ✅ | Noti | 38,736 | 66,508 | 60.8% | 50.44% | 54.1% | 541,000 | +36,642 | 🟢 High Reinforcement |
-| ✅ | BD-01 1707 | 36,688 | 99,875 | 76.6% | 63.26% | 66.6% | 665,999 | +33,408 | 🟢 High Reinforcement |
 | ✅ | Matipu | 21,585 | 32,125 | 42.6% | 37.31% | 39.4% | 393,999 | +20,926 | 🟢 High Reinforcement |
 | ✅ | Algorab | 13,873 | 78,166 | 63.9% | 54.95% | 56.1% | 561,000 | +11,460 | 🟢 High Reinforcement |
 
@@ -65,7 +64,6 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Inovik | 13,092 | 101,180 | 74.7% | 63.65% | 64.6% | 645,999 | +9,491 | 🟡 Medium Reinforcement |
-| ✅ | Neche | 8,350 | 5,722 | 28.4% | 26.98% | 27.8% | 278,000 | +8,181 | 🟡 Medium Reinforcement |
 | ✅ | Andel | 10,594 | 105,083 | 76.5% | 65.28% | 66.0% | 660,000 | +7,183 | 🟡 Medium Reinforcement |
 | ✅ | HIP 50489 | 8,847 | 69,666 | 59.4% | 51.72% | 52.4% | 524,000 | +6,814 | 🟡 Medium Reinforcement |
 
@@ -98,7 +96,9 @@
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 | ✅ | LP 726-6 | 99,000 | 72.5% | 62.91% | 62.6% | 123 | 626,000 | -3,146 | 🟡 Low Undermining |
-| ✅ | LHS 317 | 128,500 | 86.9% | 74.29% | 74.0% | 1,320 | 740,000 | -2,901 | 🟡 Low Undermining |
+| ✅ | BD-01 1707 | 86,750 | 66.7% | 58.27% | 58.0% | 0 | 580,000 | -2,680 | 🟡 Low Undermining |
 | ✅ | Fousang | 85,708 | 66.2% | 57.86% | 57.6% | 0 | 576,000 | -2,650 | 🟡 Low Undermining |
 | ✅ | Rhea | 77,583 | 62.3% | 54.74% | 54.5% | 0 | 545,000 | -2,374 | 🟡 Low Undermining |
+| ✅ | LHS 1928 | 71,916 | 59.5% | 52.53% | 52.3% | 0 | 523,000 | -2,257 | 🟡 Low Undermining |
+| ✅ | LHS 317 | 128,500 | 87.0% | 74.23% | 74.1% | 3,113 | 741,000 | -1,267 | 🟡 Low Undermining |
 | ✅ | LTT 3607 | 45,416 | 46.8% | 42.41% | 42.3% | 0 | 423,000 | -1,135 | 🟡 Low Undermining |

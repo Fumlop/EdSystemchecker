@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-07-31 12:09:36
-**Data Source:** 2025-07-31T12:09:35.893374
+**Report Generated:** 2025-07-31 12:44:32
+**Data Source:** 2025-07-31T12:44:32.068970
 **Total Fortified:** 131 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -67,8 +67,6 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Mbutsi | 7,926 | 11,204 | 36.3% | 33.44% | 34.6% | 224,900 | +7,530 | 🟡 Medium Reinforcement |
-| ✅ | Umbrigua | 8,113 | 4,435 | 29.0% | 27.34% | 28.3% | 183,950 | +6,229 | 🟡 Medium Reinforcement |
 | ✅ | Aasgay | 14,030 | 111 | 25.8% | 25.00% | 25.8% | 167,700 | +5,200 | 🟡 Medium Reinforcement |
 | ✅ | Nugua | 5,244 | 47,440 | 68.5% | 60.41% | 61.2% | 397,800 | +5,122 | 🟡 Medium Reinforcement |
 
