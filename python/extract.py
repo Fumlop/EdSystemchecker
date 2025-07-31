@@ -12,7 +12,7 @@ from html.parser import HTMLParser
 def is_current_powerplay_cycle(extracted_at_str: str) -> bool:
     """
     Determine if a system's data is from the current PowerPlay cycle.
-    PowerPlay cycles run Thursday to Thursday (settlement on Thursday 7-11 UTC).
+    PowerPlay cycles run Thursday to Thursday (settlement on Thursday 8:00 German time = 6:00/7:00 UTC).
     
     Args:
         extracted_at_str: ISO timestamp string when the data was extracted
@@ -33,17 +33,24 @@ def is_current_powerplay_cycle(extracted_at_str: str) -> bool:
         # Get current date
         now = datetime.now()
         
-        # Find the most recent Thursday (PowerPlay settlement day)
+        # Find the most recent Thursday PowerPlay settlement (8:00 German time)
         days_since_thursday = (now.weekday() - 3) % 7  # Thursday is weekday 3
         if days_since_thursday == 0 and now.weekday() == 3:
-            # If today is Thursday, consider current cycle start as this Thursday
-            cycle_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
+            # Today is Thursday - check if we're before or after settlement time
+            settlement_today = now.replace(hour=8, minute=0, second=0, microsecond=0)  # 8:00 German time
+            if now >= settlement_today:
+                # After settlement - new cycle started today
+                cycle_start = settlement_today
+            else:
+                # Before settlement - current cycle started last Thursday
+                cycle_start = now - timedelta(days=7)
+                cycle_start = cycle_start.replace(hour=8, minute=0, second=0, microsecond=0)
         else:
-            # Find last Thursday
+            # Find last Thursday settlement
             cycle_start = now - timedelta(days=days_since_thursday)
-            cycle_start = cycle_start.replace(hour=0, minute=0, second=0, microsecond=0)
+            cycle_start = cycle_start.replace(hour=8, minute=0, second=0, microsecond=0)
         
-        # Current cycle runs from last Thursday to next Thursday
+        # Current cycle runs from last settlement to next settlement
         cycle_end = cycle_start + timedelta(days=7)
         
         # Check if extraction time is within current cycle
