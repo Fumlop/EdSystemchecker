@@ -101,8 +101,8 @@ def generate_contested_report():
             accquise_contested.append(system_dict[system_name])
     
     # Separate contested and expansion systems - ONLY include systems with current cycle data
-    contested_systems = [s for s in systems if s.get('contested', False) and s.get('current_cycle_refresh', True)]
-    expansion_systems = [s for s in systems if not s.get('contested', False) and s.get('current_cycle_refresh', True)]
+    contested_systems = [s for s in systems if s.get('contested', False) and s.get('current_cycle_refresh', False)]
+    expansion_systems = [s for s in systems if not s.get('contested', False) and s.get('current_cycle_refresh', False)]
     
     # Sort contested systems by progress (highest first)
     contested_systems.sort(key=lambda x: x.get('progress_percent', 0), reverse=True)
