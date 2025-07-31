@@ -158,9 +158,6 @@ def generate_universal_report(state):
     
     systems = data['systems']
     
-    # ONLY include systems with current cycle data - filter OUT systems with current_cycle_refresh == False
-    systems = [s for s in systems if s.get('current_cycle_refresh', False)]
-    
     # Include systems with net_cp OR systems that dropped from above 25% (decay+undermining)
     systems_with_analysis = []
     for s in systems:

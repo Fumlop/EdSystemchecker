@@ -153,6 +153,49 @@ class InaraHTMLParser(HTMLParser):
         self.in_row = False
         self.in_cell = False
     
+    def parse_update_time(self, update_text: str) -> str:
+        """
+        Parse update time text like '11 hours ago' or '2 days ago' to ISO timestamp
+        
+        Args:
+            update_text: Text like "11 hours ago", "2 days ago", "1 minute ago"
+            
+        Returns:
+            str: ISO timestamp of when the data was actually updated
+        """
+        try:
+            now = datetime.now()
+            
+            # Clean the text
+            update_text = update_text.lower().strip()
+            
+            # Extract number and unit
+            import re
+            match = re.match(r'(\d+)\s*(minute|hour|day)s?\s+ago', update_text)
+            if match:
+                amount = int(match.group(1))
+                unit = match.group(2)
+                
+                if unit == 'minute':
+                    update_time = now - timedelta(minutes=amount)
+                elif unit == 'hour':
+                    update_time = now - timedelta(hours=amount)
+                elif unit == 'day':
+                    update_time = now - timedelta(days=amount)
+                else:
+                    # Fallback to current time
+                    update_time = now
+                    
+                return update_time.isoformat()
+            else:
+                # If we can't parse it, fall back to current time
+                print(f"Warning: Could not parse update time '{update_text}', using current time")
+                return now.isoformat()
+                
+        except Exception as e:
+            print(f"Error parsing update time '{update_text}': {e}")
+            return datetime.now().isoformat()
+    
     def handle_starttag(self, tag, attrs):
         if tag == 'table':
             self.in_table = True
@@ -183,7 +226,7 @@ class InaraHTMLParser(HTMLParser):
     def extract_system_from_row(self, cells):
         """Extract system data from table row cells"""
         try:
-            if not cells or len(cells) < 6:  # Need at least 6 columns
+            if not cells or len(cells) < 7:  # Need at least 7 columns (including Update column)
                 return None
             
             # First cell: System name - clean Unicode characters
@@ -204,6 +247,10 @@ class InaraHTMLParser(HTMLParser):
                 state = 'Fortified' 
             elif 'exploited' in state_cell:
                 state = 'Exploited'
+            
+            # Third cell: Update time (e.g., "11 hours ago", "2 days ago")
+            update_text = cells[2].strip() if len(cells) > 2 else ""
+            extracted_at = self.parse_update_time(update_text)
             
             # Fourth cell: Undermining
             undermining = 0
@@ -236,9 +283,6 @@ class InaraHTMLParser(HTMLParser):
             # Calculate last cycle percentage
             last_cycle_percent = calculate_last_cycle_percent(last_cycle_cp_actual, state)
             
-            # Get extraction timestamp
-            extracted_at = datetime.now().isoformat()
-            
             # Calculate natural decay only for systems with > 25% progress
             system_data = {
                 "system": system_name,
@@ -252,6 +296,10 @@ class InaraHTMLParser(HTMLParser):
                 "extracted_at": extracted_at,
                 "current_cycle_refresh": is_current_powerplay_cycle(extracted_at)
             }
+            
+            # FILTER OUT systems with old data - only return if current cycle
+            if not system_data["current_cycle_refresh"]:
+                return None  # Skip systems with outdated data
             
             # Add natural_decay, expected_progress_cp and net_cp calculations
             # Calculate decay for systems that were above 25% last cycle OR are currently >= 25%
@@ -286,6 +334,42 @@ class InaraContestedHTMLParser(HTMLParser):
         self.in_row = False
         self.in_cell = False
     
+    def parse_update_time(self, update_text: str) -> str:
+        """
+        Parse update time text like '11 hours ago' or '2 days ago' to ISO timestamp
+        Same method as regular parser
+        """
+        try:
+            now = datetime.now()
+            
+            # Clean the text
+            update_text = update_text.lower().strip()
+            
+            # Extract number and unit
+            import re
+            match = re.match(r'(\d+)\s*(minute|hour|day)s?\s+ago', update_text)
+            if match:
+                amount = int(match.group(1))
+                unit = match.group(2)
+                
+                if unit == 'minute':
+                    update_time = now - timedelta(minutes=amount)
+                elif unit == 'hour':
+                    update_time = now - timedelta(hours=amount)
+                elif unit == 'day':
+                    update_time = now - timedelta(days=amount)
+                else:
+                    update_time = now
+                    
+                return update_time.isoformat()
+            else:
+                print(f"Warning: Could not parse update time '{update_text}', using current time")
+                return now.isoformat()
+                
+        except Exception as e:
+            print(f"Error parsing update time '{update_text}': {e}")
+            return datetime.now().isoformat()
+    
     def handle_starttag(self, tag, attrs):
         if tag == 'table':
             self.in_table = True
@@ -316,7 +400,7 @@ class InaraContestedHTMLParser(HTMLParser):
     def extract_contested_system_from_row(self, cells):
         """Extract contested system data from table row cells"""
         try:
-            if not cells or len(cells) < 4:  # Need at least 4 columns
+            if not cells or len(cells) < 5:  # Need at least 5 columns (including Update column)
                 return None
             
             # Skip header rows
@@ -376,11 +460,20 @@ class InaraContestedHTMLParser(HTMLParser):
             except ValueError:
                 progress_percent = 0.0
             
+            # Extract update time from 4th or 5th column (depending on table structure)
+            update_text = ""
+            if len(cells) > 4:
+                # Try 5th column first (0-indexed: cells[4])
+                update_text = cells[4].strip()
+            if not update_text and len(cells) > 3:
+                # Fallback to 4th column if 5th is empty
+                update_text = cells[3].strip()
+                
+            extracted_at = self.parse_update_time(update_text)
+            
             # Skip rows with invalid data
             if not system_name or system_name.lower() in ['star system', '']:
                 return None
-            
-            extracted_at = datetime.now().isoformat()
             
             system_data = {
                 "system": system_name,
@@ -391,6 +484,10 @@ class InaraContestedHTMLParser(HTMLParser):
                 "extracted_at": extracted_at,
                 "current_cycle_refresh": is_current_powerplay_cycle(extracted_at)
             }
+            
+            # FILTER OUT systems with old data - only return if current cycle
+            if not system_data["current_cycle_refresh"]:
+                return None  # Skip systems with outdated data
             
             return system_data
             
