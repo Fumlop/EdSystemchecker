@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-01 02:53:09
-**Data Source:** 2025-08-01T02:53:09.397677
-**Total Fortified:** 100 (37 with decay analysis)
+**Report Generated:** 2025-08-01 04:28:20
+**Data Source:** 2025-08-01T04:28:20.530079
+**Total Fortified:** 103 (38 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Parapa** | +28,393 CP | 19,560 | 28,765 | 44.0% |
+| ✅ | **Parapa** | +34,271 CP | 19,560 | 34,649 | 44.9% |
 | ✅ | **Kivah** | +11,261 CP | 12,487 | 11,686 | 36.1% |
-| ✅ | **Timbalderis** | +3,579 CP | 8,047 | 4,192 | 31.5% |
-| ✅ | **NLTT 21088** | +1,078 CP | 44,228 | 1,207 | 58.2% |
-| ✅ | **LTT 4487** | +691 CP | 11,982 | 1,253 | 34.0% |
+| ✅ | **Timbalderis** | +3,568 CP | 8,061 | 4,192 | 31.5% |
+| ✅ | **Nugua** | +2,462 CP | 40,265 | 2,571 | 55.5% |
+| ✅ | **LTT 4487** | +1,090 CP | 11,982 | 1,600 | 34.1% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -53,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Parapa | 28,765 | 19,560 | 47.0% | 39.63% | 44.0% | 286,000 | +28,393 | 🟢 High Reinforcement |
+| ✅ | Parapa | 34,649 | 19,560 | 47.9% | 39.63% | 44.9% | 291,850 | +34,271 | 🟢 High Reinforcement |
 | ✅ | Kivah | 11,686 | 12,487 | 38.0% | 34.37% | 36.1% | 234,650 | +11,261 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -64,7 +64,9 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Timbalderis | 4,192 | 8,047 | 32.7% | 30.95% | 31.5% | 204,750 | +3,579 | 🔵 Low Reinforcement |
+| ✅ | Timbalderis | 4,192 | 8,061 | 32.7% | 30.95% | 31.5% | 204,750 | +3,568 | 🔵 Low Reinforcement |
+| ✅ | Nugua | 2,571 | 40,265 | 61.7% | 55.12% | 55.5% | 360,750 | +2,462 | 🔵 Low Reinforcement |
+| ✅ | LTT 4487 | 1,600 | 11,982 | 35.9% | 33.93% | 34.1% | 221,650 | +1,090 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 1,207 | 44,228 | 65.0% | 58.03% | 58.2% | 378,300 | +1,078 | 🔵 Low Reinforcement |
 
 
