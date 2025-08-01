@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-01 10:06:46
-**Data Source:** 2025-08-01T10:06:46.228862
-**Total Fortified:** 126 (51 with decay analysis)
+**Report Generated:** 2025-08-01 12:10:27
+**Data Source:** 2025-08-01T12:10:27.320906
+**Total Fortified:** 127 (51 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,21 +12,21 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Mentesuri** | +47,029 CP | 22,977 | 47,390 | 49.4% |
-| ✅ | **Parapa** | +34,271 CP | 19,560 | 34,649 | 44.9% |
-| ✅ | **Tau Centauri** | +26,224 CP | 22,607 | 26,619 | 45.9% |
-| ✅ | **Kivah** | +17,779 CP | 12,487 | 18,208 | 37.1% |
-| ✅ | **Timbalderis** | +3,977 CP | 8,167 | 4,657 | 31.6% |
+| ✅ | **Parapa** | +34,287 CP | 19,560 | 34,669 | 44.9% |
+| ✅ | **Kivah** | +19,838 CP | 12,487 | 20,290 | 37.4% |
+| ✅ | **Agarda** | +11,275 CP | 5,449 | 11,705 | 30.9% |
+| ✅ | **Namte** | +5,945 CP | 44,980 | 6,080 | 59.5% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Tau Centauri** | -608 CP | 23,534 | 0 | 42.3% |
 | ✅ | **Turni** | -543 CP | 2,067 | 0 | 26.5% |
 | ✅ | **LTT 4716** | -526 CP | 3,536 | 0 | 27.6% |
 | ✅ | **Atat** | -513 CP | 5,415 | 0 | 29.0% |
 | ✅ | **Aasgay** | -496 CP | 927 | 0 | 25.7% |
-| ✅ | **b2 Carinae** | -494 CP | 5,528 | 0 | 29.1% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -54,23 +54,24 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Mentesuri | 47,390 | 22,977 | 52.9% | 42.16% | 49.4% | 321,100 | +47,029 | 🟢 High Reinforcement |
-| ✅ | Parapa | 34,649 | 19,560 | 47.9% | 39.63% | 44.9% | 291,850 | +34,271 | 🟢 High Reinforcement |
-| ✅ | Tau Centauri | 26,619 | 22,607 | 49.4% | 41.87% | 45.9% | 298,350 | +26,224 | 🟢 High Reinforcement |
-| ✅ | Kivah | 18,208 | 12,487 | 39.0% | 34.36% | 37.1% | 241,150 | +17,779 | 🟢 High Reinforcement |
+| ✅ | Parapa | 34,669 | 19,560 | 47.9% | 39.63% | 44.9% | 291,850 | +34,287 | 🟢 High Reinforcement |
+| ✅ | Kivah | 20,290 | 12,487 | 39.3% | 34.35% | 37.4% | 243,100 | +19,838 | 🟢 High Reinforcement |
+| ✅ | Agarda | 11,705 | 5,449 | 31.7% | 29.17% | 30.9% | 200,850 | +11,275 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
-*No fortified systems with medium reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Namte | 6,080 | 44,980 | 66.4% | 58.59% | 59.5% | 386,750 | +5,945 | 🟡 Medium Reinforcement |
+| ✅ | Nugua | 5,269 | 40,265 | 62.1% | 55.11% | 55.9% | 363,349 | +5,143 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Timbalderis | 4,657 | 8,167 | 32.9% | 30.99% | 31.6% | 205,400 | +3,977 | 🔵 Low Reinforcement |
-| ✅ | Nugua | 2,571 | 40,265 | 61.7% | 55.12% | 55.5% | 360,750 | +2,462 | 🔵 Low Reinforcement |
 | ✅ | Gliese 2084 | 92,814 | 0 | 25.3% | 25.00% | 25.3% | 164,450 | +1,950 | 🔵 Low Reinforcement |
-| ✅ | LTT 4487 | 1,600 | 11,982 | 35.9% | 33.93% | 34.1% | 221,650 | +1,090 | 🔵 Low Reinforcement |
-| ✅ | NLTT 21088 | 1,207 | 44,228 | 65.0% | 58.03% | 58.2% | 378,300 | +1,078 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 1,207 | 44,248 | 65.0% | 58.04% | 58.2% | 378,300 | +1,061 | 🔵 Low Reinforcement |
 
 
 ---
