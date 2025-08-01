@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-01 14:07:29
-**Data Source:** 2025-08-01T14:07:28.977974
-**Total Stronghold:** 51 (30 with decay analysis)
+**Report Generated:** 2025-08-01 16:07:09
+**Data Source:** 2025-08-01T16:07:09.211472
+**Total Stronghold:** 52 (30 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LHS 317** | +24,086 CP | 128,500 | 28,304 | 76.7% |
-| ✅ | **Belgitan** | +7,320 CP | 31,541 | 7,996 | 37.8% |
-| ✅ | **LTT 3607** | +6,132 CP | 45,416 | 7,334 | 43.0% |
+| ✅ | **LHS 317** | +37,265 CP | 128,500 | 41,528 | 78.0% |
+| ✅ | **Fousang** | +19,864 CP | 85,708 | 22,643 | 59.8% |
+| ✅ | **Belgitan** | +7,464 CP | 31,541 | 8,176 | 37.8% |
+| ✅ | **LTT 3607** | +6,225 CP | 45,416 | 7,451 | 43.0% |
 | ✅ | **Carnoeck** | +5,923 CP | 15,250 | 6,018 | 31.4% |
-| ✅ | **Fousang** | +5,473 CP | 85,708 | 8,153 | 58.4% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -23,17 +23,17 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Gurus** | -2,730 CP | 88,333 | 15 | 58.6% |
-| ✅ | **Inovik** | -2,685 CP | 82,490 | 0 | 56.3% |
 | ✅ | **Andel** | -2,575 CP | 85,500 | 137 | 57.5% |
 | ✅ | **HIP 52780** | -2,523 CP | 83,291 | 0 | 56.7% |
 | ✅ | **Rhea** | -2,374 CP | 77,583 | 0 | 54.5% |
+| ✅ | **LHS 1928** | -2,155 CP | 71,916 | 128 | 52.3% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **LHS 317** | +24,086 CP | 76.7% | 128,500 | 28,304 |
+| ✅ | **LHS 317** | +37,265 CP | 78.0% | 128,500 | 41,528 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,25 +53,27 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 317 | 28,304 | 128,500 | 89.5% | 74.29% | 76.7% | 767,000 | +24,086 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 41,528 | 128,500 | 90.8% | 74.27% | 78.0% | 780,000 | +37,265 | 🟢 High Reinforcement |
+| ✅ | Fousang | 22,643 | 85,708 | 68.4% | 57.81% | 59.8% | 598,000 | +19,864 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Belgitan | 7,996 | 31,541 | 41.0% | 37.07% | 37.8% | 377,999 | +7,320 | 🟡 Medium Reinforcement |
-| ✅ | LTT 3607 | 7,334 | 45,416 | 47.5% | 42.39% | 43.0% | 430,000 | +6,132 | 🟡 Medium Reinforcement |
+| ✅ | Belgitan | 8,176 | 31,541 | 41.0% | 37.05% | 37.8% | 377,999 | +7,464 | 🟡 Medium Reinforcement |
+| ✅ | LTT 3607 | 7,451 | 45,416 | 47.5% | 42.38% | 43.0% | 430,000 | +6,225 | 🟡 Medium Reinforcement |
 | ✅ | Carnoeck | 6,018 | 15,250 | 32.9% | 30.81% | 31.4% | 314,000 | +5,923 | 🟡 Medium Reinforcement |
-| ✅ | Fousang | 8,153 | 85,708 | 67.0% | 57.85% | 58.4% | 584,000 | +5,473 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Noti | 5,648 | 61,541 | 55.2% | 48.61% | 49.0% | 490,000 | +3,931 | 🔵 Low Reinforcement |
-| ✅ | Neche | 2,282 | 5,916 | 28.1% | 27.24% | 27.5% | 275,000 | +2,573 | 🔵 Low Reinforcement |
-| ✅ | LP 726-6 | 5,524 | 99,020 | 73.1% | 62.96% | 63.2% | 632,000 | +2,359 | 🔵 Low Reinforcement |
-| ✅ | Kaura | 2,369 | 29,625 | 39.5% | 36.33% | 36.5% | 365,000 | +1,746 | 🔵 Low Reinforcement |
+| ✅ | Neche | 2,323 | 5,916 | 28.1% | 27.24% | 27.5% | 275,000 | +2,606 | 🔵 Low Reinforcement |
+| ✅ | LP 726-6 | 5,589 | 99,020 | 73.1% | 62.96% | 63.2% | 632,000 | +2,411 | 🔵 Low Reinforcement |
+| ✅ | NLTT 19808 | 2,295 | 21,749 | 35.7% | 33.30% | 33.5% | 335,000 | +1,964 | 🔵 Low Reinforcement |
+| ✅ | Inovik | 4,462 | 82,490 | 65.0% | 56.61% | 56.8% | 568,000 | +1,885 | 🔵 Low Reinforcement |
+| ✅ | Kaura | 2,446 | 29,625 | 39.5% | 36.32% | 36.5% | 365,000 | +1,807 | 🔵 Low Reinforcement |
 
 
 ---
@@ -92,7 +94,6 @@
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 | ✅ | Gurus | 88,333 | 67.4% | 58.87% | 58.6% | 15 | 586,000 | -2,730 | 🟡 Low Undermining |
-| ✅ | Inovik | 82,490 | 64.5% | 56.57% | 56.3% | 0 | 563,000 | -2,685 | 🟡 Low Undermining |
 | ✅ | Andel | 85,500 | 66.0% | 57.76% | 57.5% | 137 | 575,000 | -2,575 | 🟡 Low Undermining |
 | ✅ | HIP 52780 | 83,291 | 65.0% | 56.95% | 56.7% | 0 | 567,000 | -2,523 | 🟡 Low Undermining |
 | ✅ | Rhea | 77,583 | 62.3% | 54.74% | 54.5% | 0 | 545,000 | -2,374 | 🟡 Low Undermining |
