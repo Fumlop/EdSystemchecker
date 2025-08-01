@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-01 12:10:27
-**Data Source:** 2025-08-01T12:10:27.322446
+**Report Generated:** 2025-08-01 14:07:29
+**Data Source:** 2025-08-01T14:07:28.977974
 **Total Stronghold:** 51 (30 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,10 +12,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **LHS 317** | +24,086 CP | 128,500 | 28,304 | 76.7% |
+| ✅ | **Belgitan** | +7,320 CP | 31,541 | 7,996 | 37.8% |
+| ✅ | **LTT 3607** | +6,132 CP | 45,416 | 7,334 | 43.0% |
 | ✅ | **Carnoeck** | +5,923 CP | 15,250 | 6,018 | 31.4% |
 | ✅ | **Fousang** | +5,473 CP | 85,708 | 8,153 | 58.4% |
-| ✅ | **Belgitan** | +4,549 CP | 31,541 | 5,282 | 37.5% |
-| ✅ | **Noti** | +3,931 CP | 61,541 | 5,648 | 49.0% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -59,6 +59,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Belgitan | 7,996 | 31,541 | 41.0% | 37.07% | 37.8% | 377,999 | +7,320 | 🟡 Medium Reinforcement |
+| ✅ | LTT 3607 | 7,334 | 45,416 | 47.5% | 42.39% | 43.0% | 430,000 | +6,132 | 🟡 Medium Reinforcement |
 | ✅ | Carnoeck | 6,018 | 15,250 | 32.9% | 30.81% | 31.4% | 314,000 | +5,923 | 🟡 Medium Reinforcement |
 | ✅ | Fousang | 8,153 | 85,708 | 67.0% | 57.85% | 58.4% | 584,000 | +5,473 | 🟡 Medium Reinforcement |
 
@@ -66,9 +68,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Belgitan | 5,282 | 31,541 | 40.7% | 37.05% | 37.5% | 375,000 | +4,549 | 🔵 Low Reinforcement |
 | ✅ | Noti | 5,648 | 61,541 | 55.2% | 48.61% | 49.0% | 490,000 | +3,931 | 🔵 Low Reinforcement |
-| ✅ | LTT 3607 | 4,571 | 45,416 | 47.2% | 42.37% | 42.7% | 427,000 | +3,321 | 🔵 Low Reinforcement |
 | ✅ | Neche | 2,282 | 5,916 | 28.1% | 27.24% | 27.5% | 275,000 | +2,573 | 🔵 Low Reinforcement |
 | ✅ | LP 726-6 | 5,524 | 99,020 | 73.1% | 62.96% | 63.2% | 632,000 | +2,359 | 🔵 Low Reinforcement |
 | ✅ | Kaura | 2,369 | 29,625 | 39.5% | 36.33% | 36.5% | 365,000 | +1,746 | 🔵 Low Reinforcement |
