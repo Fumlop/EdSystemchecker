@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-01 04:28:20
-**Data Source:** 2025-08-01T04:28:20.530079
-**Total Fortified:** 103 (38 with decay analysis)
+**Report Generated:** 2025-08-01 06:09:56
+**Data Source:** 2025-08-01T06:09:56.491187
+**Total Fortified:** 110 (43 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -13,7 +13,7 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Parapa** | +34,271 CP | 19,560 | 34,649 | 44.9% |
 | ✅ | **Kivah** | +11,261 CP | 12,487 | 11,686 | 36.1% |
-| ✅ | **Timbalderis** | +3,568 CP | 8,061 | 4,192 | 31.5% |
+| ✅ | **Timbalderis** | +3,977 CP | 8,167 | 4,657 | 31.6% |
 | ✅ | **Nugua** | +2,462 CP | 40,265 | 2,571 | 55.5% |
 | ✅ | **LTT 4487** | +1,090 CP | 11,982 | 1,600 | 34.1% |
 
@@ -26,7 +26,7 @@
 | ✅ | **Atat** | -513 CP | 5,415 | 0 | 29.0% |
 | ✅ | **Aasgay** | -496 CP | 927 | 0 | 25.7% |
 | ✅ | **b2 Carinae** | -494 CP | 5,528 | 0 | 29.1% |
-| ✅ | **LFT 601** | -485 CP | 1,862 | 0 | 26.4% |
+| ✅ | **Tarhul** | -476 CP | 7,807 | 0 | 30.8% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -64,7 +64,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Timbalderis | 4,192 | 8,061 | 32.7% | 30.95% | 31.5% | 204,750 | +3,568 | 🔵 Low Reinforcement |
+| ✅ | Timbalderis | 4,657 | 8,167 | 32.9% | 30.99% | 31.6% | 205,400 | +3,977 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 2,571 | 40,265 | 61.7% | 55.12% | 55.5% | 360,750 | +2,462 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 1,600 | 11,982 | 35.9% | 33.93% | 34.1% | 221,650 | +1,090 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 1,207 | 44,228 | 65.0% | 58.03% | 58.2% | 378,300 | +1,078 | 🔵 Low Reinforcement |
