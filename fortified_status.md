@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-01 06:09:56
-**Data Source:** 2025-08-01T06:09:56.491187
-**Total Fortified:** 110 (43 with decay analysis)
+**Report Generated:** 2025-08-01 08:08:29
+**Data Source:** 2025-08-01T08:08:29.186180
+**Total Fortified:** 124 (50 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Mentesuri** | +47,029 CP | 22,977 | 47,390 | 49.4% |
 | ✅ | **Parapa** | +34,271 CP | 19,560 | 34,649 | 44.9% |
-| ✅ | **Kivah** | +11,261 CP | 12,487 | 11,686 | 36.1% |
+| ✅ | **Tau Centauri** | +26,224 CP | 22,607 | 26,619 | 45.9% |
+| ✅ | **Kivah** | +17,779 CP | 12,487 | 18,208 | 37.1% |
 | ✅ | **Timbalderis** | +3,977 CP | 8,167 | 4,657 | 31.6% |
-| ✅ | **Nugua** | +2,462 CP | 40,265 | 2,571 | 55.5% |
-| ✅ | **LTT 4487** | +1,090 CP | 11,982 | 1,600 | 34.1% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -53,8 +53,10 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Mentesuri | 47,390 | 22,977 | 52.9% | 42.16% | 49.4% | 321,100 | +47,029 | 🟢 High Reinforcement |
 | ✅ | Parapa | 34,649 | 19,560 | 47.9% | 39.63% | 44.9% | 291,850 | +34,271 | 🟢 High Reinforcement |
-| ✅ | Kivah | 11,686 | 12,487 | 38.0% | 34.37% | 36.1% | 234,650 | +11,261 | 🟢 High Reinforcement |
+| ✅ | Tau Centauri | 26,619 | 22,607 | 49.4% | 41.87% | 45.9% | 298,350 | +26,224 | 🟢 High Reinforcement |
+| ✅ | Kivah | 18,208 | 12,487 | 39.0% | 34.36% | 37.1% | 241,150 | +17,779 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -66,6 +68,7 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Timbalderis | 4,657 | 8,167 | 32.9% | 30.99% | 31.6% | 205,400 | +3,977 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 2,571 | 40,265 | 61.7% | 55.12% | 55.5% | 360,750 | +2,462 | 🔵 Low Reinforcement |
+| ✅ | Gliese 2084 | 92,814 | 0 | 25.3% | 25.00% | 25.3% | 164,450 | +1,950 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 1,600 | 11,982 | 35.9% | 33.93% | 34.1% | 221,650 | +1,090 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 1,207 | 44,228 | 65.0% | 58.03% | 58.2% | 378,300 | +1,078 | 🔵 Low Reinforcement |
 
