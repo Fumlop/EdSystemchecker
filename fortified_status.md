@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-01 08:08:29
-**Data Source:** 2025-08-01T08:08:29.186180
-**Total Fortified:** 124 (50 with decay analysis)
+**Report Generated:** 2025-08-01 10:06:46
+**Data Source:** 2025-08-01T10:06:46.228862
+**Total Fortified:** 126 (51 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -22,11 +22,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Turni** | -543 CP | 2,067 | 0 | 26.5% |
 | ✅ | **LTT 4716** | -526 CP | 3,536 | 0 | 27.6% |
 | ✅ | **Atat** | -513 CP | 5,415 | 0 | 29.0% |
 | ✅ | **Aasgay** | -496 CP | 927 | 0 | 25.7% |
 | ✅ | **b2 Carinae** | -494 CP | 5,528 | 0 | 29.1% |
-| ✅ | **Tarhul** | -476 CP | 7,807 | 0 | 30.8% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
