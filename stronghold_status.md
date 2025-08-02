@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-02 02:40:38
-**Data Source:** 2025-08-02T02:40:38.787651
+**Report Generated:** 2025-08-02 04:16:12
+**Data Source:** 2025-08-02T04:16:12.612413
 **Total Stronghold:** 51 (30 with decay analysis)
 
 ## 📊 Quick Summary
@@ -74,8 +74,9 @@
 | ✅ | Noti | 5,873 | 61,541 | 55.2% | 48.59% | 49.0% | 490,000 | +4,111 | 🔵 Low Reinforcement |
 | ✅ | LP 726-6 | 6,849 | 99,020 | 73.2% | 62.94% | 63.3% | 633,000 | +3,619 | 🔵 Low Reinforcement |
 | ✅ | Neche | 2,943 | 5,916 | 28.1% | 27.19% | 27.5% | 275,000 | +3,102 | 🔵 Low Reinforcement |
+| ✅ | Kaura | 2,966 | 29,625 | 39.6% | 36.36% | 36.6% | 366,000 | +2,424 | 🔵 Low Reinforcement |
 | ✅ | NLTT 19808 | 2,745 | 21,749 | 35.7% | 33.27% | 33.5% | 335,000 | +2,324 | 🔵 Low Reinforcement |
-| ✅ | Kaura | 2,756 | 29,625 | 39.5% | 36.29% | 36.5% | 365,000 | +2,055 | 🔵 Low Reinforcement |
+| ✅ | Orishpucho | 4,183 | 93,166 | 70.1% | 60.68% | 60.8% | 608,000 | +1,152 | 🔵 Low Reinforcement |
 
 
 ---
