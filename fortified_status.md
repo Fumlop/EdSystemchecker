@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-02 19:53:01
-**Data Source:** 2025-08-02T19:53:01.835921
+**Report Generated:** 2025-08-02 20:02:40
+**Data Source:** 2025-08-02T20:02:40.885155
 **Total Fortified:** 130 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **Kivah** | +70,411 CP | 12,487 | 70,837 | 45.2% |
 | ✅ | **Agarda** | +40,028 CP | 5,449 | 40,490 | 35.3% |
 | ✅ | **Parapa** | +36,212 CP | 19,560 | 36,588 | 45.2% |
-| ✅ | **Timbalderis** | +22,033 CP | 8,258 | 22,910 | 34.3% |
+| ✅ | **Timbalderis** | +22,346 CP | 8,258 | 23,153 | 34.4% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -57,7 +57,7 @@
 | ✅ | Kivah | 70,837 | 12,487 | 47.1% | 34.37% | 45.2% | 293,800 | +70,411 | 🟢 High Reinforcement |
 | ✅ | Agarda | 40,490 | 5,449 | 36.1% | 29.14% | 35.3% | 229,450 | +40,028 | 🟢 High Reinforcement |
 | ✅ | Parapa | 36,588 | 19,560 | 48.2% | 39.63% | 45.2% | 293,800 | +36,212 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 22,910 | 8,258 | 35.6% | 30.91% | 34.3% | 222,949 | +22,033 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 23,153 | 8,258 | 35.7% | 30.96% | 34.4% | 223,599 | +22,346 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,082 | 19,492 | 45.2% | 39.62% | 42.2% | 274,300 | +16,763 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 16,576 | 44,271 | 67.4% | 58.07% | 60.6% | 393,900 | +16,451 | 🟢 High Reinforcement |
 
