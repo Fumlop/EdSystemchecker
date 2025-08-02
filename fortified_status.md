@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-02 04:16:12
-**Data Source:** 2025-08-02T04:16:12.610658
-**Total Fortified:** 124 (51 with decay analysis)
+**Report Generated:** 2025-08-02 06:07:50
+**Data Source:** 2025-08-02T06:07:50.107223
+**Total Fortified:** 123 (50 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,10 +12,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **HIP 37879** | +111,703 CP | 24,518 | 112,048 | 60.5% |
+| ✅ | **Agarda** | +40,028 CP | 5,449 | 40,490 | 35.3% |
 | ✅ | **Kivah** | +37,715 CP | 12,487 | 38,100 | 40.2% |
 | ✅ | **Parapa** | +34,680 CP | 19,560 | 35,008 | 45.0% |
-| ✅ | **Agarda** | +22,868 CP | 5,449 | 23,276 | 32.7% |
-| ✅ | **Timbalderis** | +21,244 CP | 8,258 | 22,092 | 34.2% |
+| ✅ | **Timbalderis** | +21,339 CP | 8,258 | 22,207 | 34.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -54,10 +54,10 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | HIP 37879 | 112,048 | 24,518 | 64.3% | 43.31% | 60.5% | 393,250 | +111,703 | 🟢 High Reinforcement |
+| ✅ | Agarda | 40,490 | 5,449 | 36.1% | 29.14% | 35.3% | 229,450 | +40,028 | 🟢 High Reinforcement |
 | ✅ | Kivah | 38,100 | 12,487 | 42.1% | 34.40% | 40.2% | 261,300 | +37,715 | 🟢 High Reinforcement |
 | ✅ | Parapa | 35,008 | 19,560 | 48.0% | 39.66% | 45.0% | 292,500 | +34,680 | 🟢 High Reinforcement |
-| ✅ | Agarda | 23,276 | 5,449 | 33.5% | 29.18% | 32.7% | 212,550 | +22,868 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 22,092 | 8,258 | 35.5% | 30.93% | 34.2% | 222,300 | +21,244 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 22,207 | 8,258 | 35.5% | 30.92% | 34.2% | 222,300 | +21,339 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 15,223 | 44,271 | 67.2% | 58.08% | 60.4% | 392,600 | +15,107 | 🟢 High Reinforcement |
 | ✅ | Erivit | 11,388 | 19,492 | 44.3% | 39.60% | 41.3% | 268,450 | +11,042 | 🟢 High Reinforcement |
 
@@ -76,7 +76,6 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Tarhul | 2,819 | 7,819 | 32.5% | 30.93% | 31.3% | 203,450 | +2,407 | 🔵 Low Reinforcement |
 | ✅ | HR 2798 | 2,559 | 26,906 | 49.6% | 45.15% | 45.5% | 295,750 | +2,305 | 🔵 Low Reinforcement |
-| ✅ | Gliese 2084 | 92,814 | 0 | 25.3% | 25.00% | 25.3% | 164,450 | +1,950 | 🔵 Low Reinforcement |
 
 
 ---
