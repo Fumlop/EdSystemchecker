@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-02 20:02:40
-**Data Source:** 2025-08-02T20:02:40.885155
+**Report Generated:** 2025-08-02 21:02:24
+**Data Source:** 2025-08-02T21:02:24.289033
 **Total Fortified:** 130 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -23,7 +23,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Pisaly** | -903 CP | 336 | 0 | 24.9% |
-| ✅ | **Tau Centauri** | -608 CP | 23,534 | 0 | 42.3% |
+| ✅ | **Tau Centauri** | -580 CP | 23,534 | 34 | 42.3% |
 | ✅ | **Polahukuna** | -556 CP | 16,838 | 0 | 37.4% |
 | ✅ | **Turni** | -543 CP | 2,067 | 0 | 26.5% |
 | ✅ | **LTT 4716** | -535 CP | 3,547 | 0 | 27.6% |
@@ -68,7 +68,7 @@
 | ✅ | Mbutsi | 9,984 | 10,677 | 36.1% | 33.03% | 34.5% | 224,249 | +9,557 | 🟡 Medium Reinforcement |
 | ✅ | Nugua | 8,117 | 40,668 | 62.6% | 55.13% | 56.3% | 365,949 | +7,614 | 🟡 Medium Reinforcement |
 | ✅ | Mentesuri | 7,165 | 27,350 | 50.7% | 45.44% | 46.5% | 302,250 | +6,870 | 🟡 Medium Reinforcement |
-| ✅ | Namte | 6,236 | 44,980 | 66.4% | 58.57% | 59.5% | 386,750 | +6,074 | 🟡 Medium Reinforcement |
+| ✅ | Namte | 6,359 | 44,980 | 66.5% | 58.63% | 59.6% | 387,400 | +6,288 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
