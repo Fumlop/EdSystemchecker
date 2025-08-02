@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-02 14:05:33
-**Data Source:** 2025-08-02T14:05:33.381885
+**Report Generated:** 2025-08-02 16:06:19
+**Data Source:** 2025-08-02T16:06:18.987393
 **Total Fortified:** 130 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,9 +12,9 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **HIP 37879** | +145,441 CP | 24,518 | 145,773 | 65.7% |
-| ✅ | **Kivah** | +53,303 CP | 12,487 | 53,685 | 42.6% |
+| ✅ | **Kivah** | +63,390 CP | 12,487 | 63,843 | 44.1% |
 | ✅ | **Agarda** | +40,028 CP | 5,449 | 40,490 | 35.3% |
-| ✅ | **Parapa** | +34,680 CP | 19,560 | 35,008 | 45.0% |
+| ✅ | **Parapa** | +36,212 CP | 19,560 | 36,588 | 45.2% |
 | ✅ | **Timbalderis** | +22,033 CP | 8,258 | 22,910 | 34.3% |
 
 ### 🔴 **Most Threatened Systems**
@@ -54,9 +54,9 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | HIP 37879 | 145,773 | 24,518 | 69.5% | 43.32% | 65.7% | 427,050 | +145,441 | 🟢 High Reinforcement |
-| ✅ | Kivah | 53,685 | 12,487 | 44.5% | 34.40% | 42.6% | 276,900 | +53,303 | 🟢 High Reinforcement |
+| ✅ | Kivah | 63,843 | 12,487 | 46.0% | 34.35% | 44.1% | 286,650 | +63,390 | 🟢 High Reinforcement |
 | ✅ | Agarda | 40,490 | 5,449 | 36.1% | 29.14% | 35.3% | 229,450 | +40,028 | 🟢 High Reinforcement |
-| ✅ | Parapa | 35,008 | 19,560 | 48.0% | 39.66% | 45.0% | 292,500 | +34,680 | 🟢 High Reinforcement |
+| ✅ | Parapa | 36,588 | 19,560 | 48.2% | 39.63% | 45.2% | 293,800 | +36,212 | 🟢 High Reinforcement |
 | ✅ | Timbalderis | 22,910 | 8,258 | 35.6% | 30.91% | 34.3% | 222,949 | +22,033 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,082 | 19,492 | 45.2% | 39.62% | 42.2% | 274,300 | +16,763 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 16,576 | 44,271 | 67.4% | 58.07% | 60.6% | 393,900 | +16,451 | 🟢 High Reinforcement |
@@ -66,7 +66,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Mbutsi | 9,785 | 10,677 | 36.1% | 33.05% | 34.5% | 224,249 | +9,392 | 🟡 Medium Reinforcement |
-| ✅ | Nugua | 8,117 | 40,667 | 62.6% | 55.13% | 56.3% | 365,949 | +7,615 | 🟡 Medium Reinforcement |
+| ✅ | Nugua | 8,117 | 40,668 | 62.6% | 55.13% | 56.3% | 365,949 | +7,614 | 🟡 Medium Reinforcement |
 | ✅ | Mentesuri | 7,165 | 27,350 | 50.7% | 45.44% | 46.5% | 302,250 | +6,870 | 🟡 Medium Reinforcement |
 | ✅ | Namte | 6,236 | 44,980 | 66.4% | 58.57% | 59.5% | 386,750 | +6,074 | 🟡 Medium Reinforcement |
 
@@ -78,6 +78,7 @@
 | ✅ | HR 2798 | 2,631 | 26,906 | 49.6% | 45.14% | 45.5% | 295,750 | +2,364 | 🔵 Low Reinforcement |
 | ✅ | Gliese 2084 | 92,814 | 0 | 25.3% | 25.00% | 25.3% | 164,450 | +1,950 | 🔵 Low Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 1,730 | 7,943 | 32.4% | 31.00% | 31.2% | 202,800 | +1,292 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 1,627 | 1,914 | 27.0% | 26.52% | 26.7% | 173,550 | +1,154 | 🔵 Low Reinforcement |
 
 
 ---
