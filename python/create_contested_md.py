@@ -155,18 +155,18 @@ def generate_contested_report():
     if nearly_conquered_contested:
         report.append("### 🟢 Nearly Conquered Systems (>=80% Winters Progress)")
         report.append("")
-        report.append("| Status | System | Winters Progress | Opposition |")
-        report.append("|--------|--------|------------------|------------|")
-        
+        report.append("| Status | System | Winters Progress | Opposition | Opposing Powers |")
+        report.append("|--------|--------|------------------|------------|----------------|")
+
         for system in nearly_conquered_contested:
             progress = system.get('progress_percent', 0)
             total_opposition = calculate_total_opposition(system)
-            
+            opposing = format_opposing_powers(system.get('opposing_powers', []))
             status_icon = get_progress_icon(progress, total_opposition)
             winters_formatted, opposition_formatted = format_progress_vs_opposition(progress, total_opposition)
-            
-            report.append(f"| {status_icon} | {system['system']} | {winters_formatted} | {opposition_formatted} |")
-        
+
+            report.append(f"| {status_icon} | {system['system']} | {winters_formatted} | {opposition_formatted} | {opposing} |")
+
         report.append("")
     
     # Top Systems that are Nearly Lost (>=80% Opposition)
