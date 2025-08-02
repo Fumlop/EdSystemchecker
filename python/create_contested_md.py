@@ -151,9 +151,9 @@ def generate_contested_report():
     report.append("## 📊 Quick Summary")
     report.append("")
     
-    # Top Systems that are Nearly Conquered (>=80% Winters Progress)
+    # Top Systems that are Nearly Conquered 
     if nearly_conquered_contested:
-        report.append("### 🟢 Nearly Conquered Systems (>=80% Winters Progress)")
+        report.append("### 🟢 Nearly Conquered Systems ")
         report.append("")
         report.append("| Status | System | Winters Progress | Opposition | Opposing Powers |")
         report.append("|--------|--------|------------------|------------|----------------|")
@@ -169,9 +169,9 @@ def generate_contested_report():
 
         report.append("")
     
-    # Top Systems that are Nearly Lost (>=80% Opposition)
+    # Top Systems that are Nearly Lost
     if nearly_lost_contested:
-        report.append("### 🔴 Nearly Lost Systems (>=80% Opposition)")
+        report.append("### 🔴 Nearly Lost Systems")
         report.append("")
         report.append("| Status | System | Winters Progress | Opposition | Opposing Powers |")
         report.append("|--------|--------|------------------|------------|----------------|")
