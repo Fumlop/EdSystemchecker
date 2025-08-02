@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-02 08:07:18
-**Data Source:** 2025-08-02T08:07:18.178217
+**Report Generated:** 2025-08-02 10:05:44
+**Data Source:** 2025-08-02T10:05:44.376836
 **Total Fortified:** 128 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HIP 37879** | +111,703 CP | 24,518 | 112,048 | 60.5% |
+| ✅ | **HIP 37879** | +115,825 CP | 24,518 | 116,080 | 61.2% |
+| ✅ | **Kivah** | +46,948 CP | 12,487 | 47,361 | 41.6% |
 | ✅ | **Agarda** | +40,028 CP | 5,449 | 40,490 | 35.3% |
-| ✅ | **Kivah** | +37,715 CP | 12,487 | 38,100 | 40.2% |
 | ✅ | **Parapa** | +34,680 CP | 19,560 | 35,008 | 45.0% |
-| ✅ | **Timbalderis** | +21,782 CP | 8,258 | 22,607 | 34.3% |
+| ✅ | **Timbalderis** | +22,001 CP | 8,258 | 22,871 | 34.3% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -53,11 +53,11 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HIP 37879 | 112,048 | 24,518 | 64.3% | 43.31% | 60.5% | 393,250 | +111,703 | 🟢 High Reinforcement |
+| ✅ | HIP 37879 | 116,080 | 24,518 | 65.0% | 43.38% | 61.2% | 397,800 | +115,825 | 🟢 High Reinforcement |
+| ✅ | Kivah | 47,361 | 12,487 | 43.5% | 34.38% | 41.6% | 270,400 | +46,948 | 🟢 High Reinforcement |
 | ✅ | Agarda | 40,490 | 5,449 | 36.1% | 29.14% | 35.3% | 229,450 | +40,028 | 🟢 High Reinforcement |
-| ✅ | Kivah | 38,100 | 12,487 | 42.1% | 34.40% | 40.2% | 261,300 | +37,715 | 🟢 High Reinforcement |
 | ✅ | Parapa | 35,008 | 19,560 | 48.0% | 39.66% | 45.0% | 292,500 | +34,680 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 22,607 | 8,258 | 35.6% | 30.95% | 34.3% | 222,949 | +21,782 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 22,871 | 8,258 | 35.6% | 30.92% | 34.3% | 222,949 | +22,001 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 15,223 | 44,271 | 67.2% | 58.08% | 60.4% | 392,600 | +15,107 | 🟢 High Reinforcement |
 | ✅ | Erivit | 11,388 | 19,492 | 44.3% | 39.60% | 41.3% | 268,450 | +11,042 | 🟢 High Reinforcement |
 
@@ -65,16 +65,16 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Nugua | 8,117 | 40,265 | 62.5% | 55.08% | 56.3% | 365,949 | +7,948 | 🟡 Medium Reinforcement |
+| ✅ | Nugua | 8,117 | 40,667 | 62.6% | 55.13% | 56.3% | 365,949 | +7,615 | 🟡 Medium Reinforcement |
 | ✅ | Mentesuri | 7,165 | 27,350 | 50.7% | 45.44% | 46.5% | 302,250 | +6,870 | 🟡 Medium Reinforcement |
 | ✅ | Mbutsi | 6,885 | 10,677 | 35.6% | 33.01% | 34.0% | 221,000 | +6,432 | 🟡 Medium Reinforcement |
-| ✅ | Namte | 6,080 | 44,980 | 66.4% | 58.59% | 59.5% | 386,750 | +5,945 | 🟡 Medium Reinforcement |
+| ✅ | Namte | 6,236 | 44,980 | 66.4% | 58.57% | 59.5% | 386,750 | +6,074 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Tarhul | 2,819 | 7,819 | 32.5% | 30.93% | 31.3% | 203,450 | +2,407 | 🔵 Low Reinforcement |
+| ✅ | Tarhul | 3,373 | 7,819 | 32.5% | 30.86% | 31.3% | 203,450 | +2,866 | 🔵 Low Reinforcement |
 | ✅ | HR 2798 | 2,559 | 26,906 | 49.6% | 45.15% | 45.5% | 295,750 | +2,305 | 🔵 Low Reinforcement |
 | ✅ | Gliese 2084 | 92,814 | 0 | 25.3% | 25.00% | 25.3% | 164,450 | +1,950 | 🔵 Low Reinforcement |
 
