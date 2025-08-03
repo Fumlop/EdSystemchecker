@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-03 16:03:03
-**Data Source:** 2025-08-03T16:03:03.551230
+**Report Generated:** 2025-08-03 17:02:43
+**Data Source:** 2025-08-03T17:02:43.329826
 **Total Fortified:** 132 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,8 +11,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HIP 37879** | +173,911 CP | 24,518 | 174,215 | 70.1% |
-| ✅ | **Kivah** | +90,048 CP | 12,529 | 90,544 | 48.2% |
+| ✅ | **HIP 37879** | +173,933 CP | 24,518 | 174,242 | 70.1% |
+| ✅ | **Kivah** | +96,223 CP | 12,529 | 96,651 | 49.2% |
 | ✅ | **Agarda** | +61,063 CP | 5,449 | 61,573 | 38.5% |
 | ✅ | **Parapa** | +36,912 CP | 19,560 | 37,299 | 45.3% |
 | ✅ | **Timbalderis** | +30,769 CP | 8,504 | 31,816 | 35.7% |
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **HIP 37879** | +173,911 CP | 70.1% | 24,518 | 174,215 |
+| ✅ | **HIP 37879** | +173,933 CP | 70.1% | 24,518 | 174,242 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,8 +53,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HIP 37879 | 174,215 | 24,518 | 73.9% | 43.34% | 70.1% | 455,650 | +173,911 | 🟢 High Reinforcement |
-| ✅ | Kivah | 90,544 | 12,529 | 50.1% | 34.35% | 48.2% | 313,300 | +90,048 | 🟢 High Reinforcement |
+| ✅ | HIP 37879 | 174,242 | 24,518 | 73.9% | 43.34% | 70.1% | 455,650 | +173,933 | 🟢 High Reinforcement |
+| ✅ | Kivah | 96,651 | 12,529 | 51.1% | 34.40% | 49.2% | 319,800 | +96,223 | 🟢 High Reinforcement |
 | ✅ | Agarda | 61,573 | 5,449 | 39.3% | 29.11% | 38.5% | 250,250 | +61,063 | 🟢 High Reinforcement |
 | ✅ | Parapa | 37,299 | 19,560 | 48.3% | 39.62% | 45.3% | 294,450 | +36,912 | 🟢 High Reinforcement |
 | ✅ | Timbalderis | 31,816 | 8,504 | 37.0% | 30.97% | 35.7% | 232,050 | +30,769 | 🟢 High Reinforcement |
