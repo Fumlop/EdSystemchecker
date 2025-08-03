@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-03 04:21:05
-**Data Source:** 2025-08-03T04:21:05.553047
+**Report Generated:** 2025-08-03 05:09:00
+**Data Source:** 2025-08-03T05:09:00.442087
 **Total Stronghold:** 53 (31 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LHS 317** | +99,645 CP | 128,500 | 104,003 | 84.2% |
+| ✅ | **LHS 317** | +100,458 CP | 128,500 | 104,769 | 84.3% |
 | ✅ | **BD-01 1707** | +74,810 CP | 86,750 | 77,613 | 65.7% |
 | ✅ | **Fousang** | +50,423 CP | 87,634 | 55,017 | 62.9% |
 | ✅ | **LP 726-6** | +26,687 CP | 99,020 | 29,934 | 65.6% |
-| ✅ | **Carnoeck** | +13,591 CP | 15,250 | 13,603 | 32.2% |
+| ✅ | **Carnoeck** | +13,607 CP | 15,250 | 13,623 | 32.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **LHS 317** | +99,645 CP | 84.2% | 128,500 | 104,003 |
+| ✅ | **LHS 317** | +100,458 CP | 84.3% | 128,500 | 104,769 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,11 +53,11 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 317 | 104,003 | 128,500 | 97.0% | 74.24% | 84.2% | 842,000 | +99,645 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 104,769 | 128,500 | 97.2% | 74.25% | 84.3% | 843,000 | +100,458 | 🟢 High Reinforcement |
 | ✅ | BD-01 1707 | 77,613 | 86,750 | 74.4% | 58.22% | 65.7% | 657,000 | +74,810 | 🟢 High Reinforcement |
 | ✅ | Fousang | 55,017 | 87,634 | 71.7% | 57.86% | 62.9% | 629,000 | +50,423 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 29,934 | 99,020 | 75.5% | 62.93% | 65.6% | 655,999 | +26,687 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 13,603 | 15,250 | 33.7% | 30.84% | 32.2% | 322,000 | +13,591 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 13,623 | 15,250 | 33.7% | 30.84% | 32.2% | 322,000 | +13,607 | 🟢 High Reinforcement |
 | ✅ | LTT 3607 | 13,057 | 45,416 | 48.1% | 42.41% | 43.6% | 436,000 | +11,910 | 🟢 High Reinforcement |
 | ✅ | Algorab | 13,106 | 64,791 | 57.4% | 49.79% | 50.9% | 509,000 | +11,106 | 🟢 High Reinforcement |
 
