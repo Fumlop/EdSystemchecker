@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-03 03:35:10
-**Data Source:** 2025-08-03T03:35:10.627616
+**Report Generated:** 2025-08-03 04:21:05
+**Data Source:** 2025-08-03T04:21:05.551419
 **Total Fortified:** 129 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -60,7 +60,7 @@
 | ✅ | Timbalderis | 31,715 | 8,463 | 37.0% | 30.97% | 35.7% | 232,050 | +30,719 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 25,414 | 44,319 | 68.7% | 58.03% | 61.9% | 402,350 | +25,183 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,120 | 19,492 | 45.2% | 39.62% | 42.2% | 274,300 | +16,795 | 🟢 High Reinforcement |
-| ✅ | Mbutsi | 11,334 | 10,677 | 36.3% | 33.02% | 34.7% | 225,550 | +10,899 | 🟢 High Reinforcement |
+| ✅ | Mbutsi | 11,574 | 10,677 | 36.4% | 33.08% | 34.8% | 226,199 | +11,209 | 🟢 High Reinforcement |
 | ✅ | Arnais | 10,640 | 5,561 | 31.6% | 29.15% | 30.7% | 199,550 | +10,077 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
