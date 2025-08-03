@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-03 20:02:41
-**Data Source:** 2025-08-03T20:02:41.562574
-**Total Fortified:** 131 (51 with decay analysis)
+**Report Generated:** 2025-08-03 21:02:28
+**Data Source:** 2025-08-03T21:02:28.631420
+**Total Fortified:** 130 (52 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -58,9 +58,11 @@
 | ✅ | Agarda | 62,258 | 5,449 | 39.4% | 29.10% | 38.6% | 250,900 | +61,741 | 🟢 High Reinforcement |
 | ✅ | Parapa | 37,412 | 19,560 | 48.4% | 39.69% | 45.4% | 295,100 | +37,118 | 🟢 High Reinforcement |
 | ✅ | Timbalderis | 31,816 | 8,544 | 37.0% | 30.97% | 35.7% | 232,050 | +30,736 | 🟢 High Reinforcement |
-| ✅ | NLTT 21088 | 29,455 | 44,319 | 69.3% | 58.01% | 62.5% | 406,250 | +29,199 | 🟢 High Reinforcement |
+| ✅ | NLTT 21088 | 30,615 | 44,319 | 69.5% | 58.03% | 62.7% | 407,550 | +30,383 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,120 | 19,492 | 45.2% | 39.62% | 42.2% | 274,300 | +16,795 | 🟢 High Reinforcement |
-| ✅ | Mbutsi | 12,011 | 10,677 | 36.4% | 33.02% | 34.8% | 226,199 | +11,571 | 🟢 High Reinforcement |
+| ✅ | Namte | 13,412 | 44,987 | 67.6% | 58.65% | 60.7% | 394,550 | +13,352 | 🟢 High Reinforcement |
+| ✅ | Mbutsi | 12,016 | 10,677 | 36.4% | 33.02% | 34.8% | 226,199 | +11,575 | 🟢 High Reinforcement |
+| ✅ | Crucis Sector PC-V a2-1 | 159,340 | 0 | 26.7% | 25.00% | 26.7% | 173,550 | +11,050 | 🟢 High Reinforcement |
 | ✅ | Arnais | 10,640 | 5,561 | 31.6% | 29.15% | 30.7% | 199,550 | +10,077 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -69,7 +71,6 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Nugua | 8,117 | 40,668 | 62.6% | 55.13% | 56.3% | 365,949 | +7,614 | 🟡 Medium Reinforcement |
 | ✅ | Mentesuri | 7,165 | 27,350 | 50.7% | 45.44% | 46.5% | 302,250 | +6,870 | 🟡 Medium Reinforcement |
-| ✅ | Namte | 6,424 | 44,980 | 66.5% | 58.62% | 59.6% | 387,400 | +6,342 | 🟡 Medium Reinforcement |
 | ✅ | Polahukuna | 5,952 | 16,838 | 40.9% | 37.47% | 38.3% | 248,949 | +5,378 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
@@ -86,6 +87,7 @@
 | ✅ | Eme | 1,828 | 11,667 | 35.8% | 33.78% | 34.0% | 221,000 | +1,428 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 1,772 | 3,638 | 28.6% | 27.80% | 28.0% | 182,000 | +1,304 | 🔵 Low Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 1,730 | 7,943 | 32.4% | 31.00% | 31.2% | 202,800 | +1,292 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 1,263 | 27,848 | 50.3% | 45.84% | 46.0% | 299,000 | +1,012 | 🔵 Low Reinforcement |
 
 
 ---
