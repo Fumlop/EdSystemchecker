@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-03 07:03:21
-**Data Source:** 2025-08-03T07:03:21.705444
-**Total Fortified:** 129 (51 with decay analysis)
+**Report Generated:** 2025-08-03 08:03:12
+**Data Source:** 2025-08-03T08:03:12.842273
+**Total Fortified:** 132 (52 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,10 +12,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **HIP 37879** | +153,263 CP | 24,518 | 153,599 | 66.9% |
-| ✅ | **Kivah** | +70,377 CP | 12,529 | 70,837 | 45.2% |
-| ✅ | **Agarda** | +53,426 CP | 5,449 | 53,835 | 37.4% |
+| ✅ | **Kivah** | +81,487 CP | 12,529 | 81,960 | 46.9% |
+| ✅ | **Agarda** | +61,009 CP | 5,449 | 61,508 | 38.5% |
 | ✅ | **Parapa** | +36,684 CP | 19,560 | 37,023 | 45.3% |
-| ✅ | **Timbalderis** | +30,719 CP | 8,463 | 31,715 | 35.7% |
+| ✅ | **Timbalderis** | +30,695 CP | 8,493 | 31,715 | 35.7% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -54,10 +54,10 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | HIP 37879 | 153,599 | 24,518 | 70.7% | 43.32% | 66.9% | 434,850 | +153,263 | 🟢 High Reinforcement |
-| ✅ | Kivah | 70,837 | 12,529 | 47.1% | 34.37% | 45.2% | 293,800 | +70,377 | 🟢 High Reinforcement |
-| ✅ | Agarda | 53,835 | 5,449 | 38.2% | 29.18% | 37.4% | 243,100 | +53,426 | 🟢 High Reinforcement |
+| ✅ | Kivah | 81,960 | 12,529 | 48.8% | 34.36% | 46.9% | 304,850 | +81,487 | 🟢 High Reinforcement |
+| ✅ | Agarda | 61,508 | 5,449 | 39.3% | 29.11% | 38.5% | 250,250 | +61,009 | 🟢 High Reinforcement |
 | ✅ | Parapa | 37,023 | 19,560 | 48.3% | 39.66% | 45.3% | 294,450 | +36,684 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 31,715 | 8,463 | 37.0% | 30.97% | 35.7% | 232,050 | +30,719 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 31,715 | 8,493 | 37.0% | 30.98% | 35.7% | 232,050 | +30,695 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 26,063 | 44,319 | 68.8% | 58.03% | 62.0% | 403,000 | +25,832 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,120 | 19,492 | 45.2% | 39.62% | 42.2% | 274,300 | +16,795 | 🟢 High Reinforcement |
 | ✅ | Mbutsi | 12,011 | 10,677 | 36.4% | 33.02% | 34.8% | 226,199 | +11,571 | 🟢 High Reinforcement |
