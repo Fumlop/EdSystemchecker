@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-03 05:09:00
-**Data Source:** 2025-08-03T05:09:00.442087
-**Total Stronghold:** 53 (31 with decay analysis)
+**Report Generated:** 2025-08-03 06:03:47
+**Data Source:** 2025-08-03T06:03:46.966892
+**Total Stronghold:** 52 (31 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -58,7 +58,7 @@
 | ✅ | Fousang | 55,017 | 87,634 | 71.7% | 57.86% | 62.9% | 629,000 | +50,423 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 29,934 | 99,020 | 75.5% | 62.93% | 65.6% | 655,999 | +26,687 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 13,623 | 15,250 | 33.7% | 30.84% | 32.2% | 322,000 | +13,607 | 🟢 High Reinforcement |
-| ✅ | LTT 3607 | 13,057 | 45,416 | 48.1% | 42.41% | 43.6% | 436,000 | +11,910 | 🟢 High Reinforcement |
+| ✅ | LTT 3607 | 13,186 | 45,416 | 48.1% | 42.40% | 43.6% | 436,000 | +12,013 | 🟢 High Reinforcement |
 | ✅ | Algorab | 13,106 | 64,791 | 57.4% | 49.79% | 50.9% | 509,000 | +11,106 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -67,8 +67,8 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Neche | 9,797 | 5,916 | 28.8% | 27.20% | 28.2% | 282,000 | +9,985 | 🟡 Medium Reinforcement |
 | ✅ | Matipu | 10,448 | 30,000 | 40.4% | 36.43% | 37.4% | 374,000 | +9,710 | 🟡 Medium Reinforcement |
+| ✅ | Belgitan | 10,135 | 31,541 | 41.2% | 37.06% | 38.0% | 380,000 | +9,431 | 🟡 Medium Reinforcement |
 | ✅ | Orishpucho | 11,361 | 93,166 | 70.8% | 60.67% | 61.5% | 615,000 | +8,294 | 🟡 Medium Reinforcement |
-| ✅ | Belgitan | 8,414 | 31,541 | 41.0% | 37.03% | 37.8% | 377,999 | +7,654 | 🟡 Medium Reinforcement |
 | ✅ | NLTT 19808 | 5,928 | 21,845 | 36.0% | 33.26% | 33.8% | 337,999 | +5,393 | 🟡 Medium Reinforcement |
 | ✅ | Inovik | 8,239 | 82,718 | 65.4% | 56.57% | 57.1% | 571,000 | +5,323 | 🟡 Medium Reinforcement |
 
