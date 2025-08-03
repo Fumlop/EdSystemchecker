@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-02 23:02:38
-**Data Source:** 2025-08-02T23:02:38.396940
+**Report Generated:** 2025-08-03 00:12:23
+**Data Source:** 2025-08-03T00:12:23.594371
 **Total Fortified:** 129 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -60,12 +60,13 @@
 | ✅ | NLTT 21088 | 25,414 | 44,319 | 68.7% | 58.03% | 61.9% | 402,350 | +25,183 | 🟢 High Reinforcement |
 | ✅ | Timbalderis | 23,188 | 8,258 | 35.7% | 30.96% | 34.4% | 223,599 | +22,375 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,120 | 19,492 | 45.2% | 39.62% | 42.2% | 274,300 | +16,795 | 🟢 High Reinforcement |
+| ✅ | Mbutsi | 11,334 | 10,677 | 36.3% | 33.02% | 34.7% | 225,550 | +10,899 | 🟢 High Reinforcement |
+| ✅ | Arnais | 10,640 | 5,561 | 31.6% | 29.15% | 30.7% | 199,550 | +10,077 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Mbutsi | 9,984 | 10,677 | 36.1% | 33.03% | 34.5% | 224,249 | +9,557 | 🟡 Medium Reinforcement |
 | ✅ | Nugua | 8,117 | 40,668 | 62.6% | 55.13% | 56.3% | 365,949 | +7,614 | 🟡 Medium Reinforcement |
 | ✅ | Mentesuri | 7,165 | 27,350 | 50.7% | 45.44% | 46.5% | 302,250 | +6,870 | 🟡 Medium Reinforcement |
 | ✅ | Namte | 6,424 | 44,980 | 66.5% | 58.62% | 59.6% | 387,400 | +6,342 | 🟡 Medium Reinforcement |
