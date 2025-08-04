@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-04 11:03:23
-**Data Source:** 2025-08-04T11:03:23.179758
+**Report Generated:** 2025-08-04 12:04:33
+**Data Source:** 2025-08-04T12:04:33.672949
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HIP 37879** | +198,640 CP | 24,518 | 198,951 | 73.9% |
+| ✅ | **HIP 37879** | +206,343 CP | 24,518 | 206,634 | 75.1% |
 | ✅ | **Kivah** | +108,564 CP | 12,535 | 108,997 | 51.1% |
 | ✅ | **Agarda** | +62,033 CP | 5,449 | 62,475 | 38.7% |
 | ✅ | **Parapa** | +59,040 CP | 19,560 | 59,433 | 48.7% |
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **HIP 37879** | +198,640 CP | 73.9% | 24,518 | 198,951 |
+| ✅ | **HIP 37879** | +206,343 CP | 75.1% | 24,518 | 206,634 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HIP 37879 | 198,951 | 24,518 | 77.7% | 43.34% | 73.9% | 480,350 | +198,640 | 🟢 High Reinforcement |
+| ✅ | HIP 37879 | 206,634 | 24,518 | 78.9% | 43.35% | 75.1% | 488,149 | +206,343 | 🟢 High Reinforcement |
 | ✅ | Kivah | 108,997 | 12,535 | 53.0% | 34.40% | 51.1% | 332,150 | +108,564 | 🟢 High Reinforcement |
 | ✅ | Agarda | 62,475 | 5,449 | 39.5% | 29.16% | 38.7% | 251,550 | +62,033 | 🟢 High Reinforcement |
 | ✅ | Parapa | 59,433 | 19,560 | 51.7% | 39.62% | 48.7% | 316,550 | +59,040 | 🟢 High Reinforcement |
@@ -77,8 +77,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Tarhul | 5,205 | 7,819 | 32.8% | 30.87% | 31.6% | 205,400 | +4,718 | 🔵 Low Reinforcement |
 | ✅ | b2 Carinae | 4,668 | 5,606 | 30.7% | 29.17% | 29.8% | 193,700 | +4,089 | 🔵 Low Reinforcement |
-| ✅ | Tarhul | 3,848 | 7,819 | 32.6% | 30.88% | 31.4% | 204,100 | +3,371 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 3,269 | 1,914 | 27.2% | 26.48% | 26.9% | 174,849 | +2,737 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 3,224 | 12,296 | 36.2% | 33.93% | 34.3% | 222,949 | +2,398 | 🔵 Low Reinforcement |
 | ✅ | HR 2798 | 2,631 | 26,906 | 49.6% | 45.14% | 45.5% | 295,750 | +2,364 | 🔵 Low Reinforcement |
