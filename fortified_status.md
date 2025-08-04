@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-04 07:08:45
-**Data Source:** 2025-08-04T07:08:44.979103
-**Total Fortified:** 130 (52 with decay analysis)
+**Report Generated:** 2025-08-04 08:04:06
+**Data Source:** 2025-08-04T08:04:05.976747
+**Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -23,10 +23,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Pisaly** | -903 CP | 336 | 0 | 24.9% |
+| ✅ | **Lesheima** | -781 CP | 15,580 | 636 | 35.8% |
 | ✅ | **Tau Centauri** | -563 CP | 23,534 | 54 | 42.3% |
 | ✅ | **Turni** | -543 CP | 2,067 | 0 | 26.5% |
 | ✅ | **LTT 4716** | -535 CP | 3,547 | 0 | 27.6% |
-| ✅ | **Atat** | -513 CP | 5,415 | 0 | 29.0% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -83,7 +83,7 @@
 | ✅ | LTT 4487 | 3,224 | 12,296 | 36.2% | 33.93% | 34.3% | 222,949 | +2,398 | 🔵 Low Reinforcement |
 | ✅ | HR 2798 | 2,631 | 26,906 | 49.6% | 45.14% | 45.5% | 295,750 | +2,364 | 🔵 Low Reinforcement |
 | ✅ | Yaricans | 2,245 | 16,827 | 40.5% | 37.61% | 37.9% | 246,350 | +1,872 | 🔵 Low Reinforcement |
-| ✅ | Aasgay | 2,282 | 936 | 26.1% | 25.74% | 26.0% | 169,000 | +1,722 | 🔵 Low Reinforcement |
+| ✅ | Aasgay | 2,282 | 937 | 26.1% | 25.74% | 26.0% | 169,000 | +1,721 | 🔵 Low Reinforcement |
 | ✅ | Eme | 1,833 | 11,667 | 35.8% | 33.78% | 34.0% | 221,000 | +1,432 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 1,772 | 3,638 | 28.6% | 27.80% | 28.0% | 182,000 | +1,304 | 🔵 Low Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 1,730 | 7,943 | 32.4% | 31.00% | 31.2% | 202,800 | +1,292 | 🔵 Low Reinforcement |
