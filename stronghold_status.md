@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-04 04:25:20
-**Data Source:** 2025-08-04T04:25:20.108814
+**Report Generated:** 2025-08-04 05:14:25
+**Data Source:** 2025-08-04T05:14:25.539491
 **Total Stronghold:** 54 (31 with decay analysis)
 
 ## 📊 Quick Summary
@@ -61,7 +61,7 @@
 | ✅ | Andel | 22,243 | 85,500 | 68.2% | 57.75% | 59.7% | 597,000 | +19,510 | 🟢 High Reinforcement |
 | ✅ | Orishpucho | 20,582 | 93,166 | 71.8% | 60.73% | 62.5% | 625,000 | +17,672 | 🟢 High Reinforcement |
 | ✅ | LTT 3607 | 19,066 | 45,579 | 48.7% | 42.34% | 44.1% | 441,000 | +17,587 | 🟢 High Reinforcement |
-| ✅ | Algorab | 16,070 | 64,791 | 57.7% | 49.79% | 51.2% | 512,000 | +14,078 | 🟢 High Reinforcement |
+| ✅ | Algorab | 16,080 | 64,791 | 57.7% | 49.79% | 51.2% | 512,000 | +14,086 | 🟢 High Reinforcement |
 | ✅ | Neche | 10,646 | 6,019 | 28.9% | 27.22% | 28.3% | 283,000 | +10,782 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -82,7 +82,7 @@
 | ✅ | Kaura | 4,051 | 29,735 | 39.7% | 36.36% | 36.7% | 367,000 | +3,404 | 🔵 Low Reinforcement |
 | ✅ | Karnarki | 2,767 | 10,958 | 30.5% | 29.13% | 29.4% | 294,000 | +2,742 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 1,663 | 13,625 | 31.7% | 30.15% | 30.3% | 303,000 | +1,533 | 🔵 Low Reinforcement |
-| ✅ | Siki | 1,705 | 18,291 | 33.9% | 31.96% | 32.1% | 321,000 | +1,448 | 🔵 Low Reinforcement |
+| ✅ | Siki | 1,710 | 18,291 | 33.9% | 31.95% | 32.1% | 321,000 | +1,452 | 🔵 Low Reinforcement |
 
 
 ---
