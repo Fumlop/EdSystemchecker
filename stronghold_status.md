@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-04 02:48:10
-**Data Source:** 2025-08-04T02:48:10.567923
+**Report Generated:** 2025-08-04 03:37:38
+**Data Source:** 2025-08-04T03:37:38.547619
 **Total Stronghold:** 54 (31 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **BD-01 1707** | +74,818 CP | 86,750 | 77,623 | 65.7% |
 | ✅ | **Fousang** | +52,326 CP | 87,634 | 56,896 | 63.1% |
 | ✅ | **LP 726-6** | +35,959 CP | 99,020 | 39,275 | 66.5% |
-| ✅ | **Carnoeck** | +25,307 CP | 15,250 | 25,499 | 33.3% |
+| ✅ | **Carnoeck** | +25,319 CP | 15,250 | 25,514 | 33.3% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -57,7 +57,7 @@
 | ✅ | BD-01 1707 | 77,623 | 86,750 | 74.4% | 58.22% | 65.7% | 657,000 | +74,818 | 🟢 High Reinforcement |
 | ✅ | Fousang | 56,896 | 87,634 | 71.9% | 57.87% | 63.1% | 631,000 | +52,326 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 39,275 | 99,020 | 76.4% | 62.90% | 66.5% | 665,000 | +35,959 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 25,499 | 15,250 | 34.8% | 30.77% | 33.3% | 332,999 | +25,307 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 25,514 | 15,250 | 34.8% | 30.77% | 33.3% | 332,999 | +25,319 | 🟢 High Reinforcement |
 | ✅ | Andel | 22,243 | 85,500 | 68.2% | 57.75% | 59.7% | 597,000 | +19,510 | 🟢 High Reinforcement |
 | ✅ | LTT 3607 | 19,066 | 45,561 | 48.8% | 42.42% | 44.2% | 442,000 | +17,802 | 🟢 High Reinforcement |
 | ✅ | Orishpucho | 20,582 | 93,166 | 71.8% | 60.73% | 62.5% | 625,000 | +17,672 | 🟢 High Reinforcement |
@@ -77,6 +77,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Gurus | 7,626 | 88,333 | 68.1% | 58.82% | 59.3% | 593,000 | +4,758 | 🔵 Low Reinforcement |
 | ✅ | Noti | 5,948 | 61,541 | 55.2% | 48.58% | 49.0% | 490,000 | +4,171 | 🔵 Low Reinforcement |
 | ✅ | Kaura | 4,051 | 29,735 | 39.7% | 36.36% | 36.7% | 367,000 | +3,404 | 🔵 Low Reinforcement |
 | ✅ | Karnarki | 2,767 | 10,958 | 30.5% | 29.13% | 29.4% | 294,000 | +2,742 | 🔵 Low Reinforcement |

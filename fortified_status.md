@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-04 02:48:10
-**Data Source:** 2025-08-04T02:48:10.566268
+**Report Generated:** 2025-08-04 03:37:38
+**Data Source:** 2025-08-04T03:37:38.545986
 **Total Fortified:** 130 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **Kivah** | +102,656 CP | 12,529 | 103,071 | 50.2% |
 | ✅ | **Agarda** | +61,741 CP | 5,449 | 62,258 | 38.6% |
 | ✅ | **Parapa** | +59,040 CP | 19,560 | 59,433 | 48.7% |
-| ✅ | **NLTT 21088** | +37,243 CP | 44,319 | 37,414 | 63.8% |
+| ✅ | **NLTT 21088** | +37,272 CP | 44,319 | 37,449 | 63.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -23,7 +23,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Pisaly** | -903 CP | 336 | 0 | 24.9% |
-| ✅ | **Tau Centauri** | -580 CP | 23,534 | 34 | 42.3% |
+| ✅ | **Tau Centauri** | -563 CP | 23,534 | 54 | 42.3% |
 | ✅ | **Turni** | -543 CP | 2,067 | 0 | 26.5% |
 | ✅ | **LTT 4716** | -535 CP | 3,547 | 0 | 27.6% |
 | ✅ | **Atat** | -513 CP | 5,415 | 0 | 29.0% |
@@ -57,7 +57,7 @@
 | ✅ | Kivah | 103,071 | 12,529 | 52.1% | 34.41% | 50.2% | 326,300 | +102,656 | 🟢 High Reinforcement |
 | ✅ | Agarda | 62,258 | 5,449 | 39.4% | 29.10% | 38.6% | 250,900 | +61,741 | 🟢 High Reinforcement |
 | ✅ | Parapa | 59,433 | 19,560 | 51.7% | 39.62% | 48.7% | 316,550 | +59,040 | 🟢 High Reinforcement |
-| ✅ | NLTT 21088 | 37,414 | 44,319 | 70.6% | 58.07% | 63.8% | 414,700 | +37,243 | 🟢 High Reinforcement |
+| ✅ | NLTT 21088 | 37,449 | 44,319 | 70.6% | 58.07% | 63.8% | 414,700 | +37,272 | 🟢 High Reinforcement |
 | ✅ | Timbalderis | 31,925 | 8,665 | 37.0% | 30.97% | 35.7% | 232,050 | +30,726 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,130 | 19,492 | 45.2% | 39.61% | 42.2% | 274,300 | +16,803 | 🟢 High Reinforcement |
 | ✅ | Namte | 13,412 | 44,987 | 67.6% | 58.65% | 60.7% | 394,550 | +13,352 | 🟢 High Reinforcement |
