@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-04 15:03:16
-**Data Source:** 2025-08-04T15:03:16.118042
+**Report Generated:** 2025-08-04 16:03:44
+**Data Source:** 2025-08-04T16:03:44.863934
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HIP 37879** | +210,487 CP | 24,518 | 210,828 | 75.7% |
+| ✅ | **HIP 37879** | +216,653 CP | 24,518 | 216,925 | 76.7% |
 | ✅ | **Kivah** | +108,617 CP | 12,535 | 109,060 | 51.1% |
 | ✅ | **Parapa** | +70,083 CP | 19,560 | 70,474 | 50.4% |
 | ✅ | **Agarda** | +62,033 CP | 5,449 | 62,475 | 38.7% |
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **HIP 37879** | +210,487 CP | 75.7% | 24,518 | 210,828 |
+| ✅ | **HIP 37879** | +216,653 CP | 76.7% | 24,518 | 216,925 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,14 +53,14 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HIP 37879 | 210,828 | 24,518 | 79.5% | 43.32% | 75.7% | 492,050 | +210,487 | 🟢 High Reinforcement |
+| ✅ | HIP 37879 | 216,925 | 24,518 | 80.5% | 43.37% | 76.7% | 498,550 | +216,653 | 🟢 High Reinforcement |
 | ✅ | Kivah | 109,060 | 12,535 | 53.0% | 34.39% | 51.1% | 332,150 | +108,617 | 🟢 High Reinforcement |
 | ✅ | Parapa | 70,474 | 19,560 | 53.4% | 39.62% | 50.4% | 327,600 | +70,083 | 🟢 High Reinforcement |
 | ✅ | Agarda | 62,475 | 5,449 | 39.5% | 29.16% | 38.7% | 251,550 | +62,033 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 38,729 | 44,319 | 70.8% | 58.07% | 64.0% | 416,000 | +38,555 | 🟢 High Reinforcement |
 | ✅ | Timbalderis | 31,925 | 8,665 | 37.0% | 30.97% | 35.7% | 232,050 | +30,726 | 🟢 High Reinforcement |
+| ✅ | Namte | 20,402 | 44,987 | 68.6% | 58.58% | 61.7% | 401,050 | +20,258 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,130 | 19,492 | 45.2% | 39.61% | 42.2% | 274,300 | +16,803 | 🟢 High Reinforcement |
-| ✅ | Namte | 13,412 | 44,987 | 67.6% | 58.65% | 60.7% | 394,550 | +13,352 | 🟢 High Reinforcement |
 | ✅ | Mbutsi | 12,269 | 10,677 | 36.5% | 33.07% | 34.9% | 226,849 | +11,896 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 159,340 | 0 | 26.7% | 25.00% | 26.7% | 173,550 | +11,050 | 🟢 High Reinforcement |
 | ✅ | Arnais | 10,640 | 5,561 | 31.6% | 29.15% | 30.7% | 199,550 | +10,077 | 🟢 High Reinforcement |
@@ -70,7 +70,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Nugua | 8,117 | 40,668 | 62.6% | 55.13% | 56.3% | 365,949 | +7,614 | 🟡 Medium Reinforcement |
-| ✅ | Mentesuri | 7,334 | 27,350 | 50.8% | 45.50% | 46.6% | 302,900 | +7,121 | 🟡 Medium Reinforcement |
+| ✅ | Mentesuri | 7,374 | 27,350 | 50.8% | 45.50% | 46.6% | 302,900 | +7,155 | 🟡 Medium Reinforcement |
 | ✅ | Polahukuna | 5,952 | 16,838 | 40.9% | 37.47% | 38.3% | 248,949 | +5,378 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
@@ -88,7 +88,7 @@
 | ✅ | Umbrigua | 1,772 | 3,638 | 28.6% | 27.80% | 28.0% | 182,000 | +1,304 | 🔵 Low Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 1,730 | 7,943 | 32.4% | 31.00% | 31.2% | 202,800 | +1,292 | 🔵 Low Reinforcement |
 | ✅ | Delta Muscae | 1,719 | 12,005 | 36.0% | 34.00% | 34.2% | 222,300 | +1,282 | 🔵 Low Reinforcement |
-| ✅ | 18 Puppis | 1,278 | 27,848 | 50.3% | 45.84% | 46.0% | 299,000 | +1,025 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 1,311 | 27,848 | 50.3% | 45.84% | 46.0% | 299,000 | +1,052 | 🔵 Low Reinforcement |
 
 
 ---
