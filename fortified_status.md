@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-05 12:04:43
-**Data Source:** 2025-08-05T12:04:43.518351
+**Report Generated:** 2025-08-05 13:15:47
+**Data Source:** 2025-08-05T13:15:47.509410
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -59,7 +59,7 @@
 | ✅ | Parapa | 89,025 | 19,568 | 56.3% | 39.66% | 53.3% | 346,449 | +88,679 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 42,849 | 44,319 | 71.4% | 58.04% | 64.6% | 419,899 | +42,637 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 190,663 | 0 | 31.5% | 25.00% | 31.5% | 204,750 | +42,250 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 34,406 | 8,973 | 37.4% | 30.94% | 36.0% | 234,000 | +32,861 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 33,838 | 8,938 | 37.3% | 30.93% | 35.9% | 233,350 | +32,307 | 🟢 High Reinforcement |
 | ✅ | Namte | 24,282 | 44,987 | 69.2% | 58.59% | 62.3% | 404,950 | +24,141 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,140 | 19,492 | 45.2% | 39.61% | 42.2% | 274,300 | +16,811 | 🟢 High Reinforcement |
 | ✅ | Mbutsi | 14,223 | 10,677 | 36.8% | 33.07% | 35.2% | 228,800 | +13,850 | 🟢 High Reinforcement |
@@ -82,7 +82,7 @@
 | ✅ | LTT 4487 | 4,388 | 12,510 | 36.3% | 33.89% | 34.4% | 223,599 | +3,297 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 3,850 | 28,100 | 50.6% | 45.80% | 46.3% | 300,950 | +3,281 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 3,382 | 1,914 | 27.2% | 26.46% | 26.9% | 174,849 | +2,831 | 🔵 Low Reinforcement |
-| ✅ | Delta Muscae | 3,182 | 12,005 | 36.2% | 33.98% | 34.4% | 223,599 | +2,716 | 🔵 Low Reinforcement |
+| ✅ | Delta Muscae | 3,215 | 12,005 | 36.2% | 33.98% | 34.4% | 223,599 | +2,744 | 🔵 Low Reinforcement |
 | ✅ | HR 2798 | 2,631 | 26,906 | 49.6% | 45.14% | 45.5% | 295,750 | +2,364 | 🔵 Low Reinforcement |
 | ✅ | Aasgay | 2,586 | 937 | 26.2% | 25.78% | 26.1% | 169,650 | +2,084 | 🔵 Low Reinforcement |
 | ✅ | Yaricans | 2,360 | 16,827 | 40.5% | 37.60% | 37.9% | 246,350 | +1,967 | 🔵 Low Reinforcement |
