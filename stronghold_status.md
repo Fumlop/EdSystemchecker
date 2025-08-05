@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-05 05:09:37
-**Data Source:** 2025-08-05T05:09:37.412500
+**Report Generated:** 2025-08-05 06:04:54
+**Data Source:** 2025-08-05T06:04:54.655530
 **Total Stronghold:** 54 (31 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **Fousang** | +89,864 CP | 87,634 | 94,569 | 66.8% |
 | ✅ | **BD-01 1707** | +74,866 CP | 86,750 | 77,683 | 65.7% |
 | ✅ | **LP 726-6** | +39,843 CP | 99,020 | 43,129 | 66.9% |
-| ✅ | **Carnoeck** | +31,258 CP | 15,250 | 31,438 | 33.9% |
+| ✅ | **Carnoeck** | +31,282 CP | 15,250 | 31,468 | 33.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -57,11 +57,11 @@
 | ✅ | Fousang | 94,569 | 87,634 | 75.6% | 57.81% | 66.8% | 667,999 | +89,864 | 🟢 High Reinforcement |
 | ✅ | BD-01 1707 | 77,683 | 86,750 | 74.4% | 58.21% | 65.7% | 657,000 | +74,866 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 43,129 | 99,020 | 76.8% | 62.92% | 66.9% | 669,000 | +39,843 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 31,438 | 15,250 | 35.4% | 30.77% | 33.9% | 338,999 | +31,258 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 31,468 | 15,250 | 35.4% | 30.77% | 33.9% | 338,999 | +31,282 | 🟢 High Reinforcement |
 | ✅ | Algorab | 27,232 | 64,791 | 58.8% | 49.78% | 52.3% | 523,000 | +25,207 | 🟢 High Reinforcement |
 | ✅ | LTT 3607 | 25,845 | 45,579 | 49.4% | 42.36% | 44.8% | 447,999 | +24,410 | 🟢 High Reinforcement |
+| ✅ | Orishpucho | 24,637 | 93,166 | 72.2% | 60.73% | 62.9% | 629,000 | +21,715 | 🟢 High Reinforcement |
 | ✅ | Andel | 23,976 | 85,527 | 68.5% | 57.77% | 59.9% | 599,000 | +21,275 | 🟢 High Reinforcement |
-| ✅ | Orishpucho | 24,298 | 93,166 | 72.1% | 60.68% | 62.8% | 628,000 | +21,244 | 🟢 High Reinforcement |
 | ✅ | Inovik | 17,909 | 82,938 | 66.4% | 56.61% | 58.1% | 581,000 | +14,884 | 🟢 High Reinforcement |
 | ✅ | Neche | 11,812 | 6,019 | 29.0% | 27.21% | 28.4% | 284,000 | +11,915 | 🟢 High Reinforcement |
 
