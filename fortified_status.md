@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-05 13:15:47
-**Data Source:** 2025-08-05T13:15:47.509410
+**Report Generated:** 2025-08-05 14:06:07
+**Data Source:** 2025-08-05T14:06:06.964498
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -59,7 +59,7 @@
 | ✅ | Parapa | 89,025 | 19,568 | 56.3% | 39.66% | 53.3% | 346,449 | +88,679 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 42,849 | 44,319 | 71.4% | 58.04% | 64.6% | 419,899 | +42,637 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 190,663 | 0 | 31.5% | 25.00% | 31.5% | 204,750 | +42,250 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 33,838 | 8,938 | 37.3% | 30.93% | 35.9% | 233,350 | +32,307 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 34,476 | 8,973 | 37.4% | 30.94% | 36.0% | 234,000 | +32,919 | 🟢 High Reinforcement |
 | ✅ | Namte | 24,282 | 44,987 | 69.2% | 58.59% | 62.3% | 404,950 | +24,141 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,140 | 19,492 | 45.2% | 39.61% | 42.2% | 274,300 | +16,811 | 🟢 High Reinforcement |
 | ✅ | Mbutsi | 14,223 | 10,677 | 36.8% | 33.07% | 35.2% | 228,800 | +13,850 | 🟢 High Reinforcement |
@@ -87,7 +87,7 @@
 | ✅ | Aasgay | 2,586 | 937 | 26.2% | 25.78% | 26.1% | 169,650 | +2,084 | 🔵 Low Reinforcement |
 | ✅ | Yaricans | 2,360 | 16,827 | 40.5% | 37.60% | 37.9% | 246,350 | +1,967 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 1,937 | 3,638 | 28.6% | 27.78% | 28.0% | 182,000 | +1,441 | 🔵 Low Reinforcement |
-| ✅ | Delta-2 Canis Minoris | 1,864 | 7,943 | 32.4% | 30.98% | 31.2% | 202,800 | +1,402 | 🔵 Low Reinforcement |
+| ✅ | Delta-2 Canis Minoris | 1,894 | 7,943 | 32.4% | 30.98% | 31.2% | 202,800 | +1,427 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 1,596 | 27,848 | 50.3% | 45.80% | 46.0% | 299,000 | +1,288 | 🔵 Low Reinforcement |
 | ✅ | Eme | 1,843 | 12,021 | 35.7% | 33.74% | 33.9% | 220,349 | +1,035 | 🔵 Low Reinforcement |
 
