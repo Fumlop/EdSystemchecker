@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-05 15:04:05
-**Data Source:** 2025-08-05T15:04:04.961034
+**Report Generated:** 2025-08-05 16:02:55
+**Data Source:** 2025-08-05T16:02:55.048960
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HIP 37879** | +313,229 CP | 24,518 | 313,579 | 91.5% |
+| ✅ | **HIP 37879** | +327,904 CP | 24,518 | 328,197 | 93.8% |
 | ✅ | **Kivah** | +143,676 CP | 12,535 | 144,111 | 56.5% |
 | ✅ | **Agarda** | +116,790 CP | 5,449 | 117,265 | 47.1% |
 | ✅ | **Parapa** | +88,679 CP | 19,568 | 89,025 | 53.3% |
@@ -26,14 +26,14 @@
 | ✅ | **Pisaly** | -903 CP | 336 | 0 | 24.9% |
 | ✅ | **Lesheima** | -851 CP | 15,665 | 636 | 35.8% |
 | ✅ | **Tau Centauri** | -715 CP | 23,717 | 54 | 42.3% |
-| ✅ | **Turni** | -543 CP | 2,067 | 0 | 26.5% |
+| ✅ | **LTT 4716** | -535 CP | 3,547 | 0 | 27.6% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **HIP 37879** | +313,229 CP | 91.5% | 24,518 | 313,579 |
+| ✅ | **HIP 37879** | +327,904 CP | 93.8% | 24,518 | 328,197 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HIP 37879 | 313,579 | 24,518 | 95.3% | 43.31% | 91.5% | 594,750 | +313,229 | 🟢 High Reinforcement |
+| ✅ | HIP 37879 | 328,197 | 24,518 | 97.6% | 43.35% | 93.8% | 609,700 | +327,904 | 🟢 High Reinforcement |
 | ✅ | Kivah | 144,111 | 12,535 | 58.4% | 34.40% | 56.5% | 367,249 | +143,676 | 🟢 High Reinforcement |
 | ✅ | Agarda | 117,265 | 5,449 | 47.9% | 29.13% | 47.1% | 306,150 | +116,790 | 🟢 High Reinforcement |
 | ✅ | Parapa | 89,025 | 19,568 | 56.3% | 39.66% | 53.3% | 346,449 | +88,679 | 🟢 High Reinforcement |
@@ -78,6 +78,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Kharahua | 5,408 | 9,105 | 34.0% | 31.84% | 32.6% | 211,900 | +4,942 | 🔵 Low Reinforcement |
 | ✅ | Tarhul | 5,302 | 7,819 | 32.8% | 30.86% | 31.6% | 205,400 | +4,799 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 4,388 | 12,510 | 36.3% | 33.89% | 34.4% | 223,599 | +3,297 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 3,850 | 28,100 | 50.6% | 45.80% | 46.3% | 300,950 | +3,281 | 🔵 Low Reinforcement |
