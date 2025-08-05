@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-05 18:03:48
-**Data Source:** 2025-08-05T18:03:47.975361
+**Report Generated:** 2025-08-05 19:05:25
+**Data Source:** 2025-08-05T19:05:25.284363
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HIP 37879** | +334,629 CP | 24,518 | 334,969 | 94.8% |
+| ✅ | **HIP 37879** | +354,826 CP | 24,518 | 355,175 | 97.9% |
 | ✅ | **Kivah** | +157,567 CP | 12,535 | 158,052 | 58.6% |
 | ✅ | **Agarda** | +116,790 CP | 5,449 | 117,265 | 47.1% |
 | ✅ | **Parapa** | +88,679 CP | 19,568 | 89,025 | 53.3% |
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **HIP 37879** | +334,629 CP | 94.8% | 24,518 | 334,969 |
+| ✅ | **HIP 37879** | +354,826 CP | 97.9% | 24,518 | 355,175 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HIP 37879 | 334,969 | 24,518 | 98.6% | 43.32% | 94.8% | 616,200 | +334,629 | 🟢 High Reinforcement |
+| ✅ | HIP 37879 | 355,175 | 24,518 | 101.7% | 43.31% | 97.9% | 636,350 | +354,826 | 🟢 High Reinforcement |
 | ✅ | Kivah | 158,052 | 12,535 | 60.5% | 34.36% | 58.6% | 380,900 | +157,567 | 🟢 High Reinforcement |
 | ✅ | Agarda | 117,265 | 5,449 | 47.9% | 29.13% | 47.1% | 306,150 | +116,790 | 🟢 High Reinforcement |
 | ✅ | Parapa | 89,025 | 19,568 | 56.3% | 39.66% | 53.3% | 346,449 | +88,679 | 🟢 High Reinforcement |
@@ -86,7 +86,7 @@
 | ✅ | Delta Muscae | 3,215 | 12,005 | 36.2% | 33.98% | 34.4% | 223,599 | +2,744 | 🔵 Low Reinforcement |
 | ✅ | Yaricans | 2,810 | 16,827 | 40.6% | 37.62% | 38.0% | 247,000 | +2,451 | 🔵 Low Reinforcement |
 | ✅ | HR 2798 | 2,631 | 26,906 | 49.6% | 45.14% | 45.5% | 295,750 | +2,364 | 🔵 Low Reinforcement |
-| ✅ | Aasgay | 2,586 | 937 | 26.2% | 25.78% | 26.1% | 169,650 | +2,084 | 🔵 Low Reinforcement |
+| ✅ | Aasgay | 2,586 | 969 | 26.2% | 25.78% | 26.1% | 169,650 | +2,058 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 1,937 | 3,638 | 28.6% | 27.78% | 28.0% | 182,000 | +1,441 | 🔵 Low Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 1,894 | 7,943 | 32.4% | 30.98% | 31.2% | 202,800 | +1,427 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 1,596 | 27,848 | 50.3% | 45.80% | 46.0% | 299,000 | +1,288 | 🔵 Low Reinforcement |
