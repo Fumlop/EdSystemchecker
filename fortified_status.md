@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-05 06:04:54
-**Data Source:** 2025-08-05T06:04:54.653906
+**Report Generated:** 2025-08-05 07:06:23
+**Data Source:** 2025-08-05T07:06:23.798291
 **Total Fortified:** 131 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -86,8 +86,8 @@
 | ✅ | HR 2798 | 2,631 | 26,906 | 49.6% | 45.14% | 45.5% | 295,750 | +2,364 | 🔵 Low Reinforcement |
 | ✅ | Aasgay | 2,586 | 937 | 26.2% | 25.78% | 26.1% | 169,650 | +2,084 | 🔵 Low Reinforcement |
 | ✅ | Yaricans | 2,360 | 16,827 | 40.5% | 37.60% | 37.9% | 246,350 | +1,967 | 🔵 Low Reinforcement |
+| ✅ | Umbrigua | 1,937 | 3,638 | 28.6% | 27.78% | 28.0% | 182,000 | +1,441 | 🔵 Low Reinforcement |
 | ✅ | Eme | 1,843 | 11,667 | 35.8% | 33.78% | 34.0% | 221,000 | +1,440 | 🔵 Low Reinforcement |
-| ✅ | Umbrigua | 1,912 | 3,638 | 28.6% | 27.78% | 28.0% | 182,000 | +1,420 | 🔵 Low Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 1,864 | 7,943 | 32.4% | 30.98% | 31.2% | 202,800 | +1,402 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 1,596 | 27,848 | 50.3% | 45.80% | 46.0% | 299,000 | +1,288 | 🔵 Low Reinforcement |
 
