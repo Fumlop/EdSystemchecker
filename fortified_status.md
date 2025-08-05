@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-05 03:32:43
-**Data Source:** 2025-08-05T03:32:43.426149
+**Report Generated:** 2025-08-05 04:20:12
+**Data Source:** 2025-08-05T04:20:11.989435
 **Total Fortified:** 131 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -62,7 +62,7 @@
 | ✅ | Crucis Sector PC-V a2-1 | 178,177 | 0 | 29.6% | 25.00% | 29.6% | 192,400 | +29,900 | 🟢 High Reinforcement |
 | ✅ | Namte | 24,282 | 44,987 | 69.2% | 58.59% | 62.3% | 404,950 | +24,141 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,140 | 19,492 | 45.2% | 39.61% | 42.2% | 274,300 | +16,811 | 🟢 High Reinforcement |
-| ✅ | Mbutsi | 14,123 | 10,677 | 36.7% | 33.00% | 35.1% | 228,150 | +13,655 | 🟢 High Reinforcement |
+| ✅ | Mbutsi | 14,223 | 10,677 | 36.8% | 33.07% | 35.2% | 228,800 | +13,850 | 🟢 High Reinforcement |
 | ✅ | Mentesuri | 12,861 | 27,350 | 51.6% | 45.46% | 47.4% | 308,100 | +12,592 | 🟢 High Reinforcement |
 | ✅ | Arnais | 10,640 | 5,561 | 31.6% | 29.15% | 30.7% | 199,550 | +10,077 | 🟢 High Reinforcement |
 
