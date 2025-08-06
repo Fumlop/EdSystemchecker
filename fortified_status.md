@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-06 10:03:23
-**Data Source:** 2025-08-06T10:03:23.745571
+**Report Generated:** 2025-08-06 11:03:03
+**Data Source:** 2025-08-06T11:03:03.603334
 **Total Fortified:** 132 (54 with decay analysis)
 
 ## 📊 Quick Summary
@@ -70,8 +70,8 @@
 | ✅ | Agarda | 117,342 | 5,449 | 47.9% | 29.12% | 47.1% | 306,150 | +116,854 | 🟢 High Reinforcement |
 | ✅ | Parapa | 89,025 | 19,568 | 56.3% | 39.66% | 53.3% | 346,449 | +88,679 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 47,285 | 44,319 | 72.1% | 58.05% | 65.3% | 424,450 | +47,093 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 45,850 | 9,344 | 39.1% | 30.94% | 37.7% | 245,050 | +43,930 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 190,663 | 0 | 31.5% | 25.00% | 31.5% | 204,750 | +42,250 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 38,937 | 9,344 | 38.0% | 30.91% | 36.6% | 237,900 | +36,976 | 🟢 High Reinforcement |
 | ✅ | Namte | 24,373 | 44,987 | 69.2% | 58.57% | 62.3% | 404,950 | +24,216 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,140 | 19,492 | 45.2% | 39.61% | 42.2% | 274,300 | +16,811 | 🟢 High Reinforcement |
 | ✅ | Mbutsi | 14,248 | 10,677 | 36.8% | 33.07% | 35.2% | 228,800 | +13,871 | 🟢 High Reinforcement |
