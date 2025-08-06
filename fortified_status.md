@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-06 22:02:47
-**Data Source:** 2025-08-06T22:02:47.159699
+**Report Generated:** 2025-08-06 23:02:42
+**Data Source:** 2025-08-06T23:02:42.769650
 **Total Fortified:** 131 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -14,7 +14,7 @@
 | ✅ | **HIP 37879** | +416,299 CP | 24,518 | 416,590 | 107.4% |
 | ✅ | **Kivah** | +170,602 CP | 12,535 | 171,095 | 60.6% |
 | ✅ | **Agarda** | +120,698 CP | 5,449 | 121,174 | 47.7% |
-| ✅ | **Parapa** | +88,679 CP | 19,568 | 89,025 | 53.3% |
+| ✅ | **Parapa** | +88,901 CP | 19,568 | 89,294 | 53.3% |
 | ✅ | **Crucis Sector PC-V a2-1** | +65,650 CP | 0 | 213,581 | 35.1% |
 
 ### 🔴 **Most Threatened Systems**
@@ -26,7 +26,7 @@
 | ✅ | **Pisaly** | -903 CP | 336 | 0 | 24.9% |
 | ✅ | **Lesheima** | -851 CP | 15,665 | 636 | 35.8% |
 | ✅ | **Tau Centauri** | -715 CP | 23,717 | 54 | 42.3% |
-| ✅ | **LHS 306** | -650 CP | 404 | 961 | 24.9% |
+| ✅ | **LHS 306** | -650 CP | 552 | 961 | 24.9% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -40,7 +40,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **LHS 306** | -650 CP | 24.9% | 404 | 961 |
+| ✅ | **LHS 306** | -650 CP | 24.9% | 552 | 961 |
 | ✅ | **Pisaly** | -903 CP | 24.9% | 336 | 0 |
 ## 🔄 System Status Transitions  
 *Systems that have exceeded 100% progress and will transition to "stronghold"*
@@ -68,7 +68,7 @@
 | ✅ | HIP 37879 | 416,590 | 24,518 | 111.2% | 43.35% | 107.4% | 698,100 | +416,299 | 🟢 High Reinforcement |
 | ✅ | Kivah | 171,095 | 12,535 | 62.5% | 34.35% | 60.6% | 393,900 | +170,602 | 🟢 High Reinforcement |
 | ✅ | Agarda | 121,174 | 5,449 | 48.5% | 29.13% | 47.7% | 310,050 | +120,698 | 🟢 High Reinforcement |
-| ✅ | Parapa | 89,025 | 19,568 | 56.3% | 39.66% | 53.3% | 346,449 | +88,679 | 🟢 High Reinforcement |
+| ✅ | Parapa | 89,294 | 19,568 | 56.3% | 39.62% | 53.3% | 346,449 | +88,901 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 213,581 | 0 | 35.1% | 25.00% | 35.1% | 228,150 | +65,650 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 49,279 | 44,319 | 72.4% | 58.05% | 65.6% | 426,399 | +49,079 | 🟢 High Reinforcement |
 | ✅ | Timbalderis | 46,660 | 9,558 | 39.3% | 30.95% | 37.8% | 245,699 | +44,535 | 🟢 High Reinforcement |
@@ -76,7 +76,7 @@
 | ✅ | Erivit | 17,140 | 19,492 | 45.2% | 39.61% | 42.2% | 274,300 | +16,811 | 🟢 High Reinforcement |
 | ✅ | Mbutsi | 14,248 | 10,677 | 36.8% | 33.07% | 35.2% | 228,800 | +13,871 | 🟢 High Reinforcement |
 | ✅ | Mentesuri | 13,161 | 27,350 | 51.6% | 45.42% | 47.4% | 308,100 | +12,840 | 🟢 High Reinforcement |
-| ✅ | Ralu | 12,285 | 28,100 | 51.9% | 45.80% | 47.6% | 309,400 | +11,719 | 🟢 High Reinforcement |
+| ✅ | Ralu | 12,295 | 28,100 | 51.9% | 45.80% | 47.6% | 309,400 | +11,727 | 🟢 High Reinforcement |
 | ✅ | Arnais | 10,640 | 5,561 | 31.6% | 29.15% | 30.7% | 199,550 | +10,077 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
