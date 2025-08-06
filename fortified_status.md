@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-06 04:18:40
-**Data Source:** 2025-08-06T04:18:40.111054
+**Report Generated:** 2025-08-06 05:09:51
+**Data Source:** 2025-08-06T05:09:51.505783
 **Total Fortified:** 131 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -85,7 +85,7 @@
 | ✅ | Ralu | 8,511 | 28,100 | 51.3% | 45.78% | 47.0% | 305,500 | +7,923 | 🟡 Medium Reinforcement |
 | ✅ | Nugua | 8,117 | 40,668 | 62.6% | 55.13% | 56.3% | 365,949 | +7,614 | 🟡 Medium Reinforcement |
 | ✅ | Kharahua | 7,044 | 9,105 | 34.3% | 31.88% | 32.9% | 213,849 | +6,632 | 🟡 Medium Reinforcement |
-| ✅ | b2 Carinae | 6,935 | 5,617 | 31.1% | 29.21% | 30.2% | 196,300 | +6,404 | 🟡 Medium Reinforcement |
+| ✅ | b2 Carinae | 6,945 | 5,638 | 31.1% | 29.22% | 30.2% | 196,300 | +6,395 | 🟡 Medium Reinforcement |
 | ✅ | Polahukuna | 5,952 | 16,838 | 40.9% | 37.47% | 38.3% | 248,949 | +5,378 | 🟡 Medium Reinforcement |
 | ✅ | Tarhul | 5,582 | 7,819 | 32.9% | 30.91% | 31.7% | 206,050 | +5,142 | 🟡 Medium Reinforcement |
 
@@ -100,8 +100,8 @@
 | ✅ | HR 2798 | 2,631 | 26,906 | 49.6% | 45.14% | 45.5% | 295,750 | +2,364 | 🔵 Low Reinforcement |
 | ✅ | Aasgay | 2,586 | 969 | 26.2% | 25.78% | 26.1% | 169,650 | +2,058 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 2,154 | 3,638 | 28.6% | 27.75% | 28.0% | 182,000 | +1,620 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 1,841 | 27,848 | 50.4% | 45.85% | 46.1% | 299,650 | +1,603 | 🔵 Low Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 1,894 | 7,943 | 32.4% | 30.98% | 31.2% | 202,800 | +1,427 | 🔵 Low Reinforcement |
-| ✅ | 18 Puppis | 1,616 | 27,848 | 50.3% | 45.80% | 46.0% | 299,000 | +1,305 | 🔵 Low Reinforcement |
 | ✅ | Eme | 2,098 | 12,245 | 35.8% | 33.74% | 33.9% | 220,349 | +1,060 | 🔵 Low Reinforcement |
 
 
