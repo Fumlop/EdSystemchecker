@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-06 06:04:47
-**Data Source:** 2025-08-06T06:04:47.703630
+**Report Generated:** 2025-08-06 07:06:24
+**Data Source:** 2025-08-06T07:06:24.195977
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -61,7 +61,7 @@
 | ✅ | Carnoeck | 35,745 | 16,305 | 35.9% | 30.83% | 34.3% | 343,000 | +34,660 | 🟢 High Reinforcement |
 | ✅ | LTT 3607 | 28,819 | 45,662 | 49.7% | 42.37% | 45.1% | 451,000 | +27,323 | 🟢 High Reinforcement |
 | ✅ | Algorab | 27,417 | 64,791 | 58.9% | 49.84% | 52.4% | 524,000 | +25,556 | 🟢 High Reinforcement |
-| ✅ | Orishpucho | 26,597 | 93,166 | 72.4% | 60.73% | 63.1% | 631,000 | +23,684 | 🟢 High Reinforcement |
+| ✅ | Orishpucho | 27,110 | 93,174 | 72.4% | 60.69% | 63.1% | 631,000 | +24,087 | 🟢 High Reinforcement |
 | ✅ | Andel | 26,058 | 85,557 | 68.7% | 57.77% | 60.1% | 601,000 | +23,317 | 🟢 High Reinforcement |
 | ✅ | Inovik | 18,209 | 83,125 | 66.4% | 56.60% | 58.1% | 581,000 | +14,974 | 🟢 High Reinforcement |
 | ✅ | Neche | 12,198 | 6,019 | 29.1% | 27.26% | 28.5% | 285,000 | +12,424 | 🟢 High Reinforcement |
