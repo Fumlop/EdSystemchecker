@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-06 02:43:02
-**Data Source:** 2025-08-06T02:43:02.582042
+**Report Generated:** 2025-08-06 03:31:57
+**Data Source:** 2025-08-06T03:31:57.169972
 **Total Fortified:** 131 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **Kivah** | +157,567 CP | 12,535 | 158,052 | 58.6% |
 | ✅ | **Agarda** | +116,790 CP | 5,449 | 117,265 | 47.1% |
 | ✅ | **Parapa** | +88,679 CP | 19,568 | 89,025 | 53.3% |
-| ✅ | **NLTT 21088** | +43,138 CP | 44,319 | 43,318 | 64.7% |
+| ✅ | **NLTT 21088** | +47,093 CP | 44,319 | 47,285 | 65.3% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -69,7 +69,7 @@
 | ✅ | Kivah | 158,052 | 12,535 | 60.5% | 34.36% | 58.6% | 380,900 | +157,567 | 🟢 High Reinforcement |
 | ✅ | Agarda | 117,265 | 5,449 | 47.9% | 29.13% | 47.1% | 306,150 | +116,790 | 🟢 High Reinforcement |
 | ✅ | Parapa | 89,025 | 19,568 | 56.3% | 39.66% | 53.3% | 346,449 | +88,679 | 🟢 High Reinforcement |
-| ✅ | NLTT 21088 | 43,318 | 44,319 | 71.5% | 58.06% | 64.7% | 420,550 | +43,138 | 🟢 High Reinforcement |
+| ✅ | NLTT 21088 | 47,285 | 44,319 | 72.1% | 58.05% | 65.3% | 424,450 | +47,093 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 190,663 | 0 | 31.5% | 25.00% | 31.5% | 204,750 | +42,250 | 🟢 High Reinforcement |
 | ✅ | Timbalderis | 38,598 | 9,226 | 38.0% | 30.94% | 36.6% | 237,900 | +36,793 | 🟢 High Reinforcement |
 | ✅ | Namte | 24,373 | 44,987 | 69.2% | 58.57% | 62.3% | 404,950 | +24,216 | 🟢 High Reinforcement |
