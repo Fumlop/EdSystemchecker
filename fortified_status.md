@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-06 15:04:06
-**Data Source:** 2025-08-06T15:04:06.148771
+**Report Generated:** 2025-08-06 16:03:27
+**Data Source:** 2025-08-06T16:03:27.440855
 **Total Fortified:** 132 (54 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HIP 37879** | +409,217 CP | 24,518 | 409,523 | 106.3% |
-| ✅ | **Kivah** | +160,837 CP | 12,535 | 161,327 | 59.1% |
+| ✅ | **HIP 37879** | +416,299 CP | 24,518 | 416,590 | 107.4% |
+| ✅ | **Kivah** | +168,357 CP | 12,535 | 168,788 | 60.3% |
 | ✅ | **Agarda** | +116,854 CP | 5,449 | 117,342 | 47.1% |
 | ✅ | **Parapa** | +88,679 CP | 19,568 | 89,025 | 53.3% |
-| ✅ | **NLTT 21088** | +47,093 CP | 44,319 | 47,285 | 65.3% |
+| ✅ | **Crucis Sector PC-V a2-1** | +65,650 CP | 0 | 213,581 | 35.1% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **HIP 37879** | +409,217 CP | 106.3% | 24,518 | 409,523 |
+| ✅ | **HIP 37879** | +416,299 CP | 107.4% | 24,518 | 416,590 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -49,11 +49,11 @@
 
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
-| ⬆️ **HIP 37879** | 106.3% | stronghold | +409,217 | 409,523 | 24,518 |
+| ⬆️ **HIP 37879** | 107.4% | stronghold | +416,299 | 416,590 | 24,518 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 1
-- **Highest Progress**: 106.3%
+- **Highest Progress**: 107.4%
 - **Status Change**: Fortified → Stronghold
 
 ---
@@ -65,13 +65,13 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HIP 37879 | 409,523 | 24,518 | 110.1% | 43.34% | 106.3% | 690,950 | +409,217 | 🟢 High Reinforcement |
-| ✅ | Kivah | 161,327 | 12,535 | 61.0% | 34.36% | 59.1% | 384,150 | +160,837 | 🟢 High Reinforcement |
+| ✅ | HIP 37879 | 416,590 | 24,518 | 111.2% | 43.35% | 107.4% | 698,100 | +416,299 | 🟢 High Reinforcement |
+| ✅ | Kivah | 168,788 | 12,535 | 62.2% | 34.40% | 60.3% | 391,950 | +168,357 | 🟢 High Reinforcement |
 | ✅ | Agarda | 117,342 | 5,449 | 47.9% | 29.12% | 47.1% | 306,150 | +116,854 | 🟢 High Reinforcement |
 | ✅ | Parapa | 89,025 | 19,568 | 56.3% | 39.66% | 53.3% | 346,449 | +88,679 | 🟢 High Reinforcement |
+| ✅ | Crucis Sector PC-V a2-1 | 213,581 | 0 | 35.1% | 25.00% | 35.1% | 228,150 | +65,650 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 47,285 | 44,319 | 72.1% | 58.05% | 65.3% | 424,450 | +47,093 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 46,660 | 9,344 | 39.2% | 30.92% | 37.8% | 245,699 | +44,712 | 🟢 High Reinforcement |
-| ✅ | Crucis Sector PC-V a2-1 | 190,663 | 0 | 31.5% | 25.00% | 31.5% | 204,750 | +42,250 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 46,660 | 9,369 | 39.2% | 30.92% | 37.8% | 245,699 | +44,691 | 🟢 High Reinforcement |
 | ✅ | Namte | 24,373 | 45,035 | 69.2% | 58.58% | 62.3% | 404,950 | +24,177 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,140 | 19,492 | 45.2% | 39.61% | 42.2% | 274,300 | +16,811 | 🟢 High Reinforcement |
 | ✅ | Mbutsi | 14,248 | 10,677 | 36.8% | 33.07% | 35.2% | 228,800 | +13,871 | 🟢 High Reinforcement |
@@ -95,7 +95,7 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Delta Muscae | 4,812 | 12,005 | 36.4% | 33.94% | 34.6% | 224,900 | +4,290 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 5,160 | 12,510 | 36.4% | 33.88% | 34.5% | 224,249 | +4,048 | 🔵 Low Reinforcement |
-| ✅ | LHS 2037 | 4,309 | 1,914 | 27.4% | 26.51% | 27.1% | 176,150 | +3,822 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 4,370 | 1,914 | 27.4% | 26.50% | 27.1% | 176,150 | +3,873 | 🔵 Low Reinforcement |
 | ✅ | Yaricans | 2,810 | 16,827 | 40.6% | 37.62% | 38.0% | 247,000 | +2,451 | 🔵 Low Reinforcement |
 | ✅ | HR 2798 | 2,631 | 26,906 | 49.6% | 45.14% | 45.5% | 295,750 | +2,364 | 🔵 Low Reinforcement |
 | ✅ | Aasgay | 2,586 | 969 | 26.2% | 25.78% | 26.1% | 169,650 | +2,058 | 🔵 Low Reinforcement |
