@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-06 01:31:23
-**Data Source:** 2025-08-06T01:31:23.026963
+**Report Generated:** 2025-08-06 02:43:02
+**Data Source:** 2025-08-06T02:43:02.582042
 **Total Fortified:** 131 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -74,7 +74,7 @@
 | ✅ | Timbalderis | 38,598 | 9,226 | 38.0% | 30.94% | 36.6% | 237,900 | +36,793 | 🟢 High Reinforcement |
 | ✅ | Namte | 24,373 | 44,987 | 69.2% | 58.57% | 62.3% | 404,950 | +24,216 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,140 | 19,492 | 45.2% | 39.61% | 42.2% | 274,300 | +16,811 | 🟢 High Reinforcement |
-| ✅ | Mbutsi | 14,223 | 10,677 | 36.8% | 33.07% | 35.2% | 228,800 | +13,850 | 🟢 High Reinforcement |
+| ✅ | Mbutsi | 14,248 | 10,677 | 36.8% | 33.07% | 35.2% | 228,800 | +13,871 | 🟢 High Reinforcement |
 | ✅ | Mentesuri | 13,161 | 27,350 | 51.6% | 45.42% | 47.4% | 308,100 | +12,840 | 🟢 High Reinforcement |
 | ✅ | Arnais | 10,640 | 5,561 | 31.6% | 29.15% | 30.7% | 199,550 | +10,077 | 🟢 High Reinforcement |
 
