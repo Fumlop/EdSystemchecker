@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-06 21:02:43
-**Data Source:** 2025-08-06T21:02:43.776920
+**Report Generated:** 2025-08-06 22:02:47
+**Data Source:** 2025-08-06T22:02:47.159699
 **Total Fortified:** 131 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -70,8 +70,8 @@
 | ✅ | Agarda | 121,174 | 5,449 | 48.5% | 29.13% | 47.7% | 310,050 | +120,698 | 🟢 High Reinforcement |
 | ✅ | Parapa | 89,025 | 19,568 | 56.3% | 39.66% | 53.3% | 346,449 | +88,679 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 213,581 | 0 | 35.1% | 25.00% | 35.1% | 228,150 | +65,650 | 🟢 High Reinforcement |
-| ✅ | NLTT 21088 | 47,617 | 44,319 | 72.1% | 58.01% | 65.3% | 424,450 | +47,368 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 46,660 | 9,454 | 39.3% | 30.94% | 37.8% | 245,699 | +44,621 | 🟢 High Reinforcement |
+| ✅ | NLTT 21088 | 49,279 | 44,319 | 72.4% | 58.05% | 65.6% | 426,399 | +49,079 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 46,660 | 9,558 | 39.3% | 30.95% | 37.8% | 245,699 | +44,535 | 🟢 High Reinforcement |
 | ✅ | Namte | 24,373 | 45,035 | 69.2% | 58.58% | 62.3% | 404,950 | +24,177 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,140 | 19,492 | 45.2% | 39.61% | 42.2% | 274,300 | +16,811 | 🟢 High Reinforcement |
 | ✅ | Mbutsi | 14,248 | 10,677 | 36.8% | 33.07% | 35.2% | 228,800 | +13,871 | 🟢 High Reinforcement |
@@ -94,9 +94,9 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Delta Muscae | 4,812 | 12,005 | 36.4% | 33.94% | 34.6% | 224,900 | +4,290 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 4,709 | 1,914 | 27.4% | 26.46% | 27.1% | 176,150 | +4,153 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 5,160 | 12,510 | 36.4% | 33.88% | 34.5% | 224,249 | +4,048 | 🔵 Low Reinforcement |
-| ✅ | LHS 2037 | 4,370 | 1,914 | 27.4% | 26.50% | 27.1% | 176,150 | +3,873 | 🔵 Low Reinforcement |
-| ✅ | Yaricans | 2,810 | 16,827 | 40.6% | 37.62% | 38.0% | 247,000 | +2,451 | 🔵 Low Reinforcement |
+| ✅ | Yaricans | 2,810 | 16,838 | 40.6% | 37.62% | 38.0% | 247,000 | +2,442 | 🔵 Low Reinforcement |
 | ✅ | Aasgay | 2,962 | 969 | 26.2% | 25.74% | 26.1% | 169,650 | +2,369 | 🔵 Low Reinforcement |
 | ✅ | HR 2798 | 2,631 | 26,906 | 49.6% | 45.14% | 45.5% | 295,750 | +2,364 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 2,691 | 3,638 | 28.7% | 27.77% | 28.1% | 182,650 | +2,177 | 🔵 Low Reinforcement |
