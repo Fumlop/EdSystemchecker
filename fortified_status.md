@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-06 20:02:55
-**Data Source:** 2025-08-06T20:02:55.386956
+**Report Generated:** 2025-08-06 21:02:43
+**Data Source:** 2025-08-06T21:02:43.776920
 **Total Fortified:** 131 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,7 +12,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **HIP 37879** | +416,299 CP | 24,518 | 416,590 | 107.4% |
-| ✅ | **Kivah** | +168,357 CP | 12,535 | 168,788 | 60.3% |
+| ✅ | **Kivah** | +170,602 CP | 12,535 | 171,095 | 60.6% |
 | ✅ | **Agarda** | +120,698 CP | 5,449 | 121,174 | 47.7% |
 | ✅ | **Parapa** | +88,679 CP | 19,568 | 89,025 | 53.3% |
 | ✅ | **Crucis Sector PC-V a2-1** | +65,650 CP | 0 | 213,581 | 35.1% |
@@ -66,7 +66,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | HIP 37879 | 416,590 | 24,518 | 111.2% | 43.35% | 107.4% | 698,100 | +416,299 | 🟢 High Reinforcement |
-| ✅ | Kivah | 168,788 | 12,535 | 62.2% | 34.40% | 60.3% | 391,950 | +168,357 | 🟢 High Reinforcement |
+| ✅ | Kivah | 171,095 | 12,535 | 62.5% | 34.35% | 60.6% | 393,900 | +170,602 | 🟢 High Reinforcement |
 | ✅ | Agarda | 121,174 | 5,449 | 48.5% | 29.13% | 47.7% | 310,050 | +120,698 | 🟢 High Reinforcement |
 | ✅ | Parapa | 89,025 | 19,568 | 56.3% | 39.66% | 53.3% | 346,449 | +88,679 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 213,581 | 0 | 35.1% | 25.00% | 35.1% | 228,150 | +65,650 | 🟢 High Reinforcement |
@@ -86,8 +86,8 @@
 | ✅ | Nugua | 8,117 | 40,668 | 62.6% | 55.13% | 56.3% | 365,949 | +7,614 | 🟡 Medium Reinforcement |
 | ✅ | Kharahua | 7,044 | 9,270 | 34.3% | 31.90% | 32.9% | 213,849 | +6,496 | 🟡 Medium Reinforcement |
 | ✅ | b2 Carinae | 6,945 | 5,638 | 31.1% | 29.22% | 30.2% | 196,300 | +6,395 | 🟡 Medium Reinforcement |
+| ✅ | Tarhul | 6,003 | 7,819 | 33.0% | 30.94% | 31.8% | 206,700 | +5,603 | 🟡 Medium Reinforcement |
 | ✅ | Polahukuna | 5,952 | 16,838 | 40.9% | 37.47% | 38.3% | 248,949 | +5,378 | 🟡 Medium Reinforcement |
-| ✅ | Tarhul | 5,649 | 7,819 | 32.9% | 30.90% | 31.7% | 206,050 | +5,198 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
