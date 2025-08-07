@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-07 04:18:33
-**Data Source:** 2025-08-07T04:18:33.753327
+**Report Generated:** 2025-08-07 05:09:03
+**Data Source:** 2025-08-07T05:09:03.213984
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -84,7 +84,7 @@
 | ✅ | Noti | 6,184 | 61,541 | 55.2% | 48.56% | 49.0% | 490,000 | +4,359 | 🔵 Low Reinforcement |
 | ✅ | HIP 38747 | 4,440 | 24,624 | 37.3% | 34.40% | 34.8% | 348,000 | +3,989 | 🔵 Low Reinforcement |
 | ✅ | HIP 52780 | 6,469 | 83,291 | 65.6% | 56.91% | 57.3% | 573,000 | +3,852 | 🔵 Low Reinforcement |
-| ✅ | Karnarki | 2,767 | 11,080 | 30.5% | 29.14% | 29.4% | 294,000 | +2,645 | 🔵 Low Reinforcement |
+| ✅ | Karnarki | 2,820 | 11,080 | 30.5% | 29.13% | 29.4% | 294,000 | +2,687 | 🔵 Low Reinforcement |
 | ✅ | Siki | 2,834 | 18,291 | 34.0% | 31.94% | 32.2% | 322,000 | +2,551 | 🔵 Low Reinforcement |
 | ✅ | Mbambiva | 1,688 | 10,948 | 30.3% | 29.05% | 29.2% | 292,000 | +1,487 | 🔵 Low Reinforcement |
 | ✅ | Athena | 2,872 | 56,518 | 52.4% | 46.59% | 46.7% | 467,000 | +1,113 | 🔵 Low Reinforcement |
