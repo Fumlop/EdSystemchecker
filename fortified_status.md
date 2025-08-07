@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-07 05:09:03
-**Data Source:** 2025-08-07T05:09:03.212344
+**Report Generated:** 2025-08-07 06:04:31
+**Data Source:** 2025-08-07T06:04:30.908784
 **Total Fortified:** 133 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -71,11 +71,11 @@
 | ✅ | Crucis Sector PC-V a2-1 | 213,581 | 0 | 35.1% | 25.00% | 35.1% | 228,150 | +65,650 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 50,370 | 44,319 | 72.6% | 58.08% | 65.8% | 427,699 | +50,206 | 🟢 High Reinforcement |
 | ✅ | Timbalderis | 47,415 | 9,595 | 39.4% | 30.94% | 37.9% | 246,350 | +45,241 | 🟢 High Reinforcement |
-| ✅ | Namte | 24,373 | 45,035 | 69.2% | 58.58% | 62.3% | 404,950 | +24,177 | 🟢 High Reinforcement |
+| ✅ | Namte | 24,378 | 45,035 | 69.2% | 58.58% | 62.3% | 404,950 | +24,181 | 🟢 High Reinforcement |
 | ✅ | Mbutsi | 23,814 | 10,677 | 38.2% | 33.01% | 36.6% | 237,900 | +23,356 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,140 | 19,492 | 45.2% | 39.61% | 42.2% | 274,300 | +16,811 | 🟢 High Reinforcement |
 | ✅ | Mentesuri | 13,161 | 27,350 | 51.6% | 45.42% | 47.4% | 308,100 | +12,840 | 🟢 High Reinforcement |
-| ✅ | Ralu | 12,295 | 28,100 | 51.9% | 45.80% | 47.6% | 309,400 | +11,727 | 🟢 High Reinforcement |
+| ✅ | Ralu | 13,334 | 28,100 | 52.1% | 45.83% | 47.8% | 310,700 | +12,811 | 🟢 High Reinforcement |
 | ✅ | Arnais | 10,640 | 5,561 | 31.6% | 29.15% | 30.7% | 199,550 | +10,077 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -85,7 +85,7 @@
 | ✅ | Nugua | 8,117 | 40,668 | 62.6% | 55.13% | 56.3% | 365,949 | +7,614 | 🟡 Medium Reinforcement |
 | ✅ | Kharahua | 7,044 | 9,270 | 34.3% | 31.90% | 32.9% | 213,849 | +6,496 | 🟡 Medium Reinforcement |
 | ✅ | b2 Carinae | 6,945 | 5,638 | 31.1% | 29.22% | 30.2% | 196,300 | +6,395 | 🟡 Medium Reinforcement |
-| ✅ | Tarhul | 6,003 | 7,819 | 33.0% | 30.94% | 31.8% | 206,700 | +5,603 | 🟡 Medium Reinforcement |
+| ✅ | Tarhul | 6,507 | 7,819 | 33.0% | 30.87% | 31.8% | 206,700 | +6,020 | 🟡 Medium Reinforcement |
 | ✅ | Polahukuna | 5,952 | 16,838 | 40.9% | 37.47% | 38.3% | 248,949 | +5,378 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
@@ -95,11 +95,11 @@
 | ✅ | Delta Muscae | 5,129 | 12,016 | 36.5% | 33.98% | 34.7% | 225,550 | +4,655 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 4,709 | 1,925 | 27.4% | 26.46% | 27.1% | 176,150 | +4,144 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 5,160 | 12,510 | 36.4% | 33.88% | 34.5% | 224,249 | +4,048 | 🔵 Low Reinforcement |
+| ✅ | Aasgay | 3,232 | 969 | 26.3% | 25.78% | 26.2% | 170,300 | +2,705 | 🔵 Low Reinforcement |
 | ✅ | HR 2798 | 2,746 | 26,906 | 49.6% | 45.12% | 45.5% | 295,750 | +2,459 | 🔵 Low Reinforcement |
 | ✅ | Yaricans | 2,810 | 16,838 | 40.6% | 37.62% | 38.0% | 247,000 | +2,442 | 🔵 Low Reinforcement |
-| ✅ | Aasgay | 2,962 | 969 | 26.2% | 25.74% | 26.1% | 169,650 | +2,369 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 2,696 | 3,638 | 28.7% | 27.76% | 28.1% | 182,650 | +2,181 | 🔵 Low Reinforcement |
-| ✅ | 18 Puppis | 2,001 | 27,848 | 50.4% | 45.83% | 46.1% | 299,650 | +1,735 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 2,145 | 27,848 | 50.4% | 45.81% | 46.1% | 299,650 | +1,854 | 🔵 Low Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 1,894 | 7,943 | 32.4% | 30.98% | 31.2% | 202,800 | +1,427 | 🔵 Low Reinforcement |
 | ✅ | Eme | 2,120 | 12,245 | 35.9% | 33.82% | 34.0% | 221,000 | +1,191 | 🔵 Low Reinforcement |
 

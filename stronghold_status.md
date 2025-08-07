@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-07 05:09:03
-**Data Source:** 2025-08-07T05:09:03.213984
+**Report Generated:** 2025-08-07 06:04:30
+**Data Source:** 2025-08-07T06:04:30.910412
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **LHS 317** | +205,243 CP | 128,500 | 209,500 | 94.8% |
 | ✅ | **Fousang** | +101,519 CP | 87,634 | 106,137 | 68.0% |
 | ✅ | **LP 726-6** | +51,639 CP | 99,036 | 54,890 | 68.1% |
-| ✅ | **Carnoeck** | +46,195 CP | 16,305 | 47,414 | 35.4% |
+| ✅ | **Carnoeck** | +46,271 CP | 16,305 | 47,509 | 35.4% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -58,11 +58,11 @@
 | ✅ | LHS 317 | 209,500 | 128,500 | 107.7% | 74.28% | 94.8% | 948,000 | +205,243 | 🟢 High Reinforcement |
 | ✅ | Fousang | 106,137 | 87,634 | 76.8% | 57.85% | 68.0% | 680,000 | +101,519 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 54,890 | 99,036 | 78.0% | 62.94% | 68.1% | 680,999 | +51,639 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 47,414 | 16,305 | 37.0% | 30.78% | 35.4% | 354,000 | +46,195 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 47,509 | 16,305 | 37.0% | 30.77% | 35.4% | 354,000 | +46,271 | 🟢 High Reinforcement |
 | ✅ | Andel | 33,982 | 85,557 | 69.5% | 57.77% | 60.9% | 609,000 | +31,256 | 🟢 High Reinforcement |
 | ✅ | LTT 3607 | 30,325 | 45,662 | 49.9% | 42.41% | 45.3% | 452,999 | +28,928 | 🟢 High Reinforcement |
+| ✅ | Orishpucho | 30,506 | 93,174 | 72.8% | 60.74% | 63.5% | 635,000 | +27,604 | 🟢 High Reinforcement |
 | ✅ | Matipu | 28,312 | 30,000 | 42.2% | 36.44% | 39.2% | 392,000 | +27,601 | 🟢 High Reinforcement |
-| ✅ | Orishpucho | 30,408 | 93,174 | 72.7% | 60.67% | 63.4% | 634,000 | +27,325 | 🟢 High Reinforcement |
 | ✅ | Algorab | 28,518 | 64,791 | 59.0% | 49.84% | 52.5% | 525,000 | +26,636 | 🟢 High Reinforcement |
 | ✅ | Inovik | 19,896 | 83,125 | 66.6% | 56.63% | 58.3% | 583,000 | +16,724 | 🟢 High Reinforcement |
 | ✅ | Belgitan | 13,542 | 31,541 | 41.5% | 37.02% | 38.3% | 382,999 | +12,757 | 🟢 High Reinforcement |
