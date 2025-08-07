@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-07 16:03:39
-**Data Source:** 2025-08-07T16:03:39.437334
-**Total Stronghold:** 31 (19 with decay analysis)
+**Report Generated:** 2025-08-07 17:05:12
+**Data Source:** 2025-08-07T17:05:12.844055
+**Total Stronghold:** 34 (21 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **LHS 317** | +1,862 CP | 145,500 | 6,711 | 81.0% |
+| ✅ | **Albicevci** | +315 CP | 6,208 | 0 | 27.4% |
 | ✅ | **Neche** | +285 CP | 7,250 | 0 | 27.8% |
 | ✅ | **LTT 3607** | +270 CP | 42,291 | 1,393 | 41.2% |
 | ✅ | **Mbambiva** | +189 CP | 8,875 | 0 | 28.4% |
-| ✅ | **Karnarki** | +90 CP | 9,250 | 0 | 28.5% |
-| ✅ | **Andel** | +34 CP | 74,875 | 2,312 | 53.7% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **LHS 317** | -1,022 CP | 80.7% | 145,500 | 3,856 |
+| ✅ | **LHS 317** | +1,862 CP | 81.0% | 145,500 | 6,711 |
 | ✅ | **BD-01 1707** | -4,750 CP | 78.9% | 141,791 | 0 |
 
 ### 🔴 **Low Progress Systems (<25%)**
@@ -60,7 +60,9 @@
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
-*No stronghold systems with low reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | LHS 317 | 6,711 | 145,500 | 95.5% | 80.81% | 81.0% | 810,000 | +1,862 | 🔵 Low Reinforcement |
 
 
 ---
@@ -90,4 +92,3 @@
 | ✅ | Orishpucho | 80,125 | 63.6% | 55.73% | 55.6% | 1,150 | 556,000 | -1,280 | 🟡 Low Undermining |
 | ✅ | Athena | 45,291 | 46.7% | 42.32% | 42.2% | 0 | 422,000 | -1,236 | 🟡 Low Undermining |
 | ✅ | HIP 50489 | 45,291 | 46.7% | 42.32% | 42.2% | 0 | 422,000 | -1,236 | 🟡 Low Undermining |
-| ✅ | LHS 317 | 145,500 | 95.2% | 80.80% | 80.7% | 3,856 | 807,000 | -1,022 | 🟡 Low Undermining |
