@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-07 13:15:46
-**Data Source:** 2025-08-07T13:15:46.814824
-**Total Fortified:** 30 (16 with decay analysis)
+**Report Generated:** 2025-08-07 14:05:08
+**Data Source:** 2025-08-07T14:05:08.898303
+**Total Fortified:** 36 (17 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -19,11 +19,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Turni** | -512 CP | 1,759 | 0 | 26.3% |
 | ✅ | **Umbrigua** | -498 CP | 3,502 | 0 | 27.6% |
 | ✅ | **Eme** | -464 CP | 9,959 | 0 | 32.4% |
 | ✅ | **Aasgay** | -453 CP | 1,281 | 0 | 26.0% |
 | ✅ | **Atat** | -450 CP | 4,527 | 0 | 28.4% |
-| ✅ | **LTT 4487** | -441 CP | 10,608 | 0 | 32.9% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
