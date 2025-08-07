@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-07 12:04:32
-**Data Source:** 2025-08-07T12:04:32.654458
-**Total Fortified:** 18 (8 with decay analysis)
+**Report Generated:** 2025-08-07 13:15:46
+**Data Source:** 2025-08-07T13:15:46.814824
+**Total Fortified:** 30 (16 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,7 +11,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| - | *No systems currently gaining CP* | - | - | - | - |
+| ✅ | **Kivah** | +3,468 CP | 41,666 | 3,563 | 56.7% |
+| ✅ | **Mbutsi** | +601 CP | 12,897 | 976 | 34.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -19,10 +20,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Umbrigua** | -498 CP | 3,502 | 0 | 27.6% |
+| ✅ | **Eme** | -464 CP | 9,959 | 0 | 32.4% |
 | ✅ | **Aasgay** | -453 CP | 1,281 | 0 | 26.0% |
 | ✅ | **Atat** | -450 CP | 4,527 | 0 | 28.4% |
-| ✅ | **Mbutsi** | -431 CP | 12,897 | 0 | 34.6% |
-| ✅ | **Timbalderis** | -386 CP | 14,332 | 0 | 35.7% |
+| ✅ | **LTT 4487** | -441 CP | 10,608 | 0 | 32.9% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -55,7 +56,9 @@
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
-*No fortified systems with low reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Kivah | 3,563 | 41,666 | 63.1% | 56.17% | 56.7% | 368,550 | +3,468 | 🔵 Low Reinforcement |
 
 
 ---
