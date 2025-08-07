@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-07 22:02:34
-**Data Source:** 2025-08-07T22:02:34.152261
-**Total Fortified:** 81 (37 with decay analysis)
+**Report Generated:** 2025-08-07 23:02:40
+**Data Source:** 2025-08-07T23:02:40.830471
+**Total Fortified:** 85 (37 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,8 +12,8 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **HIP 37879** | +92,012 CP | 0 | 249 | 107.4% |
-| ✅ | **Kivah** | +22,468 CP | 41,666 | 22,595 | 59.6% |
-| ✅ | **Ralu** | +4,192 CP | 25,300 | 4,452 | 44.6% |
+| ✅ | **Kivah** | +38,601 CP | 41,666 | 38,703 | 62.1% |
+| ✅ | **Ralu** | +5,125 CP | 25,300 | 5,444 | 44.7% |
 | ✅ | **Agarda** | +2,830 CP | 25,573 | 3,079 | 44.6% |
 | ✅ | **Crucis Sector PC-V a2-1** | +1,702 CP | 14,025 | 2,081 | 35.8% |
 
@@ -23,7 +23,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **LFT 601** | -540 CP | 1,793 | 0 | 26.3% |
-| ✅ | **Timbalderis** | -507 CP | 14,478 | 0 | 35.7% |
+| ✅ | **Timbalderis** | -528 CP | 14,503 | 0 | 35.7% |
 | ✅ | **Turni** | -487 CP | 1,759 | 30 | 26.3% |
 | ✅ | **Umbrigua** | -482 CP | 3,502 | 20 | 27.6% |
 | ✅ | **Huangais** | -474 CP | 4,014 | 0 | 28.0% |
@@ -65,17 +65,18 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | HIP 37879 | 249 | 0 | 107.4% | 93.24% | 107.4% | 698,100 | +92,012 | 🟢 High Reinforcement |
-| ✅ | Kivah | 22,595 | 41,666 | 66.0% | 56.14% | 59.6% | 387,400 | +22,468 | 🟢 High Reinforcement |
+| ✅ | Kivah | 38,703 | 41,666 | 68.5% | 56.16% | 62.1% | 403,650 | +38,601 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
-*No fortified systems with medium reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Ralu | 5,444 | 25,300 | 48.6% | 43.91% | 44.7% | 290,550 | +5,125 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Ralu | 4,452 | 25,300 | 48.5% | 43.96% | 44.6% | 289,900 | +4,192 | 🔵 Low Reinforcement |
 | ✅ | Agarda | 3,079 | 25,573 | 48.5% | 44.16% | 44.6% | 289,900 | +2,830 | 🔵 Low Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
 
