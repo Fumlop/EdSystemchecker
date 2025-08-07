@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-07 09:05:43
-**Data Source:** 2025-08-07T09:05:43.471633
-**Total Stronghold:** 3 (2 with decay analysis)
+**Report Generated:** 2025-08-07 10:02:59
+**Data Source:** 2025-08-07T10:02:59.193617
+**Total Stronghold:** 8 (5 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -18,14 +18,18 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **LHS 317** | -4,874 CP | 145,500 | 41 | 80.3% |
+| ✅ | **BD-01 1707** | -4,750 CP | 141,791 | 0 | 78.9% |
 | ✅ | **Andel** | -2,215 CP | 74,875 | 0 | 53.5% |
+| ✅ | **Rhea** | -1,721 CP | 61,458 | 0 | 48.4% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| - | *No systems with >=70% progress found* | - | - | - | - |
+| ✅ | **LHS 317** | -4,874 CP | 80.3% | 145,500 | 41 |
+| ✅ | **BD-01 1707** | -4,750 CP | 78.9% | 141,791 | 0 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -71,4 +75,7 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
+| ✅ | LHS 317 | 145,500 | 94.8% | 80.79% | 80.3% | 41 | 802,999 | -4,874 | 🟡 Low Undermining |
+| ✅ | BD-01 1707 | 141,791 | 93.1% | 79.38% | 78.9% | 0 | 789,000 | -4,750 | 🟡 Low Undermining |
 | ✅ | Andel | 74,875 | 61.0% | 53.72% | 53.5% | 0 | 535,000 | -2,215 | 🟡 Low Undermining |
+| ✅ | Rhea | 61,458 | 54.5% | 48.57% | 48.4% | 0 | 484,000 | -1,721 | 🟡 Low Undermining |
