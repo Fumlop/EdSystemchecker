@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-07 20:02:56
-**Data Source:** 2025-08-07T20:02:56.739629
-**Total Fortified:** 69 (30 with decay analysis)
+**Report Generated:** 2025-08-07 21:02:42
+**Data Source:** 2025-08-07T21:02:42.566896
+**Total Fortified:** 75 (33 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,10 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +18,596 CP | 41,666 | 18,728 | 59.0% |
+| ✅ | **Kivah** | +22,468 CP | 41,666 | 22,595 | 59.6% |
 | ✅ | **Ralu** | +4,192 CP | 25,300 | 4,452 | 44.6% |
 | ✅ | **Agarda** | +2,830 CP | 25,573 | 3,079 | 44.6% |
-| ✅ | **Mbutsi** | +601 CP | 12,897 | 976 | 34.8% |
+| ✅ | **Crucis Sector PC-V a2-1** | +1,702 CP | 14,025 | 2,081 | 35.8% |
+| ✅ | **Mbutsi** | +769 CP | 12,897 | 1,179 | 34.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -52,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 18,728 | 41,666 | 65.4% | 56.14% | 59.0% | 383,500 | +18,596 | 🟢 High Reinforcement |
+| ✅ | Kivah | 22,595 | 41,666 | 66.0% | 56.14% | 59.6% | 387,400 | +22,468 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -64,6 +65,7 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Ralu | 4,452 | 25,300 | 48.5% | 43.96% | 44.6% | 289,900 | +4,192 | 🔵 Low Reinforcement |
 | ✅ | Agarda | 3,079 | 25,573 | 48.5% | 44.16% | 44.6% | 289,900 | +2,830 | 🔵 Low Reinforcement |
+| ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
 
 
 ---

@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-07 20:02:56
-**Data Source:** 2025-08-07T20:02:56.740639
-**Total Stronghold:** 40 (25 with decay analysis)
+**Report Generated:** 2025-08-07 21:02:42
+**Data Source:** 2025-08-07T21:02:42.567911
+**Total Stronghold:** 41 (25 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,9 +11,9 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **BD-01 1707** | +8,180 CP | 141,791 | 12,913 | 80.2% |
+| ✅ | **BD-01 1707** | +22,397 CP | 141,791 | 27,185 | 81.6% |
 | ✅ | **LHS 317** | +3,043 CP | 145,500 | 7,937 | 81.1% |
-| ✅ | **Andel** | +2,858 CP | 74,875 | 5,092 | 54.0% |
+| ✅ | **Andel** | +2,929 CP | 74,875 | 5,180 | 54.0% |
 | ✅ | **Carnoeck** | +1,612 CP | 21,749 | 1,854 | 33.5% |
 | ✅ | **Albicevci** | +315 CP | 6,208 | 0 | 27.4% |
 
@@ -33,8 +33,8 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
+| ✅ | **BD-01 1707** | +22,397 CP | 81.6% | 141,791 | 27,185 |
 | ✅ | **LHS 317** | +3,043 CP | 81.1% | 145,500 | 7,937 |
-| ✅ | **BD-01 1707** | +8,180 CP | 80.2% | 141,791 | 12,913 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -52,20 +52,20 @@
 
 ### 🟢 High Activity (≥10,000 CP Reinforcement)
 
-*No stronghold systems with high reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | BD-01 1707 | 27,185 | 141,791 | 95.8% | 79.36% | 81.6% | 816,000 | +22,397 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
-| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
-|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | BD-01 1707 | 12,913 | 141,791 | 94.4% | 79.38% | 80.2% | 802,000 | +8,180 | 🟡 Medium Reinforcement |
+*No stronghold systems with medium reinforcement activity*
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | LHS 317 | 7,937 | 145,500 | 95.7% | 80.80% | 81.1% | 811,000 | +3,043 | 🔵 Low Reinforcement |
-| ✅ | Andel | 5,092 | 74,875 | 61.5% | 53.71% | 54.0% | 540,000 | +2,858 | 🔵 Low Reinforcement |
+| ✅ | Andel | 5,180 | 74,875 | 61.5% | 53.71% | 54.0% | 540,000 | +2,929 | 🔵 Low Reinforcement |
 | ✅ | Carnoeck | 1,854 | 21,749 | 35.7% | 33.34% | 33.5% | 335,000 | +1,612 | 🔵 Low Reinforcement |
 
 
