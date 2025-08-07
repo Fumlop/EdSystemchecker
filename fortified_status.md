@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-07 06:04:31
-**Data Source:** 2025-08-07T06:04:30.908784
+**Report Generated:** 2025-08-07 07:06:18
+**Data Source:** 2025-08-07T07:06:18.491726
 **Total Fortified:** 133 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,7 +12,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **HIP 37879** | +416,299 CP | 24,518 | 416,590 | 107.4% |
-| ✅ | **Kivah** | +170,543 CP | 12,607 | 171,095 | 60.6% |
+| ✅ | **Kivah** | +182,509 CP | 12,607 | 182,981 | 62.5% |
 | ✅ | **Agarda** | +121,780 CP | 5,449 | 122,211 | 47.9% |
 | ✅ | **Parapa** | +88,901 CP | 19,568 | 89,294 | 53.3% |
 | ✅ | **Crucis Sector PC-V a2-1** | +65,650 CP | 0 | 213,581 | 35.1% |
@@ -65,7 +65,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | HIP 37879 | 416,590 | 24,518 | 111.2% | 43.35% | 107.4% | 698,100 | +416,299 | 🟢 High Reinforcement |
-| ✅ | Kivah | 171,095 | 12,607 | 62.5% | 34.36% | 60.6% | 393,900 | +170,543 | 🟢 High Reinforcement |
+| ✅ | Kivah | 182,981 | 12,607 | 64.4% | 34.42% | 62.5% | 406,250 | +182,509 | 🟢 High Reinforcement |
 | ✅ | Agarda | 122,211 | 5,449 | 48.7% | 29.16% | 47.9% | 311,350 | +121,780 | 🟢 High Reinforcement |
 | ✅ | Parapa | 89,294 | 19,568 | 56.3% | 39.62% | 53.3% | 346,449 | +88,901 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 213,581 | 0 | 35.1% | 25.00% | 35.1% | 228,150 | +65,650 | 🟢 High Reinforcement |
