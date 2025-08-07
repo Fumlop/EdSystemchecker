@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-06 23:02:42
-**Data Source:** 2025-08-06T23:02:42.769650
-**Total Fortified:** 131 (53 with decay analysis)
+**Report Generated:** 2025-08-07 00:11:18
+**Data Source:** 2025-08-07T00:11:18.369028
+**Total Fortified:** 131 (52 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -24,9 +24,9 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **HR 3277** | -3,623 CP | 14,955 | 97 | 33.2% |
 | ✅ | **Pisaly** | -903 CP | 336 | 0 | 24.9% |
-| ✅ | **Lesheima** | -851 CP | 15,665 | 636 | 35.8% |
+| ✅ | **Lesheima** | -806 CP | 15,665 | 690 | 35.8% |
 | ✅ | **Tau Centauri** | -715 CP | 23,717 | 54 | 42.3% |
-| ✅ | **LHS 306** | -650 CP | 552 | 961 | 24.9% |
+| ✅ | **LTT 4716** | -535 CP | 3,547 | 0 | 27.6% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -40,7 +40,6 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **LHS 306** | -650 CP | 24.9% | 552 | 961 |
 | ✅ | **Pisaly** | -903 CP | 24.9% | 336 | 0 |
 ## 🔄 System Status Transitions  
 *Systems that have exceeded 100% progress and will transition to "stronghold"*
@@ -71,7 +70,7 @@
 | ✅ | Parapa | 89,294 | 19,568 | 56.3% | 39.62% | 53.3% | 346,449 | +88,901 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 213,581 | 0 | 35.1% | 25.00% | 35.1% | 228,150 | +65,650 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 49,279 | 44,319 | 72.4% | 58.05% | 65.6% | 426,399 | +49,079 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 46,660 | 9,558 | 39.3% | 30.95% | 37.8% | 245,699 | +44,535 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 47,415 | 9,595 | 39.4% | 30.94% | 37.9% | 246,350 | +45,241 | 🟢 High Reinforcement |
 | ✅ | Namte | 24,373 | 45,035 | 69.2% | 58.58% | 62.3% | 404,950 | +24,177 | 🟢 High Reinforcement |
 | ✅ | Erivit | 17,140 | 19,492 | 45.2% | 39.61% | 42.2% | 274,300 | +16,811 | 🟢 High Reinforcement |
 | ✅ | Mbutsi | 14,248 | 10,677 | 36.8% | 33.07% | 35.2% | 228,800 | +13,871 | 🟢 High Reinforcement |
@@ -99,10 +98,10 @@
 | ✅ | Yaricans | 2,810 | 16,838 | 40.6% | 37.62% | 38.0% | 247,000 | +2,442 | 🔵 Low Reinforcement |
 | ✅ | Aasgay | 2,962 | 969 | 26.2% | 25.74% | 26.1% | 169,650 | +2,369 | 🔵 Low Reinforcement |
 | ✅ | HR 2798 | 2,631 | 26,906 | 49.6% | 45.14% | 45.5% | 295,750 | +2,364 | 🔵 Low Reinforcement |
-| ✅ | Umbrigua | 2,691 | 3,638 | 28.7% | 27.77% | 28.1% | 182,650 | +2,177 | 🔵 Low Reinforcement |
+| ✅ | Umbrigua | 2,696 | 3,638 | 28.7% | 27.76% | 28.1% | 182,650 | +2,181 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 1,967 | 27,848 | 50.4% | 45.84% | 46.1% | 299,650 | +1,707 | 🔵 Low Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 1,894 | 7,943 | 32.4% | 30.98% | 31.2% | 202,800 | +1,427 | 🔵 Low Reinforcement |
-| ✅ | Eme | 2,118 | 12,245 | 35.8% | 33.73% | 33.9% | 220,349 | +1,077 | 🔵 Low Reinforcement |
+| ✅ | Eme | 2,120 | 12,245 | 35.9% | 33.82% | 34.0% | 221,000 | +1,191 | 🔵 Low Reinforcement |
 
 
 ---
