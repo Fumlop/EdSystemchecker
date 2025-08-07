@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-07 14:05:08
-**Data Source:** 2025-08-07T14:05:08.898303
-**Total Fortified:** 36 (17 with decay analysis)
+**Report Generated:** 2025-08-07 15:03:49
+**Data Source:** 2025-08-07T15:03:49.011292
+**Total Fortified:** 44 (19 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,7 +11,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +3,468 CP | 41,666 | 3,563 | 56.7% |
+| ✅ | **Kivah** | +5,106 CP | 41,666 | 5,272 | 56.9% |
+| ✅ | **Ralu** | +3,627 CP | 25,300 | 3,905 | 44.5% |
 | ✅ | **Mbutsi** | +601 CP | 12,897 | 976 | 34.8% |
 
 ### 🔴 **Most Threatened Systems**
@@ -20,10 +21,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Turni** | -512 CP | 1,759 | 0 | 26.3% |
+| ✅ | **Timbalderis** | -507 CP | 14,478 | 0 | 35.7% |
 | ✅ | **Umbrigua** | -498 CP | 3,502 | 0 | 27.6% |
 | ✅ | **Eme** | -464 CP | 9,959 | 0 | 32.4% |
 | ✅ | **Aasgay** | -453 CP | 1,281 | 0 | 26.0% |
-| ✅ | **Atat** | -450 CP | 4,527 | 0 | 28.4% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -52,13 +53,15 @@
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
-*No fortified systems with medium reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Kivah | 5,272 | 41,666 | 63.3% | 56.11% | 56.9% | 369,849 | +5,106 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 3,563 | 41,666 | 63.1% | 56.17% | 56.7% | 368,550 | +3,468 | 🔵 Low Reinforcement |
+| ✅ | Ralu | 3,905 | 25,300 | 48.4% | 43.94% | 44.5% | 289,250 | +3,627 | 🔵 Low Reinforcement |
 
 
 ---

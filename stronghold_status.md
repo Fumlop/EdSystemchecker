@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-07 14:05:08
-**Data Source:** 2025-08-07T14:05:08.898871
-**Total Stronghold:** 23 (14 with decay analysis)
+**Report Generated:** 2025-08-07 15:03:49
+**Data Source:** 2025-08-07T15:03:49.011937
+**Total Stronghold:** 27 (16 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -22,10 +22,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **BD-01 1707** | -4,750 CP | 141,791 | 0 | 78.9% |
-| ✅ | **Fousang** | -2,640 CP | 89,583 | 123 | 59.1% |
 | ✅ | **LP 726-6** | -2,619 CP | 89,833 | 148 | 59.2% |
-| ✅ | **Rhea** | -1,721 CP | 61,458 | 0 | 48.4% |
-| ✅ | **Algorab** | -1,567 CP | 57,250 | 0 | 46.8% |
+| ✅ | **Inovik** | -2,165 CP | 69,291 | 0 | 51.3% |
+| ✅ | **Fousang** | -1,894 CP | 89,583 | 1,056 | 59.1% |
+| ✅ | **Asetsi** | -1,784 CP | 61,541 | 5 | 48.4% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -80,8 +80,10 @@
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 | ✅ | BD-01 1707 | 141,791 | 93.1% | 79.38% | 78.9% | 0 | 789,000 | -4,750 | 🟡 Low Undermining |
-| ✅ | Fousang | 89,583 | 68.1% | 59.36% | 59.1% | 123 | 591,000 | -2,640 | 🟡 Low Undermining |
 | ✅ | LP 726-6 | 89,833 | 68.2% | 59.46% | 59.2% | 148 | 592,000 | -2,619 | 🟡 Low Undermining |
+| ✅ | Inovik | 69,291 | 58.2% | 51.52% | 51.3% | 0 | 513,000 | -2,165 | 🟡 Low Undermining |
+| ✅ | Fousang | 89,583 | 68.1% | 59.29% | 59.1% | 1,056 | 591,000 | -1,894 | 🟡 Low Undermining |
+| ✅ | Asetsi | 61,541 | 54.6% | 48.58% | 48.4% | 5 | 484,000 | -1,784 | 🟡 Low Undermining |
 | ✅ | Rhea | 61,458 | 54.5% | 48.57% | 48.4% | 0 | 484,000 | -1,721 | 🟡 Low Undermining |
 | ✅ | Algorab | 57,250 | 52.5% | 46.96% | 46.8% | 0 | 468,000 | -1,567 | 🟡 Low Undermining |
 | ✅ | Athena | 45,291 | 46.7% | 42.32% | 42.2% | 0 | 422,000 | -1,236 | 🟡 Low Undermining |
