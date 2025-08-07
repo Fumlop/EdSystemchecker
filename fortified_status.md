@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-07 19:05:02
-**Data Source:** 2025-08-07T19:05:02.484742
-**Total Fortified:** 65 (27 with decay analysis)
+**Report Generated:** 2025-08-07 20:02:56
+**Data Source:** 2025-08-07T20:02:56.739629
+**Total Fortified:** 69 (30 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,9 +12,9 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Kivah** | +18,596 CP | 41,666 | 18,728 | 59.0% |
-| ✅ | **Ralu** | +4,074 CP | 25,300 | 4,309 | 44.6% |
+| ✅ | **Ralu** | +4,192 CP | 25,300 | 4,452 | 44.6% |
+| ✅ | **Agarda** | +2,830 CP | 25,573 | 3,079 | 44.6% |
 | ✅ | **Mbutsi** | +601 CP | 12,897 | 976 | 34.8% |
-| ✅ | **Agarda** | +477 CP | 25,573 | 778 | 44.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -62,7 +62,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Ralu | 4,309 | 25,300 | 48.5% | 43.97% | 44.6% | 289,900 | +4,074 | 🔵 Low Reinforcement |
+| ✅ | Ralu | 4,452 | 25,300 | 48.5% | 43.96% | 44.6% | 289,900 | +4,192 | 🔵 Low Reinforcement |
+| ✅ | Agarda | 3,079 | 25,573 | 48.5% | 44.16% | 44.6% | 289,900 | +2,830 | 🔵 Low Reinforcement |
 
 
 ---
