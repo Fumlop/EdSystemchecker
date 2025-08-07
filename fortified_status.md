@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-07 10:02:59
-**Data Source:** 2025-08-07T10:02:59.193397
-**Total Fortified:** 8 (3 with decay analysis)
+**Report Generated:** 2025-08-07 11:03:06
+**Data Source:** 2025-08-07T11:03:06.477834
+**Total Fortified:** 16 (7 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -18,9 +18,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Umbrigua** | -498 CP | 3,502 | 0 | 27.6% |
+| ✅ | **Aasgay** | -453 CP | 1,281 | 0 | 26.0% |
 | ✅ | **Atat** | -450 CP | 4,527 | 0 | 28.4% |
 | ✅ | **Mbutsi** | -431 CP | 12,897 | 0 | 34.6% |
-| ✅ | **Namte** | -96 CP | 41,461 | 0 | 56.0% |
+| ✅ | **UBV 8670** | -376 CP | 16,485 | 0 | 37.3% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
