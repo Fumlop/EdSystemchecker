@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-07 15:03:49
-**Data Source:** 2025-08-07T15:03:49.011937
-**Total Stronghold:** 27 (16 with decay analysis)
+**Report Generated:** 2025-08-07 16:03:39
+**Data Source:** 2025-08-07T16:03:39.437334
+**Total Stronghold:** 31 (19 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -15,6 +15,7 @@
 | ✅ | **LTT 3607** | +270 CP | 42,291 | 1,393 | 41.2% |
 | ✅ | **Mbambiva** | +189 CP | 8,875 | 0 | 28.4% |
 | ✅ | **Karnarki** | +90 CP | 9,250 | 0 | 28.5% |
+| ✅ | **Andel** | +34 CP | 74,875 | 2,312 | 53.7% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -86,5 +87,7 @@
 | ✅ | Asetsi | 61,541 | 54.6% | 48.58% | 48.4% | 5 | 484,000 | -1,784 | 🟡 Low Undermining |
 | ✅ | Rhea | 61,458 | 54.5% | 48.57% | 48.4% | 0 | 484,000 | -1,721 | 🟡 Low Undermining |
 | ✅ | Algorab | 57,250 | 52.5% | 46.96% | 46.8% | 0 | 468,000 | -1,567 | 🟡 Low Undermining |
+| ✅ | Orishpucho | 80,125 | 63.6% | 55.73% | 55.6% | 1,150 | 556,000 | -1,280 | 🟡 Low Undermining |
 | ✅ | Athena | 45,291 | 46.7% | 42.32% | 42.2% | 0 | 422,000 | -1,236 | 🟡 Low Undermining |
+| ✅ | HIP 50489 | 45,291 | 46.7% | 42.32% | 42.2% | 0 | 422,000 | -1,236 | 🟡 Low Undermining |
 | ✅ | LHS 317 | 145,500 | 95.2% | 80.80% | 80.7% | 3,856 | 807,000 | -1,022 | 🟡 Low Undermining |
