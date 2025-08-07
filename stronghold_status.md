@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-07 17:05:12
-**Data Source:** 2025-08-07T17:05:12.844055
-**Total Stronghold:** 34 (21 with decay analysis)
+**Report Generated:** 2025-08-07 18:03:35
+**Data Source:** 2025-08-07T18:03:35.813781
+**Total Stronghold:** 37 (23 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LHS 317** | +1,862 CP | 145,500 | 6,711 | 81.0% |
+| ✅ | **LHS 317** | +3,043 CP | 145,500 | 7,937 | 81.1% |
+| ✅ | **Carnoeck** | +1,612 CP | 21,749 | 1,854 | 33.5% |
 | ✅ | **Albicevci** | +315 CP | 6,208 | 0 | 27.4% |
 | ✅ | **Neche** | +285 CP | 7,250 | 0 | 27.8% |
 | ✅ | **LTT 3607** | +270 CP | 42,291 | 1,393 | 41.2% |
-| ✅ | **Mbambiva** | +189 CP | 8,875 | 0 | 28.4% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **LHS 317** | +1,862 CP | 81.0% | 145,500 | 6,711 |
+| ✅ | **LHS 317** | +3,043 CP | 81.1% | 145,500 | 7,937 |
 | ✅ | **BD-01 1707** | -4,750 CP | 78.9% | 141,791 | 0 |
 
 ### 🔴 **Low Progress Systems (<25%)**
@@ -62,7 +62,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 317 | 6,711 | 145,500 | 95.5% | 80.81% | 81.0% | 810,000 | +1,862 | 🔵 Low Reinforcement |
+| ✅ | LHS 317 | 7,937 | 145,500 | 95.7% | 80.80% | 81.1% | 811,000 | +3,043 | 🔵 Low Reinforcement |
+| ✅ | Carnoeck | 1,854 | 21,749 | 35.7% | 33.34% | 33.5% | 335,000 | +1,612 | 🔵 Low Reinforcement |
 
 
 ---
@@ -89,6 +90,7 @@
 | ✅ | Asetsi | 61,541 | 54.6% | 48.58% | 48.4% | 5 | 484,000 | -1,784 | 🟡 Low Undermining |
 | ✅ | Rhea | 61,458 | 54.5% | 48.57% | 48.4% | 0 | 484,000 | -1,721 | 🟡 Low Undermining |
 | ✅ | Algorab | 57,250 | 52.5% | 46.96% | 46.8% | 0 | 468,000 | -1,567 | 🟡 Low Undermining |
+| ✅ | Noti | 50,041 | 49.0% | 44.14% | 44.0% | 10 | 440,000 | -1,414 | 🟡 Low Undermining |
 | ✅ | Orishpucho | 80,125 | 63.6% | 55.73% | 55.6% | 1,150 | 556,000 | -1,280 | 🟡 Low Undermining |
 | ✅ | Athena | 45,291 | 46.7% | 42.32% | 42.2% | 0 | 422,000 | -1,236 | 🟡 Low Undermining |
 | ✅ | HIP 50489 | 45,291 | 46.7% | 42.32% | 42.2% | 0 | 422,000 | -1,236 | 🟡 Low Undermining |
