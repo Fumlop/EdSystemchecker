@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-07 02:42:53
-**Data Source:** 2025-08-07T02:42:53.539002
+**Report Generated:** 2025-08-07 03:31:51
+**Data Source:** 2025-08-07T03:31:51.450131
 **Total Fortified:** 133 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -26,7 +26,7 @@
 | ✅ | **Pisaly** | -903 CP | 336 | 0 | 24.9% |
 | ✅ | **Lesheima** | -806 CP | 15,665 | 690 | 35.8% |
 | ✅ | **Tau Centauri** | -715 CP | 23,717 | 54 | 42.3% |
-| ✅ | **LTT 4716** | -535 CP | 3,547 | 0 | 27.6% |
+| ✅ | **Atat** | -492 CP | 5,415 | 25 | 29.0% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
