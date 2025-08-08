@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-08 18:03:38
-**Data Source:** 2025-08-08T18:03:38.393867
-**Total Fortified:** 122 (49 with decay analysis)
+**Report Generated:** 2025-08-08 19:03:02
+**Data Source:** 2025-08-08T19:03:01.943326
+**Total Fortified:** 121 (49 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +105,858 CP | 41,666 | 106,024 | 72.4% |
+| ✅ | **Kivah** | +119,608 CP | 41,666 | 119,795 | 74.5% |
+| ✅ | **Kharahua** | +6,871 CP | 9,392 | 7,484 | 33.0% |
 | ✅ | **Ralu** | +5,385 CP | 25,300 | 5,623 | 44.8% |
-| ✅ | **Agarda** | +4,689 CP | 25,573 | 4,919 | 44.9% |
+| ✅ | **Agarda** | +4,705 CP | 25,573 | 4,939 | 44.9% |
 | ✅ | **NLTT 21088** | +1,969 CP | 45,253 | 2,090 | 59.1% |
-| ✅ | **Crucis Sector PC-V a2-1** | +1,702 CP | 14,025 | 2,081 | 35.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Kivah** | +105,858 CP | 72.4% | 41,666 | 106,024 |
+| ✅ | **Kivah** | +119,608 CP | 74.5% | 41,666 | 119,795 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,19 +53,20 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 106,024 | 41,666 | 78.8% | 56.11% | 72.4% | 470,600 | +105,858 | 🟢 High Reinforcement |
+| ✅ | Kivah | 119,795 | 41,666 | 80.9% | 56.10% | 74.5% | 484,250 | +119,608 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Kharahua | 7,484 | 9,392 | 34.4% | 31.94% | 33.0% | 214,500 | +6,871 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 5,623 | 25,300 | 48.7% | 43.97% | 44.8% | 291,199 | +5,385 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Agarda | 4,919 | 25,573 | 48.8% | 44.18% | 44.9% | 291,850 | +4,689 | 🔵 Low Reinforcement |
+| ✅ | Agarda | 4,939 | 25,573 | 48.8% | 44.18% | 44.9% | 291,850 | +4,705 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 2,090 | 45,253 | 66.1% | 58.80% | 59.1% | 384,150 | +1,969 | 🔵 Low Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 2,136 | 3,502 | 28.4% | 27.65% | 27.9% | 181,349 | +1,606 | 🔵 Low Reinforcement |
