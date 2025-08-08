@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-08 20:02:48
-**Data Source:** 2025-08-08T20:02:48.192655
+**Report Generated:** 2025-08-08 21:02:28
+**Data Source:** 2025-08-08T21:02:28.285963
 **Total Fortified:** 122 (49 with decay analysis)
 
 ## 📊 Quick Summary
@@ -13,8 +13,8 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Kivah** | +119,608 CP | 41,666 | 119,795 | 74.5% |
 | ✅ | **Kharahua** | +6,871 CP | 9,392 | 7,484 | 33.0% |
+| ✅ | **Agarda** | +6,139 CP | 25,573 | 6,401 | 45.1% |
 | ✅ | **Ralu** | +5,385 CP | 25,300 | 5,623 | 44.8% |
-| ✅ | **Agarda** | +4,705 CP | 25,573 | 4,939 | 44.9% |
 | ✅ | **NLTT 21088** | +1,970 CP | 45,253 | 2,091 | 59.1% |
 
 ### 🔴 **Most Threatened Systems**
@@ -60,16 +60,16 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kharahua | 7,484 | 9,392 | 34.4% | 31.94% | 33.0% | 214,500 | +6,871 | 🟡 Medium Reinforcement |
+| ✅ | Agarda | 6,401 | 25,573 | 49.0% | 44.16% | 45.1% | 293,150 | +6,139 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 5,623 | 25,300 | 48.7% | 43.97% | 44.8% | 291,199 | +5,385 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Agarda | 4,939 | 25,573 | 48.8% | 44.18% | 44.9% | 291,850 | +4,705 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 2,091 | 45,253 | 66.1% | 58.80% | 59.1% | 384,150 | +1,970 | 🔵 Low Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
-| ✅ | Umbrigua | 2,136 | 3,502 | 28.4% | 27.65% | 27.9% | 181,349 | +1,606 | 🔵 Low Reinforcement |
+| ✅ | Umbrigua | 2,151 | 3,502 | 28.4% | 27.65% | 27.9% | 181,349 | +1,618 | 🔵 Low Reinforcement |
 
 
 ---

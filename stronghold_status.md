@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-08 20:02:48
-**Data Source:** 2025-08-08T20:02:48.194179
+**Report Generated:** 2025-08-08 21:02:28
+**Data Source:** 2025-08-08T21:02:28.287482
 **Total Stronghold:** 51 (28 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **BD-01 1707** | +164,174 CP | 141,791 | 168,906 | 95.8% |
+| ✅ | **BD-01 1707** | +183,197 CP | 141,791 | 187,934 | 97.7% |
 | ✅ | **LHS 317** | +23,452 CP | 145,500 | 28,449 | 83.1% |
 | ✅ | **Carnoeck** | +12,643 CP | 21,767 | 12,911 | 34.6% |
+| ✅ | **LP 726-6** | +10,634 CP | 89,833 | 13,464 | 60.5% |
 | ✅ | **Fousang** | +7,507 CP | 89,583 | 10,307 | 60.1% |
-| ✅ | **LTT 3607** | +7,031 CP | 42,306 | 8,110 | 41.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -26,14 +26,14 @@
 | ✅ | **Inovik** | -2,039 CP | 69,291 | 158 | 51.3% |
 | ✅ | **Asetsi** | -1,784 CP | 61,541 | 5 | 48.4% |
 | ✅ | **Rhea** | -1,721 CP | 61,458 | 0 | 48.4% |
-| ✅ | **LHS 1928** | -1,423 CP | 71,916 | 793 | 52.4% |
+| ✅ | **Noti** | -1,308 CP | 50,041 | 143 | 44.0% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **BD-01 1707** | +164,174 CP | 95.8% | 141,791 | 168,906 |
+| ✅ | **BD-01 1707** | +183,197 CP | 97.7% | 141,791 | 187,934 |
 | ✅ | **LHS 317** | +23,452 CP | 83.1% | 145,500 | 28,449 |
 
 ### 🔴 **Low Progress Systems (<25%)**
@@ -54,17 +54,17 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | BD-01 1707 | 168,906 | 141,791 | 110.0% | 79.38% | 95.8% | 958,000 | +164,174 | 🟢 High Reinforcement |
+| ✅ | BD-01 1707 | 187,934 | 141,791 | 111.9% | 79.38% | 97.7% | 977,000 | +183,197 | 🟢 High Reinforcement |
 | ✅ | LHS 317 | 28,449 | 145,500 | 97.7% | 80.75% | 83.1% | 831,000 | +23,452 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 12,911 | 21,767 | 36.8% | 33.34% | 34.6% | 346,000 | +12,643 | 🟢 High Reinforcement |
+| ✅ | LP 726-6 | 13,464 | 89,833 | 69.5% | 59.44% | 60.5% | 605,000 | +10,634 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Fousang | 10,307 | 89,583 | 69.1% | 59.35% | 60.1% | 601,000 | +7,507 | 🟡 Medium Reinforcement |
-| ✅ | LTT 3607 | 8,110 | 42,306 | 46.1% | 41.20% | 41.9% | 419,000 | +7,031 | 🟡 Medium Reinforcement |
-| ✅ | LP 726-6 | 8,818 | 89,833 | 69.0% | 59.41% | 60.0% | 600,000 | +5,917 | 🟡 Medium Reinforcement |
+| ✅ | LTT 3607 | 8,135 | 42,306 | 46.1% | 41.19% | 41.9% | 419,000 | +7,051 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
@@ -97,5 +97,5 @@
 | ✅ | Inovik | 69,291 | 58.2% | 51.50% | 51.3% | 158 | 513,000 | -2,039 | 🟡 Low Undermining |
 | ✅ | Asetsi | 61,541 | 54.6% | 48.58% | 48.4% | 5 | 484,000 | -1,784 | 🟡 Low Undermining |
 | ✅ | Rhea | 61,458 | 54.5% | 48.57% | 48.4% | 0 | 484,000 | -1,721 | 🟡 Low Undermining |
-| ✅ | LHS 1928 | 71,916 | 59.6% | 52.54% | 52.4% | 793 | 524,000 | -1,423 | 🟡 Low Undermining |
 | ✅ | Noti | 50,041 | 49.0% | 44.13% | 44.0% | 143 | 440,000 | -1,308 | 🟡 Low Undermining |
+| ✅ | LHS 1928 | 57,125 | 52.5% | 46.91% | 46.8% | 468 | 468,000 | -1,093 | 🟡 Low Undermining |
