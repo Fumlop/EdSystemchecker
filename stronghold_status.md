@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-08 06:04:33
-**Data Source:** 2025-08-08T06:04:33.707338
+**Report Generated:** 2025-08-08 07:06:31
+**Data Source:** 2025-08-08T07:06:31.786239
 **Total Stronghold:** 44 (26 with decay analysis)
 
 ## 📊 Quick Summary
@@ -26,7 +26,7 @@
 | ✅ | **Gurus** | -2,138 CP | 71,541 | 25 | 52.2% |
 | ✅ | **Asetsi** | -1,784 CP | 61,541 | 5 | 48.4% |
 | ✅ | **Rhea** | -1,721 CP | 61,458 | 0 | 48.4% |
-| ✅ | **Algorab** | -1,563 CP | 57,250 | 6 | 46.8% |
+| ✅ | **Noti** | -1,414 CP | 50,041 | 10 | 44.0% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -93,6 +93,5 @@
 | ✅ | Gurus | 71,541 | 59.4% | 52.41% | 52.2% | 25 | 522,000 | -2,138 | 🟡 Low Undermining |
 | ✅ | Asetsi | 61,541 | 54.6% | 48.58% | 48.4% | 5 | 484,000 | -1,784 | 🟡 Low Undermining |
 | ✅ | Rhea | 61,458 | 54.5% | 48.57% | 48.4% | 0 | 484,000 | -1,721 | 🟡 Low Undermining |
-| ✅ | Algorab | 57,250 | 52.5% | 46.96% | 46.8% | 6 | 468,000 | -1,563 | 🟡 Low Undermining |
 | ✅ | Noti | 50,041 | 49.0% | 44.14% | 44.0% | 10 | 440,000 | -1,414 | 🟡 Low Undermining |
 | ✅ | HIP 50489 | 45,291 | 46.7% | 42.32% | 42.2% | 0 | 422,000 | -1,236 | 🟡 Low Undermining |
