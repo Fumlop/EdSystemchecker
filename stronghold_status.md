@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-08 02:42:40
-**Data Source:** 2025-08-08T02:42:40.589978
+**Report Generated:** 2025-08-08 03:32:05
+**Data Source:** 2025-08-08T03:32:05.893745
 **Total Stronghold:** 44 (26 with decay analysis)
 
 ## 📊 Quick Summary
@@ -22,8 +22,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Gurus** | -2,158 CP | 71,541 | 0 | 52.2% |
 | ✅ | **Inovik** | -2,144 CP | 69,291 | 27 | 51.3% |
+| ✅ | **Gurus** | -2,138 CP | 71,541 | 25 | 52.2% |
 | ✅ | **Asetsi** | -1,784 CP | 61,541 | 5 | 48.4% |
 | ✅ | **Rhea** | -1,721 CP | 61,458 | 0 | 48.4% |
 | ✅ | **Algorab** | -1,563 CP | 57,250 | 6 | 46.8% |
@@ -89,12 +89,11 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Gurus | 71,541 | 59.4% | 52.42% | 52.2% | 0 | 522,000 | -2,158 | 🟡 Low Undermining |
 | ✅ | Inovik | 69,291 | 58.2% | 51.51% | 51.3% | 27 | 513,000 | -2,144 | 🟡 Low Undermining |
+| ✅ | Gurus | 71,541 | 59.4% | 52.41% | 52.2% | 25 | 522,000 | -2,138 | 🟡 Low Undermining |
 | ✅ | Asetsi | 61,541 | 54.6% | 48.58% | 48.4% | 5 | 484,000 | -1,784 | 🟡 Low Undermining |
 | ✅ | Rhea | 61,458 | 54.5% | 48.57% | 48.4% | 0 | 484,000 | -1,721 | 🟡 Low Undermining |
 | ✅ | Algorab | 57,250 | 52.5% | 46.96% | 46.8% | 6 | 468,000 | -1,563 | 🟡 Low Undermining |
-| ✅ | Fousang | 89,583 | 68.2% | 59.35% | 59.2% | 1,326 | 592,000 | -1,478 | 🟡 Low Undermining |
 | ✅ | Noti | 50,041 | 49.0% | 44.14% | 44.0% | 10 | 440,000 | -1,414 | 🟡 Low Undermining |
 | ✅ | HIP 50489 | 45,291 | 46.7% | 42.32% | 42.2% | 0 | 422,000 | -1,236 | 🟡 Low Undermining |
 | ✅ | Athena | 45,291 | 46.7% | 42.32% | 42.2% | 1 | 422,000 | -1,235 | 🟡 Low Undermining |
