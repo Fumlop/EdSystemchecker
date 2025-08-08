@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-07 23:02:40
-**Data Source:** 2025-08-07T23:02:40.831577
-**Total Stronghold:** 42 (25 with decay analysis)
+**Report Generated:** 2025-08-08 00:11:07
+**Data Source:** 2025-08-08T00:11:07.593022
+**Total Stronghold:** 43 (26 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,10 +11,10 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **BD-01 1707** | +49,418 CP | 141,791 | 54,211 | 84.3% |
-| ✅ | **LHS 317** | +14,949 CP | 145,500 | 19,819 | 82.3% |
+| ✅ | **BD-01 1707** | +49,436 CP | 141,791 | 54,233 | 84.3% |
+| ✅ | **LHS 317** | +16,834 CP | 145,500 | 21,676 | 82.5% |
 | ✅ | **LP 726-6** | +4,688 CP | 89,833 | 7,532 | 59.9% |
-| ✅ | **Andel** | +2,977 CP | 74,875 | 5,240 | 54.0% |
+| ✅ | **Andel** | +3,088 CP | 74,875 | 5,380 | 54.0% |
 | ✅ | **Carnoeck** | +1,612 CP | 21,749 | 1,854 | 33.5% |
 
 ### 🔴 **Most Threatened Systems**
@@ -22,8 +22,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Inovik** | -2,165 CP | 69,291 | 0 | 51.3% |
 | ✅ | **Gurus** | -2,158 CP | 71,541 | 0 | 52.2% |
+| ✅ | **Inovik** | -2,144 CP | 69,291 | 27 | 51.3% |
 | ✅ | **Asetsi** | -1,784 CP | 61,541 | 5 | 48.4% |
 | ✅ | **Rhea** | -1,721 CP | 61,458 | 0 | 48.4% |
 | ✅ | **Algorab** | -1,563 CP | 57,250 | 5 | 46.8% |
@@ -33,8 +33,8 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **BD-01 1707** | +49,418 CP | 84.3% | 141,791 | 54,211 |
-| ✅ | **LHS 317** | +14,949 CP | 82.3% | 145,500 | 19,819 |
+| ✅ | **BD-01 1707** | +49,436 CP | 84.3% | 141,791 | 54,233 |
+| ✅ | **LHS 317** | +16,834 CP | 82.5% | 145,500 | 21,676 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -54,8 +54,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | BD-01 1707 | 54,211 | 141,791 | 98.5% | 79.36% | 84.3% | 843,000 | +49,418 | 🟢 High Reinforcement |
-| ✅ | LHS 317 | 19,819 | 145,500 | 96.9% | 80.81% | 82.3% | 823,000 | +14,949 | 🟢 High Reinforcement |
+| ✅ | BD-01 1707 | 54,233 | 141,791 | 98.5% | 79.36% | 84.3% | 843,000 | +49,436 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 21,676 | 145,500 | 97.0% | 80.82% | 82.5% | 825,000 | +16,834 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -66,7 +66,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | LP 726-6 | 7,532 | 89,833 | 68.9% | 59.43% | 59.9% | 599,000 | +4,688 | 🔵 Low Reinforcement |
-| ✅ | Andel | 5,240 | 74,875 | 61.5% | 53.70% | 54.0% | 540,000 | +2,977 | 🔵 Low Reinforcement |
+| ✅ | Andel | 5,380 | 74,875 | 61.5% | 53.69% | 54.0% | 540,000 | +3,088 | 🔵 Low Reinforcement |
 | ✅ | Carnoeck | 1,854 | 21,749 | 35.7% | 33.34% | 33.5% | 335,000 | +1,612 | 🔵 Low Reinforcement |
 
 
@@ -87,8 +87,8 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Inovik | 69,291 | 58.2% | 51.52% | 51.3% | 0 | 513,000 | -2,165 | 🟡 Low Undermining |
 | ✅ | Gurus | 71,541 | 59.4% | 52.42% | 52.2% | 0 | 522,000 | -2,158 | 🟡 Low Undermining |
+| ✅ | Inovik | 69,291 | 58.2% | 51.51% | 51.3% | 27 | 513,000 | -2,144 | 🟡 Low Undermining |
 | ✅ | Asetsi | 61,541 | 54.6% | 48.58% | 48.4% | 5 | 484,000 | -1,784 | 🟡 Low Undermining |
 | ✅ | Rhea | 61,458 | 54.5% | 48.57% | 48.4% | 0 | 484,000 | -1,721 | 🟡 Low Undermining |
 | ✅ | Algorab | 57,250 | 52.5% | 46.96% | 46.8% | 5 | 468,000 | -1,563 | 🟡 Low Undermining |

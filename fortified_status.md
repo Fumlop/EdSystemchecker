@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-07 23:02:40
-**Data Source:** 2025-08-07T23:02:40.830471
-**Total Fortified:** 85 (37 with decay analysis)
+**Report Generated:** 2025-08-08 00:11:07
+**Data Source:** 2025-08-08T00:11:07.591781
+**Total Fortified:** 92 (39 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,10 +11,10 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HIP 37879** | +92,012 CP | 0 | 249 | 107.4% |
+| ✅ | **HIP 37879** | +92,029 CP | 0 | 269 | 107.4% |
 | ✅ | **Kivah** | +38,601 CP | 41,666 | 38,703 | 62.1% |
 | ✅ | **Ralu** | +5,125 CP | 25,300 | 5,444 | 44.7% |
-| ✅ | **Agarda** | +2,830 CP | 25,573 | 3,079 | 44.6% |
+| ✅ | **Agarda** | +4,503 CP | 25,573 | 4,830 | 44.8% |
 | ✅ | **Crucis Sector PC-V a2-1** | +1,702 CP | 14,025 | 2,081 | 35.8% |
 
 ### 🔴 **Most Threatened Systems**
@@ -22,18 +22,18 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Timbalderis** | -620 CP | 14,614 | 0 | 35.7% |
 | ✅ | **LFT 601** | -540 CP | 1,793 | 0 | 26.3% |
-| ✅ | **Timbalderis** | -528 CP | 14,503 | 0 | 35.7% |
+| ✅ | **Pisaly** | -513 CP | 0 | 0 | 25.0% |
 | ✅ | **Turni** | -487 CP | 1,759 | 30 | 26.3% |
 | ✅ | **Umbrigua** | -482 CP | 3,502 | 20 | 27.6% |
-| ✅ | **Huangais** | -474 CP | 4,014 | 0 | 28.0% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **HIP 37879** | +92,012 CP | 107.4% | 0 | 249 |
+| ✅ | **HIP 37879** | +92,029 CP | 107.4% | 0 | 269 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -48,7 +48,7 @@
 
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
-| ⬆️ **HIP 37879** | 107.4% | stronghold | +92,012 | 249 | 0 |
+| ⬆️ **HIP 37879** | 107.4% | stronghold | +92,029 | 269 | 0 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 1
@@ -64,7 +64,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HIP 37879 | 249 | 0 | 107.4% | 93.24% | 107.4% | 698,100 | +92,012 | 🟢 High Reinforcement |
+| ✅ | HIP 37879 | 269 | 0 | 107.4% | 93.24% | 107.4% | 698,100 | +92,029 | 🟢 High Reinforcement |
 | ✅ | Kivah | 38,703 | 41,666 | 68.5% | 56.16% | 62.1% | 403,650 | +38,601 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -77,7 +77,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Agarda | 3,079 | 25,573 | 48.5% | 44.16% | 44.6% | 289,900 | +2,830 | 🔵 Low Reinforcement |
+| ✅ | Agarda | 4,830 | 25,573 | 48.7% | 44.11% | 44.8% | 291,199 | +4,503 | 🔵 Low Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
 
 
