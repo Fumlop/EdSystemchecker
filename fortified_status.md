@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-08 21:02:28
-**Data Source:** 2025-08-08T21:02:28.285963
-**Total Fortified:** 122 (49 with decay analysis)
+**Report Generated:** 2025-08-08 22:02:39
+**Data Source:** 2025-08-08T22:02:39.126035
+**Total Fortified:** 121 (49 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -15,7 +15,7 @@
 | ✅ | **Kharahua** | +6,871 CP | 9,392 | 7,484 | 33.0% |
 | ✅ | **Agarda** | +6,139 CP | 25,573 | 6,401 | 45.1% |
 | ✅ | **Ralu** | +5,385 CP | 25,300 | 5,623 | 44.8% |
-| ✅ | **NLTT 21088** | +1,970 CP | 45,253 | 2,091 | 59.1% |
+| ✅ | **NLTT 21088** | +1,908 CP | 45,327 | 2,091 | 59.1% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -23,10 +23,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Pisaly** | -698 CP | 224 | 0 | 25.0% |
-| ✅ | **Timbalderis** | -623 CP | 14,618 | 0 | 35.7% |
 | ✅ | **LFT 601** | -540 CP | 1,793 | 0 | 26.3% |
 | ✅ | **Turni** | -487 CP | 1,759 | 30 | 26.3% |
 | ✅ | **Helgaedi** | -456 CP | 8,866 | 0 | 31.6% |
+| ✅ | **Aasgay** | -453 CP | 1,281 | 0 | 26.0% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -67,7 +67,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | NLTT 21088 | 2,091 | 45,253 | 66.1% | 58.80% | 59.1% | 384,150 | +1,970 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 2,091 | 45,327 | 66.1% | 58.81% | 59.1% | 384,150 | +1,908 | 🔵 Low Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 2,151 | 3,502 | 28.4% | 27.65% | 27.9% | 181,349 | +1,618 | 🔵 Low Reinforcement |
 
