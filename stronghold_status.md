@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-08 22:02:39
-**Data Source:** 2025-08-08T22:02:39.127556
-**Total Stronghold:** 51 (28 with decay analysis)
+**Report Generated:** 2025-08-08 23:02:32
+**Data Source:** 2025-08-08T23:02:32.770069
+**Total Stronghold:** 50 (28 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -23,9 +23,9 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Gurus** | -2,138 CP | 71,541 | 25 | 52.2% |
-| ✅ | **Inovik** | -2,039 CP | 69,291 | 158 | 51.3% |
 | ✅ | **Asetsi** | -1,784 CP | 61,541 | 5 | 48.4% |
 | ✅ | **Rhea** | -1,721 CP | 61,458 | 0 | 48.4% |
+| ✅ | **Inovik** | -1,633 CP | 69,291 | 415 | 51.4% |
 | ✅ | **Noti** | -1,308 CP | 50,041 | 143 | 44.0% |
 
 ### 🟢 **High Progress Systems (>=70%)**
@@ -70,8 +70,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Andel | 5,774 | 74,875 | 61.5% | 53.66% | 54.0% | 540,000 | +3,403 | 🔵 Low Reinforcement |
 | ✅ | Orishpucho | 5,838 | 80,125 | 64.0% | 55.67% | 56.0% | 560,000 | +3,270 | 🔵 Low Reinforcement |
-| ✅ | Andel | 5,435 | 74,875 | 61.5% | 53.69% | 54.0% | 540,000 | +3,132 | 🔵 Low Reinforcement |
 | ✅ | Kaura | 2,275 | 25,250 | 37.3% | 34.62% | 34.8% | 348,000 | +1,758 | 🔵 Low Reinforcement |
 | ✅ | NLTT 19808 | 1,489 | 19,708 | 34.6% | 32.49% | 32.6% | 326,000 | +1,146 | 🔵 Low Reinforcement |
 
@@ -94,8 +94,8 @@
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 | ✅ | Gurus | 71,541 | 59.4% | 52.41% | 52.2% | 25 | 522,000 | -2,138 | 🟡 Low Undermining |
-| ✅ | Inovik | 69,291 | 58.2% | 51.50% | 51.3% | 158 | 513,000 | -2,039 | 🟡 Low Undermining |
 | ✅ | Asetsi | 61,541 | 54.6% | 48.58% | 48.4% | 5 | 484,000 | -1,784 | 🟡 Low Undermining |
 | ✅ | Rhea | 61,458 | 54.5% | 48.57% | 48.4% | 0 | 484,000 | -1,721 | 🟡 Low Undermining |
+| ✅ | Inovik | 69,291 | 58.3% | 51.56% | 51.4% | 415 | 514,000 | -1,633 | 🟡 Low Undermining |
 | ✅ | Noti | 50,041 | 49.0% | 44.13% | 44.0% | 143 | 440,000 | -1,308 | 🟡 Low Undermining |
 | ✅ | LHS 1928 | 57,125 | 52.5% | 46.91% | 46.8% | 468 | 468,000 | -1,093 | 🟡 Low Undermining |
