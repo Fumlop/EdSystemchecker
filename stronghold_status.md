@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-08 14:04:23
-**Data Source:** 2025-08-08T14:04:23.372903
+**Report Generated:** 2025-08-08 15:03:04
+**Data Source:** 2025-08-08T15:03:04.703611
 **Total Stronghold:** 52 (29 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,10 +11,10 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **BD-01 1707** | +114,184 CP | 141,791 | 118,918 | 90.8% |
+| ✅ | **BD-01 1707** | +123,183 CP | 141,791 | 127,917 | 91.7% |
 | ✅ | **LHS 317** | +19,464 CP | 145,500 | 24,464 | 82.7% |
 | ✅ | **Belgitan** | +12,757 CP | 31,541 | 13,542 | 38.3% |
-| ✅ | **Carnoeck** | +12,656 CP | 21,749 | 12,909 | 34.6% |
+| ✅ | **Carnoeck** | +12,657 CP | 21,749 | 12,911 | 34.6% |
 | ✅ | **Fousang** | +7,507 CP | 89,583 | 10,307 | 60.1% |
 
 ### 🔴 **Most Threatened Systems**
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **BD-01 1707** | +114,184 CP | 90.8% | 141,791 | 118,918 |
+| ✅ | **BD-01 1707** | +123,183 CP | 91.7% | 141,791 | 127,917 |
 | ✅ | **LHS 317** | +19,464 CP | 82.7% | 145,500 | 24,464 |
 
 ### 🔴 **Low Progress Systems (<25%)**
@@ -54,10 +54,10 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | BD-01 1707 | 118,918 | 141,791 | 105.0% | 79.38% | 90.8% | 907,999 | +114,184 | 🟢 High Reinforcement |
+| ✅ | BD-01 1707 | 127,917 | 141,791 | 105.9% | 79.38% | 91.7% | 917,000 | +123,183 | 🟢 High Reinforcement |
 | ✅ | LHS 317 | 24,464 | 145,500 | 97.2% | 80.75% | 82.7% | 827,000 | +19,464 | 🟢 High Reinforcement |
 | ✅ | Belgitan | 13,542 | 31,541 | 41.5% | 37.02% | 38.3% | 382,999 | +12,757 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 12,909 | 21,749 | 36.8% | 33.33% | 34.6% | 346,000 | +12,656 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 12,911 | 21,749 | 36.8% | 33.33% | 34.6% | 346,000 | +12,657 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -71,7 +71,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Andel | 5,380 | 74,875 | 61.5% | 53.69% | 54.0% | 540,000 | +3,088 | 🔵 Low Reinforcement |
+| ✅ | Andel | 5,405 | 74,875 | 61.5% | 53.69% | 54.0% | 540,000 | +3,108 | 🔵 Low Reinforcement |
 | ✅ | Kaura | 2,200 | 25,250 | 37.3% | 34.63% | 34.8% | 348,000 | +1,698 | 🔵 Low Reinforcement |
 
 
