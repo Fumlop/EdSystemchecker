@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-08 16:02:51
-**Data Source:** 2025-08-08T16:02:51.153042
+**Report Generated:** 2025-08-08 17:02:28
+**Data Source:** 2025-08-08T17:02:28.549550
 **Total Fortified:** 122 (49 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,8 +11,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +71,969 CP | 41,666 | 72,116 | 67.2% |
-| ✅ | **Ralu** | +5,162 CP | 25,300 | 5,489 | 44.7% |
+| ✅ | **Kivah** | +105,858 CP | 41,666 | 106,024 | 72.4% |
+| ✅ | **Ralu** | +5,385 CP | 25,300 | 5,623 | 44.8% |
 | ✅ | **Agarda** | +4,689 CP | 25,573 | 4,919 | 44.9% |
 | ✅ | **NLTT 21088** | +1,969 CP | 45,253 | 2,090 | 59.1% |
 | ✅ | **Crucis Sector PC-V a2-1** | +1,702 CP | 14,025 | 2,081 | 35.8% |
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| - | *No systems with >=70% progress found* | - | - | - | - |
+| ✅ | **Kivah** | +105,858 CP | 72.4% | 41,666 | 106,024 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,13 +53,13 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 72,116 | 41,666 | 73.6% | 56.13% | 67.2% | 436,800 | +71,969 | 🟢 High Reinforcement |
+| ✅ | Kivah | 106,024 | 41,666 | 78.8% | 56.11% | 72.4% | 470,600 | +105,858 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Ralu | 5,489 | 25,300 | 48.6% | 43.91% | 44.7% | 290,550 | +5,162 | 🟡 Medium Reinforcement |
+| ✅ | Ralu | 5,623 | 25,300 | 48.7% | 43.97% | 44.8% | 291,199 | +5,385 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 

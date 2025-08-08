@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-08 16:02:51
-**Data Source:** 2025-08-08T16:02:51.154606
+**Report Generated:** 2025-08-08 17:02:28
+**Data Source:** 2025-08-08T17:02:28.551137
 **Total Stronghold:** 51 (28 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **BD-01 1707** | +130,296 CP | 141,791 | 135,058 | 92.4% |
+| ✅ | **BD-01 1707** | +146,174 CP | 141,791 | 150,905 | 94.0% |
 | ✅ | **LHS 317** | +23,016 CP | 145,500 | 27,903 | 83.1% |
 | ✅ | **Carnoeck** | +12,643 CP | 21,767 | 12,911 | 34.6% |
 | ✅ | **Fousang** | +7,507 CP | 89,583 | 10,307 | 60.1% |
-| ✅ | **LTT 3607** | +6,430 CP | 42,306 | 7,609 | 41.8% |
+| ✅ | **LTT 3607** | +7,031 CP | 42,306 | 8,110 | 41.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **BD-01 1707** | +130,296 CP | 92.4% | 141,791 | 135,058 |
+| ✅ | **BD-01 1707** | +146,174 CP | 94.0% | 141,791 | 150,905 |
 | ✅ | **LHS 317** | +23,016 CP | 83.1% | 145,500 | 27,903 |
 
 ### 🔴 **Low Progress Systems (<25%)**
@@ -54,7 +54,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | BD-01 1707 | 135,058 | 141,791 | 106.6% | 79.37% | 92.4% | 924,000 | +130,296 | 🟢 High Reinforcement |
+| ✅ | BD-01 1707 | 150,905 | 141,791 | 108.2% | 79.38% | 94.0% | 940,000 | +146,174 | 🟢 High Reinforcement |
 | ✅ | LHS 317 | 27,903 | 145,500 | 97.7% | 80.80% | 83.1% | 831,000 | +23,016 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 12,911 | 21,767 | 36.8% | 33.34% | 34.6% | 346,000 | +12,643 | 🟢 High Reinforcement |
 
@@ -63,14 +63,14 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Fousang | 10,307 | 89,583 | 69.1% | 59.35% | 60.1% | 601,000 | +7,507 | 🟡 Medium Reinforcement |
-| ✅ | LTT 3607 | 7,609 | 42,306 | 46.0% | 41.16% | 41.8% | 418,000 | +6,430 | 🟡 Medium Reinforcement |
+| ✅ | LTT 3607 | 8,110 | 42,306 | 46.1% | 41.20% | 41.9% | 419,000 | +7,031 | 🟡 Medium Reinforcement |
 | ✅ | LP 726-6 | 8,681 | 89,833 | 69.0% | 59.42% | 60.0% | 600,000 | +5,807 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Andel | 5,405 | 74,875 | 61.5% | 53.69% | 54.0% | 540,000 | +3,108 | 🔵 Low Reinforcement |
+| ✅ | Andel | 5,435 | 74,875 | 61.5% | 53.69% | 54.0% | 540,000 | +3,132 | 🔵 Low Reinforcement |
 | ✅ | Kaura | 2,200 | 25,250 | 37.3% | 34.63% | 34.8% | 348,000 | +1,698 | 🔵 Low Reinforcement |
 
 
