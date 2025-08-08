@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-08 11:02:58
-**Data Source:** 2025-08-08T11:02:58.896250
+**Report Generated:** 2025-08-08 12:04:35
+**Data Source:** 2025-08-08T12:04:35.070458
 **Total Fortified:** 122 (49 with decay analysis)
 
 ## 📊 Quick Summary
@@ -14,8 +14,8 @@
 | ✅ | **Kivah** | +49,315 CP | 41,666 | 49,483 | 63.7% |
 | ✅ | **Ralu** | +5,162 CP | 25,300 | 5,489 | 44.7% |
 | ✅ | **Agarda** | +4,503 CP | 25,573 | 4,830 | 44.8% |
+| ✅ | **NLTT 21088** | +1,969 CP | 45,253 | 2,090 | 59.1% |
 | ✅ | **Crucis Sector PC-V a2-1** | +1,702 CP | 14,025 | 2,081 | 35.8% |
-| ✅ | **Mbutsi** | +769 CP | 12,897 | 1,179 | 34.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -66,6 +66,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Agarda | 4,830 | 25,573 | 48.7% | 44.11% | 44.8% | 291,199 | +4,503 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 2,090 | 45,253 | 66.1% | 58.80% | 59.1% | 384,150 | +1,969 | 🔵 Low Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
 
 
