@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-08 17:02:28
-**Data Source:** 2025-08-08T17:02:28.549550
+**Report Generated:** 2025-08-08 18:03:38
+**Data Source:** 2025-08-08T18:03:38.393867
 **Total Fortified:** 122 (49 with decay analysis)
 
 ## 📊 Quick Summary
@@ -23,7 +23,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Pisaly** | -698 CP | 224 | 0 | 25.0% |
-| ✅ | **Timbalderis** | -620 CP | 14,614 | 0 | 35.7% |
+| ✅ | **Timbalderis** | -623 CP | 14,618 | 0 | 35.7% |
 | ✅ | **LFT 601** | -540 CP | 1,793 | 0 | 26.3% |
 | ✅ | **Turni** | -487 CP | 1,759 | 30 | 26.3% |
 | ✅ | **Helgaedi** | -456 CP | 8,866 | 0 | 31.6% |
