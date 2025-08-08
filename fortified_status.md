@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-08 13:14:55
-**Data Source:** 2025-08-08T13:14:55.179316
+**Report Generated:** 2025-08-08 14:04:23
+**Data Source:** 2025-08-08T14:04:23.371384
 **Total Fortified:** 122 (49 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,9 +11,9 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +49,315 CP | 41,666 | 49,483 | 63.7% |
+| ✅ | **Kivah** | +71,969 CP | 41,666 | 72,116 | 67.2% |
 | ✅ | **Ralu** | +5,162 CP | 25,300 | 5,489 | 44.7% |
-| ✅ | **Agarda** | +4,503 CP | 25,573 | 4,830 | 44.8% |
+| ✅ | **Agarda** | +4,689 CP | 25,573 | 4,919 | 44.9% |
 | ✅ | **NLTT 21088** | +1,969 CP | 45,253 | 2,090 | 59.1% |
 | ✅ | **Crucis Sector PC-V a2-1** | +1,702 CP | 14,025 | 2,081 | 35.8% |
 
@@ -53,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 49,483 | 41,666 | 70.1% | 56.11% | 63.7% | 414,050 | +49,315 | 🟢 High Reinforcement |
+| ✅ | Kivah | 72,116 | 41,666 | 73.6% | 56.13% | 67.2% | 436,800 | +71,969 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -65,7 +65,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Agarda | 4,830 | 25,573 | 48.7% | 44.11% | 44.8% | 291,199 | +4,503 | 🔵 Low Reinforcement |
+| ✅ | Agarda | 4,919 | 25,573 | 48.8% | 44.18% | 44.9% | 291,850 | +4,689 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 2,090 | 45,253 | 66.1% | 58.80% | 59.1% | 384,150 | +1,969 | 🔵 Low Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
 
