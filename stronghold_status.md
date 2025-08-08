@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-08 15:03:04
-**Data Source:** 2025-08-08T15:03:04.703611
-**Total Stronghold:** 52 (29 with decay analysis)
+**Report Generated:** 2025-08-08 16:02:51
+**Data Source:** 2025-08-08T16:02:51.154606
+**Total Stronghold:** 51 (28 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **BD-01 1707** | +123,183 CP | 141,791 | 127,917 | 91.7% |
-| ✅ | **LHS 317** | +19,464 CP | 145,500 | 24,464 | 82.7% |
-| ✅ | **Belgitan** | +12,757 CP | 31,541 | 13,542 | 38.3% |
-| ✅ | **Carnoeck** | +12,657 CP | 21,749 | 12,911 | 34.6% |
+| ✅ | **BD-01 1707** | +130,296 CP | 141,791 | 135,058 | 92.4% |
+| ✅ | **LHS 317** | +23,016 CP | 145,500 | 27,903 | 83.1% |
+| ✅ | **Carnoeck** | +12,643 CP | 21,767 | 12,911 | 34.6% |
 | ✅ | **Fousang** | +7,507 CP | 89,583 | 10,307 | 60.1% |
+| ✅ | **LTT 3607** | +6,430 CP | 42,306 | 7,609 | 41.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -33,8 +33,8 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **BD-01 1707** | +123,183 CP | 91.7% | 141,791 | 127,917 |
-| ✅ | **LHS 317** | +19,464 CP | 82.7% | 145,500 | 24,464 |
+| ✅ | **BD-01 1707** | +130,296 CP | 92.4% | 141,791 | 135,058 |
+| ✅ | **LHS 317** | +23,016 CP | 83.1% | 145,500 | 27,903 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -54,10 +54,9 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | BD-01 1707 | 127,917 | 141,791 | 105.9% | 79.38% | 91.7% | 917,000 | +123,183 | 🟢 High Reinforcement |
-| ✅ | LHS 317 | 24,464 | 145,500 | 97.2% | 80.75% | 82.7% | 827,000 | +19,464 | 🟢 High Reinforcement |
-| ✅ | Belgitan | 13,542 | 31,541 | 41.5% | 37.02% | 38.3% | 382,999 | +12,757 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 12,911 | 21,749 | 36.8% | 33.33% | 34.6% | 346,000 | +12,657 | 🟢 High Reinforcement |
+| ✅ | BD-01 1707 | 135,058 | 141,791 | 106.6% | 79.37% | 92.4% | 924,000 | +130,296 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 27,903 | 145,500 | 97.7% | 80.80% | 83.1% | 831,000 | +23,016 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 12,911 | 21,767 | 36.8% | 33.34% | 34.6% | 346,000 | +12,643 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -97,4 +96,4 @@
 | ✅ | Asetsi | 61,541 | 54.6% | 48.58% | 48.4% | 5 | 484,000 | -1,784 | 🟡 Low Undermining |
 | ✅ | Rhea | 61,458 | 54.5% | 48.57% | 48.4% | 0 | 484,000 | -1,721 | 🟡 Low Undermining |
 | ✅ | LHS 1928 | 71,916 | 59.6% | 52.54% | 52.4% | 793 | 524,000 | -1,423 | 🟡 Low Undermining |
-| ✅ | Noti | 50,041 | 49.0% | 44.14% | 44.0% | 10 | 440,000 | -1,414 | 🟡 Low Undermining |
+| ✅ | Noti | 50,041 | 49.0% | 44.13% | 44.0% | 143 | 440,000 | -1,308 | 🟡 Low Undermining |

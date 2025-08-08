@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-08 15:03:04
-**Data Source:** 2025-08-08T15:03:04.702025
+**Report Generated:** 2025-08-08 16:02:51
+**Data Source:** 2025-08-08T16:02:51.153042
 **Total Fortified:** 122 (49 with decay analysis)
 
 ## 📊 Quick Summary
@@ -26,7 +26,7 @@
 | ✅ | **Timbalderis** | -620 CP | 14,614 | 0 | 35.7% |
 | ✅ | **LFT 601** | -540 CP | 1,793 | 0 | 26.3% |
 | ✅ | **Turni** | -487 CP | 1,759 | 30 | 26.3% |
-| ✅ | **Umbrigua** | -482 CP | 3,502 | 20 | 27.6% |
+| ✅ | **Helgaedi** | -456 CP | 8,866 | 0 | 31.6% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -68,6 +68,7 @@
 | ✅ | Agarda | 4,919 | 25,573 | 48.8% | 44.18% | 44.9% | 291,850 | +4,689 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 2,090 | 45,253 | 66.1% | 58.80% | 59.1% | 384,150 | +1,969 | 🔵 Low Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
+| ✅ | Umbrigua | 2,136 | 3,502 | 28.4% | 27.65% | 27.9% | 181,349 | +1,606 | 🔵 Low Reinforcement |
 
 
 ---
