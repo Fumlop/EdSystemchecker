@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-09 15:02:30
-**Data Source:** 2025-08-09T15:02:30.103380
+**Report Generated:** 2025-08-09 16:02:50
+**Data Source:** 2025-08-09T16:02:50.768874
 **Total Fortified:** 127 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +201,779 CP | 41,666 | 201,887 | 87.2% |
+| ✅ | **Kivah** | +211,466 CP | 41,666 | 211,561 | 88.7% |
 | ✅ | **HIP 37879** | +92,637 CP | 0 | 869 | 107.5% |
 | ✅ | **Agarda** | +9,232 CP | 25,573 | 9,461 | 45.6% |
 | ✅ | **Kharahua** | +7,071 CP | 9,710 | 8,044 | 33.0% |
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **HIP 37879** | +92,637 CP | 107.5% | 0 | 869 |
-| ✅ | **Kivah** | +201,779 CP | 87.2% | 41,666 | 201,887 |
+| ✅ | **Kivah** | +211,466 CP | 88.7% | 41,666 | 211,561 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -65,7 +65,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 201,887 | 41,666 | 93.6% | 56.16% | 87.2% | 566,800 | +201,779 | 🟢 High Reinforcement |
+| ✅ | Kivah | 211,561 | 41,666 | 95.1% | 56.17% | 88.7% | 576,550 | +211,466 | 🟢 High Reinforcement |
 | ✅ | HIP 37879 | 869 | 0 | 107.5% | 93.25% | 107.5% | 698,750 | +92,637 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
