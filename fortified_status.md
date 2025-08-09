@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-09 20:02:46
-**Data Source:** 2025-08-09T20:02:46.813661
-**Total Fortified:** 128 (52 with decay analysis)
+**Report Generated:** 2025-08-09 21:02:33
+**Data Source:** 2025-08-09T21:02:33.166883
+**Total Fortified:** 127 (52 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -83,6 +83,7 @@
 | ✅ | NLTT 21088 | 2,091 | 45,404 | 66.1% | 58.82% | 59.1% | 384,150 | +1,845 | 🔵 Low Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 2,151 | 3,502 | 28.4% | 27.65% | 27.9% | 181,349 | +1,618 | 🔵 Low Reinforcement |
+| ✅ | Mbutsi | 1,635 | 12,897 | 36.9% | 34.71% | 34.9% | 226,849 | +1,258 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 1,641 | 2,389 | 27.4% | 26.83% | 27.0% | 175,500 | +1,109 | 🔵 Low Reinforcement |
 
 
