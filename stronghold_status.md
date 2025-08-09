@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-09 17:02:25
-**Data Source:** 2025-08-09T17:02:25.558423
+**Report Generated:** 2025-08-09 18:03:17
+**Data Source:** 2025-08-09T18:03:17.480643
 **Total Stronghold:** 52 (30 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,9 +12,9 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **BD-01 1707** | +244,277 CP | 141,791 | 249,034 | 103.8% |
-| ✅ | **LHS 317** | +37,023 CP | 145,500 | 41,912 | 84.5% |
+| ✅ | **LHS 317** | +37,399 CP | 145,500 | 42,383 | 84.5% |
 | ✅ | **Carnoeck** | +25,235 CP | 21,767 | 25,652 | 35.8% |
-| ✅ | **LP 726-6** | +19,641 CP | 89,902 | 22,542 | 61.4% |
+| ✅ | **LP 726-6** | +20,618 CP | 89,902 | 23,514 | 61.5% |
 | ✅ | **Fousang** | +9,362 CP | 89,583 | 12,125 | 60.3% |
 
 ### 🔴 **Most Threatened Systems**
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **BD-01 1707** | +244,277 CP | 103.8% | 141,791 | 249,034 |
-| ✅ | **LHS 317** | +37,023 CP | 84.5% | 145,500 | 41,912 |
+| ✅ | **LHS 317** | +37,399 CP | 84.5% | 145,500 | 42,383 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -66,16 +66,16 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | BD-01 1707 | 249,034 | 141,791 | 118.0% | 79.37% | 103.8% | 1,038,000 | +244,277 | 🟢 High Reinforcement |
-| ✅ | LHS 317 | 41,912 | 145,500 | 99.1% | 80.80% | 84.5% | 845,000 | +37,023 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 42,383 | 145,500 | 99.1% | 80.76% | 84.5% | 845,000 | +37,399 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 25,652 | 21,767 | 38.0% | 33.28% | 35.8% | 358,000 | +25,235 | 🟢 High Reinforcement |
-| ✅ | LP 726-6 | 22,542 | 89,902 | 70.4% | 59.44% | 61.4% | 614,000 | +19,641 | 🟢 High Reinforcement |
+| ✅ | LP 726-6 | 23,514 | 89,902 | 70.5% | 59.44% | 61.5% | 615,000 | +20,618 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Fousang | 12,125 | 89,583 | 69.3% | 59.36% | 60.3% | 603,000 | +9,362 | 🟡 Medium Reinforcement |
-| ✅ | LTT 3607 | 9,330 | 42,389 | 46.2% | 41.19% | 42.0% | 420,000 | +8,141 | 🟡 Medium Reinforcement |
+| ✅ | LTT 3607 | 9,340 | 42,389 | 46.2% | 41.19% | 42.0% | 420,000 | +8,149 | 🟡 Medium Reinforcement |
 | ✅ | Andel | 8,949 | 74,875 | 61.8% | 53.65% | 54.3% | 542,999 | +6,543 | 🟡 Medium Reinforcement |
 | ✅ | Orishpucho | 8,176 | 80,125 | 64.3% | 55.73% | 56.3% | 563,000 | +5,741 | 🟡 Medium Reinforcement |
 
@@ -84,9 +84,9 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | HIP 61632 | 8,031 | 0 | 25.4% | 25.00% | 25.4% | 254,000 | +4,000 | 🔵 Low Reinforcement |
-| ✅ | Kaura | 2,634 | 25,250 | 37.4% | 34.68% | 34.9% | 349,000 | +2,245 | 🔵 Low Reinforcement |
+| ✅ | Kaura | 2,639 | 25,250 | 37.4% | 34.68% | 34.9% | 349,000 | +2,249 | 🔵 Low Reinforcement |
 | ✅ | Lulua | 2,801 | 44,708 | 46.8% | 42.13% | 42.3% | 423,000 | +1,670 | 🔵 Low Reinforcement |
-| ✅ | Algorab | 3,054 | 57,250 | 52.8% | 46.95% | 47.1% | 471,000 | +1,476 | 🔵 Low Reinforcement |
+| ✅ | Algorab | 3,079 | 57,250 | 52.8% | 46.95% | 47.1% | 471,000 | +1,496 | 🔵 Low Reinforcement |
 | ✅ | NLTT 19808 | 1,498 | 19,708 | 34.6% | 32.48% | 32.6% | 326,000 | +1,153 | 🔵 Low Reinforcement |
 | ✅ | Karnarki | 949 | 9,250 | 29.5% | 28.50% | 28.6% | 286,000 | +1,049 | 🔵 Low Reinforcement |
 
