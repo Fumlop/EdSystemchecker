@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-09 06:03:22
-**Data Source:** 2025-08-09T06:03:22.659143
+**Report Generated:** 2025-08-09 07:02:39
+**Data Source:** 2025-08-09T07:02:39.921315
 **Total Stronghold:** 51 (30 with decay analysis)
 
 ## 📊 Quick Summary
@@ -76,6 +76,7 @@
 | ✅ | Kaura | 2,275 | 25,250 | 37.3% | 34.62% | 34.8% | 348,000 | +1,758 | 🔵 Low Reinforcement |
 | ✅ | Lulua | 2,771 | 44,708 | 46.8% | 42.14% | 42.3% | 423,000 | +1,646 | 🔵 Low Reinforcement |
 | ✅ | NLTT 19808 | 1,498 | 19,708 | 34.6% | 32.48% | 32.6% | 326,000 | +1,153 | 🔵 Low Reinforcement |
+| ✅ | Algorab | 2,793 | 57,250 | 52.7% | 46.89% | 47.0% | 470,000 | +1,066 | 🔵 Low Reinforcement |
 
 
 ---
