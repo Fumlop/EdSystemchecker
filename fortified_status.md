@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-08 23:02:32
-**Data Source:** 2025-08-08T23:02:32.768164
-**Total Fortified:** 122 (50 with decay analysis)
+**Report Generated:** 2025-08-09 00:10:05
+**Data Source:** 2025-08-09T00:10:05.659791
+**Total Fortified:** 121 (50 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +141,610 CP | 41,666 | 141,777 | 77.9% |
+| ✅ | **Kivah** | +148,427 CP | 41,666 | 148,524 | 79.0% |
 | ✅ | **HIP 37879** | +92,602 CP | 0 | 826 | 107.5% |
 | ✅ | **Kharahua** | +6,871 CP | 9,392 | 7,484 | 33.0% |
 | ✅ | **Agarda** | +6,139 CP | 25,573 | 6,401 | 45.1% |
-| ✅ | **Ralu** | +5,385 CP | 25,300 | 5,623 | 44.8% |
+| ✅ | **Ralu** | +5,732 CP | 25,300 | 6,042 | 44.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -24,9 +24,9 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Pisaly** | -698 CP | 224 | 0 | 25.0% |
 | ✅ | **LFT 601** | -540 CP | 1,793 | 0 | 26.3% |
+| ✅ | **Eme** | -497 CP | 10,378 | 379 | 32.4% |
 | ✅ | **Turni** | -487 CP | 1,759 | 30 | 26.3% |
 | ✅ | **Helgaedi** | -456 CP | 8,866 | 0 | 31.6% |
-| ✅ | **Aasgay** | -453 CP | 1,281 | 0 | 26.0% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **HIP 37879** | +92,602 CP | 107.5% | 0 | 826 |
-| ✅ | **Kivah** | +141,610 CP | 77.9% | 41,666 | 141,777 |
+| ✅ | **Kivah** | +148,427 CP | 79.0% | 41,666 | 148,524 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -65,7 +65,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 141,777 | 41,666 | 84.3% | 56.11% | 77.9% | 506,350 | +141,610 | 🟢 High Reinforcement |
+| ✅ | Kivah | 148,524 | 41,666 | 85.4% | 56.17% | 79.0% | 513,500 | +148,427 | 🟢 High Reinforcement |
 | ✅ | HIP 37879 | 826 | 0 | 107.5% | 93.25% | 107.5% | 698,750 | +92,602 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -74,7 +74,7 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kharahua | 7,484 | 9,392 | 34.4% | 31.94% | 33.0% | 214,500 | +6,871 | 🟡 Medium Reinforcement |
 | ✅ | Agarda | 6,401 | 25,573 | 49.0% | 44.16% | 45.1% | 293,150 | +6,139 | 🟡 Medium Reinforcement |
-| ✅ | Ralu | 5,623 | 25,300 | 48.7% | 43.97% | 44.8% | 291,199 | +5,385 | 🟡 Medium Reinforcement |
+| ✅ | Ralu | 6,042 | 25,300 | 48.7% | 43.92% | 44.8% | 291,199 | +5,732 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
