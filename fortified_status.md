@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-09 05:03:23
-**Data Source:** 2025-08-09T05:03:23.757080
-**Total Fortified:** 117 (48 with decay analysis)
+**Report Generated:** 2025-08-09 06:03:22
+**Data Source:** 2025-08-09T06:03:22.657679
+**Total Fortified:** 116 (48 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -13,7 +13,7 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Kivah** | +156,216 CP | 41,666 | 156,311 | 80.2% |
 | ✅ | **Agarda** | +7,516 CP | 25,573 | 7,793 | 45.3% |
-| ✅ | **Kharahua** | +6,871 CP | 9,392 | 7,484 | 33.0% |
+| ✅ | **Kharahua** | +7,071 CP | 9,710 | 8,044 | 33.0% |
 | ✅ | **Ralu** | +5,732 CP | 25,300 | 6,042 | 44.8% |
 | ✅ | **NLTT 21088** | +1,875 CP | 45,367 | 2,091 | 59.1% |
 
@@ -60,7 +60,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Agarda | 7,793 | 25,573 | 49.2% | 44.14% | 45.3% | 294,450 | +7,516 | 🟡 Medium Reinforcement |
-| ✅ | Kharahua | 7,484 | 9,392 | 34.4% | 31.94% | 33.0% | 214,500 | +6,871 | 🟡 Medium Reinforcement |
+| ✅ | Kharahua | 8,044 | 9,710 | 34.5% | 31.91% | 33.0% | 214,500 | +7,071 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,042 | 25,300 | 48.7% | 43.92% | 44.8% | 291,199 | +5,732 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
