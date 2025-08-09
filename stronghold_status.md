@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-09 00:10:05
-**Data Source:** 2025-08-09T00:10:05.661365
+**Report Generated:** 2025-08-09 01:30:31
+**Data Source:** 2025-08-09T01:30:31.114813
 **Total Stronghold:** 51 (29 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,9 +12,9 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **BD-01 1707** | +183,197 CP | 141,791 | 187,934 | 97.7% |
-| ✅ | **LHS 317** | +26,072 CP | 145,500 | 30,973 | 83.4% |
+| ✅ | **LHS 317** | +26,379 CP | 145,500 | 31,357 | 83.4% |
 | ✅ | **Carnoeck** | +14,680 CP | 21,767 | 14,957 | 34.8% |
-| ✅ | **LP 726-6** | +10,774 CP | 89,833 | 13,640 | 60.5% |
+| ✅ | **LP 726-6** | +12,928 CP | 89,884 | 15,884 | 60.7% |
 | ✅ | **Fousang** | +7,507 CP | 89,583 | 10,307 | 60.1% |
 
 ### 🔴 **Most Threatened Systems**
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **BD-01 1707** | +183,197 CP | 97.7% | 141,791 | 187,934 |
-| ✅ | **LHS 317** | +26,072 CP | 83.4% | 145,500 | 30,973 |
+| ✅ | **LHS 317** | +26,379 CP | 83.4% | 145,500 | 31,357 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -55,9 +55,9 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | BD-01 1707 | 187,934 | 141,791 | 111.9% | 79.38% | 97.7% | 977,000 | +183,197 | 🟢 High Reinforcement |
-| ✅ | LHS 317 | 30,973 | 145,500 | 98.0% | 80.79% | 83.4% | 834,000 | +26,072 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 31,357 | 145,500 | 98.0% | 80.76% | 83.4% | 834,000 | +26,379 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 14,957 | 21,767 | 37.0% | 33.33% | 34.8% | 348,000 | +14,680 | 🟢 High Reinforcement |
-| ✅ | LP 726-6 | 13,640 | 89,833 | 69.5% | 59.42% | 60.5% | 605,000 | +10,774 | 🟢 High Reinforcement |
+| ✅ | LP 726-6 | 15,884 | 89,884 | 69.7% | 59.41% | 60.7% | 607,000 | +12,928 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
