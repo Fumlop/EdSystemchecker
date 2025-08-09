@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-09 12:03:48
-**Data Source:** 2025-08-09T12:03:48.037053
-**Total Stronghold:** 53 (30 with decay analysis)
+**Report Generated:** 2025-08-09 13:10:40
+**Data Source:** 2025-08-09T13:10:40.350752
+**Total Stronghold:** 52 (30 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,7 +12,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **BD-01 1707** | +213,540 CP | 141,791 | 218,363 | 100.7% |
-| ✅ | **LHS 317** | +30,554 CP | 145,500 | 35,576 | 83.8% |
+| ✅ | **LHS 317** | +31,024 CP | 145,500 | 35,913 | 83.9% |
 | ✅ | **Carnoeck** | +21,090 CP | 21,767 | 21,470 | 35.4% |
 | ✅ | **LP 726-6** | +13,660 CP | 89,884 | 16,548 | 60.8% |
 | ✅ | **Fousang** | +8,608 CP | 89,583 | 11,433 | 60.2% |
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **BD-01 1707** | +213,540 CP | 100.7% | 141,791 | 218,363 |
-| ✅ | **LHS 317** | +30,554 CP | 83.8% | 145,500 | 35,576 |
+| ✅ | **LHS 317** | +31,024 CP | 83.9% | 145,500 | 35,913 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -66,7 +66,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | BD-01 1707 | 218,363 | 141,791 | 114.9% | 79.35% | 100.7% | 1,007,000 | +213,540 | 🟢 High Reinforcement |
-| ✅ | LHS 317 | 35,576 | 145,500 | 98.4% | 80.74% | 83.8% | 838,000 | +30,554 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 35,913 | 145,500 | 98.5% | 80.80% | 83.9% | 839,000 | +31,024 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 21,470 | 21,767 | 37.6% | 33.29% | 35.4% | 354,000 | +21,090 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 16,548 | 89,884 | 69.8% | 59.43% | 60.8% | 608,000 | +13,660 | 🟢 High Reinforcement |
 
