@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-09 07:02:39
-**Data Source:** 2025-08-09T07:02:39.921315
-**Total Stronghold:** 51 (30 with decay analysis)
+**Report Generated:** 2025-08-09 08:03:18
+**Data Source:** 2025-08-09T08:03:18.039336
+**Total Stronghold:** 53 (30 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -15,7 +15,7 @@
 | ✅ | **LHS 317** | +27,810 CP | 145,500 | 32,646 | 83.6% |
 | ✅ | **Carnoeck** | +21,090 CP | 21,767 | 21,470 | 35.4% |
 | ✅ | **LP 726-6** | +13,660 CP | 89,884 | 16,548 | 60.8% |
-| ✅ | **Fousang** | +7,603 CP | 89,583 | 10,427 | 60.1% |
+| ✅ | **Fousang** | +8,608 CP | 89,583 | 11,433 | 60.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -63,8 +63,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Fousang | 10,427 | 89,583 | 69.1% | 59.34% | 60.1% | 601,000 | +7,603 | 🟡 Medium Reinforcement |
-| ✅ | LTT 3607 | 8,135 | 42,389 | 46.1% | 41.20% | 41.9% | 419,000 | +6,985 | 🟡 Medium Reinforcement |
+| ✅ | Fousang | 11,433 | 89,583 | 69.2% | 59.34% | 60.2% | 602,000 | +8,608 | 🟡 Medium Reinforcement |
+| ✅ | LTT 3607 | 9,085 | 42,389 | 46.2% | 41.21% | 42.0% | 420,000 | +7,945 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
