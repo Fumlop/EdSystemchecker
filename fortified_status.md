@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-09 18:03:17
-**Data Source:** 2025-08-09T18:03:17.479014
-**Total Fortified:** 127 (51 with decay analysis)
+**Report Generated:** 2025-08-09 19:02:27
+**Data Source:** 2025-08-09T19:02:27.151422
+**Total Fortified:** 128 (52 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +211,466 CP | 41,666 | 211,561 | 88.7% |
+| ✅ | **Kivah** | +228,489 CP | 41,666 | 228,609 | 91.3% |
 | ✅ | **HIP 37879** | +92,637 CP | 0 | 869 | 107.5% |
 | ✅ | **Agarda** | +9,232 CP | 25,573 | 9,461 | 45.6% |
 | ✅ | **Kharahua** | +7,071 CP | 9,710 | 8,044 | 33.0% |
-| ✅ | **Ralu** | +5,732 CP | 25,300 | 6,042 | 44.8% |
+| ✅ | **Ralu** | +5,883 CP | 25,300 | 6,224 | 44.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **HIP 37879** | +92,637 CP | 107.5% | 0 | 869 |
-| ✅ | **Kivah** | +211,466 CP | 88.7% | 41,666 | 211,561 |
+| ✅ | **Kivah** | +228,489 CP | 91.3% | 41,666 | 228,609 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -65,7 +65,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 211,561 | 41,666 | 95.1% | 56.17% | 88.7% | 576,550 | +211,466 | 🟢 High Reinforcement |
+| ✅ | Kivah | 228,609 | 41,666 | 97.7% | 56.15% | 91.3% | 593,450 | +228,489 | 🟢 High Reinforcement |
 | ✅ | HIP 37879 | 869 | 0 | 107.5% | 93.25% | 107.5% | 698,750 | +92,637 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -74,7 +74,7 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Agarda | 9,461 | 25,573 | 49.5% | 44.18% | 45.6% | 296,400 | +9,232 | 🟡 Medium Reinforcement |
 | ✅ | Kharahua | 8,044 | 9,710 | 34.5% | 31.91% | 33.0% | 214,500 | +7,071 | 🟡 Medium Reinforcement |
-| ✅ | Ralu | 6,042 | 25,300 | 48.7% | 43.92% | 44.8% | 291,199 | +5,732 | 🟡 Medium Reinforcement |
+| ✅ | Ralu | 6,224 | 25,300 | 48.7% | 43.89% | 44.8% | 291,199 | +5,883 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 

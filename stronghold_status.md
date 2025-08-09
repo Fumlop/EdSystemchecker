@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-09 18:03:17
-**Data Source:** 2025-08-09T18:03:17.480643
-**Total Stronghold:** 52 (30 with decay analysis)
+**Report Generated:** 2025-08-09 19:02:27
+**Data Source:** 2025-08-09T19:02:27.153054
+**Total Stronghold:** 53 (31 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,10 +12,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **BD-01 1707** | +244,277 CP | 141,791 | 249,034 | 103.8% |
-| ✅ | **LHS 317** | +37,399 CP | 145,500 | 42,383 | 84.5% |
-| ✅ | **Carnoeck** | +25,235 CP | 21,767 | 25,652 | 35.8% |
-| ✅ | **LP 726-6** | +20,618 CP | 89,902 | 23,514 | 61.5% |
-| ✅ | **Fousang** | +9,362 CP | 89,583 | 12,125 | 60.3% |
+| ✅ | **LHS 317** | +55,029 CP | 145,500 | 59,919 | 86.3% |
+| ✅ | **HIP 61632** | +26,000 CP | 0 | 29,820 | 27.6% |
+| ✅ | **Carnoeck** | +25,255 CP | 21,767 | 25,677 | 35.8% |
+| ✅ | **LP 726-6** | +21,779 CP | 89,902 | 24,715 | 61.6% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -25,8 +25,8 @@
 | ✅ | **Gurus** | -2,138 CP | 71,541 | 25 | 52.2% |
 | ✅ | **Asetsi** | -1,784 CP | 61,541 | 5 | 48.4% |
 | ✅ | **Rhea** | -1,721 CP | 61,458 | 0 | 48.4% |
-| ✅ | **Inovik** | -1,633 CP | 69,291 | 415 | 51.4% |
 | ✅ | **Noti** | -1,308 CP | 50,041 | 143 | 44.0% |
+| ✅ | **Inovik** | -1,280 CP | 69,291 | 856 | 51.4% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **BD-01 1707** | +244,277 CP | 103.8% | 141,791 | 249,034 |
-| ✅ | **LHS 317** | +37,399 CP | 84.5% | 145,500 | 42,383 |
+| ✅ | **LHS 317** | +55,029 CP | 86.3% | 145,500 | 59,919 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -66,9 +66,10 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | BD-01 1707 | 249,034 | 141,791 | 118.0% | 79.37% | 103.8% | 1,038,000 | +244,277 | 🟢 High Reinforcement |
-| ✅ | LHS 317 | 42,383 | 145,500 | 99.1% | 80.76% | 84.5% | 845,000 | +37,399 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 25,652 | 21,767 | 38.0% | 33.28% | 35.8% | 358,000 | +25,235 | 🟢 High Reinforcement |
-| ✅ | LP 726-6 | 23,514 | 89,902 | 70.5% | 59.44% | 61.5% | 615,000 | +20,618 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 59,919 | 145,500 | 100.8% | 80.80% | 86.3% | 863,000 | +55,029 | 🟢 High Reinforcement |
+| ✅ | HIP 61632 | 29,820 | 0 | 27.6% | 25.00% | 27.6% | 276,000 | +26,000 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 25,677 | 21,767 | 38.0% | 33.27% | 35.8% | 358,000 | +25,255 | 🟢 High Reinforcement |
+| ✅ | LP 726-6 | 24,715 | 89,902 | 70.6% | 59.42% | 61.6% | 616,000 | +21,779 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -83,11 +84,10 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HIP 61632 | 8,031 | 0 | 25.4% | 25.00% | 25.4% | 254,000 | +4,000 | 🔵 Low Reinforcement |
+| ✅ | NLTT 19808 | 4,898 | 19,708 | 35.0% | 32.53% | 33.0% | 330,000 | +4,673 | 🔵 Low Reinforcement |
 | ✅ | Kaura | 2,639 | 25,250 | 37.4% | 34.68% | 34.9% | 349,000 | +2,249 | 🔵 Low Reinforcement |
 | ✅ | Lulua | 2,801 | 44,708 | 46.8% | 42.13% | 42.3% | 423,000 | +1,670 | 🔵 Low Reinforcement |
 | ✅ | Algorab | 3,079 | 57,250 | 52.8% | 46.95% | 47.1% | 471,000 | +1,496 | 🔵 Low Reinforcement |
-| ✅ | NLTT 19808 | 1,498 | 19,708 | 34.6% | 32.48% | 32.6% | 326,000 | +1,153 | 🔵 Low Reinforcement |
 | ✅ | Karnarki | 949 | 9,250 | 29.5% | 28.50% | 28.6% | 286,000 | +1,049 | 🔵 Low Reinforcement |
 
 
@@ -111,5 +111,5 @@
 | ✅ | Gurus | 71,541 | 59.4% | 52.41% | 52.2% | 25 | 522,000 | -2,138 | 🟡 Low Undermining |
 | ✅ | Asetsi | 61,541 | 54.6% | 48.58% | 48.4% | 5 | 484,000 | -1,784 | 🟡 Low Undermining |
 | ✅ | Rhea | 61,458 | 54.5% | 48.57% | 48.4% | 0 | 484,000 | -1,721 | 🟡 Low Undermining |
-| ✅ | Inovik | 69,291 | 58.3% | 51.56% | 51.4% | 415 | 514,000 | -1,633 | 🟡 Low Undermining |
 | ✅ | Noti | 50,041 | 49.0% | 44.13% | 44.0% | 143 | 440,000 | -1,308 | 🟡 Low Undermining |
+| ✅ | Inovik | 69,291 | 58.3% | 51.53% | 51.4% | 856 | 514,000 | -1,280 | 🟡 Low Undermining |
