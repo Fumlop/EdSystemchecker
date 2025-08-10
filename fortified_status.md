@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-10 00:12:04
-**Data Source:** 2025-08-10T00:12:04.698186
-**Total Fortified:** 127 (52 with decay analysis)
+**Report Generated:** 2025-08-10 01:31:02
+**Data Source:** 2025-08-10T01:31:02.595385
+**Total Fortified:** 126 (52 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -75,6 +75,7 @@
 | ✅ | Agarda | 9,461 | 25,573 | 49.5% | 44.18% | 45.6% | 296,400 | +9,232 | 🟡 Medium Reinforcement |
 | ✅ | Kharahua | 8,044 | 9,710 | 34.5% | 31.91% | 33.0% | 214,500 | +7,071 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,224 | 25,300 | 48.7% | 43.89% | 44.8% | 291,199 | +5,883 | 🟡 Medium Reinforcement |
+| ✅ | Umbrigua | 6,351 | 3,502 | 29.1% | 27.70% | 28.6% | 185,900 | +5,879 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
@@ -83,8 +84,7 @@
 | ✅ | NLTT 21088 | 2,091 | 45,404 | 66.1% | 58.82% | 59.1% | 384,150 | +1,845 | 🔵 Low Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 2,155 | 2,389 | 27.5% | 26.85% | 27.1% | 176,150 | +1,646 | 🔵 Low Reinforcement |
-| ✅ | Umbrigua | 2,151 | 3,502 | 28.4% | 27.65% | 27.9% | 181,349 | +1,618 | 🔵 Low Reinforcement |
-| ✅ | Mbutsi | 1,635 | 12,897 | 36.9% | 34.71% | 34.9% | 226,849 | +1,258 | 🔵 Low Reinforcement |
+| ✅ | Mbutsi | 1,978 | 12,897 | 36.9% | 34.66% | 34.9% | 226,849 | +1,542 | 🔵 Low Reinforcement |
 
 
 ---
