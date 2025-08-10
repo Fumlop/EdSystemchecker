@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-10 11:02:20
-**Data Source:** 2025-08-10T11:02:20.256731
+**Report Generated:** 2025-08-10 12:03:52
+**Data Source:** 2025-08-10T12:03:52.499223
 **Total Fortified:** 129 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **HIP 37879** | +92,637 CP | 0 | 869 | 107.5% |
 | ✅ | **Agarda** | +13,541 CP | 25,837 | 14,119 | 46.2% |
 | ✅ | **Kharahua** | +7,071 CP | 9,710 | 8,044 | 33.0% |
-| ✅ | **Ralu** | +5,883 CP | 25,300 | 6,224 | 44.8% |
+| ✅ | **Umbrigua** | +6,667 CP | 3,502 | 7,168 | 28.7% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -75,8 +75,8 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kharahua | 8,044 | 9,710 | 34.5% | 31.91% | 33.0% | 214,500 | +7,071 | 🟡 Medium Reinforcement |
+| ✅ | Umbrigua | 7,168 | 3,502 | 29.2% | 27.67% | 28.7% | 186,549 | +6,667 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,224 | 25,300 | 48.7% | 43.89% | 44.8% | 291,199 | +5,883 | 🟡 Medium Reinforcement |
-| ✅ | Umbrigua | 6,351 | 3,502 | 29.1% | 27.70% | 28.6% | 185,900 | +5,879 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
