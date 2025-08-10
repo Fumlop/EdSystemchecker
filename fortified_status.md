@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-10 16:02:47
-**Data Source:** 2025-08-10T16:02:47.183705
-**Total Fortified:** 130 (52 with decay analysis)
+**Report Generated:** 2025-08-10 17:02:28
+**Data Source:** 2025-08-10T17:02:28.770397
+**Total Fortified:** 131 (52 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +310,368 CP | 41,666 | 310,484 | 103.9% |
+| ✅ | **Kivah** | +311,308 CP | 41,666 | 311,484 | 104.0% |
 | ✅ | **HIP 37879** | +92,637 CP | 0 | 869 | 107.5% |
 | ✅ | **Agarda** | +13,549 CP | 25,837 | 14,129 | 46.2% |
 | ✅ | **Kharahua** | +7,071 CP | 9,710 | 8,044 | 33.0% |
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **HIP 37879** | +92,637 CP | 107.5% | 0 | 869 |
-| ✅ | **Kivah** | +310,368 CP | 103.9% | 41,666 | 310,484 |
+| ✅ | **Kivah** | +311,308 CP | 104.0% | 41,666 | 311,484 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -50,7 +50,7 @@
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
 | ⬆️ **HIP 37879** | 107.5% | stronghold | +92,637 | 869 | 0 |
-| ⬆️ **Kivah** | 103.9% | stronghold | +310,368 | 310,484 | 41,666 |
+| ⬆️ **Kivah** | 104.0% | stronghold | +311,308 | 311,484 | 41,666 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 2
@@ -66,7 +66,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 310,484 | 41,666 | 110.3% | 56.15% | 103.9% | 675,350 | +310,368 | 🟢 High Reinforcement |
+| ✅ | Kivah | 311,484 | 41,666 | 110.4% | 56.11% | 104.0% | 676,000 | +311,308 | 🟢 High Reinforcement |
 | ✅ | HIP 37879 | 869 | 0 | 107.5% | 93.25% | 107.5% | 698,750 | +92,637 | 🟢 High Reinforcement |
 | ✅ | Agarda | 14,129 | 25,837 | 50.2% | 44.12% | 46.2% | 300,300 | +13,549 | 🟢 High Reinforcement |
 
@@ -76,7 +76,7 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kharahua | 8,044 | 9,710 | 34.5% | 31.91% | 33.0% | 214,500 | +7,071 | 🟡 Medium Reinforcement |
 | ✅ | Umbrigua | 7,518 | 3,502 | 29.3% | 27.71% | 28.8% | 187,200 | +7,069 | 🟡 Medium Reinforcement |
-| ✅ | Ralu | 6,275 | 25,300 | 48.8% | 43.97% | 44.9% | 291,850 | +6,037 | 🟡 Medium Reinforcement |
+| ✅ | Ralu | 6,420 | 25,300 | 48.8% | 43.95% | 44.9% | 291,850 | +6,157 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
