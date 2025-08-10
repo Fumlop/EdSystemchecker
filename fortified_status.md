@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-10 02:44:53
-**Data Source:** 2025-08-10T02:44:53.725513
+**Report Generated:** 2025-08-10 03:31:55
+**Data Source:** 2025-08-10T03:31:55.873088
 **Total Fortified:** 125 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -22,7 +22,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Eme** | -725 CP | 10,710 | 436 | 32.4% |
+| ✅ | **Eme** | -723 CP | 10,710 | 438 | 32.4% |
 | ✅ | **Pisaly** | -698 CP | 224 | 0 | 25.0% |
 | ✅ | **LFT 601** | -540 CP | 1,793 | 0 | 26.3% |
 | ✅ | **Turni** | -487 CP | 1,759 | 30 | 26.3% |
