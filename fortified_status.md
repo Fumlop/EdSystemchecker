@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-10 07:02:40
-**Data Source:** 2025-08-10T07:02:40.684791
-**Total Fortified:** 124 (52 with decay analysis)
+**Report Generated:** 2025-08-10 08:03:11
+**Data Source:** 2025-08-10T08:03:11.842217
+**Total Fortified:** 128 (52 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +260,499 CP | 41,666 | 260,653 | 96.2% |
+| ✅ | **Kivah** | +292,280 CP | 41,666 | 292,420 | 101.1% |
 | ✅ | **HIP 37879** | +92,637 CP | 0 | 869 | 107.5% |
 | ✅ | **Agarda** | +9,232 CP | 25,573 | 9,461 | 45.6% |
 | ✅ | **Kharahua** | +7,071 CP | 9,710 | 8,044 | 33.0% |
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **HIP 37879** | +92,637 CP | 107.5% | 0 | 869 |
-| ✅ | **Kivah** | +260,499 CP | 96.2% | 41,666 | 260,653 |
+| ✅ | **Kivah** | +292,280 CP | 101.1% | 41,666 | 292,420 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -45,14 +45,15 @@
 ## 🔄 System Status Transitions  
 *Systems that have exceeded 100% progress and will transition to "stronghold"*
 
-**⚠️ 1 system(s) have exceeded 100% progress!**
+**⚠️ 2 system(s) have exceeded 100% progress!**
 
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
 | ⬆️ **HIP 37879** | 107.5% | stronghold | +92,637 | 869 | 0 |
+| ⬆️ **Kivah** | 101.1% | stronghold | +292,280 | 292,420 | 41,666 |
 
 ### 📈 Transition Details
-- **Systems over 100%**: 1
+- **Systems over 100%**: 2
 - **Highest Progress**: 107.5%
 - **Status Change**: Fortified → Stronghold
 
@@ -65,7 +66,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 260,653 | 41,666 | 102.6% | 56.12% | 96.2% | 625,300 | +260,499 | 🟢 High Reinforcement |
+| ✅ | Kivah | 292,420 | 41,666 | 107.5% | 56.13% | 101.1% | 657,149 | +292,280 | 🟢 High Reinforcement |
 | ✅ | HIP 37879 | 869 | 0 | 107.5% | 93.25% | 107.5% | 698,750 | +92,637 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
