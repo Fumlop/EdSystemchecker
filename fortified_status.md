@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-10 15:02:24
-**Data Source:** 2025-08-10T15:02:24.240897
+**Report Generated:** 2025-08-10 16:02:47
+**Data Source:** 2025-08-10T16:02:47.183705
 **Total Fortified:** 130 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **HIP 37879** | +92,637 CP | 0 | 869 | 107.5% |
 | ✅ | **Agarda** | +13,549 CP | 25,837 | 14,129 | 46.2% |
 | ✅ | **Kharahua** | +7,071 CP | 9,710 | 8,044 | 33.0% |
-| ✅ | **Umbrigua** | +6,667 CP | 3,502 | 7,168 | 28.7% |
+| ✅ | **Umbrigua** | +7,069 CP | 3,502 | 7,518 | 28.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -75,7 +75,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kharahua | 8,044 | 9,710 | 34.5% | 31.91% | 33.0% | 214,500 | +7,071 | 🟡 Medium Reinforcement |
-| ✅ | Umbrigua | 7,168 | 3,502 | 29.2% | 27.67% | 28.7% | 186,549 | +6,667 | 🟡 Medium Reinforcement |
+| ✅ | Umbrigua | 7,518 | 3,502 | 29.3% | 27.71% | 28.8% | 187,200 | +7,069 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,275 | 25,300 | 48.8% | 43.97% | 44.9% | 291,850 | +6,037 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
@@ -89,7 +89,7 @@
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 1,978 | 13,021 | 36.9% | 34.68% | 34.9% | 226,849 | +1,439 | 🔵 Low Reinforcement |
 | ✅ | Namte | 1,361 | 41,479 | 62.6% | 56.01% | 56.2% | 365,300 | +1,240 | 🔵 Low Reinforcement |
-| ✅ | 18 Puppis | 1,339 | 23,455 | 46.3% | 42.54% | 42.7% | 277,550 | +1,014 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 1,457 | 23,455 | 46.3% | 42.53% | 42.7% | 277,550 | +1,112 | 🔵 Low Reinforcement |
 
 
 ---
