@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-10 20:02:47
-**Data Source:** 2025-08-10T20:02:47.554668
-**Total Fortified:** 131 (52 with decay analysis)
+**Report Generated:** 2025-08-10 21:02:24
+**Data Source:** 2025-08-10T21:02:24.870173
+**Total Fortified:** 130 (52 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -82,7 +82,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Parapa | 2,711 | 31,450 | 53.7% | 48.52% | 48.9% | 317,850 | +2,479 | 🔵 Low Reinforcement |
+| ✅ | Parapa | 3,425 | 31,450 | 53.8% | 48.51% | 49.0% | 318,500 | +3,182 | 🔵 Low Reinforcement |
+| ✅ | Nugua | 2,863 | 34,901 | 56.9% | 51.09% | 51.5% | 334,750 | +2,661 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 2,709 | 2,389 | 27.6% | 26.86% | 27.2% | 176,800 | +2,217 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 2,121 | 45,424 | 66.1% | 58.81% | 59.1% | 384,150 | +1,853 | 🔵 Low Reinforcement |
