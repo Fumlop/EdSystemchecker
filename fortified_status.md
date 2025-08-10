@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-10 19:02:17
-**Data Source:** 2025-08-10T19:02:17.471500
+**Report Generated:** 2025-08-10 20:02:47
+**Data Source:** 2025-08-10T20:02:47.554668
 **Total Fortified:** 131 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +311,308 CP | 41,666 | 311,484 | 104.0% |
+| ✅ | **Kivah** | +312,297 CP | 41,666 | 312,409 | 104.2% |
 | ✅ | **HIP 37879** | +92,637 CP | 0 | 869 | 107.5% |
 | ✅ | **Agarda** | +14,290 CP | 25,837 | 14,889 | 46.3% |
 | ✅ | **Umbrigua** | +7,684 CP | 3,502 | 8,126 | 28.9% |
@@ -22,8 +22,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Eme** | -738 CP | 10,728 | 438 | 32.4% |
 | ✅ | **Pisaly** | -698 CP | 224 | 0 | 25.0% |
+| ✅ | **Delta-2 Canis Minoris** | -617 CP | 7,030 | 0 | 30.1% |
 | ✅ | **LFT 601** | -540 CP | 1,793 | 0 | 26.3% |
 | ✅ | **Turni** | -487 CP | 1,759 | 30 | 26.3% |
 | ✅ | **Atat** | -450 CP | 4,527 | 0 | 28.4% |
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **HIP 37879** | +92,637 CP | 107.5% | 0 | 869 |
-| ✅ | **Kivah** | +311,308 CP | 104.0% | 41,666 | 311,484 |
+| ✅ | **Kivah** | +312,297 CP | 104.2% | 41,666 | 312,409 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -50,7 +50,7 @@
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
 | ⬆️ **HIP 37879** | 107.5% | stronghold | +92,637 | 869 | 0 |
-| ⬆️ **Kivah** | 104.0% | stronghold | +311,308 | 311,484 | 41,666 |
+| ⬆️ **Kivah** | 104.2% | stronghold | +312,297 | 312,409 | 41,666 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 2
@@ -66,7 +66,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 311,484 | 41,666 | 110.4% | 56.11% | 104.0% | 676,000 | +311,308 | 🟢 High Reinforcement |
+| ✅ | Kivah | 312,409 | 41,666 | 110.6% | 56.15% | 104.2% | 677,300 | +312,297 | 🟢 High Reinforcement |
 | ✅ | HIP 37879 | 869 | 0 | 107.5% | 93.25% | 107.5% | 698,750 | +92,637 | 🟢 High Reinforcement |
 | ✅ | Agarda | 14,889 | 25,837 | 50.3% | 44.10% | 46.3% | 300,950 | +14,290 | 🟢 High Reinforcement |
 
@@ -85,7 +85,7 @@
 | ✅ | Parapa | 2,711 | 31,450 | 53.7% | 48.52% | 48.9% | 317,850 | +2,479 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 2,709 | 2,389 | 27.6% | 26.86% | 27.2% | 176,800 | +2,217 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
-| ✅ | NLTT 21088 | 2,096 | 45,404 | 66.1% | 58.82% | 59.1% | 384,150 | +1,849 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 2,121 | 45,424 | 66.1% | 58.81% | 59.1% | 384,150 | +1,853 | 🔵 Low Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 1,978 | 13,021 | 36.9% | 34.68% | 34.9% | 226,849 | +1,439 | 🔵 Low Reinforcement |
 | ✅ | Namte | 1,474 | 41,479 | 62.6% | 55.99% | 56.2% | 365,300 | +1,333 | 🔵 Low Reinforcement |
