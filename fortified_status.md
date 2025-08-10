@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-10 12:03:52
-**Data Source:** 2025-08-10T12:03:52.499223
+**Report Generated:** 2025-08-10 13:11:02
+**Data Source:** 2025-08-10T13:11:02.769945
 **Total Fortified:** 129 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -89,6 +89,7 @@
 | ✅ | LHS 2037 | 2,155 | 2,389 | 27.5% | 26.85% | 27.1% | 176,150 | +1,646 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 1,978 | 12,897 | 36.9% | 34.66% | 34.9% | 226,849 | +1,542 | 🔵 Low Reinforcement |
 | ✅ | Namte | 1,361 | 41,479 | 62.6% | 56.01% | 56.2% | 365,300 | +1,240 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 1,339 | 23,455 | 46.3% | 42.54% | 42.7% | 277,550 | +1,014 | 🔵 Low Reinforcement |
 
 
 ---
