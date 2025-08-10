@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-10 06:03:33
-**Data Source:** 2025-08-10T06:03:33.351811
+**Report Generated:** 2025-08-10 07:02:40
+**Data Source:** 2025-08-10T07:02:40.686363
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -26,7 +26,7 @@
 | ✅ | **Asetsi** | -1,796 CP | 61,556 | 5 | 48.4% |
 | ✅ | **Rhea** | -1,721 CP | 61,458 | 0 | 48.4% |
 | ✅ | **Noti** | -1,308 CP | 50,041 | 143 | 44.0% |
-| ✅ | **HIP 50489** | -606 CP | 45,291 | 537 | 42.3% |
+| ✅ | **HIP 50489** | -590 CP | 45,291 | 557 | 42.3% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -76,8 +76,8 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Fousang | 12,302 | 89,583 | 69.3% | 59.35% | 60.3% | 603,000 | +9,503 | 🟡 Medium Reinforcement |
-| ✅ | Orishpucho | 11,686 | 80,125 | 64.6% | 55.69% | 56.6% | 566,000 | +9,149 | 🟡 Medium Reinforcement |
-| ✅ | LTT 3607 | 9,370 | 42,389 | 46.2% | 41.18% | 42.0% | 420,000 | +8,173 | 🟡 Medium Reinforcement |
+| ✅ | Orishpucho | 11,788 | 80,125 | 64.6% | 55.68% | 56.6% | 566,000 | +9,230 | 🟡 Medium Reinforcement |
+| ✅ | LTT 3607 | 9,843 | 42,394 | 46.2% | 41.15% | 42.0% | 420,000 | +8,547 | 🟡 Medium Reinforcement |
 | ✅ | Andel | 9,088 | 74,875 | 61.9% | 53.71% | 54.4% | 544,000 | +6,855 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
