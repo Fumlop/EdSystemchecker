@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-10 05:05:41
-**Data Source:** 2025-08-10T05:05:41.415123
+**Report Generated:** 2025-08-10 06:03:33
+**Data Source:** 2025-08-10T06:03:33.351811
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -76,8 +76,8 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Fousang | 12,302 | 89,583 | 69.3% | 59.35% | 60.3% | 603,000 | +9,503 | 🟡 Medium Reinforcement |
+| ✅ | Orishpucho | 11,686 | 80,125 | 64.6% | 55.69% | 56.6% | 566,000 | +9,149 | 🟡 Medium Reinforcement |
 | ✅ | LTT 3607 | 9,370 | 42,389 | 46.2% | 41.18% | 42.0% | 420,000 | +8,173 | 🟡 Medium Reinforcement |
-| ✅ | Orishpucho | 9,678 | 80,125 | 64.4% | 55.69% | 56.4% | 564,000 | +7,142 | 🟡 Medium Reinforcement |
 | ✅ | Andel | 9,088 | 74,875 | 61.9% | 53.71% | 54.4% | 544,000 | +6,855 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
