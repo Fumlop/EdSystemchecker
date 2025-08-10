@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-10 17:02:28
-**Data Source:** 2025-08-10T17:02:28.772069
+**Report Generated:** 2025-08-10 18:03:12
+**Data Source:** 2025-08-10T18:03:12.837636
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,8 +11,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **BD-01 1707** | +332,154 CP | 141,791 | 336,880 | 112.6% |
-| ✅ | **LHS 317** | +59,511 CP | 145,500 | 64,522 | 86.7% |
+| ✅ | **BD-01 1707** | +354,283 CP | 141,791 | 359,042 | 114.8% |
+| ✅ | **LHS 317** | +60,155 CP | 145,500 | 65,077 | 86.8% |
 | ✅ | **HIP 61632** | +41,000 CP | 0 | 44,908 | 29.1% |
 | ✅ | **LP 726-6** | +27,863 CP | 89,902 | 30,820 | 62.2% |
 | ✅ | **Carnoeck** | +25,883 CP | 21,767 | 26,211 | 35.9% |
@@ -33,8 +33,8 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **BD-01 1707** | +332,154 CP | 112.6% | 141,791 | 336,880 |
-| ✅ | **LHS 317** | +59,511 CP | 86.7% | 145,500 | 64,522 |
+| ✅ | **BD-01 1707** | +354,283 CP | 114.8% | 141,791 | 359,042 |
+| ✅ | **LHS 317** | +60,155 CP | 86.8% | 145,500 | 65,077 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -49,11 +49,11 @@
 
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
-| ⬆️ **BD-01 1707** | 112.6% | stronghold (already max) | +332,154 | 336,880 | 141,791 |
+| ⬆️ **BD-01 1707** | 114.8% | stronghold (already max) | +354,283 | 359,042 | 141,791 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 1
-- **Highest Progress**: 112.6%
+- **Highest Progress**: 114.8%
 - **Status Change**: Stronghold → Stronghold (Already Max)
 
 ---
@@ -65,8 +65,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | BD-01 1707 | 336,880 | 141,791 | 126.8% | 79.38% | 112.6% | 1,126,000 | +332,154 | 🟢 High Reinforcement |
-| ✅ | LHS 317 | 64,522 | 145,500 | 101.2% | 80.75% | 86.7% | 867,000 | +59,511 | 🟢 High Reinforcement |
+| ✅ | BD-01 1707 | 359,042 | 141,791 | 129.0% | 79.37% | 114.8% | 1,148,000 | +354,283 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 65,077 | 145,500 | 101.4% | 80.78% | 86.8% | 868,000 | +60,155 | 🟢 High Reinforcement |
 | ✅ | HIP 61632 | 44,908 | 0 | 29.1% | 25.00% | 29.1% | 291,000 | +41,000 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 30,820 | 89,902 | 71.2% | 59.41% | 62.2% | 622,000 | +27,863 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 26,211 | 21,767 | 38.1% | 33.31% | 35.9% | 359,000 | +25,883 | 🟢 High Reinforcement |
