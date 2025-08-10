@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-10 13:11:02
-**Data Source:** 2025-08-10T13:11:02.769945
+**Report Generated:** 2025-08-10 14:02:30
+**Data Source:** 2025-08-10T14:02:30.733521
 **Total Fortified:** 129 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +292,280 CP | 41,666 | 292,420 | 101.1% |
+| ✅ | **Kivah** | +310,368 CP | 41,666 | 310,484 | 103.9% |
 | ✅ | **HIP 37879** | +92,637 CP | 0 | 869 | 107.5% |
 | ✅ | **Agarda** | +13,541 CP | 25,837 | 14,119 | 46.2% |
 | ✅ | **Kharahua** | +7,071 CP | 9,710 | 8,044 | 33.0% |
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **HIP 37879** | +92,637 CP | 107.5% | 0 | 869 |
-| ✅ | **Kivah** | +292,280 CP | 101.1% | 41,666 | 292,420 |
+| ✅ | **Kivah** | +310,368 CP | 103.9% | 41,666 | 310,484 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -50,7 +50,7 @@
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
 | ⬆️ **HIP 37879** | 107.5% | stronghold | +92,637 | 869 | 0 |
-| ⬆️ **Kivah** | 101.1% | stronghold | +292,280 | 292,420 | 41,666 |
+| ⬆️ **Kivah** | 103.9% | stronghold | +310,368 | 310,484 | 41,666 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 2
@@ -66,7 +66,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 292,420 | 41,666 | 107.5% | 56.13% | 101.1% | 657,149 | +292,280 | 🟢 High Reinforcement |
+| ✅ | Kivah | 310,484 | 41,666 | 110.3% | 56.15% | 103.9% | 675,350 | +310,368 | 🟢 High Reinforcement |
 | ✅ | HIP 37879 | 869 | 0 | 107.5% | 93.25% | 107.5% | 698,750 | +92,637 | 🟢 High Reinforcement |
 | ✅ | Agarda | 14,119 | 25,837 | 50.2% | 44.12% | 46.2% | 300,300 | +13,541 | 🟢 High Reinforcement |
 
@@ -76,18 +76,18 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kharahua | 8,044 | 9,710 | 34.5% | 31.91% | 33.0% | 214,500 | +7,071 | 🟡 Medium Reinforcement |
 | ✅ | Umbrigua | 7,168 | 3,502 | 29.2% | 27.67% | 28.7% | 186,549 | +6,667 | 🟡 Medium Reinforcement |
-| ✅ | Ralu | 6,224 | 25,300 | 48.7% | 43.89% | 44.8% | 291,199 | +5,883 | 🟡 Medium Reinforcement |
+| ✅ | Ralu | 6,275 | 25,300 | 48.8% | 43.97% | 44.9% | 291,850 | +6,037 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Parapa | 2,711 | 31,450 | 53.7% | 48.52% | 48.9% | 317,850 | +2,479 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 2,709 | 2,389 | 27.6% | 26.86% | 27.2% | 176,800 | +2,217 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 2,096 | 45,404 | 66.1% | 58.82% | 59.1% | 384,150 | +1,849 | 🔵 Low Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 2,081 | 14,025 | 38.0% | 35.54% | 35.8% | 232,700 | +1,702 | 🔵 Low Reinforcement |
-| ✅ | LHS 2037 | 2,155 | 2,389 | 27.5% | 26.85% | 27.1% | 176,150 | +1,646 | 🔵 Low Reinforcement |
-| ✅ | Mbutsi | 1,978 | 12,897 | 36.9% | 34.66% | 34.9% | 226,849 | +1,542 | 🔵 Low Reinforcement |
+| ✅ | Mbutsi | 1,978 | 13,021 | 36.9% | 34.68% | 34.9% | 226,849 | +1,439 | 🔵 Low Reinforcement |
 | ✅ | Namte | 1,361 | 41,479 | 62.6% | 56.01% | 56.2% | 365,300 | +1,240 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 1,339 | 23,455 | 46.3% | 42.54% | 42.7% | 277,550 | +1,014 | 🔵 Low Reinforcement |
 
