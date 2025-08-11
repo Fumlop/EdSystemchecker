@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-11 06:04:11
-**Data Source:** 2025-08-11T06:04:11.596937
+**Report Generated:** 2025-08-11 07:05:42
+**Data Source:** 2025-08-11T07:05:42.799267
 **Total Fortified:** 130 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -24,9 +24,9 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Pisaly** | -698 CP | 224 | 0 | 25.0% |
 | ✅ | **Delta-2 Canis Minoris** | -617 CP | 7,030 | 0 | 30.1% |
-| ✅ | **Timbalderis** | -553 CP | 14,977 | 444 | 35.7% |
 | ✅ | **LFT 601** | -540 CP | 1,793 | 0 | 26.3% |
 | ✅ | **Turni** | -487 CP | 1,759 | 30 | 26.3% |
+| ✅ | **Atat** | -450 CP | 4,527 | 0 | 28.4% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -89,6 +89,7 @@
 | ✅ | LHS 2037 | 2,929 | 2,389 | 27.6% | 26.83% | 27.2% | 176,800 | +2,399 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 2,691 | 23,455 | 46.5% | 42.54% | 42.9% | 278,850 | +2,357 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
+| ✅ | Timbalderis | 2,984 | 15,263 | 38.3% | 35.75% | 36.0% | 234,000 | +1,649 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 1,983 | 13,021 | 36.9% | 34.68% | 34.9% | 226,849 | +1,443 | 🔵 Low Reinforcement |
 | ✅ | Namte | 1,474 | 41,479 | 62.6% | 55.99% | 56.2% | 365,300 | +1,333 | 🔵 Low Reinforcement |
 
