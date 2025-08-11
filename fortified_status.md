@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-11 01:31:21
-**Data Source:** 2025-08-11T01:31:21.211077
-**Total Fortified:** 130 (53 with decay analysis)
+**Report Generated:** 2025-08-11 02:42:32
+**Data Source:** 2025-08-11T02:42:32.360922
+**Total Fortified:** 131 (53 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -76,8 +76,8 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Umbrigua | 8,126 | 3,502 | 29.4% | 27.72% | 28.9% | 187,850 | +7,684 | 🟡 Medium Reinforcement |
+| ✅ | Parapa | 7,402 | 31,450 | 54.4% | 48.50% | 49.6% | 322,400 | +7,146 | 🟡 Medium Reinforcement |
 | ✅ | Kharahua | 8,044 | 9,710 | 34.5% | 31.91% | 33.0% | 214,500 | +7,071 | 🟡 Medium Reinforcement |
-| ✅ | Parapa | 7,098 | 31,450 | 54.4% | 48.54% | 49.6% | 322,400 | +6,894 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,474 | 25,300 | 48.8% | 43.95% | 44.9% | 291,850 | +6,202 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
