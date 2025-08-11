@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-11 18:03:39
-**Data Source:** 2025-08-11T18:03:39.177729
+**Report Generated:** 2025-08-11 19:03:42
+**Data Source:** 2025-08-11T19:03:42.342086
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -90,7 +90,7 @@
 | ✅ | LHS 2037 | 3,015 | 2,389 | 27.6% | 26.82% | 27.2% | 176,800 | +2,470 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 2,030 | 13,021 | 36.9% | 34.67% | 34.9% | 226,849 | +1,482 | 🔵 Low Reinforcement |
-| ✅ | Timbalderis | 2,984 | 15,513 | 38.4% | 35.78% | 36.0% | 234,000 | +1,442 | 🔵 Low Reinforcement |
+| ✅ | Timbalderis | 2,984 | 15,546 | 38.4% | 35.78% | 36.0% | 234,000 | +1,415 | 🔵 Low Reinforcement |
 | ✅ | Namte | 3,234 | 43,307 | 62.9% | 56.00% | 56.2% | 365,300 | +1,277 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 1,485 | 16,724 | 40.3% | 37.53% | 37.7% | 245,050 | +1,104 | 🔵 Low Reinforcement |
 
