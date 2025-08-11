@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-11 09:05:08
-**Data Source:** 2025-08-11T09:05:08.754911
+**Report Generated:** 2025-08-11 10:02:54
+**Data Source:** 2025-08-11T10:02:54.420457
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -87,8 +87,8 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Algorab | 4,670 | 57,430 | 52.9% | 46.92% | 47.2% | 472,000 | +2,824 | 🔵 Low Reinforcement |
+| ✅ | Inovik | 4,700 | 69,344 | 58.7% | 51.54% | 51.8% | 518,000 | +2,553 | 🔵 Low Reinforcement |
 | ✅ | Kaura | 2,639 | 25,250 | 37.4% | 34.68% | 34.9% | 349,000 | +2,249 | 🔵 Low Reinforcement |
-| ✅ | Inovik | 4,289 | 69,344 | 58.7% | 51.58% | 51.8% | 518,000 | +2,224 | 🔵 Low Reinforcement |
 | ✅ | Lulua | 2,836 | 44,708 | 46.8% | 42.13% | 42.3% | 423,000 | +1,698 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 1,364 | 11,875 | 30.8% | 29.47% | 29.6% | 296,000 | +1,289 | 🔵 Low Reinforcement |
 | ✅ | Karnarki | 949 | 9,250 | 29.5% | 28.50% | 28.6% | 286,000 | +1,049 | 🔵 Low Reinforcement |
