@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-11 07:05:42
-**Data Source:** 2025-08-11T07:05:42.800934
+**Report Generated:** 2025-08-11 08:03:53
+**Data Source:** 2025-08-11T08:03:53.009058
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -77,8 +77,8 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Fousang | 12,492 | 89,583 | 69.3% | 59.33% | 60.3% | 603,000 | +9,655 | 🟡 Medium Reinforcement |
-| ✅ | LTT 3607 | 10,594 | 42,430 | 46.3% | 41.17% | 42.1% | 421,000 | +9,319 | 🟡 Medium Reinforcement |
-| ✅ | NLTT 19808 | 8,380 | 19,708 | 35.3% | 32.49% | 33.3% | 332,999 | +8,059 | 🟡 Medium Reinforcement |
+| ✅ | LTT 3607 | 10,604 | 42,430 | 46.3% | 41.17% | 42.1% | 421,000 | +9,327 | 🟡 Medium Reinforcement |
+| ✅ | NLTT 19808 | 8,380 | 19,726 | 35.3% | 32.50% | 33.3% | 332,999 | +8,044 | 🟡 Medium Reinforcement |
 | ✅ | Andel | 9,788 | 74,901 | 61.9% | 53.66% | 54.4% | 544,000 | +7,394 | 🟡 Medium Reinforcement |
 | ✅ | Gurus | 9,533 | 71,541 | 60.3% | 52.37% | 53.1% | 531,000 | +7,268 | 🟡 Medium Reinforcement |
 
