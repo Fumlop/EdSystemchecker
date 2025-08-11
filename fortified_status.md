@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-11 14:03:56
-**Data Source:** 2025-08-11T14:03:56.841510
+**Report Generated:** 2025-08-11 15:03:08
+**Data Source:** 2025-08-11T15:03:08.006894
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -25,8 +25,8 @@
 | ✅ | **Pisaly** | -698 CP | 224 | 0 | 25.0% |
 | ✅ | **Delta-2 Canis Minoris** | -617 CP | 7,030 | 0 | 30.1% |
 | ✅ | **LFT 601** | -540 CP | 1,793 | 0 | 26.3% |
-| ✅ | **Turni** | -487 CP | 1,759 | 30 | 26.3% |
 | ✅ | **Atat** | -450 CP | 4,527 | 0 | 28.4% |
+| ✅ | **LTT 4716** | -438 CP | 3,023 | 0 | 27.3% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
