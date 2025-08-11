@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-11 21:02:55
-**Data Source:** 2025-08-11T21:02:55.371035
+**Report Generated:** 2025-08-11 22:02:36
+**Data Source:** 2025-08-11T22:02:36.854921
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **LHS 317** | +62,809 CP | 145,500 | 67,644 | 87.1% |
 | ✅ | **HIP 61632** | +41,000 CP | 0 | 44,908 | 29.1% |
 | ✅ | **LP 726-6** | +37,754 CP | 89,902 | 40,684 | 63.2% |
-| ✅ | **Carnoeck** | +26,182 CP | 21,767 | 26,585 | 35.9% |
+| ✅ | **Carnoeck** | +26,245 CP | 21,767 | 26,664 | 35.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -69,17 +69,17 @@
 | ✅ | LHS 317 | 67,644 | 145,500 | 101.6% | 80.82% | 87.1% | 871,000 | +62,809 | 🟢 High Reinforcement |
 | ✅ | HIP 61632 | 44,908 | 0 | 29.1% | 25.00% | 29.1% | 291,000 | +41,000 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 40,684 | 89,902 | 72.2% | 59.42% | 63.2% | 632,000 | +37,754 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 26,585 | 21,767 | 38.1% | 33.28% | 35.9% | 359,000 | +26,182 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 26,664 | 21,767 | 38.1% | 33.28% | 35.9% | 359,000 | +26,245 | 🟢 High Reinforcement |
 | ✅ | Orishpucho | 18,066 | 80,125 | 65.3% | 55.73% | 57.3% | 573,000 | +15,653 | 🟢 High Reinforcement |
+| ✅ | Kaura | 10,658 | 25,250 | 38.2% | 34.67% | 35.7% | 357,000 | +10,264 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kaura | 10,382 | 25,250 | 38.1% | 34.62% | 35.6% | 356,000 | +9,843 | 🟡 Medium Reinforcement |
 | ✅ | Fousang | 12,501 | 89,583 | 69.3% | 59.33% | 60.3% | 603,000 | +9,662 | 🟡 Medium Reinforcement |
 | ✅ | LTT 3607 | 10,809 | 42,430 | 46.3% | 41.15% | 42.1% | 421,000 | +9,491 | 🟡 Medium Reinforcement |
-| ✅ | NLTT 19808 | 9,622 | 19,762 | 35.4% | 32.48% | 33.4% | 333,999 | +9,209 | 🟡 Medium Reinforcement |
+| ✅ | NLTT 19808 | 9,647 | 19,762 | 35.4% | 32.48% | 33.4% | 333,999 | +9,229 | 🟡 Medium Reinforcement |
 | ✅ | Andel | 10,192 | 74,901 | 62.0% | 53.71% | 54.5% | 545,000 | +7,917 | 🟡 Medium Reinforcement |
 | ✅ | Gurus | 9,533 | 71,541 | 60.3% | 52.37% | 53.1% | 531,000 | +7,268 | 🟡 Medium Reinforcement |
 
