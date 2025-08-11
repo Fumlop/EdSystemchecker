@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-11 05:08:14
-**Data Source:** 2025-08-11T05:08:14.655729
+**Report Generated:** 2025-08-11 06:04:11
+**Data Source:** 2025-08-11T06:04:11.598529
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **BD-01 1707** | +394,646 CP | 141,791 | 399,496 | 118.8% |
+| ✅ | **BD-01 1707** | +399,522 CP | 141,791 | 404,341 | 119.3% |
 | ✅ | **LHS 317** | +62,103 CP | 145,500 | 67,012 | 87.0% |
 | ✅ | **HIP 61632** | +41,000 CP | 0 | 44,908 | 29.1% |
 | ✅ | **LP 726-6** | +37,438 CP | 89,902 | 40,289 | 63.2% |
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **BD-01 1707** | +394,646 CP | 118.8% | 141,791 | 399,496 |
+| ✅ | **BD-01 1707** | +399,522 CP | 119.3% | 141,791 | 404,341 |
 | ✅ | **LHS 317** | +62,103 CP | 87.0% | 145,500 | 67,012 |
 
 ### 🔴 **Low Progress Systems (<25%)**
@@ -49,11 +49,11 @@
 
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
-| ⬆️ **BD-01 1707** | 118.8% | stronghold (already max) | +394,646 | 399,496 | 141,791 |
+| ⬆️ **BD-01 1707** | 119.3% | stronghold (already max) | +399,522 | 404,341 | 141,791 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 1
-- **Highest Progress**: 118.8%
+- **Highest Progress**: 119.3%
 - **Status Change**: Stronghold → Stronghold (Already Max)
 
 ---
@@ -65,7 +65,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | BD-01 1707 | 399,496 | 141,791 | 133.0% | 79.34% | 118.8% | 1,188,000 | +394,646 | 🟢 High Reinforcement |
+| ✅ | BD-01 1707 | 404,341 | 141,791 | 133.5% | 79.35% | 119.3% | 1,193,000 | +399,522 | 🟢 High Reinforcement |
 | ✅ | LHS 317 | 67,012 | 145,500 | 101.6% | 80.79% | 87.0% | 870,000 | +62,103 | 🟢 High Reinforcement |
 | ✅ | HIP 61632 | 44,908 | 0 | 29.1% | 25.00% | 29.1% | 291,000 | +41,000 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 40,289 | 89,902 | 72.2% | 59.46% | 63.2% | 632,000 | +37,438 | 🟢 High Reinforcement |
