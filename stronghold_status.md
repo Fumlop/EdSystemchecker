@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-10 23:02:36
-**Data Source:** 2025-08-10T23:02:36.111713
+**Report Generated:** 2025-08-11 00:11:21
+**Data Source:** 2025-08-11T00:11:21.869786
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **LHS 317** | +60,351 CP | 145,500 | 65,322 | 86.8% |
 | ✅ | **HIP 61632** | +41,000 CP | 0 | 44,908 | 29.1% |
 | ✅ | **LP 726-6** | +36,150 CP | 89,902 | 39,179 | 63.0% |
-| ✅ | **Carnoeck** | +25,936 CP | 21,767 | 26,278 | 35.9% |
+| ✅ | **Carnoeck** | +26,046 CP | 21,767 | 26,416 | 35.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -69,7 +69,7 @@
 | ✅ | LHS 317 | 65,322 | 145,500 | 101.4% | 80.76% | 86.8% | 868,000 | +60,351 | 🟢 High Reinforcement |
 | ✅ | HIP 61632 | 44,908 | 0 | 29.1% | 25.00% | 29.1% | 291,000 | +41,000 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 39,179 | 89,902 | 72.0% | 59.39% | 63.0% | 630,000 | +36,150 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 26,278 | 21,767 | 38.1% | 33.31% | 35.9% | 359,000 | +25,936 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 26,416 | 21,767 | 38.1% | 33.30% | 35.9% | 359,000 | +26,046 | 🟢 High Reinforcement |
 | ✅ | Orishpucho | 14,326 | 80,125 | 64.9% | 55.71% | 56.9% | 569,000 | +11,861 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -86,7 +86,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Algorab | 4,488 | 57,430 | 52.9% | 46.93% | 47.2% | 472,000 | +2,679 | 🔵 Low Reinforcement |
+| ✅ | Algorab | 4,655 | 57,430 | 52.9% | 46.92% | 47.2% | 472,000 | +2,812 | 🔵 Low Reinforcement |
 | ✅ | Kaura | 2,639 | 25,250 | 37.4% | 34.68% | 34.9% | 349,000 | +2,249 | 🔵 Low Reinforcement |
 | ✅ | Inovik | 4,289 | 69,344 | 58.7% | 51.58% | 51.8% | 518,000 | +2,224 | 🔵 Low Reinforcement |
 | ✅ | Lulua | 2,836 | 44,708 | 46.8% | 42.13% | 42.3% | 423,000 | +1,698 | 🔵 Low Reinforcement |
