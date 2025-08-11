@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-11 16:02:56
-**Data Source:** 2025-08-11T16:02:56.035445
+**Report Generated:** 2025-08-11 17:04:15
+**Data Source:** 2025-08-11T17:04:15.359165
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -90,8 +90,8 @@
 | ✅ | 18 Puppis | 2,691 | 23,455 | 46.5% | 42.54% | 42.9% | 278,850 | +2,357 | 🔵 Low Reinforcement |
 | ✅ | Namte | 3,234 | 42,249 | 62.8% | 55.95% | 56.3% | 365,949 | +2,265 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
-| ✅ | Timbalderis | 2,984 | 15,313 | 38.4% | 35.75% | 36.0% | 234,000 | +1,607 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 2,030 | 13,021 | 36.9% | 34.67% | 34.9% | 226,849 | +1,482 | 🔵 Low Reinforcement |
+| ✅ | Timbalderis | 2,984 | 15,513 | 38.4% | 35.78% | 36.0% | 234,000 | +1,442 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 1,485 | 16,724 | 40.3% | 37.53% | 37.7% | 245,050 | +1,104 | 🔵 Low Reinforcement |
 
 
