@@ -1,12 +1,12 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-08-11 10:02:54
-**Data Source:** 2025-08-10T15:02:53.982809
+**Report Generated:** 2025-08-11 11:02:52
+**Data Source:** 2025-08-10T15:02:52.356125
 **Total Contested:** 1561 systems
-**Total Expansion:** 470 systems
+**Total Expansion:** 467 systems
 **Priority Acquisition Targets:** 1 of 4 systems are contested
 
-**Total Expansion:** 470 systems
+**Total Expansion:** 467 systems
 
 ## 📊 Quick Summary
 
@@ -679,7 +679,6 @@
 | 🔴 | Antliae Sector EB-X b1-4 | 0.2% | Aisling Duval (0.0%) |
 | 🔴 | Antliae Sector EG-Y d93 | 0.2% | Aisling Duval (3.2%), Arissa Lavigny-Duval (0.6%) |
 | 🔴 | Antliae Sector LX-U b2-4 | 0.2% | Aisling Duval (0.0%), Arissa Lavigny-Duval (0.0%) |
-| 🔴 | Antliae Sector MX-U b2-5 | 0.2% | Aisling Duval (0.3%), Arissa Lavigny-Duval (0.4%) |
 | 🔴 | Antliae Sector NX-U b2-6 | 0.2% | Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Antliae Sector OS-U c2-19 | 0.2% | Aisling Duval (0.2%), Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Askr | 0.2% | Edmund Mahon (0.0%), Nakato Kaine (0.1%) |
@@ -1356,6 +1355,7 @@
 | 🔴 | Hyades Sector EB-X d1-125 | 0.0% | Edmund Mahon (0.0%) |
 | 🔴 | Hyades Sector EB-X d1-126 | 0.0% | Edmund Mahon (47.6%) |
 | 🔴 | Hyades Sector EB-X d1-51 | 0.0% | Edmund Mahon (16.8%) |
+| 🔴 | Hyades Sector EB-X d1-68 | 0.0% | Edmund Mahon (0.0%), Li Yong-Rui (5.1%) |
 | 🔴 | Hyades Sector EM-K b9-5 | 0.0% | Aisling Duval (0.0%) |
 | 🔴 | Hyades Sector EW-L b8-6 | 0.0% | Aisling Duval (2.5%), Zemina Torval (0.2%) |
 | 🔴 | Hyades Sector FH-K b9-5 | 0.0% | Aisling Duval (0.0%) |
@@ -1613,7 +1613,6 @@
 | 🔵 | HIP 37233 | 64.4% |
 | 🔵 | Beliukis | 55.5% |
 | 🔵 | Antliae Sector IW-W b1-3 | 46.1% |
-| 🔵 | Col 285 Sector YE-P c6-12 | 41.9% |
 | 🔵 | Antliae Sector EG-Y d95 | 40.8% |
 | 🔵 | Antliae Sector MC-V b2-1 | 39.9% |
 | 🔵 | Kokarwang | 39.4% |
@@ -1657,7 +1656,6 @@
 | 🔵 | HIP 48680 | 8.8% |
 | 🔵 | HIP 44291 | 8.7% |
 | 🔵 | Kinnara | 7.5% |
-| 🔵 | SPOCS 458 | 7.5% |
 | 🔵 | BD-08 2963 | 7.2% |
 | 🔵 | Hesa | 6.5% |
 | 🔵 | Gliese 9287 | 6.0% |
@@ -1708,6 +1706,7 @@
 | 🔵 | HIP 61716 | 1.9% |
 | 🔵 | Khwal | 1.9% |
 | 🔵 | Antliae Sector BG-X b1-2 | 1.8% |
+| 🔵 | Col 285 Sector LI-O b21-0 | 1.8% |
 | 🔵 | Hyades Sector AG-M b8-1 | 1.8% |
 | 🔵 | Col 285 Sector EW-A b15-1 | 1.7% |
 | 🔵 | Col 285 Sector VO-E b13-0 | 1.7% |
@@ -1954,7 +1953,6 @@
 | 🔵 | Col 285 Sector LR-J b10-4 | 0.0% |
 | 🔵 | Col 285 Sector NK-A b16-2 | 0.0% |
 | 🔵 | Col 285 Sector NM-J b10-2 | 0.0% |
-| 🔵 | Col 285 Sector OI-R c5-13 | 0.0% |
 | 🔵 | Col 285 Sector OK-A b16-2 | 0.0% |
 | 🔵 | Col 285 Sector OS-T d3-122 | 0.0% |
 | 🔵 | Col 285 Sector OS-T d3-65 | 0.0% |
@@ -2031,7 +2029,6 @@
 | 🔵 | HIP 64128 | 0.0% |
 | 🔵 | HIP 64134 | 0.0% |
 | 🔵 | HIP 65363 | 0.0% |
-| 🔵 | HIP 66593 | 0.0% |
 | 🔵 | HIP 66655 | 0.0% |
 | 🔵 | HIP 66974 | 0.0% |
 | 🔵 | HIP 67195 | 0.0% |
