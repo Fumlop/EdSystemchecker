@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-12 13:12:49
-**Data Source:** 2025-08-12T13:12:49.184322
+**Report Generated:** 2025-08-12 14:03:01
+**Data Source:** 2025-08-12T14:03:01.578982
 **Total Fortified:** 133 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -22,11 +22,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Yaricans** | -928 CP | 15,472 | 486 | 35.7% |
 | ✅ | **Pisaly** | -698 CP | 224 | 0 | 25.0% |
 | ✅ | **Delta-2 Canis Minoris** | -617 CP | 7,030 | 0 | 30.1% |
 | ✅ | **LFT 601** | -540 CP | 1,793 | 0 | 26.3% |
 | ✅ | **Atat** | -450 CP | 4,527 | 0 | 28.4% |
-| ✅ | **Tau Centauri** | -441 CP | 19,271 | 0 | 39.3% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -79,9 +79,9 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Parapa | 10,110 | 31,450 | 54.8% | 48.49% | 50.0% | 325,000 | +9,835 | 🟡 Medium Reinforcement |
+| ✅ | Timbalderis | 10,472 | 16,427 | 39.5% | 35.77% | 37.0% | 240,500 | +8,003 | 🟡 Medium Reinforcement |
 | ✅ | Umbrigua | 8,171 | 3,502 | 29.4% | 27.71% | 28.9% | 187,850 | +7,721 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,541 | 25,300 | 48.8% | 43.94% | 44.9% | 291,850 | +6,257 | 🟡 Medium Reinforcement |
-| ✅ | Timbalderis | 8,210 | 16,427 | 39.1% | 35.73% | 36.6% | 237,900 | +5,683 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
