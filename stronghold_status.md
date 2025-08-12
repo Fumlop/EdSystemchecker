@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-12 05:03:18
-**Data Source:** 2025-08-12T05:03:18.118164
+**Report Generated:** 2025-08-12 06:03:45
+**Data Source:** 2025-08-12T06:03:45.119945
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -26,7 +26,7 @@
 | ✅ | **Rhea** | -1,721 CP | 61,458 | 0 | 48.4% |
 | ✅ | **Noti** | -1,219 CP | 50,041 | 254 | 44.0% |
 | ✅ | **HIP 50489** | -494 CP | 45,291 | 677 | 42.3% |
-| ✅ | **Siki** | -112 CP | 15,083 | 59 | 30.7% |
+| ✅ | **Siki** | -286 CP | 15,301 | 59 | 30.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
