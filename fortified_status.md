@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-12 10:02:58
-**Data Source:** 2025-08-12T10:02:58.290338
+**Report Generated:** 2025-08-12 11:02:50
+**Data Source:** 2025-08-12T11:02:50.454346
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +312,297 CP | 41,666 | 312,409 | 104.2% |
+| ✅ | **Kivah** | +312,301 CP | 41,666 | 312,414 | 104.2% |
 | ✅ | **HIP 37879** | +93,392 CP | 0 | 1,646 | 107.6% |
 | ✅ | **HR 3277** | +31,966 CP | 9,173 | 32,442 | 36.8% |
 | ✅ | **Crucis Sector PC-V a2-1** | +22,332 CP | 14,025 | 22,675 | 39.0% |
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **HIP 37879** | +93,392 CP | 107.6% | 0 | 1,646 |
-| ✅ | **Kivah** | +312,297 CP | 104.2% | 41,666 | 312,409 |
+| ✅ | **Kivah** | +312,301 CP | 104.2% | 41,666 | 312,414 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -50,7 +50,7 @@
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
 | ⬆️ **HIP 37879** | 107.6% | stronghold | +93,392 | 1,646 | 0 |
-| ⬆️ **Kivah** | 104.2% | stronghold | +312,297 | 312,409 | 41,666 |
+| ⬆️ **Kivah** | 104.2% | stronghold | +312,301 | 312,414 | 41,666 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 2
@@ -66,7 +66,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 312,409 | 41,666 | 110.6% | 56.15% | 104.2% | 677,300 | +312,297 | 🟢 High Reinforcement |
+| ✅ | Kivah | 312,414 | 41,666 | 110.6% | 56.15% | 104.2% | 677,300 | +312,301 | 🟢 High Reinforcement |
 | ✅ | HIP 37879 | 1,646 | 0 | 107.6% | 93.23% | 107.6% | 699,399 | +93,392 | 🟢 High Reinforcement |
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 22,675 | 14,025 | 41.2% | 35.56% | 39.0% | 253,500 | +22,332 | 🟢 High Reinforcement |
