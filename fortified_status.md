@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-12 08:03:38
-**Data Source:** 2025-08-12T08:03:38.231268
-**Total Fortified:** 133 (53 with decay analysis)
+**Report Generated:** 2025-08-12 09:03:53
+**Data Source:** 2025-08-12T09:03:53.316640
+**Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -90,7 +90,7 @@
 | ✅ | LHS 2037 | 3,424 | 2,389 | 27.7% | 26.85% | 27.3% | 177,450 | +2,921 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 3,151 | 23,455 | 46.6% | 42.56% | 43.0% | 279,500 | +2,850 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 2,866 | 34,901 | 56.9% | 51.09% | 51.5% | 334,750 | +2,664 | 🔵 Low Reinforcement |
-| ✅ | Timbalderis | 4,939 | 16,322 | 38.7% | 35.80% | 36.2% | 235,300 | +2,615 | 🔵 Low Reinforcement |
+| ✅ | Timbalderis | 4,939 | 16,342 | 38.7% | 35.80% | 36.2% | 235,300 | +2,598 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 3,079 | 13,039 | 37.1% | 34.71% | 35.1% | 228,150 | +2,560 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 1,485 | 16,724 | 40.3% | 37.53% | 37.7% | 245,050 | +1,104 | 🔵 Low Reinforcement |
