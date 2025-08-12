@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-12 11:02:50
-**Data Source:** 2025-08-12T11:02:50.456000
+**Report Generated:** 2025-08-12 12:04:13
+**Data Source:** 2025-08-12T12:04:13.344422
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -25,7 +25,7 @@
 | ✅ | **Asetsi** | -1,796 CP | 61,556 | 5 | 48.4% |
 | ✅ | **Rhea** | -1,721 CP | 61,458 | 0 | 48.4% |
 | ✅ | **Noti** | -1,219 CP | 50,041 | 254 | 44.0% |
-| ✅ | **HIP 50489** | -494 CP | 45,291 | 677 | 42.3% |
+| ✅ | **HIP 50489** | -486 CP | 45,291 | 687 | 42.3% |
 | ✅ | **Siki** | -286 CP | 15,301 | 59 | 30.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
@@ -88,9 +88,9 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Algorab | 5,369 | 57,430 | 53.0% | 46.94% | 47.3% | 473,000 | +3,584 | 🔵 Low Reinforcement |
+| ✅ | Neche | 2,410 | 7,254 | 28.7% | 27.74% | 28.0% | 280,000 | +2,609 | 🔵 Low Reinforcement |
 | ✅ | Inovik | 4,705 | 69,344 | 58.7% | 51.54% | 51.8% | 518,000 | +2,557 | 🔵 Low Reinforcement |
-| ✅ | Corbenic | 2,172 | 11,875 | 30.9% | 29.49% | 29.7% | 297,000 | +2,136 | 🔵 Low Reinforcement |
-| ✅ | Neche | 1,841 | 7,254 | 28.6% | 27.70% | 27.9% | 278,999 | +1,954 | 🔵 Low Reinforcement |
+| ✅ | Corbenic | 2,172 | 12,072 | 30.9% | 29.50% | 29.7% | 297,000 | +1,978 | 🔵 Low Reinforcement |
 | ✅ | Lulua | 3,146 | 44,708 | 46.8% | 42.11% | 42.3% | 423,000 | +1,946 | 🔵 Low Reinforcement |
 | ✅ | LHS 1928 | 3,208 | 57,125 | 52.7% | 46.85% | 47.0% | 470,000 | +1,498 | 🔵 Low Reinforcement |
 | ✅ | Karnarki | 959 | 9,250 | 29.5% | 28.49% | 28.6% | 286,000 | +1,057 | 🔵 Low Reinforcement |
