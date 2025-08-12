@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-12 02:33:01
-**Data Source:** 2025-08-12T02:33:01.293998
+**Report Generated:** 2025-08-12 03:24:35
+**Data Source:** 2025-08-12T03:24:35.478228
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -70,8 +70,8 @@
 | ✅ | HIP 61632 | 44,908 | 0 | 29.1% | 25.00% | 29.1% | 291,000 | +41,000 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 43,586 | 89,902 | 72.5% | 59.43% | 63.5% | 635,000 | +40,676 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 28,311 | 21,767 | 38.3% | 33.30% | 36.1% | 361,000 | +27,963 | 🟢 High Reinforcement |
+| ✅ | Kaura | 20,348 | 25,250 | 39.1% | 34.62% | 36.6% | 366,000 | +19,816 | 🟢 High Reinforcement |
 | ✅ | Orishpucho | 18,066 | 80,125 | 65.3% | 55.73% | 57.3% | 573,000 | +15,653 | 🟢 High Reinforcement |
-| ✅ | Kaura | 10,658 | 25,250 | 38.2% | 34.67% | 35.7% | 357,000 | +10,264 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -91,7 +91,7 @@
 | ✅ | Inovik | 4,705 | 69,344 | 58.7% | 51.54% | 51.8% | 518,000 | +2,557 | 🔵 Low Reinforcement |
 | ✅ | Lulua | 2,836 | 44,708 | 46.8% | 42.13% | 42.3% | 423,000 | +1,698 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 1,596 | 11,875 | 30.9% | 29.53% | 29.7% | 297,000 | +1,675 | 🔵 Low Reinforcement |
-| ✅ | LHS 1928 | 2,821 | 57,125 | 52.7% | 46.88% | 47.0% | 470,000 | +1,189 | 🔵 Low Reinforcement |
+| ✅ | LHS 1928 | 3,193 | 57,125 | 52.7% | 46.85% | 47.0% | 470,000 | +1,486 | 🔵 Low Reinforcement |
 | ✅ | Karnarki | 959 | 9,250 | 29.5% | 28.49% | 28.6% | 286,000 | +1,057 | 🔵 Low Reinforcement |
 | ✅ | Neche | 907 | 7,254 | 28.5% | 27.70% | 27.8% | 278,000 | +1,007 | 🔵 Low Reinforcement |
 
