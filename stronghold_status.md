@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-12 12:04:13
-**Data Source:** 2025-08-12T12:04:13.344422
+**Report Generated:** 2025-08-12 13:12:49
+**Data Source:** 2025-08-12T13:12:49.185975
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **BD-01 1707** | +485,557 CP | 141,791 | 490,385 | 127.9% |
+| ✅ | **BD-01 1707** | +511,206 CP | 141,791 | 515,946 | 130.5% |
 | ✅ | **LHS 317** | +64,009 CP | 145,500 | 68,895 | 87.2% |
 | ✅ | **HIP 61632** | +41,000 CP | 0 | 44,908 | 29.1% |
 | ✅ | **LP 726-6** | +40,676 CP | 89,902 | 43,586 | 63.5% |
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **BD-01 1707** | +485,557 CP | 127.9% | 141,791 | 490,385 |
+| ✅ | **BD-01 1707** | +511,206 CP | 130.5% | 141,791 | 515,946 |
 | ✅ | **LHS 317** | +64,009 CP | 87.2% | 145,500 | 68,895 |
 
 ### 🔴 **Low Progress Systems (<25%)**
@@ -49,11 +49,11 @@
 
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
-| 🚀 **BD-01 1707** | 127.9% | stronghold (already max) | +485,557 | 490,385 | 141,791 |
+| 🚀 **BD-01 1707** | 130.5% | stronghold (already max) | +511,206 | 515,946 | 141,791 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 1
-- **Highest Progress**: 127.9%
+- **Highest Progress**: 130.5%
 - **Status Change**: Stronghold → Stronghold (Already Max)
 
 ---
@@ -65,7 +65,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | BD-01 1707 | 490,385 | 141,791 | 142.1% | 79.34% | 127.9% | 1,279,000 | +485,557 | 🟢 High Reinforcement |
+| ✅ | BD-01 1707 | 515,946 | 141,791 | 144.7% | 79.38% | 130.5% | 1,305,000 | +511,206 | 🟢 High Reinforcement |
 | ✅ | LHS 317 | 68,895 | 145,500 | 101.8% | 80.80% | 87.2% | 872,000 | +64,009 | 🟢 High Reinforcement |
 | ✅ | HIP 61632 | 44,908 | 0 | 29.1% | 25.00% | 29.1% | 291,000 | +41,000 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 43,586 | 89,902 | 72.5% | 59.43% | 63.5% | 635,000 | +40,676 | 🟢 High Reinforcement |
@@ -87,12 +87,12 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Algorab | 5,369 | 57,430 | 53.0% | 46.94% | 47.3% | 473,000 | +3,584 | 🔵 Low Reinforcement |
+| ✅ | Algorab | 6,414 | 57,430 | 53.1% | 46.94% | 47.4% | 474,000 | +4,620 | 🔵 Low Reinforcement |
 | ✅ | Neche | 2,410 | 7,254 | 28.7% | 27.74% | 28.0% | 280,000 | +2,609 | 🔵 Low Reinforcement |
 | ✅ | Inovik | 4,705 | 69,344 | 58.7% | 51.54% | 51.8% | 518,000 | +2,557 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 2,172 | 12,072 | 30.9% | 29.50% | 29.7% | 297,000 | +1,978 | 🔵 Low Reinforcement |
 | ✅ | Lulua | 3,146 | 44,708 | 46.8% | 42.11% | 42.3% | 423,000 | +1,946 | 🔵 Low Reinforcement |
-| ✅ | LHS 1928 | 3,208 | 57,125 | 52.7% | 46.85% | 47.0% | 470,000 | +1,498 | 🔵 Low Reinforcement |
+| ✅ | LHS 1928 | 3,262 | 57,125 | 52.7% | 46.85% | 47.0% | 470,000 | +1,541 | 🔵 Low Reinforcement |
 | ✅ | Karnarki | 959 | 9,250 | 29.5% | 28.49% | 28.6% | 286,000 | +1,057 | 🔵 Low Reinforcement |
 
 

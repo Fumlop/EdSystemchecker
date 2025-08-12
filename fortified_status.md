@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-12 12:04:13
-**Data Source:** 2025-08-12T12:04:13.342710
-**Total Fortified:** 132 (53 with decay analysis)
+**Report Generated:** 2025-08-12 13:12:49
+**Data Source:** 2025-08-12T13:12:49.184322
+**Total Fortified:** 133 (53 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -81,6 +81,7 @@
 | ✅ | Parapa | 10,110 | 31,450 | 54.8% | 48.49% | 50.0% | 325,000 | +9,835 | 🟡 Medium Reinforcement |
 | ✅ | Umbrigua | 8,171 | 3,502 | 29.4% | 27.71% | 28.9% | 187,850 | +7,721 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,541 | 25,300 | 48.8% | 43.94% | 44.9% | 291,850 | +6,257 | 🟡 Medium Reinforcement |
+| ✅ | Timbalderis | 8,210 | 16,427 | 39.1% | 35.73% | 36.6% | 237,900 | +5,683 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
@@ -90,7 +91,6 @@
 | ✅ | LHS 2037 | 3,424 | 2,389 | 27.7% | 26.85% | 27.3% | 177,450 | +2,921 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 3,151 | 23,455 | 46.6% | 42.56% | 43.0% | 279,500 | +2,850 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 2,866 | 34,901 | 56.9% | 51.09% | 51.5% | 334,750 | +2,664 | 🔵 Low Reinforcement |
-| ✅ | Timbalderis | 4,971 | 16,342 | 38.7% | 35.80% | 36.2% | 235,300 | +2,624 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 3,079 | 13,039 | 37.1% | 34.71% | 35.1% | 228,150 | +2,560 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 1,485 | 16,724 | 40.3% | 37.53% | 37.7% | 245,050 | +1,104 | 🔵 Low Reinforcement |
