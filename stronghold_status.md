@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-12 15:02:59
-**Data Source:** 2025-08-12T15:02:59.209377
+**Report Generated:** 2025-08-12 16:03:04
+**Data Source:** 2025-08-12T16:03:04.048997
 **Total Stronghold:** 54 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **LHS 317** | +64,061 CP | 145,500 | 68,960 | 87.2% |
 | ✅ | **HIP 61632** | +41,000 CP | 0 | 44,908 | 29.1% |
 | ✅ | **LP 726-6** | +40,676 CP | 89,902 | 43,586 | 63.5% |
-| ✅ | **Carnoeck** | +28,174 CP | 21,778 | 28,586 | 36.1% |
+| ✅ | **Carnoeck** | +28,239 CP | 21,778 | 28,668 | 36.1% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -69,7 +69,7 @@
 | ✅ | LHS 317 | 68,960 | 145,500 | 101.8% | 80.79% | 87.2% | 872,000 | +64,061 | 🟢 High Reinforcement |
 | ✅ | HIP 61632 | 44,908 | 0 | 29.1% | 25.00% | 29.1% | 291,000 | +41,000 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 43,586 | 89,902 | 72.5% | 59.43% | 63.5% | 635,000 | +40,676 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 28,586 | 21,778 | 38.3% | 33.28% | 36.1% | 361,000 | +28,174 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 28,668 | 21,778 | 38.3% | 33.28% | 36.1% | 361,000 | +28,239 | 🟢 High Reinforcement |
 | ✅ | Kaura | 20,373 | 25,250 | 39.1% | 34.62% | 36.6% | 366,000 | +19,836 | 🟢 High Reinforcement |
 | ✅ | Orishpucho | 18,121 | 80,125 | 65.3% | 55.73% | 57.3% | 573,000 | +15,697 | 🟢 High Reinforcement |
 
