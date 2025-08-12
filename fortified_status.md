@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-12 00:10:11
-**Data Source:** 2025-08-12T00:10:11.652886
+**Report Generated:** 2025-08-12 01:30:32
+**Data Source:** 2025-08-12T01:30:32.598421
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **HIP 37879** | +93,392 CP | 0 | 1,646 | 107.6% |
 | ✅ | **HR 3277** | +31,966 CP | 9,173 | 32,442 | 36.8% |
 | ✅ | **Crucis Sector PC-V a2-1** | +22,332 CP | 14,025 | 22,675 | 39.0% |
-| ✅ | **Agarda** | +15,181 CP | 25,837 | 15,695 | 46.5% |
+| ✅ | **Kharahua** | +17,807 CP | 9,710 | 18,714 | 34.7% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -70,6 +70,7 @@
 | ✅ | HIP 37879 | 1,646 | 0 | 107.6% | 93.23% | 107.6% | 699,399 | +93,392 | 🟢 High Reinforcement |
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 22,675 | 14,025 | 41.2% | 35.56% | 39.0% | 253,500 | +22,332 | 🟢 High Reinforcement |
+| ✅ | Kharahua | 18,714 | 9,710 | 36.2% | 31.96% | 34.7% | 225,550 | +17,807 | 🟢 High Reinforcement |
 | ✅ | Agarda | 15,695 | 25,837 | 50.5% | 44.16% | 46.5% | 302,250 | +15,181 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -78,7 +79,6 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Parapa | 9,114 | 31,450 | 54.7% | 48.53% | 49.9% | 324,350 | +8,899 | 🟡 Medium Reinforcement |
 | ✅ | Umbrigua | 8,171 | 3,502 | 29.4% | 27.71% | 28.9% | 187,850 | +7,721 | 🟡 Medium Reinforcement |
-| ✅ | Kharahua | 8,044 | 9,710 | 34.5% | 31.91% | 33.0% | 214,500 | +7,071 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,541 | 25,300 | 48.8% | 43.94% | 44.9% | 291,850 | +6,257 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
