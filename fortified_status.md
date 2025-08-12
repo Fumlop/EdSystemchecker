@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-12 17:03:28
-**Data Source:** 2025-08-12T17:03:28.643118
+**Report Generated:** 2025-08-12 18:03:47
+**Data Source:** 2025-08-12T18:03:46.909204
 **Total Fortified:** 132 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -14,7 +14,7 @@
 | ✅ | **Kivah** | +312,301 CP | 41,666 | 312,414 | 104.2% |
 | ✅ | **HR 3277** | +31,966 CP | 9,173 | 32,442 | 36.8% |
 | ✅ | **Crucis Sector PC-V a2-1** | +22,332 CP | 14,025 | 22,675 | 39.0% |
-| ✅ | **Timbalderis** | +20,182 CP | 16,427 | 22,615 | 38.9% |
+| ✅ | **Timbalderis** | +21,575 CP | 16,427 | 24,028 | 39.1% |
 | ✅ | **Kharahua** | +17,807 CP | 9,710 | 18,714 | 34.7% |
 
 ### 🔴 **Most Threatened Systems**
@@ -67,10 +67,10 @@
 | ✅ | Kivah | 312,414 | 41,666 | 110.6% | 56.15% | 104.2% | 677,300 | +312,301 | 🟢 High Reinforcement |
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 22,675 | 14,025 | 41.2% | 35.56% | 39.0% | 253,500 | +22,332 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 22,615 | 16,427 | 41.4% | 35.80% | 38.9% | 252,850 | +20,182 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 24,028 | 16,427 | 41.6% | 35.78% | 39.1% | 254,150 | +21,575 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 18,714 | 9,710 | 36.2% | 31.96% | 34.7% | 225,550 | +17,807 | 🟢 High Reinforcement |
 | ✅ | Agarda | 15,695 | 25,837 | 50.5% | 44.16% | 46.5% | 302,250 | +15,181 | 🟢 High Reinforcement |
-| ✅ | Parapa | 12,824 | 31,450 | 55.3% | 48.56% | 50.5% | 328,250 | +12,641 | 🟢 High Reinforcement |
+| ✅ | Parapa | 13,562 | 31,450 | 55.4% | 48.54% | 50.6% | 328,900 | +13,364 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -84,7 +84,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | NLTT 21088 | 3,493 | 45,424 | 66.3% | 58.81% | 59.3% | 385,450 | +3,213 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 3,498 | 45,424 | 66.3% | 58.81% | 59.3% | 385,450 | +3,217 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 3,424 | 2,389 | 27.7% | 26.85% | 27.3% | 177,450 | +2,921 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 3,151 | 23,637 | 46.6% | 42.58% | 43.0% | 279,500 | +2,699 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 2,866 | 34,901 | 56.9% | 51.09% | 51.5% | 334,750 | +2,664 | 🔵 Low Reinforcement |
