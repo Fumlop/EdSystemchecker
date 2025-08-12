@@ -1,12 +1,12 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-08-12 14:03:01
-**Data Source:** 2025-08-11T14:03:01.134234
-**Total Contested:** 1595 systems
-**Total Expansion:** 502 systems
+**Report Generated:** 2025-08-12 15:02:59
+**Data Source:** 2025-08-10T15:02:58.740073
+**Total Contested:** 1593 systems
+**Total Expansion:** 507 systems
 **Priority Acquisition Targets:** 0 of 4 systems are contested
 
-**Total Expansion:** 502 systems
+**Total Expansion:** 507 systems
 
 ## 📊 Quick Summary
 
@@ -17,7 +17,7 @@
 | 🔒 | NLTT 26813 | 🟢 **154.0%** | 68.4% | Aisling Duval (68.4%), Edmund Mahon (2.9%), Nakato Kaine (3.8%), Yuri Grom (0.1%) |
 | 🔒 | V419 Hydrae | 🟢 **144.7%** | 20.1% | Aisling Duval (20.1%), Edmund Mahon (13.0%), Nakato Kaine (1.0%), Yuri Grom (0.1%), Zemina Torval (0.0%) |
 | 🔒 | Puppis Sector DQ-Y b4 | 🟢 **118.4%** | 5.3% | Aisling Duval (5.3%), Li Yong-Rui (0.0%) |
-| ⚔ | Col 285 Sector HR-A b15-1 | 🟢 **98.7%** | 30.0% | Arissa Lavigny-Duval (11.5%), Zemina Torval (30.0%) |
+| ⚔ | Col 285 Sector HR-A b15-1 | 🟢 **98.7%** | 30.0% | Arissa Lavigny-Duval (11.6%), Zemina Torval (30.0%) |
 | ⚔ | Hydrae Sector DQ-Y b1 | 🟢 **73.6%** | 0.0% | Nakato Kaine (0.0%) |
 | ⚔ | Alacarakmo | 🟢 **71.0%** | 0.0% | Edmund Mahon (0.0%) |
 | ⚔ | Col 285 Sector RY-H c10-7 | 🟢 **70.5%** | 0.8% | Aisling Duval (0.8%), Arissa Lavigny-Duval (0.0%) |
@@ -46,7 +46,7 @@
 | 🟢 | NLTT 26813 | 154.0% | Aisling Duval (68.4%), Edmund Mahon (2.9%), Nakato Kaine (3.8%), Yuri Grom (0.1%) |
 | 🟢 | V419 Hydrae | 144.7% | Aisling Duval (20.1%), Edmund Mahon (13.0%), Nakato Kaine (1.0%), Yuri Grom (0.1%), Zemina Torval (0.0%) |
 | 🟢 | Puppis Sector DQ-Y b4 | 118.4% | Aisling Duval (5.3%), Li Yong-Rui (0.0%) |
-| 🟢 | Col 285 Sector HR-A b15-1 | 98.7% | Arissa Lavigny-Duval (11.5%), Zemina Torval (30.0%) |
+| 🟢 | Col 285 Sector HR-A b15-1 | 98.7% | Arissa Lavigny-Duval (11.6%), Zemina Torval (30.0%) |
 | 🟡 | Hydrae Sector DQ-Y b1 | 73.6% | Nakato Kaine (0.0%) |
 | 🟡 | Alacarakmo | 71.0% | Edmund Mahon (0.0%) |
 | 🟡 | Col 285 Sector RY-H c10-7 | 70.5% | Aisling Duval (0.8%), Arissa Lavigny-Duval (0.0%) |
@@ -136,7 +136,7 @@
 | 🔴 | Yorundi | 10.2% | Arissa Lavigny-Duval (70.3%), Yuri Grom (0.0%), Zemina Torval (2.6%) |
 | 🔴 | Puppis Sector PI-T b3-5 | 10.0% | Aisling Duval (0.2%), Arissa Lavigny-Duval (2.7%), Edmund Mahon (0.0%), Yuri Grom (3.4%), Zemina Torval (0.0%) |
 | 🔴 | LTT 5419 | 9.8% | Edmund Mahon (3.1%), Jerome Archer (8.0%), Nakato Kaine (0.0%), Yuri Grom (5.7%) |
-| 🔴 | Kaun | 9.6% | Arissa Lavigny-Duval (48.9%), Zemina Torval (0.0%) |
+| 🔴 | Kaun | 9.6% | Arissa Lavigny-Duval (49.1%), Zemina Torval (0.0%) |
 | 🔴 | HIP 51568 | 9.5% | Aisling Duval (6.1%), Arissa Lavigny-Duval (37.0%), Nakato Kaine (4.4%) |
 | 🔴 | HIP 30220 | 9.3% | Aisling Duval (3.6%), Edmund Mahon (0.0%), Li Yong-Rui (2.7%) |
 | 🔴 | Yenic | 9.3% | Aisling Duval (0.7%), Nakato Kaine (30.5%) |
@@ -179,6 +179,7 @@
 | 🔴 | LP 782-16 | 6.3% | Aisling Duval (0.0%), Arissa Lavigny-Duval (3.2%), Zemina Torval (0.0%) |
 | 🔴 | Puppis Sector IR-W c1-15 | 6.3% | Aisling Duval (71.1%), Arissa Lavigny-Duval (135.5%), Denton Patreus (0.0%), Edmund Mahon (12.8%), Yuri Grom (0.1%), Zemina Torval (0.2%) |
 | 🔴 | LHS 253 | 6.2% | Denton Patreus (0.0%), Edmund Mahon (0.0%), Jerome Archer (2.2%), Li Yong-Rui (0.6%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
+| 🔴 | Maghiri | 6.2% | Arissa Lavigny-Duval (0.9%), Zemina Torval (8.6%) |
 | 🔴 | Privoro | 6.2% | Edmund Mahon (0.5%), Nakato Kaine (0.8%) |
 | 🔴 | BD+05 2131 | 6.1% | Edmund Mahon (0.0%) |
 | 🔴 | Crucis Sector GR-V b2-5 | 6.1% | Arissa Lavigny-Duval (0.0%), Nakato Kaine (0.0%) |
@@ -187,7 +188,6 @@
 | 🔴 | Ormt | 6.1% | Aisling Duval (3.3%), Arissa Lavigny-Duval (0.2%), Nakato Kaine (1.3%), Yuri Grom (30.0%) |
 | 🔴 | Thor | 6.1% | Edmund Mahon (0.0%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
 | 🔴 | HIP 36081 | 6.0% | Aisling Duval (0.3%), Zemina Torval (5.2%) |
-| 🔴 | Maghiri | 6.0% | Arissa Lavigny-Duval (0.9%), Zemina Torval (8.6%) |
 | 🔴 | LHS 1955 | 5.9% | Denton Patreus (0.0%), Edmund Mahon (0.0%), Jerome Archer (0.2%), Li Yong-Rui (0.1%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
 | 🔴 | LHS 2094 | 5.9% | Edmund Mahon (1.1%), Zemina Torval (0.2%) |
 | 🔴 | Hydrae Sector DL-Y c19 | 5.8% | Edmund Mahon (0.0%), Nakato Kaine (12.7%) |
@@ -300,7 +300,7 @@
 | 🔴 | SHY 35 | 2.6% | Arissa Lavigny-Duval (1.0%), Jerome Archer (5.0%), Yuri Grom (0.0%), Zemina Torval (2.4%) |
 | 🔴 | Antinica | 2.5% | Edmund Mahon (0.8%) |
 | 🔴 | G 41-9 | 2.5% | Edmund Mahon (0.0%), Jerome Archer (0.0%), Zemina Torval (0.0%) |
-| 🔴 | Hydrae Sector SD-T b3-5 | 2.5% | Edmund Mahon (0.0%), Nakato Kaine (2.1%) |
+| 🔴 | Hydrae Sector SD-T b3-5 | 2.5% | Edmund Mahon (0.0%), Nakato Kaine (2.2%) |
 | 🔴 | LHS 2848 | 2.5% | Edmund Mahon (0.0%), Jerome Archer (0.0%), Nakato Kaine (0.0%) |
 | 🔴 | Crucis Sector FB-X b1-5 | 2.4% | Aisling Duval (5.3%), Arissa Lavigny-Duval (11.4%), Denton Patreus (0.0%), Edmund Mahon (0.0%), Yuri Grom (4.8%), Zemina Torval (0.0%) |
 | 🔴 | Crucis Sector YE-A d99 | 2.4% | Edmund Mahon (0.0%), Nakato Kaine (4.3%) |
@@ -321,7 +321,7 @@
 | 🔴 | Crucis Sector CL-X b1-6 | 2.1% | Nakato Kaine (0.1%) |
 | 🔴 | Kotiga | 2.1% | Aisling Duval (18.2%) |
 | 🔴 | Neali | 2.1% | Arissa Lavigny-Duval (34.3%), Zemina Torval (4.7%) |
-| 🔴 | Bedrock | 2.0% | Li Yong-Rui (8.4%) |
+| 🔴 | Bedrock | 2.0% | Li Yong-Rui (8.6%) |
 | 🔴 | Crucis Sector FB-X b1-3 | 2.0% | Aisling Duval (0.3%), Arissa Lavigny-Duval (0.9%), Denton Patreus (0.1%), Edmund Mahon (0.0%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
 | 🔴 | Puppis Sector RD-T b3-7 | 2.0% | Aisling Duval (1.4%), Arissa Lavigny-Duval (22.0%), Denton Patreus (0.0%), Yuri Grom (1.0%), Zemina Torval (0.0%) |
 | 🔴 | Andharas | 1.9% | Arissa Lavigny-Duval (12.3%) |
@@ -651,7 +651,6 @@
 | 🔴 | Crucis Sector NN-T b3-7 | 0.3% | Aisling Duval (0.5%), Arissa Lavigny-Duval (0.8%), Edmund Mahon (6.7%), Nakato Kaine (0.3%) |
 | 🔴 | Crucis Sector QY-R b4-3 | 0.3% | Aisling Duval (0.5%), Edmund Mahon (0.0%), Nakato Kaine (0.0%) |
 | 🔴 | Crucis Sector VO-R a4-3 | 0.3% | Arissa Lavigny-Duval (0.0%), Denton Patreus (0.0%), Zemina Torval (0.0%) |
-| 🔴 | Crucis Sector XE-Z b3 | 0.3% | Edmund Mahon (0.0%), Nakato Kaine (0.0%), Yuri Grom (0.0%) |
 | 🔴 | Crucis Sector XU-P a5-1 | 0.3% | Aisling Duval (0.2%), Arissa Lavigny-Duval (0.1%), Yuri Grom (0.0%), Zemina Torval (0.6%) |
 | 🔴 | Crucis Sector YE-A d100 | 0.3% | Edmund Mahon (0.0%), Nakato Kaine (2.7%) |
 | 🔴 | Gebo | 0.3% | Aisling Duval (1.7%), Arissa Lavigny-Duval (0.4%), Edmund Mahon (0.0%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
@@ -696,7 +695,6 @@
 | 🔴 | Antliae Sector OS-U c2-19 | 0.2% | Aisling Duval (0.2%), Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Askr | 0.2% | Edmund Mahon (0.0%), Nakato Kaine (0.1%) |
 | 🔴 | BD+15 1957 | 0.2% | Edmund Mahon (0.0%), Jerome Archer (0.1%), Zemina Torval (0.2%) |
-| 🔴 | Benu | 0.2% | Aisling Duval (25.8%), Zemina Torval (0.0%) |
 | 🔴 | Bibatolak | 0.2% | Arissa Lavigny-Duval (0.7%), Zemina Torval (1.7%) |
 | 🔴 | BPM 8422 | 0.2% | Aisling Duval (0.4%), Arissa Lavigny-Duval (1.6%), Edmund Mahon (4.7%), Zemina Torval (0.2%) |
 | 🔴 | CD-35 2722 | 0.2% | Arissa Lavigny-Duval (0.0%), Denton Patreus (0.0%), Jerome Archer (0.0%), Zemina Torval (0.0%) |
@@ -924,7 +922,7 @@
 | 🔴 | Puppis Sector QD-T b3-6 | 0.1% | Aisling Duval (0.1%), Arissa Lavigny-Duval (3.0%), Denton Patreus (0.0%), Edmund Mahon (1.0%), Jerome Archer (0.0%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
 | 🔴 | Puppis Sector SD-T b3-0 | 0.1% | Arissa Lavigny-Duval (4.0%), Denton Patreus (0.0%), Zemina Torval (0.0%) |
 | 🔴 | Puppis Sector SD-T b3-3 | 0.1% | Arissa Lavigny-Duval (0.1%), Denton Patreus (0.0%), Zemina Torval (0.1%) |
-| 🔴 | Puppis Sector TO-R b4-5 | 0.1% | Aisling Duval (20.6%), Arissa Lavigny-Duval (3.3%), Denton Patreus (0.8%), Edmund Mahon (0.7%), Yuri Grom (3.6%) |
+| 🔴 | Puppis Sector TO-R b4-5 | 0.1% | Aisling Duval (20.7%), Arissa Lavigny-Duval (3.3%), Denton Patreus (0.8%), Edmund Mahon (0.7%), Yuri Grom (3.6%) |
 | 🔴 | Puppis Sector ZJ-A b0 | 0.1% | Li Yong-Rui (2.4%) |
 | 🔴 | Puppis Sector ZJ-A b1 | 0.1% | Li Yong-Rui (0.2%) |
 | 🔴 | Pyemmar | 0.1% | Aisling Duval (0.3%), Arissa Lavigny-Duval (0.0%), Nakato Kaine (20.7%) |
@@ -967,7 +965,6 @@
 | 🔴 | Antliae Sector FW-W c1-13 | 0.0% | Aisling Duval (0.0%) |
 | 🔴 | Antliae Sector FW-W c1-14 | 0.0% | Aisling Duval (0.0%) |
 | 🔴 | Antliae Sector GR-W d1-88 | 0.0% | Nakato Kaine (0.0%) |
-| 🔴 | Antliae Sector GW-W b1-1 | 0.0% | Aisling Duval (0.0%), Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Antliae Sector GW-W b1-2 | 0.0% | Aisling Duval (0.0%), Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Antliae Sector HH-V b2-2 | 0.0% | Aisling Duval (0.0%), Nakato Kaine (0.0%) |
 | 🔴 | Antliae Sector HH-V b2-4 | 0.0% | Nakato Kaine (0.1%) |
@@ -1064,6 +1061,7 @@
 | 🔴 | Col 285 Sector GR-R b19-6 | 0.0% | Aisling Duval (0.1%), Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Col 285 Sector GR-R b19-9 | 0.0% | Aisling Duval (0.0%) |
 | 🔴 | Col 285 Sector GR-W a31-1 | 0.0% | Arissa Lavigny-Duval (1.3%), Zemina Torval (0.0%) |
+| 🔴 | Col 285 Sector GS-G b12-1 | 0.0% | Li Yong-Rui (0.0%) |
 | 🔴 | Col 285 Sector GS-X b16-4 | 0.0% | Edmund Mahon (0.0%) |
 | 🔴 | Col 285 Sector HC-Q b20-3 | 0.0% | Aisling Duval (0.0%) |
 | 🔴 | Col 285 Sector HM-R b19-4 | 0.0% | Aisling Duval (0.9%), Arissa Lavigny-Duval (0.1%) |
@@ -1074,7 +1072,7 @@
 | 🔴 | Col 285 Sector IN-G b12-3 | 0.0% | Li Yong-Rui (0.0%) |
 | 🔴 | Col 285 Sector IN-O b21-1 | 0.0% | Nakato Kaine (0.0%) |
 | 🔴 | Col 285 Sector IS-U a32-1 | 0.0% | Arissa Lavigny-Duval (34.5%), Jerome Archer (0.0%), Zemina Torval (0.0%) |
-| 🔴 | Col 285 Sector IS-U a32-2 | 0.0% | Arissa Lavigny-Duval (10.1%), Jerome Archer (0.0%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
+| 🔴 | Col 285 Sector IS-U a32-2 | 0.0% | Arissa Lavigny-Duval (10.1%), Jerome Archer (0.0%), Li Yong-Rui (0.0%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
 | 🔴 | Col 285 Sector IS-U a32-3 | 0.0% | Arissa Lavigny-Duval (23.5%), Denton Patreus (0.0%), Jerome Archer (0.0%), Li Yong-Rui (0.7%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
 | 🔴 | Col 285 Sector IS-U a32-4 | 0.0% | Arissa Lavigny-Duval (46.8%), Denton Patreus (0.0%), Jerome Archer (0.0%), Li Yong-Rui (0.8%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
 | 🔴 | Col 285 Sector IX-J c9-27 | 0.0% | Edmund Mahon (0.1%), Nakato Kaine (0.0%) |
@@ -1421,6 +1419,7 @@
 | 🔴 | Hyades Sector SE-O b7-3 | 0.0% | Edmund Mahon (0.0%) |
 | 🔴 | Hyades Sector SE-O b7-6 | 0.0% | Edmund Mahon (2.6%) |
 | 🔴 | Hyades Sector SZ-N b7-2 | 0.0% | Aisling Duval (0.5%), Edmund Mahon (10.4%) |
+| 🔴 | Hyades Sector SZ-N b7-4 | 0.0% | Aisling Duval (0.7%), Edmund Mahon (0.7%), Li Yong-Rui (0.0%) |
 | 🔴 | Hyades Sector TL-H a25-0 | 0.0% | Arissa Lavigny-Duval (42.2%), Denton Patreus (0.0%), Zemina Torval (0.2%) |
 | 🔴 | Hyades Sector TZ-N b7-1 | 0.0% | Edmund Mahon (0.0%), Li Yong-Rui (0.0%) |
 | 🔴 | Hyades Sector UJ-Q c5-10 | 0.0% | Arissa Lavigny-Duval (0.0%), Zemina Torval (0.0%) |
@@ -1473,7 +1472,6 @@
 | 🔴 | LHS 2476 | 0.0% | Edmund Mahon (0.1%), Jerome Archer (0.7%), Nakato Kaine (0.4%) |
 | 🔴 | LHS 2663 | 0.0% | Edmund Mahon (0.2%), Nakato Kaine (0.1%) |
 | 🔴 | LHS 2891 | 0.0% | Edmund Mahon (0.1%), Jerome Archer (0.1%), Nakato Kaine (0.0%), Yuri Grom (0.0%) |
-| 🔴 | LHS 301 | 0.0% | Edmund Mahon (0.0%), Jerome Archer (0.0%) |
 | 🔴 | LHS 6119 | 0.0% | Edmund Mahon (0.1%), Jerome Archer (0.1%), Li Yong-Rui (0.1%) |
 | 🔴 | Lopemakinn | 0.0% | Aisling Duval (7.4%) |
 | 🔴 | LP 365-24 | 0.0% | Aisling Duval (0.0%), Edmund Mahon (0.0%), Li Yong-Rui (0.0%) |
@@ -1518,7 +1516,7 @@
 | 🔴 | Paroja | 0.0% | Arissa Lavigny-Duval (10.0%), Zemina Torval (0.0%) |
 | 🔴 | Puppis Sector AQ-P a5-0 | 0.0% | Arissa Lavigny-Duval (3.3%), Jerome Archer (0.6%), Li Yong-Rui (0.0%), Yuri Grom (0.0%), Zemina Torval (0.1%) |
 | 🔴 | Puppis Sector BQ-P a5-2 | 0.0% | Arissa Lavigny-Duval (0.0%), Denton Patreus (3.0%), Zemina Torval (0.0%) |
-| 🔴 | Puppis Sector CL-P a5-3 | 0.0% | Arissa Lavigny-Duval (0.0%), Jerome Archer (0.0%), Li Yong-Rui (36.6%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
+| 🔴 | Puppis Sector CL-P a5-3 | 0.0% | Arissa Lavigny-Duval (0.0%), Jerome Archer (0.0%), Li Yong-Rui (38.4%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
 | 🔴 | Puppis Sector CQ-P a5-0 | 0.0% | Arissa Lavigny-Duval (0.4%), Denton Patreus (0.0%), Zemina Torval (0.0%) |
 | 🔴 | Puppis Sector DL-P a5-2 | 0.0% | Arissa Lavigny-Duval (37.4%), Denton Patreus (0.2%), Zemina Torval (0.1%) |
 | 🔴 | Puppis Sector DQ-P a5-2 | 0.0% | Arissa Lavigny-Duval (0.2%), Denton Patreus (0.0%), Zemina Torval (0.0%) |
@@ -1733,6 +1731,7 @@
 | 🔵 | HIP 46324 | 2.9% |
 | 🔵 | Col 285 Sector XR-W b17-2 | 2.8% |
 | 🔵 | Puppis Sector EG-X b1-1 | 2.8% |
+| 🔵 | Col 285 Sector KM-V d2-94 | 2.7% |
 | 🔵 | HIP 37732 | 2.6% |
 | 🔵 | HIP 62857 | 2.6% |
 | 🔵 | Col 285 Sector WO-E b13-3 | 2.5% |
@@ -1793,6 +1792,7 @@
 | 🔵 | Col 285 Sector BQ-N c7-6 | 0.7% |
 | 🔵 | Col 285 Sector CL-N c7-15 | 0.7% |
 | 🔵 | Col 285 Sector GW-A b15-2 | 0.7% |
+| 🔵 | Col 285 Sector RS-H b11-2 | 0.7% |
 | 🔵 | Col 285 Sector UL-Y b16-0 | 0.7% |
 | 🔵 | HIP 44059 | 0.7% |
 | 🔵 | HIP 47033 | 0.7% |
@@ -1914,7 +1914,9 @@
 | 🔵 | Sharru Sector LH-V b2-4 | 0.1% |
 | 🔵 | SPOCS 493 | 0.1% |
 | 🔵 | Vocovii | 0.1% |
+| 🔵 | Vucumatha | 0.1% |
 | 🔵 | Yin Sector GR-V b2-0 | 0.1% |
+| 🔵 | 19 Puppis | 0.0% |
 | 🔵 | Acokwus | 0.0% |
 | 🔵 | Acomatshi | 0.0% |
 | 🔵 | Aka | 0.0% |
@@ -2102,6 +2104,7 @@
 | 🔵 | Hunbina | 0.0% |
 | 🔵 | Hyades Sector EB-X d1-62 | 0.0% |
 | 🔵 | Hyades Sector EB-X d1-71 | 0.0% |
+| 🔵 | Hyades Sector II-Q b6-1 | 0.0% |
 | 🔵 | Hyades Sector KC-U c3-10 | 0.0% |
 | 🔵 | Hyades Sector KC-U c3-9 | 0.0% |
 | 🔵 | Hyades Sector MX-T c3-6 | 0.0% |

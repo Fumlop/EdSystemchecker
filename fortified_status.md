@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-12 14:03:01
-**Data Source:** 2025-08-12T14:03:01.578982
+**Report Generated:** 2025-08-12 15:02:59
+**Data Source:** 2025-08-12T15:02:59.207678
 **Total Fortified:** 133 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -72,14 +72,14 @@
 | ✅ | Crucis Sector PC-V a2-1 | 22,675 | 14,025 | 41.2% | 35.56% | 39.0% | 253,500 | +22,332 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 18,714 | 9,710 | 36.2% | 31.96% | 34.7% | 225,550 | +17,807 | 🟢 High Reinforcement |
 | ✅ | Agarda | 15,695 | 25,837 | 50.5% | 44.16% | 46.5% | 302,250 | +15,181 | 🟢 High Reinforcement |
-| ✅ | Namte | 12,069 | 43,307 | 64.2% | 55.95% | 57.5% | 373,750 | +10,046 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 14,546 | 16,427 | 40.1% | 35.75% | 37.6% | 244,400 | +12,047 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Parapa | 10,110 | 31,450 | 54.8% | 48.49% | 50.0% | 325,000 | +9,835 | 🟡 Medium Reinforcement |
-| ✅ | Timbalderis | 10,472 | 16,427 | 39.5% | 35.77% | 37.0% | 240,500 | +8,003 | 🟡 Medium Reinforcement |
+| ✅ | Namte | 12,069 | 44,069 | 64.2% | 55.97% | 57.4% | 373,099 | +9,303 | 🟡 Medium Reinforcement |
 | ✅ | Umbrigua | 8,171 | 3,502 | 29.4% | 27.71% | 28.9% | 187,850 | +7,721 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,541 | 25,300 | 48.8% | 43.94% | 44.9% | 291,850 | +6,257 | 🟡 Medium Reinforcement |
 
@@ -89,7 +89,7 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | NLTT 21088 | 3,493 | 45,424 | 66.3% | 58.81% | 59.3% | 385,450 | +3,213 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 3,424 | 2,389 | 27.7% | 26.85% | 27.3% | 177,450 | +2,921 | 🔵 Low Reinforcement |
-| ✅ | 18 Puppis | 3,151 | 23,455 | 46.6% | 42.56% | 43.0% | 279,500 | +2,850 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 3,151 | 23,637 | 46.6% | 42.58% | 43.0% | 279,500 | +2,699 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 2,866 | 34,901 | 56.9% | 51.09% | 51.5% | 334,750 | +2,664 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 3,079 | 13,039 | 37.1% | 34.71% | 35.1% | 228,150 | +2,560 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
