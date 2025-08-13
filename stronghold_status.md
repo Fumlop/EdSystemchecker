@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-13 11:02:47
-**Data Source:** 2025-08-13T11:02:47.033535
+**Report Generated:** 2025-08-13 12:04:17
+**Data Source:** 2025-08-13T12:04:17.921343
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -82,14 +82,14 @@
 | ✅ | Fousang | 12,501 | 89,583 | 69.3% | 59.33% | 60.3% | 603,000 | +9,662 | 🟡 Medium Reinforcement |
 | ✅ | LTT 3607 | 10,926 | 42,430 | 46.3% | 41.14% | 42.1% | 421,000 | +9,585 | 🟡 Medium Reinforcement |
 | ✅ | Andel | 11,329 | 74,901 | 62.1% | 53.70% | 54.6% | 546,000 | +9,027 | 🟡 Medium Reinforcement |
-| ✅ | Algorab | 7,444 | 57,430 | 53.2% | 46.94% | 47.5% | 475,000 | +5,644 | 🟡 Medium Reinforcement |
+| ✅ | Algorab | 8,131 | 57,430 | 53.3% | 46.96% | 47.6% | 476,000 | +6,393 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Corbenic | 3,818 | 12,072 | 31.1% | 29.53% | 29.9% | 299,000 | +3,695 | 🔵 Low Reinforcement |
-| ✅ | Belgitan | 3,497 | 27,833 | 38.7% | 35.61% | 35.9% | 359,000 | +2,876 | 🔵 Low Reinforcement |
+| ✅ | Belgitan | 3,550 | 27,833 | 38.7% | 35.61% | 35.9% | 359,000 | +2,919 | 🔵 Low Reinforcement |
 | ✅ | Neche | 2,668 | 7,254 | 28.7% | 27.72% | 28.0% | 280,000 | +2,816 | 🔵 Low Reinforcement |
 | ✅ | Inovik | 4,705 | 69,349 | 58.7% | 51.54% | 51.8% | 518,000 | +2,553 | 🔵 Low Reinforcement |
 | ✅ | Lulua | 3,276 | 44,708 | 46.8% | 42.10% | 42.3% | 423,000 | +2,049 | 🔵 Low Reinforcement |
