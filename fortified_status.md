@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-13 00:10:26
-**Data Source:** 2025-08-13T00:10:26.800939
-**Total Fortified:** 132 (52 with decay analysis)
+**Report Generated:** 2025-08-13 01:30:43
+**Data Source:** 2025-08-13T01:30:43.462891
+**Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -15,7 +15,7 @@
 | ✅ | **HR 3277** | +31,966 CP | 9,173 | 32,442 | 36.8% |
 | ✅ | **Crucis Sector PC-V a2-1** | +28,841 CP | 14,025 | 29,186 | 40.0% |
 | ✅ | **Timbalderis** | +25,427 CP | 16,432 | 27,875 | 39.7% |
-| ✅ | **Agarda** | +21,859 CP | 25,837 | 22,409 | 47.5% |
+| ✅ | **Agarda** | +24,296 CP | 25,837 | 24,813 | 47.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -68,7 +68,7 @@
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 29,186 | 14,025 | 42.2% | 35.56% | 40.0% | 260,000 | +28,841 | 🟢 High Reinforcement |
 | ✅ | Timbalderis | 27,875 | 16,432 | 42.2% | 35.79% | 39.7% | 258,050 | +25,427 | 🟢 High Reinforcement |
-| ✅ | Agarda | 22,409 | 25,837 | 51.5% | 44.14% | 47.5% | 308,750 | +21,859 | 🟢 High Reinforcement |
+| ✅ | Agarda | 24,813 | 25,837 | 51.9% | 44.16% | 47.9% | 311,350 | +24,296 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 18,714 | 9,710 | 36.2% | 31.96% | 34.7% | 225,550 | +17,807 | 🟢 High Reinforcement |
 | ✅ | Parapa | 14,983 | 31,450 | 55.6% | 48.53% | 50.8% | 330,200 | +14,764 | 🟢 High Reinforcement |
 
@@ -76,7 +76,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Namte | 12,069 | 44,069 | 64.2% | 55.97% | 57.4% | 373,099 | +9,303 | 🟡 Medium Reinforcement |
+| ✅ | Namte | 12,088 | 44,069 | 64.2% | 55.97% | 57.4% | 373,099 | +9,319 | 🟡 Medium Reinforcement |
 | ✅ | Umbrigua | 8,171 | 3,502 | 29.4% | 27.71% | 28.9% | 187,850 | +7,721 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,541 | 26,137 | 48.8% | 43.96% | 44.8% | 291,199 | +5,452 | 🟡 Medium Reinforcement |
 
@@ -90,6 +90,7 @@
 | ✅ | Nugua | 2,866 | 34,901 | 56.9% | 51.09% | 51.5% | 334,750 | +2,664 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 3,165 | 13,039 | 37.1% | 34.70% | 35.1% | 228,150 | +2,631 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
+| ✅ | Eme | 2,520 | 10,732 | 34.4% | 32.50% | 32.7% | 212,550 | +1,318 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 1,485 | 16,724 | 40.3% | 37.53% | 37.7% | 245,050 | +1,104 | 🔵 Low Reinforcement |
 
 
