@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-13 08:03:33
-**Data Source:** 2025-08-13T08:03:33.684356
+**Report Generated:** 2025-08-13 09:05:09
+**Data Source:** 2025-08-13T09:05:09.242214
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **LHS 317** | +66,893 CP | 145,500 | 71,750 | 87.5% |
 | ✅ | **HIP 61632** | +56,000 CP | 0 | 60,265 | 30.6% |
 | ✅ | **LP 726-6** | +47,807 CP | 89,902 | 50,750 | 64.2% |
-| ✅ | **Carnoeck** | +28,239 CP | 21,778 | 28,668 | 36.1% |
+| ✅ | **Carnoeck** | +28,389 CP | 21,778 | 28,856 | 36.1% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -69,7 +69,7 @@
 | ✅ | LHS 317 | 71,750 | 145,500 | 102.0% | 80.81% | 87.5% | 875,000 | +66,893 | 🟢 High Reinforcement |
 | ✅ | HIP 61632 | 60,265 | 0 | 30.6% | 25.00% | 30.6% | 306,000 | +56,000 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 50,750 | 89,902 | 73.2% | 59.42% | 64.2% | 642,000 | +47,807 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 28,668 | 21,778 | 38.3% | 33.28% | 36.1% | 361,000 | +28,239 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 28,856 | 21,778 | 38.3% | 33.26% | 36.1% | 361,000 | +28,389 | 🟢 High Reinforcement |
 | ✅ | Kaura | 20,555 | 25,250 | 39.2% | 34.68% | 36.7% | 367,000 | +20,182 | 🟢 High Reinforcement |
 | ✅ | Orishpucho | 21,148 | 80,125 | 65.6% | 55.73% | 57.6% | 576,000 | +18,719 | 🟢 High Reinforcement |
 | ✅ | NLTT 19808 | 12,342 | 19,798 | 35.7% | 32.50% | 33.7% | 337,000 | +11,956 | 🟢 High Reinforcement |
@@ -82,12 +82,12 @@
 | ✅ | Fousang | 12,501 | 89,583 | 69.3% | 59.33% | 60.3% | 603,000 | +9,662 | 🟡 Medium Reinforcement |
 | ✅ | LTT 3607 | 10,926 | 42,430 | 46.3% | 41.14% | 42.1% | 421,000 | +9,585 | 🟡 Medium Reinforcement |
 | ✅ | Andel | 11,013 | 74,901 | 62.1% | 53.72% | 54.6% | 546,000 | +8,774 | 🟡 Medium Reinforcement |
+| ✅ | Algorab | 7,444 | 57,430 | 53.2% | 46.94% | 47.5% | 475,000 | +5,644 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Algorab | 6,537 | 57,430 | 53.1% | 46.93% | 47.4% | 474,000 | +4,718 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 3,818 | 12,072 | 31.1% | 29.53% | 29.9% | 299,000 | +3,695 | 🔵 Low Reinforcement |
 | ✅ | Belgitan | 3,497 | 27,833 | 38.7% | 35.61% | 35.9% | 359,000 | +2,876 | 🔵 Low Reinforcement |
 | ✅ | Neche | 2,668 | 7,254 | 28.7% | 27.72% | 28.0% | 280,000 | +2,816 | 🔵 Low Reinforcement |

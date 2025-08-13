@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-13 08:03:33
-**Data Source:** 2025-08-13T08:03:33.682693
+**Report Generated:** 2025-08-13 09:05:09
+**Data Source:** 2025-08-13T09:05:09.240391
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,10 +12,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Kivah** | +312,301 CP | 41,666 | 312,414 | 104.2% |
-| ✅ | **Timbalderis** | +37,495 CP | 16,447 | 40,034 | 41.5% |
+| ✅ | **Timbalderis** | +41,261 CP | 16,447 | 43,772 | 42.1% |
 | ✅ | **HR 3277** | +31,966 CP | 9,173 | 32,442 | 36.8% |
+| ✅ | **Agarda** | +29,033 CP | 25,837 | 29,588 | 48.6% |
 | ✅ | **Crucis Sector PC-V a2-1** | +28,841 CP | 14,025 | 29,186 | 40.0% |
-| ✅ | **Agarda** | +27,498 CP | 25,837 | 28,004 | 48.4% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -65,10 +65,10 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kivah | 312,414 | 41,666 | 110.6% | 56.15% | 104.2% | 677,300 | +312,301 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 40,034 | 16,447 | 44.0% | 35.73% | 41.5% | 269,750 | +37,495 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 43,772 | 16,447 | 44.6% | 35.75% | 42.1% | 273,650 | +41,261 | 🟢 High Reinforcement |
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
+| ✅ | Agarda | 29,588 | 25,837 | 52.6% | 44.13% | 48.6% | 315,900 | +29,033 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 29,186 | 14,025 | 42.2% | 35.56% | 40.0% | 260,000 | +28,841 | 🟢 High Reinforcement |
-| ✅ | Agarda | 28,004 | 25,837 | 52.4% | 44.17% | 48.4% | 314,600 | +27,498 | 🟢 High Reinforcement |
 | ✅ | Parapa | 18,087 | 31,450 | 56.1% | 48.55% | 51.3% | 333,450 | +17,893 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 18,714 | 9,710 | 36.2% | 31.96% | 34.7% | 225,550 | +17,807 | 🟢 High Reinforcement |
 
@@ -85,7 +85,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | LHS 2037 | 4,606 | 2,389 | 27.9% | 26.87% | 27.5% | 178,750 | +4,123 | 🔵 Low Reinforcement |
-| ✅ | NLTT 21088 | 3,498 | 45,424 | 66.3% | 58.81% | 59.3% | 385,450 | +3,217 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 3,689 | 45,424 | 66.3% | 58.78% | 59.3% | 385,450 | +3,375 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 2,866 | 34,901 | 56.9% | 51.09% | 51.5% | 334,750 | +2,664 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 3,165 | 13,039 | 37.1% | 34.70% | 35.1% | 228,150 | +2,631 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
