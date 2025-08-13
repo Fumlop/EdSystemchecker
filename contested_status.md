@@ -1,12 +1,12 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-08-13 05:04:18
-**Data Source:** 2025-08-12T22:04:18.285421
-**Total Contested:** 1581 systems
-**Total Expansion:** 491 systems
+**Report Generated:** 2025-08-13 06:03:47
+**Data Source:** 2025-08-13T06:00:47.282954
+**Total Contested:** 1579 systems
+**Total Expansion:** 490 systems
 **Priority Acquisition Targets:** 0 of 4 systems are contested
 
-**Total Expansion:** 491 systems
+**Total Expansion:** 490 systems
 
 ## 📊 Quick Summary
 
@@ -401,6 +401,7 @@
 | 🔴 | LHS 2447 | 1.4% | Aisling Duval (0.6%), Denton Patreus (0.2%), Edmund Mahon (0.0%), Jerome Archer (0.3%), Li Yong-Rui (29.2%), Yuri Grom (0.0%), Zemina Torval (0.1%) |
 | 🔴 | LTT 5259 | 1.4% | Edmund Mahon (2.3%), Nakato Kaine (0.0%) |
 | 🔴 | StKM 1-662 | 1.4% | Li Yong-Rui (18.1%) |
+| 🔴 | Antliae Sector IH-V b2-3 | 1.3% | Aisling Duval (0.0%) |
 | 🔴 | BD+24 1529 | 1.3% | Aisling Duval (3.1%), Edmund Mahon (1.4%) |
 | 🔴 | Col 285 Sector PD-X b16-3 | 1.3% | Aisling Duval (0.7%), Arissa Lavigny-Duval (1.4%) |
 | 🔴 | HIP 45251 | 1.3% | Arissa Lavigny-Duval (3.7%), Zemina Torval (0.0%) |
@@ -943,7 +944,6 @@
 | 🔴 | 19 Pi Canis Majoris | 0.0% | Arissa Lavigny-Duval (18.2%) |
 | 🔴 | 2M1207 | 0.0% | Nakato Kaine (0.0%) |
 | 🔴 | 40 G. Canis Minoris | 0.0% | Edmund Mahon (7.7%) |
-| 🔴 | 61 G. Carinae | 0.0% | Aisling Duval (0.2%), Arissa Lavigny-Duval (0.0%), Zemina Torval (0.0%) |
 | 🔴 | 71 Orionis | 0.0% | Edmund Mahon (2.2%), Jerome Archer (0.3%), Li Yong-Rui (0.2%) |
 | 🔴 | 72 G. Canis Majoris | 0.0% | Arissa Lavigny-Duval (0.0%), Denton Patreus (0.0%), Zemina Torval (0.0%) |
 | 🔴 | 74 k Orionis | 0.0% | Jerome Archer (0.4%), Li Yong-Rui (24.2%) |
@@ -982,7 +982,6 @@
 | 🔴 | Antliae Sector MX-U b2-1 | 0.0% | Aisling Duval (0.0%), Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Antliae Sector NI-T b3-0 | 0.0% | Nakato Kaine (0.0%) |
 | 🔴 | Antliae Sector NI-T b3-3 | 0.0% | Nakato Kaine (0.2%) |
-| 🔴 | Antliae Sector NX-U b2-1 | 0.0% | Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Antliae Sector NX-U b2-2 | 0.0% | Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Antliae Sector NX-U b2-3 | 0.0% | Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Antliae Sector NX-U b2-5 | 0.0% | Arissa Lavigny-Duval (0.1%) |
@@ -1322,7 +1321,6 @@
 | 🔴 | HIP 38172 | 0.0% | Edmund Mahon (14.5%) |
 | 🔴 | HIP 39821 | 0.0% | Edmund Mahon (0.2%) |
 | 🔴 | HIP 41351 | 0.0% | Aisling Duval (0.0%) |
-| 🔴 | HIP 41526 | 0.0% | Edmund Mahon (0.0%), Li Yong-Rui (0.0%) |
 | 🔴 | HIP 43841 | 0.0% | Li Yong-Rui (0.0%) |
 | 🔴 | HIP 43947 | 0.0% | Arissa Lavigny-Duval (4.7%), Zemina Torval (4.0%) |
 | 🔴 | HIP 44252 | 0.0% | Jerome Archer (0.1%), Li Yong-Rui (0.4%) |
@@ -1907,7 +1905,6 @@
 | 🔵 | Antliae Sector FW-W c1-16 | 0.0% |
 | 🔵 | Antliae Sector FW-W c1-8 | 0.0% |
 | 🔵 | Antliae Sector HH-V b2-1 | 0.0% |
-| 🔵 | Antliae Sector IW-W b1-5 | 0.0% |
 | 🔵 | Antliae Sector JH-V b2-0 | 0.0% |
 | 🔵 | Antliae Sector JH-V b2-1 | 0.0% |
 | 🔵 | Antliae Sector KS-T b3-0 | 0.0% |
