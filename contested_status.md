@@ -1,8 +1,8 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-08-13 03:26:42
-**Data Source:** 2025-08-12T21:26:42.230826
-**Total Contested:** 1583 systems
+**Report Generated:** 2025-08-13 04:09:11
+**Data Source:** 2025-08-12T22:09:11.129723
+**Total Contested:** 1580 systems
 **Total Expansion:** 491 systems
 **Priority Acquisition Targets:** 0 of 4 systems are contested
 
@@ -883,7 +883,6 @@
 | 🔴 | Kina | 0.1% | Aisling Duval (0.2%) |
 | 🔴 | Knouphinan | 0.1% | Aisling Duval (0.4%), Li Yong-Rui (0.3%) |
 | 🔴 | Kweretet | 0.1% | Edmund Mahon (0.0%), Li Yong-Rui (0.0%) |
-| 🔴 | Lazdongand | 0.1% | Aisling Duval (2.5%), Arissa Lavigny-Duval (16.0%) |
 | 🔴 | LFT 460 | 0.1% | Denton Patreus (0.0%), Jerome Archer (0.3%), Li Yong-Rui (0.1%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
 | 🔴 | LFT 729 | 0.1% | Edmund Mahon (0.0%), Jerome Archer (0.7%), Zemina Torval (0.0%) |
 | 🔴 | LHS 1665 | 0.1% | Aisling Duval (133.3%), Arissa Lavigny-Duval (3.1%), Denton Patreus (0.2%), Jerome Archer (7.3%), Li Yong-Rui (85.0%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
@@ -994,7 +993,6 @@
 | 🔴 | Antliae Sector OS-U b2-5 | 0.0% | Aisling Duval (1.0%), Arissa Lavigny-Duval (0.5%), Zemina Torval (0.0%) |
 | 🔴 | Antliae Sector OS-U b2-7 | 0.0% | Aisling Duval (0.0%), Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Antliae Sector OX-U b2-5 | 0.0% | Arissa Lavigny-Duval (0.0%) |
-| 🔴 | Antliae Sector PI-T b3-1 | 0.0% | Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Antliae Sector PI-T b3-2 | 0.0% | Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Antliae Sector PI-T b3-6 | 0.0% | Arissa Lavigny-Duval (0.0%) |
 | 🔴 | Antliae Sector QD-T b3-7 | 0.0% | Arissa Lavigny-Duval (0.0%) |
@@ -1313,7 +1311,6 @@
 | 🔴 | DX Leonis | 0.0% | Edmund Mahon (0.0%), Jerome Archer (0.0%) |
 | 🔴 | Ereshkigal | 0.0% | Aisling Duval (0.2%), Edmund Mahon (0.0%), Nakato Kaine (0.1%) |
 | 🔴 | G 118-43 | 0.0% | Edmund Mahon (0.1%), Jerome Archer (0.1%) |
-| 🔴 | Galit | 0.0% | Li Yong-Rui (0.0%) |
 | 🔴 | Hayikoku | 0.0% | Edmund Mahon (0.0%) |
 | 🔴 | HIP 31655 | 0.0% | Aisling Duval (0.0%), Li Yong-Rui (0.1%) |
 | 🔴 | HIP 34426 | 0.0% | Edmund Mahon (0.0%), Li Yong-Rui (0.0%) |
@@ -1665,8 +1662,8 @@
 | 🔵 | Laumas | 12.8% |
 | 🔵 | Luvana | 12.1% |
 | 🔵 | Balo | 12.0% |
+| 🔵 | Col 285 Sector CB-B b15-1 | 11.8% |
 | 🔵 | Antliae Sector FG-Y d133 | 11.6% |
-| 🔵 | Col 285 Sector CB-B b15-1 | 11.4% |
 | 🔵 | Wang Ku | 11.3% |
 | 🔵 | Yukpeng | 11.0% |
 | 🔵 | Antliae Sector KS-T b3-3 | 10.9% |
