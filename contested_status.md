@@ -1,12 +1,12 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-08-13 10:02:57
-**Data Source:** 2025-08-13T06:02:57.025521
-**Total Contested:** 1619 systems
-**Total Expansion:** 546 systems
+**Report Generated:** 2025-08-13 11:02:47
+**Data Source:** 2025-08-13T06:02:46.577505
+**Total Contested:** 1621 systems
+**Total Expansion:** 545 systems
 **Priority Acquisition Targets:** 0 of 4 systems are contested
 
-**Total Expansion:** 546 systems
+**Total Expansion:** 545 systems
 
 ## 📊 Quick Summary
 
@@ -59,7 +59,7 @@
 | 🟠 | Aramorians | 48.0% | Edmund Mahon (0.0%), Yuri Grom (0.0%), Zemina Torval (0.1%) |
 | 🟠 | Hyades Sector QO-P b6-5 | 47.5% | Edmund Mahon (0.0%), Li Yong-Rui (0.0%) |
 | 🟠 | Antliae Sector OS-U c2-24 | 46.6% | Aisling Duval (0.0%), Arissa Lavigny-Duval (0.1%) |
-| 🟠 | LP 844-28 | 44.6% | Edmund Mahon (13.5%), Jerome Archer (1.5%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
+| 🟠 | LP 844-28 | 44.7% | Edmund Mahon (13.5%), Jerome Archer (1.5%), Yuri Grom (0.0%), Zemina Torval (0.0%) |
 | 🟠 | Puppis Sector ZE-A d118 | 44.1% | Aisling Duval (1.3%) |
 | 🟠 | Hlocidirus | 44.0% | Edmund Mahon (0.4%), Jerome Archer (3.8%), Zemina Torval (0.4%) |
 | 🟠 | HIP 53787 | 43.5% | Aisling Duval (1.0%), Arissa Lavigny-Duval (2.0%) |
@@ -878,7 +878,7 @@
 | 🔴 | HIP 60462 | 0.1% | Nakato Kaine (0.2%) |
 | 🔴 | HIP 60845 | 0.1% | Aisling Duval (3.1%), Arissa Lavigny-Duval (0.6%) |
 | 🔴 | HR 2251 | 0.1% | Denton Patreus (0.0%), Jerome Archer (1.7%), Li Yong-Rui (0.2%) |
-| 🔴 | HR 2548 | 0.1% | Arissa Lavigny-Duval (0.0%), Denton Patreus (0.0%), Zemina Torval (0.1%) |
+| 🔴 | HR 2548 | 0.1% | Arissa Lavigny-Duval (0.2%), Denton Patreus (0.0%), Zemina Torval (0.1%) |
 | 🔴 | HR 2866 | 0.1% | Aisling Duval (0.0%), Li Yong-Rui (0.0%) |
 | 🔴 | Hyades Sector BB-M b8-5 | 0.1% | Aisling Duval (0.0%), Li Yong-Rui (0.0%) |
 | 🔴 | Hyades Sector EM-K b9-0 | 0.1% | Aisling Duval (0.0%) |
@@ -1107,6 +1107,7 @@
 | 🔴 | Col 285 Sector KX-P b20-1 | 0.0% | Aisling Duval (0.0%) |
 | 🔴 | Col 285 Sector KX-U a32-0 | 0.0% | Arissa Lavigny-Duval (3.0%), Zemina Torval (0.0%) |
 | 🔴 | Col 285 Sector KX-U a32-2 | 0.0% | Arissa Lavigny-Duval (2.5%), Zemina Torval (0.0%) |
+| 🔴 | Col 285 Sector KX-U a32-3 | 0.0% | Aisling Duval (0.0%), Arissa Lavigny-Duval (0.0%), Zemina Torval (0.0%) |
 | 🔴 | Col 285 Sector KY-E b13-2 | 0.0% | Li Yong-Rui (0.1%) |
 | 🔴 | Col 285 Sector LI-X b16-2 | 0.0% | Edmund Mahon (0.0%), Nakato Kaine (0.0%) |
 | 🔴 | Col 285 Sector LS-U a32-0 | 0.0% | Arissa Lavigny-Duval (2.4%), Zemina Torval (0.0%) |
@@ -1645,6 +1646,7 @@
 | 🔴 | Trianguli Sector KS-T b3-5 | 0.0% | Denton Patreus (0.0%), Li Yong-Rui (0.0%) |
 | 🔴 | Trianguli Sector LS-T b3-5 | 0.0% | Arissa Lavigny-Duval (2.8%), Li Yong-Rui (0.2%) |
 | 🔴 | Tuoni | 0.0% | Aisling Duval (0.2%), Arissa Lavigny-Duval (0.2%), Edmund Mahon (26.0%), Nakato Kaine (0.1%) |
+| 🔴 | Tyche | 0.0% | Edmund Mahon (0.0%), Jerome Archer (0.0%), Zemina Torval (0.0%) |
 | 🔴 | Uhlan | 0.0% | Arissa Lavigny-Duval (32.3%), Zemina Torval (0.0%) |
 | 🔴 | UZ Sextantis | 0.0% | Edmund Mahon (0.0%), Jerome Archer (0.5%), Zemina Torval (23.5%) |
 | 🔴 | V463 Carinae | 0.0% | Aisling Duval (0.1%), Arissa Lavigny-Duval (0.0%), Zemina Torval (0.0%) |
@@ -1838,13 +1840,13 @@
 | 🔵 | HIP 53879 | 0.6% |
 | 🔵 | HIP 57269 | 0.6% |
 | 🔵 | Hyades Sector FB-X d1-129 | 0.6% |
+| 🔵 | Puppis Sector GW-W c1-26 | 0.6% |
 | 🔵 | Col 285 Sector YF-K b10-2 | 0.5% |
 | 🔵 | Col 285 Sector ZE-P c6-22 | 0.5% |
 | 🔵 | Hyades Sector FB-X d1-105 | 0.5% |
 | 🔵 | Nephthys | 0.5% |
 | 🔵 | Opeten | 0.5% |
 | 🔵 | Othieh | 0.5% |
-| 🔵 | Puppis Sector GW-W c1-26 | 0.5% |
 | 🔵 | Wolf 511 | 0.5% |
 | 🔵 | Bahinook | 0.4% |
 | 🔵 | Col 285 Sector CB-M c8-12 | 0.4% |
@@ -2057,7 +2059,6 @@
 | 🔵 | Col 285 Sector LR-J b10-4 | 0.0% |
 | 🔵 | Col 285 Sector NK-A b16-2 | 0.0% |
 | 🔵 | Col 285 Sector NM-J b10-2 | 0.0% |
-| 🔵 | Col 285 Sector OI-R c5-13 | 0.0% |
 | 🔵 | Col 285 Sector OK-A b16-2 | 0.0% |
 | 🔵 | Col 285 Sector OM-J b10-3 | 0.0% |
 | 🔵 | Col 285 Sector OS-T d3-122 | 0.0% |
@@ -2101,6 +2102,7 @@
 | 🔵 | Col 285 Sector XJ-E b13-4 | 0.0% |
 | 🔵 | Col 285 Sector XJ-P c6-10 | 0.0% |
 | 🔵 | Col 285 Sector XJ-P c6-5 | 0.0% |
+| 🔵 | Col 285 Sector XO-E b13-1 | 0.0% |
 | 🔵 | Col 285 Sector XO-E b13-2 | 0.0% |
 | 🔵 | Col 285 Sector XO-E b13-4 | 0.0% |
 | 🔵 | Col 285 Sector YJ-E b13-3 | 0.0% |
@@ -2154,7 +2156,6 @@
 | 🔵 | HIP 65363 | 0.0% |
 | 🔵 | HIP 65518 | 0.0% |
 | 🔵 | HIP 66287 | 0.0% |
-| 🔵 | HIP 66593 | 0.0% |
 | 🔵 | HIP 66655 | 0.0% |
 | 🔵 | HIP 66974 | 0.0% |
 | 🔵 | HIP 67195 | 0.0% |
