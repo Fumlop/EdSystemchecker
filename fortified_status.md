@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-13 15:02:55
-**Data Source:** 2025-08-13T15:02:55.846335
+**Report Generated:** 2025-08-13 16:02:52
+**Data Source:** 2025-08-13T16:02:52.676221
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,7 +12,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Kivah** | +312,410 CP | 41,666 | 312,545 | 104.2% |
-| ✅ | **Timbalderis** | +62,706 CP | 16,447 | 65,216 | 45.4% |
+| ✅ | **Timbalderis** | +68,913 CP | 16,447 | 71,362 | 46.4% |
 | ✅ | **Crucis Sector PC-V a2-1** | +42,260 CP | 14,025 | 42,693 | 42.0% |
 | ✅ | **HR 3277** | +31,966 CP | 9,173 | 32,442 | 36.8% |
 | ✅ | **Agarda** | +29,033 CP | 25,837 | 29,588 | 48.6% |
@@ -65,7 +65,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kivah | 312,545 | 41,666 | 110.6% | 56.14% | 104.2% | 677,300 | +312,410 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 65,216 | 16,447 | 47.9% | 35.75% | 45.4% | 295,100 | +62,706 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 71,362 | 16,447 | 48.9% | 35.80% | 46.4% | 301,600 | +68,913 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 42,693 | 14,025 | 44.2% | 35.50% | 42.0% | 273,000 | +42,260 | 🟢 High Reinforcement |
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
 | ✅ | Agarda | 29,588 | 25,837 | 52.6% | 44.13% | 48.6% | 315,900 | +29,033 | 🟢 High Reinforcement |
@@ -88,9 +88,9 @@
 | ✅ | LHS 2037 | 4,606 | 2,389 | 27.9% | 26.87% | 27.5% | 178,750 | +4,123 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 3,689 | 45,424 | 66.3% | 58.78% | 59.3% | 385,450 | +3,375 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 2,866 | 35,201 | 56.9% | 51.13% | 51.5% | 334,750 | +2,416 | 🔵 Low Reinforcement |
+| ✅ | Achansa | 2,716 | 16,724 | 40.5% | 37.54% | 37.9% | 246,350 | +2,347 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
 | ✅ | Eme | 2,520 | 10,732 | 34.4% | 32.50% | 32.7% | 212,550 | +1,318 | 🔵 Low Reinforcement |
-| ✅ | Achansa | 1,485 | 16,724 | 40.3% | 37.53% | 37.7% | 245,050 | +1,104 | 🔵 Low Reinforcement |
 
 
 ---

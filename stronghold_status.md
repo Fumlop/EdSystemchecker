@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-13 15:02:55
-**Data Source:** 2025-08-13T15:02:55.847997
+**Report Generated:** 2025-08-13 16:02:52
+**Data Source:** 2025-08-13T16:02:52.677829
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -24,7 +24,7 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Asetsi** | -1,796 CP | 61,556 | 5 | 48.4% |
 | ✅ | **Rhea** | -1,721 CP | 61,458 | 0 | 48.4% |
-| ✅ | **Noti** | -715 CP | 50,041 | 634 | 44.1% |
+| ✅ | **Noti** | -679 CP | 50,041 | 679 | 44.1% |
 | ✅ | **Siki** | -286 CP | 15,301 | 59 | 30.7% |
 | ✅ | **HIP 50489** | -66 CP | 45,291 | 1,213 | 42.3% |
 
@@ -82,13 +82,13 @@
 | ✅ | Gurus | 11,896 | 71,541 | 60.6% | 52.42% | 53.4% | 534,000 | +9,759 | 🟡 Medium Reinforcement |
 | ✅ | Fousang | 12,501 | 89,583 | 69.3% | 59.33% | 60.3% | 603,000 | +9,662 | 🟡 Medium Reinforcement |
 | ✅ | Andel | 11,329 | 74,901 | 62.1% | 53.70% | 54.6% | 546,000 | +9,027 | 🟡 Medium Reinforcement |
-| ✅ | Algorab | 8,131 | 57,430 | 53.3% | 46.96% | 47.6% | 476,000 | +6,393 | 🟡 Medium Reinforcement |
+| ✅ | Algorab | 8,146 | 57,430 | 53.3% | 46.96% | 47.6% | 476,000 | +6,405 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Corbenic | 3,818 | 12,072 | 31.1% | 29.53% | 29.9% | 299,000 | +3,695 | 🔵 Low Reinforcement |
+| ✅ | Corbenic | 3,891 | 12,072 | 31.1% | 29.52% | 29.9% | 299,000 | +3,753 | 🔵 Low Reinforcement |
 | ✅ | Belgitan | 3,550 | 27,833 | 38.7% | 35.61% | 35.9% | 359,000 | +2,919 | 🔵 Low Reinforcement |
 | ✅ | Neche | 2,668 | 7,254 | 28.7% | 27.72% | 28.0% | 280,000 | +2,816 | 🔵 Low Reinforcement |
 | ✅ | Inovik | 4,705 | 69,349 | 58.7% | 51.54% | 51.8% | 518,000 | +2,553 | 🔵 Low Reinforcement |
