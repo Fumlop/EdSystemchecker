@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-13 20:02:48
-**Data Source:** 2025-08-13T20:02:47.949515
+**Report Generated:** 2025-08-13 21:02:33
+**Data Source:** 2025-08-13T21:02:33.596012
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -91,7 +91,7 @@
 | ✅ | Achansa | 2,716 | 16,724 | 40.5% | 37.54% | 37.9% | 246,350 | +2,347 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
 | ✅ | Eme | 2,757 | 10,732 | 34.4% | 32.47% | 32.7% | 212,550 | +1,514 | 🔵 Low Reinforcement |
-| ✅ | Helgaedi | 1,670 | 8,866 | 33.3% | 31.71% | 31.9% | 207,350 | +1,262 | 🔵 Low Reinforcement |
+| ✅ | Helgaedi | 1,724 | 8,866 | 33.3% | 31.70% | 31.9% | 207,350 | +1,307 | 🔵 Low Reinforcement |
 
 
 ---
