@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-13 21:02:33
-**Data Source:** 2025-08-13T21:02:33.596012
+**Report Generated:** 2025-08-13 22:02:45
+**Data Source:** 2025-08-13T22:02:45.293431
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -69,8 +69,8 @@
 | ✅ | Crucis Sector PC-V a2-1 | 42,693 | 14,025 | 44.2% | 35.50% | 42.0% | 273,000 | +42,260 | 🟢 High Reinforcement |
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
 | ✅ | Agarda | 29,588 | 25,837 | 52.6% | 44.13% | 48.6% | 315,900 | +29,033 | 🟢 High Reinforcement |
-| ✅ | Parapa | 26,354 | 31,450 | 57.3% | 48.49% | 52.5% | 341,250 | +26,080 | 🟢 High Reinforcement |
-| ✅ | Kharahua | 18,714 | 9,710 | 36.2% | 31.96% | 34.7% | 225,550 | +17,807 | 🟢 High Reinforcement |
+| ✅ | Parapa | 26,560 | 31,450 | 57.4% | 48.54% | 52.6% | 341,900 | +26,362 | 🟢 High Reinforcement |
+| ✅ | Kharahua | 18,751 | 9,710 | 36.2% | 31.96% | 34.7% | 225,550 | +17,838 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -78,14 +78,14 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Namte | 12,088 | 44,069 | 64.2% | 55.97% | 57.4% | 373,099 | +9,319 | 🟡 Medium Reinforcement |
 | ✅ | Umbrigua | 8,623 | 3,502 | 29.4% | 27.65% | 28.9% | 187,850 | +8,095 | 🟡 Medium Reinforcement |
-| ✅ | Mbutsi | 6,252 | 13,039 | 37.6% | 34.72% | 35.6% | 231,400 | +5,746 | 🟡 Medium Reinforcement |
+| ✅ | Mbutsi | 6,377 | 13,039 | 37.6% | 34.70% | 35.6% | 231,400 | +5,850 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,541 | 26,137 | 48.8% | 43.96% | 44.8% | 291,199 | +5,452 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 2037 | 4,606 | 2,389 | 27.9% | 26.87% | 27.5% | 178,750 | +4,123 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 5,170 | 2,486 | 28.0% | 26.89% | 27.6% | 179,400 | +4,622 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 3,843 | 45,424 | 66.4% | 58.84% | 59.4% | 386,100 | +3,614 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 2,866 | 35,201 | 56.9% | 51.13% | 51.5% | 334,750 | +2,416 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 2,716 | 16,724 | 40.5% | 37.54% | 37.9% | 246,350 | +2,347 | 🔵 Low Reinforcement |
