@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-13 14:03:30
-**Data Source:** 2025-08-13T14:03:30.766666
+**Report Generated:** 2025-08-13 15:02:55
+**Data Source:** 2025-08-13T15:02:55.846335
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -13,9 +13,9 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Kivah** | +312,410 CP | 41,666 | 312,545 | 104.2% |
 | ✅ | **Timbalderis** | +62,706 CP | 16,447 | 65,216 | 45.4% |
+| ✅ | **Crucis Sector PC-V a2-1** | +42,260 CP | 14,025 | 42,693 | 42.0% |
 | ✅ | **HR 3277** | +31,966 CP | 9,173 | 32,442 | 36.8% |
 | ✅ | **Agarda** | +29,033 CP | 25,837 | 29,588 | 48.6% |
-| ✅ | **Crucis Sector PC-V a2-1** | +28,841 CP | 14,025 | 29,186 | 40.0% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -66,10 +66,10 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kivah | 312,545 | 41,666 | 110.6% | 56.14% | 104.2% | 677,300 | +312,410 | 🟢 High Reinforcement |
 | ✅ | Timbalderis | 65,216 | 16,447 | 47.9% | 35.75% | 45.4% | 295,100 | +62,706 | 🟢 High Reinforcement |
+| ✅ | Crucis Sector PC-V a2-1 | 42,693 | 14,025 | 44.2% | 35.50% | 42.0% | 273,000 | +42,260 | 🟢 High Reinforcement |
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
 | ✅ | Agarda | 29,588 | 25,837 | 52.6% | 44.13% | 48.6% | 315,900 | +29,033 | 🟢 High Reinforcement |
-| ✅ | Crucis Sector PC-V a2-1 | 29,186 | 14,025 | 42.2% | 35.56% | 40.0% | 260,000 | +28,841 | 🟢 High Reinforcement |
-| ✅ | Parapa | 18,087 | 31,450 | 56.1% | 48.55% | 51.3% | 333,450 | +17,893 | 🟢 High Reinforcement |
+| ✅ | Parapa | 22,499 | 31,450 | 56.7% | 48.48% | 51.9% | 337,350 | +22,217 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 18,714 | 9,710 | 36.2% | 31.96% | 34.7% | 225,550 | +17,807 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -77,7 +77,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Namte | 12,088 | 44,069 | 64.2% | 55.97% | 57.4% | 373,099 | +9,319 | 🟡 Medium Reinforcement |
-| ✅ | Umbrigua | 8,171 | 3,502 | 29.4% | 27.71% | 28.9% | 187,850 | +7,721 | 🟡 Medium Reinforcement |
+| ✅ | Umbrigua | 8,596 | 3,502 | 29.4% | 27.66% | 28.9% | 187,850 | +8,073 | 🟡 Medium Reinforcement |
 | ✅ | Mbutsi | 6,252 | 13,039 | 37.6% | 34.72% | 35.6% | 231,400 | +5,746 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,541 | 26,137 | 48.8% | 43.96% | 44.8% | 291,199 | +5,452 | 🟡 Medium Reinforcement |
 

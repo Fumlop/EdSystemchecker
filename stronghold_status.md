@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-13 14:03:30
-**Data Source:** 2025-08-13T14:03:30.768328
+**Report Generated:** 2025-08-13 15:02:55
+**Data Source:** 2025-08-13T15:02:55.847997
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -70,17 +70,17 @@
 | ✅ | HIP 61632 | 60,265 | 0 | 30.6% | 25.00% | 30.6% | 306,000 | +56,000 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 51,278 | 89,902 | 73.3% | 59.46% | 64.3% | 643,000 | +48,430 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 28,856 | 21,778 | 38.3% | 33.26% | 36.1% | 361,000 | +28,389 | 🟢 High Reinforcement |
-| ✅ | Kaura | 20,555 | 25,250 | 39.2% | 34.68% | 36.7% | 367,000 | +20,182 | 🟢 High Reinforcement |
-| ✅ | Orishpucho | 21,148 | 80,125 | 65.6% | 55.73% | 57.6% | 576,000 | +18,719 | 🟢 High Reinforcement |
+| ✅ | Kaura | 20,589 | 25,250 | 39.2% | 34.68% | 36.7% | 367,000 | +20,209 | 🟢 High Reinforcement |
+| ✅ | Orishpucho | 21,622 | 80,125 | 65.6% | 55.69% | 57.6% | 576,000 | +19,097 | 🟢 High Reinforcement |
 | ✅ | NLTT 19808 | 12,342 | 19,798 | 35.7% | 32.50% | 33.7% | 337,000 | +11,956 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | LTT 3607 | 10,976 | 42,430 | 46.4% | 41.22% | 42.2% | 422,000 | +9,825 | 🟡 Medium Reinforcement |
 | ✅ | Gurus | 11,896 | 71,541 | 60.6% | 52.42% | 53.4% | 534,000 | +9,759 | 🟡 Medium Reinforcement |
 | ✅ | Fousang | 12,501 | 89,583 | 69.3% | 59.33% | 60.3% | 603,000 | +9,662 | 🟡 Medium Reinforcement |
-| ✅ | LTT 3607 | 10,926 | 42,430 | 46.3% | 41.14% | 42.1% | 421,000 | +9,585 | 🟡 Medium Reinforcement |
 | ✅ | Andel | 11,329 | 74,901 | 62.1% | 53.70% | 54.6% | 546,000 | +9,027 | 🟡 Medium Reinforcement |
 | ✅ | Algorab | 8,131 | 57,430 | 53.3% | 46.96% | 47.6% | 476,000 | +6,393 | 🟡 Medium Reinforcement |
 
@@ -92,8 +92,8 @@
 | ✅ | Belgitan | 3,550 | 27,833 | 38.7% | 35.61% | 35.9% | 359,000 | +2,919 | 🔵 Low Reinforcement |
 | ✅ | Neche | 2,668 | 7,254 | 28.7% | 27.72% | 28.0% | 280,000 | +2,816 | 🔵 Low Reinforcement |
 | ✅ | Inovik | 4,705 | 69,349 | 58.7% | 51.54% | 51.8% | 518,000 | +2,553 | 🔵 Low Reinforcement |
+| ✅ | LHS 1928 | 3,878 | 57,125 | 52.8% | 46.88% | 47.1% | 471,000 | +2,234 | 🔵 Low Reinforcement |
 | ✅ | Lulua | 3,406 | 44,708 | 46.8% | 42.08% | 42.3% | 423,000 | +2,153 | 🔵 Low Reinforcement |
-| ✅ | LHS 1928 | 3,731 | 57,125 | 52.8% | 46.89% | 47.1% | 471,000 | +2,117 | 🔵 Low Reinforcement |
 | ✅ | Albicevci | 1,080 | 6,208 | 28.1% | 27.36% | 27.5% | 275,000 | +1,379 | 🔵 Low Reinforcement |
 | ✅ | Karnarki | 1,008 | 9,250 | 29.5% | 28.49% | 28.6% | 286,000 | +1,097 | 🔵 Low Reinforcement |
 
