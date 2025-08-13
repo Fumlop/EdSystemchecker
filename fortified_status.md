@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-13 19:02:36
-**Data Source:** 2025-08-13T19:02:36.589284
+**Report Generated:** 2025-08-13 20:02:48
+**Data Source:** 2025-08-13T20:02:47.949515
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,7 +12,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Kivah** | +312,410 CP | 41,666 | 312,545 | 104.2% |
-| ✅ | **Timbalderis** | +79,560 CP | 16,448 | 82,062 | 48.0% |
+| ✅ | **Timbalderis** | +93,294 CP | 16,448 | 95,813 | 50.1% |
 | ✅ | **Crucis Sector PC-V a2-1** | +42,260 CP | 14,025 | 42,693 | 42.0% |
 | ✅ | **HR 3277** | +31,966 CP | 9,173 | 32,442 | 36.8% |
 | ✅ | **Agarda** | +29,033 CP | 25,837 | 29,588 | 48.6% |
@@ -65,11 +65,11 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kivah | 312,545 | 41,666 | 110.6% | 56.14% | 104.2% | 677,300 | +312,410 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 82,062 | 16,448 | 50.5% | 35.76% | 48.0% | 312,000 | +79,560 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 95,813 | 16,448 | 52.6% | 35.75% | 50.1% | 325,650 | +93,294 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 42,693 | 14,025 | 44.2% | 35.50% | 42.0% | 273,000 | +42,260 | 🟢 High Reinforcement |
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
 | ✅ | Agarda | 29,588 | 25,837 | 52.6% | 44.13% | 48.6% | 315,900 | +29,033 | 🟢 High Reinforcement |
-| ✅ | Parapa | 23,365 | 31,450 | 56.9% | 48.54% | 52.1% | 338,650 | +23,158 | 🟢 High Reinforcement |
+| ✅ | Parapa | 26,354 | 31,450 | 57.3% | 48.49% | 52.5% | 341,250 | +26,080 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 18,714 | 9,710 | 36.2% | 31.96% | 34.7% | 225,550 | +17,807 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
