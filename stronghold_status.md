@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-13 02:33:55
-**Data Source:** 2025-08-13T02:33:55.722368
+**Report Generated:** 2025-08-13 03:26:42
+**Data Source:** 2025-08-13T03:26:42.687678
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -94,6 +94,7 @@
 | ✅ | Lulua | 3,276 | 44,708 | 46.8% | 42.10% | 42.3% | 423,000 | +2,049 | 🔵 Low Reinforcement |
 | ✅ | LHS 1928 | 3,615 | 57,125 | 52.8% | 46.90% | 47.1% | 471,000 | +2,024 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 2,172 | 12,072 | 30.9% | 29.50% | 29.7% | 297,000 | +1,978 | 🔵 Low Reinforcement |
+| ✅ | Albicevci | 1,080 | 6,208 | 28.1% | 27.36% | 27.5% | 275,000 | +1,379 | 🔵 Low Reinforcement |
 | ✅ | Karnarki | 1,008 | 9,250 | 29.5% | 28.49% | 28.6% | 286,000 | +1,097 | 🔵 Low Reinforcement |
 
 
