@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-13 06:03:47
-**Data Source:** 2025-08-13T06:03:47.725471
+**Report Generated:** 2025-08-13 07:03:53
+**Data Source:** 2025-08-13T07:03:53.423277
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,10 +12,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Kivah** | +312,301 CP | 41,666 | 312,414 | 104.2% |
+| ✅ | **Timbalderis** | +35,100 CP | 16,447 | 37,546 | 41.2% |
 | ✅ | **HR 3277** | +31,966 CP | 9,173 | 32,442 | 36.8% |
 | ✅ | **Crucis Sector PC-V a2-1** | +28,841 CP | 14,025 | 29,186 | 40.0% |
 | ✅ | **Agarda** | +27,498 CP | 25,837 | 28,004 | 48.4% |
-| ✅ | **Timbalderis** | +26,984 CP | 16,444 | 29,497 | 39.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -65,10 +65,10 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kivah | 312,414 | 41,666 | 110.6% | 56.15% | 104.2% | 677,300 | +312,301 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 37,546 | 16,447 | 43.7% | 35.80% | 41.2% | 267,800 | +35,100 | 🟢 High Reinforcement |
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 29,186 | 14,025 | 42.2% | 35.56% | 40.0% | 260,000 | +28,841 | 🟢 High Reinforcement |
 | ✅ | Agarda | 28,004 | 25,837 | 52.4% | 44.17% | 48.4% | 314,600 | +27,498 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 29,497 | 16,444 | 42.4% | 35.75% | 39.9% | 259,349 | +26,984 | 🟢 High Reinforcement |
 | ✅ | Parapa | 18,087 | 31,450 | 56.1% | 48.55% | 51.3% | 333,450 | +17,893 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 18,714 | 9,710 | 36.2% | 31.96% | 34.7% | 225,550 | +17,807 | 🟢 High Reinforcement |
 
