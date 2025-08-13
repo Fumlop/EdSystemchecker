@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-13 13:13:37
-**Data Source:** 2025-08-13T13:13:37.309310
+**Report Generated:** 2025-08-13 14:03:30
+**Data Source:** 2025-08-13T14:03:30.768328
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -92,8 +92,8 @@
 | ✅ | Belgitan | 3,550 | 27,833 | 38.7% | 35.61% | 35.9% | 359,000 | +2,919 | 🔵 Low Reinforcement |
 | ✅ | Neche | 2,668 | 7,254 | 28.7% | 27.72% | 28.0% | 280,000 | +2,816 | 🔵 Low Reinforcement |
 | ✅ | Inovik | 4,705 | 69,349 | 58.7% | 51.54% | 51.8% | 518,000 | +2,553 | 🔵 Low Reinforcement |
+| ✅ | Lulua | 3,406 | 44,708 | 46.8% | 42.08% | 42.3% | 423,000 | +2,153 | 🔵 Low Reinforcement |
 | ✅ | LHS 1928 | 3,731 | 57,125 | 52.8% | 46.89% | 47.1% | 471,000 | +2,117 | 🔵 Low Reinforcement |
-| ✅ | Lulua | 3,276 | 44,708 | 46.8% | 42.10% | 42.3% | 423,000 | +2,049 | 🔵 Low Reinforcement |
 | ✅ | Albicevci | 1,080 | 6,208 | 28.1% | 27.36% | 27.5% | 275,000 | +1,379 | 🔵 Low Reinforcement |
 | ✅ | Karnarki | 1,008 | 9,250 | 29.5% | 28.49% | 28.6% | 286,000 | +1,097 | 🔵 Low Reinforcement |
 

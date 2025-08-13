@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-13 13:13:37
-**Data Source:** 2025-08-13T13:13:37.307667
+**Report Generated:** 2025-08-13 14:03:30
+**Data Source:** 2025-08-13T14:03:30.766666
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,7 +12,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Kivah** | +312,410 CP | 41,666 | 312,545 | 104.2% |
-| ✅ | **Timbalderis** | +58,528 CP | 16,447 | 60,980 | 44.8% |
+| ✅ | **Timbalderis** | +62,706 CP | 16,447 | 65,216 | 45.4% |
 | ✅ | **HR 3277** | +31,966 CP | 9,173 | 32,442 | 36.8% |
 | ✅ | **Agarda** | +29,033 CP | 25,837 | 29,588 | 48.6% |
 | ✅ | **Crucis Sector PC-V a2-1** | +28,841 CP | 14,025 | 29,186 | 40.0% |
@@ -65,7 +65,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kivah | 312,545 | 41,666 | 110.6% | 56.14% | 104.2% | 677,300 | +312,410 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 60,980 | 16,447 | 47.3% | 35.80% | 44.8% | 291,199 | +58,528 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 65,216 | 16,447 | 47.9% | 35.75% | 45.4% | 295,100 | +62,706 | 🟢 High Reinforcement |
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
 | ✅ | Agarda | 29,588 | 25,837 | 52.6% | 44.13% | 48.6% | 315,900 | +29,033 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 29,186 | 14,025 | 42.2% | 35.56% | 40.0% | 260,000 | +28,841 | 🟢 High Reinforcement |
