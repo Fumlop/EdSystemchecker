@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-13 17:02:28
-**Data Source:** 2025-08-13T17:02:28.570748
+**Report Generated:** 2025-08-13 18:04:03
+**Data Source:** 2025-08-13T18:04:03.524295
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -71,8 +71,8 @@
 | ✅ | LP 726-6 | 51,400 | 89,902 | 73.3% | 59.45% | 64.3% | 643,000 | +48,527 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 28,856 | 21,778 | 38.3% | 33.26% | 36.1% | 361,000 | +28,389 | 🟢 High Reinforcement |
 | ✅ | Kaura | 20,589 | 25,250 | 39.2% | 34.68% | 36.7% | 367,000 | +20,209 | 🟢 High Reinforcement |
-| ✅ | Orishpucho | 21,804 | 80,125 | 65.6% | 55.68% | 57.6% | 576,000 | +19,243 | 🟢 High Reinforcement |
-| ✅ | NLTT 19808 | 12,342 | 19,798 | 35.7% | 32.50% | 33.7% | 337,000 | +11,956 | 🟢 High Reinforcement |
+| ✅ | Orishpucho | 22,037 | 80,125 | 65.7% | 55.74% | 57.7% | 577,000 | +19,630 | 🟢 High Reinforcement |
+| ✅ | NLTT 19808 | 13,492 | 19,798 | 35.8% | 32.49% | 33.8% | 337,999 | +13,076 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 

@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-13 17:02:28
-**Data Source:** 2025-08-13T17:02:28.569087
+**Report Generated:** 2025-08-13 18:04:03
+**Data Source:** 2025-08-13T18:04:03.522697
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -77,7 +77,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Namte | 12,088 | 44,069 | 64.2% | 55.97% | 57.4% | 373,099 | +9,319 | 🟡 Medium Reinforcement |
-| ✅ | Umbrigua | 8,596 | 3,502 | 29.4% | 27.66% | 28.9% | 187,850 | +8,073 | 🟡 Medium Reinforcement |
+| ✅ | Umbrigua | 8,623 | 3,502 | 29.4% | 27.65% | 28.9% | 187,850 | +8,095 | 🟡 Medium Reinforcement |
 | ✅ | Mbutsi | 6,252 | 13,039 | 37.6% | 34.72% | 35.6% | 231,400 | +5,746 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,541 | 26,137 | 48.8% | 43.96% | 44.8% | 291,199 | +5,452 | 🟡 Medium Reinforcement |
 
@@ -90,7 +90,7 @@
 | ✅ | Nugua | 2,866 | 35,201 | 56.9% | 51.13% | 51.5% | 334,750 | +2,416 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 2,716 | 16,724 | 40.5% | 37.54% | 37.9% | 246,350 | +2,347 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
-| ✅ | Eme | 2,520 | 10,732 | 34.4% | 32.50% | 32.7% | 212,550 | +1,318 | 🔵 Low Reinforcement |
+| ✅ | Eme | 2,757 | 10,732 | 34.4% | 32.47% | 32.7% | 212,550 | +1,514 | 🔵 Low Reinforcement |
 
 
 ---
