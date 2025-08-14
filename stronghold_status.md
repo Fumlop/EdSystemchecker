@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-14 14:02:47
-**Data Source:** 2025-08-14T14:02:47.601804
-**Total Stronghold:** 27 (16 with decay analysis)
+**Report Generated:** 2025-08-14 15:02:48
+**Data Source:** 2025-08-14T15:02:48.218385
+**Total Stronghold:** 30 (18 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -84,3 +84,4 @@
 | ✅ | Inovik | 55,916 | 51.8% | 46.37% | 46.2% | 0 | 462,000 | -1,705 | 🟡 Low Undermining |
 | ✅ | Gurus | 59,125 | 53.4% | 47.67% | 47.5% | 0 | 475,000 | -1,662 | 🟡 Low Undermining |
 | ✅ | Rhea | 48,666 | 48.4% | 43.63% | 43.5% | 0 | 435,000 | -1,326 | 🟡 Low Undermining |
+| ✅ | Noti | 39,791 | 44.1% | 40.21% | 40.1% | 0 | 401,000 | -1,052 | 🟡 Low Undermining |
