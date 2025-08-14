@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-14 10:02:50
-**Data Source:** 2025-08-14T10:02:50.417052
-**Total Stronghold:** 5 (3 with decay analysis)
+**Report Generated:** 2025-08-14 11:02:45
+**Data Source:** 2025-08-14T11:02:45.507453
+**Total Stronghold:** 10 (6 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,7 +11,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| - | *No systems currently gaining CP* | - | - | - | - |
+| ✅ | **Neche** | +215 CP | 6,333 | 0 | 27.4% |
+| ✅ | **Corbenic** | +61 CP | 10,291 | 0 | 28.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -21,6 +22,7 @@
 | ✅ | **BD-01 1707** | -5,275 CP | 156,250 | 0 | 84.4% |
 | ✅ | **LHS 317** | -4,482 CP | 131,166 | 0 | 74.8% |
 | ✅ | **Gurus** | -1,662 CP | 59,125 | 0 | 47.5% |
+| ✅ | **Athena** | -930 CP | 36,375 | 0 | 38.8% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
