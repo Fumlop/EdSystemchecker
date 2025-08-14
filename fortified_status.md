@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-14 05:03:38
-**Data Source:** 2025-08-14T05:03:38.485419
+**Report Generated:** 2025-08-14 06:03:45
+**Data Source:** 2025-08-14T06:03:45.593590
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -71,13 +71,13 @@
 | ✅ | Agarda | 29,588 | 25,837 | 52.6% | 44.13% | 48.6% | 315,900 | +29,033 | 🟢 High Reinforcement |
 | ✅ | Parapa | 26,575 | 31,450 | 57.4% | 48.54% | 52.6% | 341,900 | +26,375 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 18,751 | 9,710 | 36.2% | 31.96% | 34.7% | 225,550 | +17,838 | 🟢 High Reinforcement |
+| ✅ | Umbrigua | 11,851 | 3,502 | 29.9% | 27.66% | 29.4% | 191,100 | +11,327 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Namte | 12,088 | 44,069 | 64.2% | 55.97% | 57.4% | 373,099 | +9,319 | 🟡 Medium Reinforcement |
-| ✅ | Umbrigua | 8,623 | 3,502 | 29.4% | 27.65% | 28.9% | 187,850 | +8,095 | 🟡 Medium Reinforcement |
 | ✅ | Mbutsi | 8,000 | 13,039 | 37.8% | 34.66% | 35.8% | 232,700 | +7,417 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,541 | 26,137 | 48.8% | 43.96% | 44.8% | 291,199 | +5,452 | 🟡 Medium Reinforcement |
 
