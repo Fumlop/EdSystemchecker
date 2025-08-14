@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-14 13:14:01
-**Data Source:** 2025-08-14T13:14:01.743425
-**Total Stronghold:** 24 (14 with decay analysis)
+**Report Generated:** 2025-08-14 14:02:47
+**Data Source:** 2025-08-14T14:02:47.601804
+**Total Stronghold:** 27 (16 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -20,8 +20,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **BD-01 1707** | -5,275 CP | 156,250 | 0 | 84.4% |
-| ✅ | **LHS 317** | -4,481 CP | 131,166 | 1 | 74.8% |
+| ✅ | **BD-01 1707** | -5,267 CP | 156,250 | 10 | 84.4% |
+| ✅ | **LHS 317** | -4,473 CP | 131,166 | 11 | 74.8% |
 | ✅ | **Inovik** | -1,705 CP | 55,916 | 0 | 46.2% |
 | ✅ | **Gurus** | -1,662 CP | 59,125 | 0 | 47.5% |
 | ✅ | **Rhea** | -1,326 CP | 48,666 | 0 | 43.5% |
@@ -31,8 +31,8 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **BD-01 1707** | -5,275 CP | 84.4% | 156,250 | 0 |
-| ✅ | **LHS 317** | -4,481 CP | 74.8% | 131,166 | 1 |
+| ✅ | **BD-01 1707** | -5,267 CP | 84.4% | 156,250 | 10 |
+| ✅ | **LHS 317** | -4,473 CP | 74.8% | 131,166 | 11 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -74,13 +74,13 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | BD-01 1707 | 156,250 | 100.0% | 84.93% | 84.4% | 0 | 844,000 | -5,275 | 🔶 Medium Undermining |
+| ✅ | BD-01 1707 | 156,250 | 100.0% | 84.93% | 84.4% | 10 | 844,000 | -5,267 | 🔶 Medium Undermining |
 
 ### 🟡 Low Activity (1000-4999 CP Undermining)
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | LHS 317 | 131,166 | 87.9% | 75.25% | 74.8% | 1 | 748,000 | -4,481 | 🟡 Low Undermining |
+| ✅ | LHS 317 | 131,166 | 87.9% | 75.25% | 74.8% | 11 | 748,000 | -4,473 | 🟡 Low Undermining |
 | ✅ | Inovik | 55,916 | 51.8% | 46.37% | 46.2% | 0 | 462,000 | -1,705 | 🟡 Low Undermining |
 | ✅ | Gurus | 59,125 | 53.4% | 47.67% | 47.5% | 0 | 475,000 | -1,662 | 🟡 Low Undermining |
 | ✅ | Rhea | 48,666 | 48.4% | 43.63% | 43.5% | 0 | 435,000 | -1,326 | 🟡 Low Undermining |
