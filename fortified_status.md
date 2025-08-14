@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-14 04:08:59
-**Data Source:** 2025-08-14T04:08:59.842482
+**Report Generated:** 2025-08-14 05:03:38
+**Data Source:** 2025-08-14T05:03:38.485419
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,8 +11,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kivah** | +312,410 CP | 41,666 | 312,545 | 104.2% |
-| ✅ | **Timbalderis** | +103,676 CP | 16,490 | 106,233 | 51.7% |
+| ✅ | **Kivah** | +312,480 CP | 41,666 | 312,630 | 104.2% |
+| ✅ | **Timbalderis** | +108,142 CP | 16,490 | 110,682 | 52.4% |
 | ✅ | **Crucis Sector PC-V a2-1** | +42,260 CP | 14,025 | 42,693 | 42.0% |
 | ✅ | **HR 3277** | +31,966 CP | 9,173 | 32,442 | 36.8% |
 | ✅ | **Agarda** | +29,033 CP | 25,837 | 29,588 | 48.6% |
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Kivah** | +312,410 CP | 104.2% | 41,666 | 312,545 |
+| ✅ | **Kivah** | +312,480 CP | 104.2% | 41,666 | 312,630 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -48,7 +48,7 @@
 
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
-| ⬆️ **Kivah** | 104.2% | stronghold | +312,410 | 312,545 | 41,666 |
+| ⬆️ **Kivah** | 104.2% | stronghold | +312,480 | 312,630 | 41,666 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 1
@@ -64,8 +64,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kivah | 312,545 | 41,666 | 110.6% | 56.14% | 104.2% | 677,300 | +312,410 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 106,233 | 16,490 | 54.2% | 35.75% | 51.7% | 336,050 | +103,676 | 🟢 High Reinforcement |
+| ✅ | Kivah | 312,630 | 41,666 | 110.6% | 56.13% | 104.2% | 677,300 | +312,480 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 110,682 | 16,490 | 54.9% | 35.76% | 52.4% | 340,600 | +108,142 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 42,693 | 14,025 | 44.2% | 35.50% | 42.0% | 273,000 | +42,260 | 🟢 High Reinforcement |
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
 | ✅ | Agarda | 29,588 | 25,837 | 52.6% | 44.13% | 48.6% | 315,900 | +29,033 | 🟢 High Reinforcement |
@@ -85,7 +85,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 2037 | 5,170 | 2,486 | 28.0% | 26.89% | 27.6% | 179,400 | +4,622 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 5,612 | 2,486 | 28.0% | 26.83% | 27.6% | 179,400 | +4,987 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 3,843 | 45,424 | 66.4% | 58.84% | 59.4% | 386,100 | +3,614 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 2,866 | 35,201 | 56.9% | 51.13% | 51.5% | 334,750 | +2,416 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 2,716 | 16,724 | 40.5% | 37.54% | 37.9% | 246,350 | +2,347 | 🔵 Low Reinforcement |
