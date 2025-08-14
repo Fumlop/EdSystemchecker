@@ -1,6 +1,6 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-08-14 08:03:52
+**Report Generated:** 2025-08-14 09:04:22
 **Data Source:** 2025-08-13T15:04:01.940258
 **Total Contested:** 1605 systems
 **Total Expansion:** 524 systems
