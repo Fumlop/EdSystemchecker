@@ -18,7 +18,7 @@
       }
     ],
     "progress_percent": 0.3,
-    "extracted_at": "2025-08-14T10:02:45.066514",
+    "extracted_at": "2025-08-14T10:04:43.124061",
     "current_cycle_refresh": true
   },
   {
@@ -36,7 +36,7 @@
       }
     ],
     "progress_percent": 0.8,
-    "extracted_at": "2025-08-14T10:02:45.070865",
+    "extracted_at": "2025-08-14T10:04:43.128631",
     "current_cycle_refresh": true
   },
   {
@@ -54,7 +54,7 @@
       }
     ],
     "progress_percent": 0.0,
-    "extracted_at": "2025-08-14T10:02:45.124644",
+    "extracted_at": "2025-08-14T10:04:43.171310",
     "current_cycle_refresh": true
   },
   {
@@ -72,7 +72,261 @@
       }
     ],
     "progress_percent": 0.0,
-    "extracted_at": "2025-08-14T10:02:45.136867",
+    "extracted_at": "2025-08-14T10:04:43.187220",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Col 285 Sector IS-U a32-4",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 48.9
+      },
+      {
+        "name": "Denton Patreus",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Jerome Archer",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Li Yong-Rui",
+        "progress_percent": 0.8
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 0.0
+      }
+    ],
+    "progress_percent": 0.0,
+    "extracted_at": "2025-08-14T11:14:43.223516",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Col 285 Sector LX-Y b15-3",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 1.5
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 0.4
+      }
+    ],
+    "progress_percent": 0.1,
+    "extracted_at": "2025-08-14T09:04:43.234127",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Core Sys Sector PN-T b3-3",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 8.7
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 3.5
+      },
+      {
+        "name": "Edmund Mahon",
+        "progress_percent": 0.2
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 2.9
+      },
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 0.1
+      }
+    ],
+    "progress_percent": 0.0,
+    "extracted_at": "2025-08-14T11:04:43.270348",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "CPD-67 2198",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 0.2
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Denton Patreus",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Edmund Mahon",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 0.0
+      }
+    ],
+    "progress_percent": 0.8,
+    "extracted_at": "2025-08-14T10:04:43.271370",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Crucis Sector DL-Y c23",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 0.1
+      },
+      {
+        "name": "Denton Patreus",
+        "progress_percent": 0.3
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 0.0
+      }
+    ],
+    "progress_percent": 1.1,
+    "extracted_at": "2025-08-14T11:04:43.283282",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Crucis Sector DL-Y c26",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 1.4
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 0.6
+      },
+      {
+        "name": "Denton Patreus",
+        "progress_percent": 55.4
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 0.0
+      }
+    ],
+    "progress_percent": 2.9,
+    "extracted_at": "2025-08-14T11:40:43.283522",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Crucis Sector EB-X b1-6",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 17.1
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 0.3
+      },
+      {
+        "name": "Denton Patreus",
+        "progress_percent": 0.1
+      },
+      {
+        "name": "Edmund Mahon",
+        "progress_percent": 0.2
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 0.0
+      }
+    ],
+    "progress_percent": 0.1,
+    "extracted_at": "2025-08-14T11:39:43.286913",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Crucis Sector OI-T b3-1",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 14.8
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 0.6
+      },
+      {
+        "name": "Edmund Mahon",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 0.1
+      }
+    ],
+    "progress_percent": 0.0,
+    "extracted_at": "2025-08-14T11:04:43.326272",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Crucis Sector ON-T b3-7",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 0.3
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Edmund Mahon",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Nakato Kaine",
+        "progress_percent": 0.0
+      }
+    ],
+    "progress_percent": 0.0,
+    "extracted_at": "2025-08-14T10:04:43.328355",
     "current_cycle_refresh": true
   },
   {
@@ -98,7 +352,7 @@
       }
     ],
     "progress_percent": 0.0,
-    "extracted_at": "2025-08-14T10:02:45.261141",
+    "extracted_at": "2025-08-14T10:04:43.331219",
     "current_cycle_refresh": true
   },
   {
@@ -120,7 +374,55 @@
       }
     ],
     "progress_percent": 0.0,
-    "extracted_at": "2025-08-14T10:04:45.261386",
+    "extracted_at": "2025-08-14T10:04:43.331444",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Crucis Sector RI-T a3-3",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 1.9
+      },
+      {
+        "name": "Denton Patreus",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 0.0
+      }
+    ],
+    "progress_percent": 0.0,
+    "extracted_at": "2025-08-14T10:04:43.334592",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Crucis Sector TI-T a3-2",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 0.1
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 0.3
+      },
+      {
+        "name": "Denton Patreus",
+        "progress_percent": 0.2
+      },
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 0.0
+      }
+    ],
+    "progress_percent": 0.0,
+    "extracted_at": "2025-08-14T11:41:43.336004",
     "current_cycle_refresh": true
   },
   {
@@ -138,7 +440,7 @@
       }
     ],
     "progress_percent": 0.0,
-    "extracted_at": "2025-08-14T10:02:45.335542",
+    "extracted_at": "2025-08-14T10:04:43.409428",
     "current_cycle_refresh": true
   },
   {
@@ -172,7 +474,25 @@
       }
     ],
     "progress_percent": 0.0,
-    "extracted_at": "2025-08-14T10:12:45.342992",
+    "extracted_at": "2025-08-14T11:04:43.417060",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Hyades Sector WU-N b7-1",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Li Yong-Rui",
+        "progress_percent": 0.1
+      }
+    ],
+    "progress_percent": 0.1,
+    "extracted_at": "2025-08-14T11:04:43.422248",
     "current_cycle_refresh": true
   },
   {
@@ -206,7 +526,45 @@
       }
     ],
     "progress_percent": 5.9,
-    "extracted_at": "2025-08-14T10:02:45.377906",
+    "extracted_at": "2025-08-14T10:04:43.452546",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "LHS 2447",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 0.6
+      },
+      {
+        "name": "Denton Patreus",
+        "progress_percent": 0.2
+      },
+      {
+        "name": "Edmund Mahon",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Jerome Archer",
+        "progress_percent": 0.3
+      },
+      {
+        "name": "Li Yong-Rui",
+        "progress_percent": 29.3
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 0.1
+      }
+    ],
+    "progress_percent": 1.4,
+    "extracted_at": "2025-08-14T10:04:43.456827",
     "current_cycle_refresh": true
   },
   {
@@ -236,7 +594,59 @@
       }
     ],
     "progress_percent": 30.8,
-    "extracted_at": "2025-08-14T10:02:45.383734",
+    "extracted_at": "2025-08-14T10:04:43.458520",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "LP 658-72",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Denton Patreus",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Jerome Archer",
+        "progress_percent": 0.5
+      },
+      {
+        "name": "Li Yong-Rui",
+        "progress_percent": 1.4
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 0.0
+      }
+    ],
+    "progress_percent": 0.0,
+    "extracted_at": "2025-08-14T11:09:43.466587",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "LP 855-14",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Edmund Mahon",
+        "progress_percent": 0.5
+      },
+      {
+        "name": "Nakato Kaine",
+        "progress_percent": 5.7
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 8.7
+      }
+    ],
+    "progress_percent": 2.4,
+    "extracted_at": "2025-08-14T11:09:43.470416",
     "current_cycle_refresh": true
   },
   {
@@ -258,7 +668,7 @@
       }
     ],
     "progress_percent": 3.6,
-    "extracted_at": "2025-08-14T10:25:45.415256",
+    "extracted_at": "2025-08-14T11:04:43.491171",
     "current_cycle_refresh": true
   },
   {
@@ -284,7 +694,7 @@
       }
     ],
     "progress_percent": 6.1,
-    "extracted_at": "2025-08-14T10:02:45.419687",
+    "extracted_at": "2025-08-14T10:04:43.495886",
     "current_cycle_refresh": true
   },
   {
@@ -306,7 +716,65 @@
       }
     ],
     "progress_percent": 0.4,
-    "extracted_at": "2025-08-14T10:02:45.423340",
+    "extracted_at": "2025-08-14T10:04:43.499644",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Puppis Sector AQ-P a5-0",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 3.3
+      },
+      {
+        "name": "Jerome Archer",
+        "progress_percent": 0.6
+      },
+      {
+        "name": "Li Yong-Rui",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 0.1
+      }
+    ],
+    "progress_percent": 0.0,
+    "extracted_at": "2025-08-14T11:04:43.500835",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Puppis Sector HW-W b1-3",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 0.2
+      }
+    ],
+    "progress_percent": 4.5,
+    "extracted_at": "2025-08-14T11:09:43.515425",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Puppis Sector HW-W b1-4",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 0.0
+      }
+    ],
+    "progress_percent": 2.2,
+    "extracted_at": "2025-08-14T11:14:43.515589",
     "current_cycle_refresh": true
   },
   {
@@ -324,7 +792,7 @@
       }
     ],
     "progress_percent": 3.4,
-    "extracted_at": "2025-08-14T10:07:45.444765",
+    "extracted_at": "2025-08-14T11:04:43.521674",
     "current_cycle_refresh": true
   },
   {
@@ -354,7 +822,37 @@
       }
     ],
     "progress_percent": 27.4,
-    "extracted_at": "2025-08-14T10:02:45.449225",
+    "extracted_at": "2025-08-14T10:04:43.526331",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Puppis Sector TO-R b4-5",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 20.7
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 3.3
+      },
+      {
+        "name": "Denton Patreus",
+        "progress_percent": 0.8
+      },
+      {
+        "name": "Edmund Mahon",
+        "progress_percent": 0.9
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 3.6
+      }
+    ],
+    "progress_percent": 0.1,
+    "extracted_at": "2025-08-14T11:07:43.531139",
     "current_cycle_refresh": true
   },
   {
@@ -380,7 +878,7 @@
       }
     ],
     "progress_percent": 0.0,
-    "extracted_at": "2025-08-14T10:08:45.455610",
+    "extracted_at": "2025-08-14T11:04:43.532911",
     "current_cycle_refresh": true
   },
   {
@@ -398,7 +896,35 @@
       }
     ],
     "progress_percent": 11.4,
-    "extracted_at": "2025-08-14T10:02:45.459484",
+    "extracted_at": "2025-08-14T10:04:43.537025",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Sharru Sector GM-V b2-1",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Edmund Mahon",
+        "progress_percent": 0.3
+      }
+    ],
+    "progress_percent": 1.3,
+    "extracted_at": "2025-08-14T11:04:43.549685",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Sharru Sector IH-V b2-3",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Edmund Mahon",
+        "progress_percent": 0.0
+      }
+    ],
+    "progress_percent": 0.0,
+    "extracted_at": "2025-08-14T11:05:43.551185",
     "current_cycle_refresh": true
   },
   {
@@ -420,7 +946,21 @@
       }
     ],
     "progress_percent": 0.0,
-    "extracted_at": "2025-08-14T10:19:45.478047",
+    "extracted_at": "2025-08-14T11:04:43.556706",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "SPOCS 308",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 0.1
+      }
+    ],
+    "progress_percent": 0.0,
+    "extracted_at": "2025-08-14T10:04:43.558150",
     "current_cycle_refresh": true
   },
   {
@@ -446,7 +986,55 @@
       }
     ],
     "progress_percent": 0.0,
-    "extracted_at": "2025-08-14T10:02:45.485430",
+    "extracted_at": "2025-08-14T10:04:43.564436",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "Volsung",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Aisling Duval",
+        "progress_percent": 90.1
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "progress_percent": 1.9
+      },
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 3.1
+      }
+    ],
+    "progress_percent": 40.6,
+    "extracted_at": "2025-08-14T11:04:43.574046",
+    "current_cycle_refresh": true
+  },
+  {
+    "system": "WISE 0607+2429",
+    "contested": true,
+    "state": "Contested",
+    "opposing_powers": [
+      {
+        "name": "Jerome Archer",
+        "progress_percent": 2.2
+      },
+      {
+        "name": "Li Yong-Rui",
+        "progress_percent": 2.7
+      },
+      {
+        "name": "Yuri Grom",
+        "progress_percent": 0.0
+      },
+      {
+        "name": "Zemina Torval",
+        "progress_percent": 0.0
+      }
+    ],
+    "progress_percent": 0.0,
+    "extracted_at": "2025-08-14T11:04:43.577402",
     "current_cycle_refresh": true
   }
 ]

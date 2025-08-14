@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-14 11:02:45
-**Data Source:** 2025-08-14T11:02:45.507453
-**Total Stronghold:** 10 (6 with decay analysis)
+**Report Generated:** 2025-08-14 12:04:43
+**Data Source:** 2025-08-14T12:04:43.587073
+**Total Stronghold:** 16 (10 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -22,7 +22,8 @@
 | ✅ | **BD-01 1707** | -5,275 CP | 156,250 | 0 | 84.4% |
 | ✅ | **LHS 317** | -4,482 CP | 131,166 | 0 | 74.8% |
 | ✅ | **Gurus** | -1,662 CP | 59,125 | 0 | 47.5% |
-| ✅ | **Athena** | -930 CP | 36,375 | 0 | 38.8% |
+| ✅ | **Rhea** | -1,326 CP | 48,666 | 0 | 43.5% |
+| ✅ | **Lulua** | -963 CP | 36,166 | 0 | 38.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -80,3 +81,4 @@
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 | ✅ | LHS 317 | 131,166 | 87.9% | 75.25% | 74.8% | 0 | 748,000 | -4,482 | 🟡 Low Undermining |
 | ✅ | Gurus | 59,125 | 53.4% | 47.67% | 47.5% | 0 | 475,000 | -1,662 | 🟡 Low Undermining |
+| ✅ | Rhea | 48,666 | 48.4% | 43.63% | 43.5% | 0 | 435,000 | -1,326 | 🟡 Low Undermining |
