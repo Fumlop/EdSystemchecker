@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-14 12:04:43
-**Data Source:** 2025-08-14T12:04:43.587073
-**Total Stronghold:** 16 (10 with decay analysis)
+**Report Generated:** 2025-08-14 13:14:01
+**Data Source:** 2025-08-14T13:14:01.743425
+**Total Stronghold:** 24 (14 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,6 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Albicevci** | +346 CP | 5,166 | 0 | 27.0% |
 | ✅ | **Neche** | +215 CP | 6,333 | 0 | 27.4% |
 | ✅ | **Corbenic** | +61 CP | 10,291 | 0 | 28.9% |
 
@@ -20,10 +21,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **BD-01 1707** | -5,275 CP | 156,250 | 0 | 84.4% |
-| ✅ | **LHS 317** | -4,482 CP | 131,166 | 0 | 74.8% |
+| ✅ | **LHS 317** | -4,481 CP | 131,166 | 1 | 74.8% |
+| ✅ | **Inovik** | -1,705 CP | 55,916 | 0 | 46.2% |
 | ✅ | **Gurus** | -1,662 CP | 59,125 | 0 | 47.5% |
 | ✅ | **Rhea** | -1,326 CP | 48,666 | 0 | 43.5% |
-| ✅ | **Lulua** | -963 CP | 36,166 | 0 | 38.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -31,7 +32,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **BD-01 1707** | -5,275 CP | 84.4% | 156,250 | 0 |
-| ✅ | **LHS 317** | -4,482 CP | 74.8% | 131,166 | 0 |
+| ✅ | **LHS 317** | -4,481 CP | 74.8% | 131,166 | 1 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -79,6 +80,7 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | LHS 317 | 131,166 | 87.9% | 75.25% | 74.8% | 0 | 748,000 | -4,482 | 🟡 Low Undermining |
+| ✅ | LHS 317 | 131,166 | 87.9% | 75.25% | 74.8% | 1 | 748,000 | -4,481 | 🟡 Low Undermining |
+| ✅ | Inovik | 55,916 | 51.8% | 46.37% | 46.2% | 0 | 462,000 | -1,705 | 🟡 Low Undermining |
 | ✅ | Gurus | 59,125 | 53.4% | 47.67% | 47.5% | 0 | 475,000 | -1,662 | 🟡 Low Undermining |
 | ✅ | Rhea | 48,666 | 48.4% | 43.63% | 43.5% | 0 | 435,000 | -1,326 | 🟡 Low Undermining |
