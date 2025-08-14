@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-14 15:02:48
-**Data Source:** 2025-08-14T15:02:48.217790
-**Total Fortified:** 41 (15 with decay analysis)
+**Report Generated:** 2025-08-14 16:05:24
+**Data Source:** 2025-08-14T16:05:24.186978
+**Total Fortified:** 46 (17 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,7 +12,8 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Timbalderis** | +23,590 CP | 34,764 | 23,817 | 54.6% |
-| ✅ | **LTT 4487** | +2,226 CP | 9,002 | 2,700 | 32.1% |
+| ✅ | **LTT 4487** | +2,694 CP | 9,002 | 3,130 | 32.2% |
+| ✅ | **Wulpurna** | +50 CP | 23,592 | 311 | 42.7% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -22,8 +23,8 @@
 | ✅ | **LHS 306** | -513 CP | 0 | 0 | 25.0% |
 | ✅ | **Aasgay** | -507 CP | 1,212 | 0 | 25.9% |
 | ✅ | **Atat** | -500 CP | 3,775 | 0 | 27.8% |
-| ✅ | **Lesheima** | -409 CP | 10,027 | 0 | 32.5% |
-| ✅ | **HR 3277** | -406 CP | 13,137 | 0 | 34.8% |
+| ✅ | **LHS 2037** | -465 CP | 2,921 | 0 | 27.2% |
+| ✅ | **LTT 4716** | -462 CP | 2,511 | 0 | 26.9% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -60,7 +61,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 4487 | 2,700 | 9,002 | 33.5% | 31.76% | 32.1% | 208,650 | +2,226 | 🔵 Low Reinforcement |
+| ✅ | LTT 4487 | 3,130 | 9,002 | 33.6% | 31.79% | 32.2% | 209,300 | +2,694 | 🔵 Low Reinforcement |
 
 
 ---
