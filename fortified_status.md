@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-14 03:26:57
-**Data Source:** 2025-08-14T03:26:56.898916
+**Report Generated:** 2025-08-14 04:08:59
+**Data Source:** 2025-08-14T04:08:59.842482
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -78,7 +78,7 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Namte | 12,088 | 44,069 | 64.2% | 55.97% | 57.4% | 373,099 | +9,319 | 🟡 Medium Reinforcement |
 | ✅ | Umbrigua | 8,623 | 3,502 | 29.4% | 27.65% | 28.9% | 187,850 | +8,095 | 🟡 Medium Reinforcement |
-| ✅ | Mbutsi | 6,377 | 13,039 | 37.6% | 34.70% | 35.6% | 231,400 | +5,850 | 🟡 Medium Reinforcement |
+| ✅ | Mbutsi | 8,000 | 13,039 | 37.8% | 34.66% | 35.8% | 232,700 | +7,417 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,541 | 26,137 | 48.8% | 43.96% | 44.8% | 291,199 | +5,452 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
