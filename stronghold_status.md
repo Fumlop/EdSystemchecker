@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-14 06:03:45
-**Data Source:** 2025-08-14T06:03:45.595610
+**Report Generated:** 2025-08-14 07:04:02
+**Data Source:** 2025-08-14T07:04:02.405730
 **Total Stronghold:** 55 (32 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **BD-01 1707** | +621,641 CP | 142,197 | 626,896 | 141.5% |
+| ✅ | **BD-01 1707** | +627,553 CP | 142,197 | 632,785 | 142.1% |
 | ✅ | **LHS 317** | +71,107 CP | 145,500 | 76,017 | 87.9% |
 | ✅ | **HIP 61632** | +62,000 CP | 0 | 66,410 | 31.2% |
-| ✅ | **LP 726-6** | +53,604 CP | 89,902 | 56,496 | 64.8% |
-| ✅ | **Carnoeck** | +29,688 CP | 21,778 | 29,979 | 36.3% |
+| ✅ | **LP 726-6** | +53,864 CP | 89,902 | 56,821 | 64.8% |
+| ✅ | **Carnoeck** | +30,357 CP | 21,778 | 30,816 | 36.3% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **BD-01 1707** | +621,641 CP | 141.5% | 142,197 | 626,896 |
+| ✅ | **BD-01 1707** | +627,553 CP | 142.1% | 142,197 | 632,785 |
 | ✅ | **LHS 317** | +71,107 CP | 87.9% | 145,500 | 76,017 |
 
 ### 🔴 **Low Progress Systems (<25%)**
@@ -49,11 +49,11 @@
 
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
-| 🚀 **BD-01 1707** | 141.5% | stronghold (already max) | +621,641 | 626,896 | 142,197 |
+| 🚀 **BD-01 1707** | 142.1% | stronghold (already max) | +627,553 | 632,785 | 142,197 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 1
-- **Highest Progress**: 141.5%
+- **Highest Progress**: 142.1%
 - **Status Change**: Stronghold → Stronghold (Already Max)
 
 ---
@@ -65,12 +65,12 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | BD-01 1707 | 626,896 | 142,197 | 155.7% | 79.34% | 141.5% | 1,415,000 | +621,641 | 🟢 High Reinforcement |
+| ✅ | BD-01 1707 | 632,785 | 142,197 | 156.3% | 79.34% | 142.1% | 1,421,000 | +627,553 | 🟢 High Reinforcement |
 | ✅ | LHS 317 | 76,017 | 145,500 | 102.5% | 80.79% | 87.9% | 879,000 | +71,107 | 🟢 High Reinforcement |
 | ✅ | HIP 61632 | 66,410 | 0 | 31.2% | 25.00% | 31.2% | 312,000 | +62,000 | 🟢 High Reinforcement |
-| ✅ | LP 726-6 | 56,496 | 89,902 | 73.8% | 59.44% | 64.8% | 648,000 | +53,604 | 🟢 High Reinforcement |
-| ✅ | Carnoeck | 29,979 | 21,778 | 38.5% | 33.33% | 36.3% | 363,000 | +29,688 | 🟢 High Reinforcement |
-| ✅ | Orishpucho | 22,798 | 80,125 | 65.7% | 55.68% | 57.7% | 577,000 | +20,238 | 🟢 High Reinforcement |
+| ✅ | LP 726-6 | 56,821 | 89,902 | 73.8% | 59.41% | 64.8% | 648,000 | +53,864 | 🟢 High Reinforcement |
+| ✅ | Carnoeck | 30,816 | 21,778 | 38.5% | 33.26% | 36.3% | 363,000 | +30,357 | 🟢 High Reinforcement |
+| ✅ | Orishpucho | 22,946 | 80,125 | 65.7% | 55.66% | 57.7% | 577,000 | +20,356 | 🟢 High Reinforcement |
 | ✅ | Kaura | 20,589 | 25,250 | 39.2% | 34.68% | 36.7% | 367,000 | +20,209 | 🟢 High Reinforcement |
 | ✅ | Algorab | 16,838 | 57,430 | 54.1% | 46.90% | 48.4% | 484,000 | +14,959 | 🟢 High Reinforcement |
 | ✅ | NLTT 19808 | 14,637 | 19,798 | 35.9% | 32.48% | 33.9% | 338,999 | +14,192 | 🟢 High Reinforcement |

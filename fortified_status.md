@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-14 06:03:45
-**Data Source:** 2025-08-14T06:03:45.593590
+**Report Generated:** 2025-08-14 07:04:02
+**Data Source:** 2025-08-14T07:04:02.404016
 **Total Fortified:** 132 (53 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,7 +12,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Kivah** | +312,480 CP | 41,666 | 312,630 | 104.2% |
-| ✅ | **Timbalderis** | +108,142 CP | 16,490 | 110,682 | 52.4% |
+| ✅ | **Timbalderis** | +123,042 CP | 16,490 | 125,572 | 54.7% |
 | ✅ | **Crucis Sector PC-V a2-1** | +42,260 CP | 14,025 | 42,693 | 42.0% |
 | ✅ | **HR 3277** | +31,966 CP | 9,173 | 32,442 | 36.8% |
 | ✅ | **Agarda** | +29,033 CP | 25,837 | 29,588 | 48.6% |
@@ -22,7 +22,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Yaricans** | -928 CP | 15,472 | 486 | 35.7% |
+| ✅ | **Yaricans** | -1,113 CP | 15,696 | 486 | 35.7% |
 | ✅ | **Pisaly** | -698 CP | 224 | 0 | 25.0% |
 | ✅ | **Delta-2 Canis Minoris** | -617 CP | 7,030 | 0 | 30.1% |
 | ✅ | **LFT 601** | -528 CP | 1,793 | 15 | 26.3% |
@@ -65,7 +65,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kivah | 312,630 | 41,666 | 110.6% | 56.13% | 104.2% | 677,300 | +312,480 | 🟢 High Reinforcement |
-| ✅ | Timbalderis | 110,682 | 16,490 | 54.9% | 35.76% | 52.4% | 340,600 | +108,142 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 125,572 | 16,490 | 57.2% | 35.77% | 54.7% | 355,550 | +123,042 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 42,693 | 14,025 | 44.2% | 35.50% | 42.0% | 273,000 | +42,260 | 🟢 High Reinforcement |
 | ✅ | HR 3277 | 32,442 | 9,173 | 38.2% | 31.88% | 36.8% | 239,200 | +31,966 | 🟢 High Reinforcement |
 | ✅ | Agarda | 29,588 | 25,837 | 52.6% | 44.13% | 48.6% | 315,900 | +29,033 | 🟢 High Reinforcement |
@@ -87,8 +87,8 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | LHS 2037 | 5,612 | 2,486 | 28.0% | 26.83% | 27.6% | 179,400 | +4,987 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 3,843 | 45,424 | 66.4% | 58.84% | 59.4% | 386,100 | +3,614 | 🔵 Low Reinforcement |
+| ✅ | Achansa | 3,620 | 16,724 | 40.6% | 37.51% | 38.0% | 247,000 | +3,207 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 2,866 | 35,201 | 56.9% | 51.13% | 51.5% | 334,750 | +2,416 | 🔵 Low Reinforcement |
-| ✅ | Achansa | 2,716 | 16,724 | 40.5% | 37.54% | 37.9% | 246,350 | +2,347 | 🔵 Low Reinforcement |
 | ✅ | Eme | 3,355 | 10,733 | 34.5% | 32.47% | 32.8% | 213,199 | +2,120 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 2,277 | 20,756 | 44.0% | 40.51% | 40.8% | 265,200 | +1,895 | 🔵 Low Reinforcement |
 | ✅ | Helgaedi | 1,724 | 8,866 | 33.3% | 31.70% | 31.9% | 207,350 | +1,307 | 🔵 Low Reinforcement |
@@ -109,4 +109,6 @@
 
 ### 🟡 Low Activity (1000-4999 CP Undermining)
 
-*No fortified systems with low undermining activity*
+| Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
+|--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
+| ✅ | Yaricans | 15,696 | 38.1% | 35.87% | 35.7% | 486 | 232,050 | -1,113 | 🟡 Low Undermining |
