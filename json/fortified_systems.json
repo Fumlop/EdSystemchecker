@@ -1,7 +1,7 @@
 {
   "state": "Fortified",
-  "system_count": 3,
-  "last_update": "2025-08-14T09:04:22.110111",
+  "system_count": 4,
+  "last_update": "2025-08-14T10:02:50.416878",
   "systems": [
     {
       "system": "Alchita",
@@ -12,7 +12,19 @@
       "current_progress_cp": 65650,
       "last_cycle_cp_actual": 65650,
       "last_cycle_percent": 10.1,
-      "extracted_at": "2025-08-14T08:55:21.648996",
+      "extracted_at": "2025-08-14T10:02:49.958739",
+      "current_cycle_refresh": true
+    },
+    {
+      "system": "BD-19 3629A",
+      "state": "Fortified",
+      "undermining": 0,
+      "reinforcement": 0,
+      "progress_percent": 6.7,
+      "current_progress_cp": 43550,
+      "last_cycle_cp_actual": 43550,
+      "last_cycle_percent": 6.7,
+      "extracted_at": "2025-08-14T09:48:49.962167",
       "current_cycle_refresh": true
     },
     {
@@ -24,7 +36,7 @@
       "current_progress_cp": 206050,
       "last_cycle_cp_actual": 215052,
       "last_cycle_percent": 33.1,
-      "extracted_at": "2025-08-14T09:01:21.671426",
+      "extracted_at": "2025-08-14T09:02:49.980520",
       "current_cycle_refresh": true,
       "natural_decay": 31.77,
       "expected_progress_cp": 206507,
@@ -39,7 +51,7 @@
       "current_progress_cp": 331500,
       "last_cycle_cp_actual": 366264,
       "last_cycle_percent": 56.3,
-      "extracted_at": "2025-08-14T08:53:21.679998",
+      "extracted_at": "2025-08-14T09:02:49.988894",
       "current_cycle_refresh": true,
       "natural_decay": 51.02,
       "expected_progress_cp": 331655,
