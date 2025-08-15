@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-15 00:19:11
-**Data Source:** 2025-08-15T00:19:11.342645
-**Total Fortified:** 84 (32 with decay analysis)
+**Report Generated:** 2025-08-15 04:10:49
+**Data Source:** 2025-08-15T04:10:49.724931
+**Total Fortified:** 92 (38 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -22,11 +22,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Delta Muscae** | -735 CP | 9,609 | 0 | 31.9% |
 | ✅ | **Huangais** | -522 CP | 3,536 | 5 | 27.6% |
 | ✅ | **LHS 306** | -513 CP | 0 | 0 | 25.0% |
 | ✅ | **Aasgay** | -507 CP | 1,212 | 0 | 25.9% |
 | ✅ | **Atat** | -500 CP | 3,775 | 0 | 27.8% |
-| ✅ | **Eme** | -476 CP | 8,755 | 0 | 31.5% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
