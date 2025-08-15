@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-14 20:05:04
-**Data Source:** 2025-08-14T20:05:04.812169
-**Total Fortified:** 72 (27 with decay analysis)
+**Report Generated:** 2025-08-15 00:19:11
+**Data Source:** 2025-08-15T00:19:11.342645
+**Total Fortified:** 84 (32 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Timbalderis** | +35,334 CP | 34,767 | 35,573 | 56.4% |
-| ✅ | **LTT 4487** | +2,694 CP | 9,002 | 3,130 | 32.2% |
-| ✅ | **Umbrigua** | +1,435 CP | 4,971 | 1,909 | 29.0% |
-| ✅ | **Ralu** | +137 CP | 21,986 | 435 | 41.5% |
-| ✅ | **Wulpurna** | +50 CP | 23,592 | 311 | 42.7% |
+| ✅ | **Timbalderis** | +46,912 CP | 34,842 | 47,200 | 58.2% |
+| ✅ | **LTT 4487** | +7,773 CP | 9,002 | 8,184 | 33.0% |
+| ✅ | **Umbrigua** | +2,092 CP | 4,971 | 2,568 | 29.1% |
+| ✅ | **Ralu** | +1,394 CP | 21,986 | 1,683 | 41.7% |
+| ✅ | **NLTT 21088** | +163 CP | 38,249 | 350 | 53.6% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -53,18 +53,20 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Timbalderis | 35,573 | 34,767 | 61.7% | 50.96% | 56.4% | 366,599 | +35,334 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 47,200 | 34,842 | 63.6% | 50.98% | 58.2% | 378,300 | +46,912 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
-*No fortified systems with medium reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | LTT 4487 | 8,184 | 9,002 | 34.4% | 31.80% | 33.0% | 214,500 | +7,773 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 4487 | 3,130 | 9,002 | 33.6% | 31.79% | 32.2% | 209,300 | +2,694 | 🔵 Low Reinforcement |
-| ✅ | Umbrigua | 1,909 | 4,971 | 29.8% | 28.78% | 29.0% | 188,500 | +1,435 | 🔵 Low Reinforcement |
+| ✅ | Umbrigua | 2,568 | 4,971 | 29.9% | 28.78% | 29.1% | 189,150 | +2,092 | 🔵 Low Reinforcement |
+| ✅ | Ralu | 1,683 | 21,986 | 45.1% | 41.49% | 41.7% | 271,050 | +1,394 | 🔵 Low Reinforcement |
 
 
 ---
