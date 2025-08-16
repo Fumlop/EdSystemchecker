@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-16 08:05:27
-**Data Source:** 2025-08-16T08:05:27.048151
-**Total Fortified:** 125 (50 with decay analysis)
+**Report Generated:** 2025-08-16 12:06:29
+**Data Source:** 2025-08-16T12:06:29.285965
+**Total Fortified:** 124 (49 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Timbalderis** | +127,366 CP | 35,210 | 127,992 | 70.6% |
+| ✅ | **Timbalderis** | +142,312 CP | 35,276 | 143,003 | 72.9% |
 | ✅ | **Crucis Sector PC-V a2-1** | +42,260 CP | 14,025 | 42,693 | 42.0% |
 | ✅ | **LTT 4487** | +9,065 CP | 9,314 | 9,786 | 33.2% |
 | ✅ | **Umbrigua** | +8,946 CP | 4,971 | 9,360 | 30.2% |
@@ -22,18 +22,18 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Pisaly** | -698 CP | 224 | 0 | 25.0% |
-| ✅ | **Aasgay** | -666 CP | 1,404 | 0 | 25.9% |
+| ✅ | **Achansa** | -757 CP | 14,915 | 0 | 35.8% |
+| ✅ | **Aasgay** | -694 CP | 1,438 | 0 | 25.9% |
+| ✅ | **Tau Centauri** | -585 CP | 16,196 | 0 | 36.9% |
 | ✅ | **Gliese 2084** | -559 CP | 597 | 0 | 25.4% |
 | ✅ | **LTT 4716** | -555 CP | 2,623 | 0 | 26.9% |
-| ✅ | **Huangais** | -533 CP | 3,549 | 5 | 27.6% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Timbalderis** | +127,366 CP | 70.6% | 35,210 | 127,992 |
+| ✅ | **Timbalderis** | +142,312 CP | 72.9% | 35,276 | 143,003 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Timbalderis | 127,992 | 35,210 | 76.0% | 51.01% | 70.6% | 458,900 | +127,366 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 143,003 | 35,276 | 78.3% | 51.01% | 72.9% | 473,850 | +142,312 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 42,693 | 14,025 | 44.2% | 35.50% | 42.0% | 273,000 | +42,260 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
