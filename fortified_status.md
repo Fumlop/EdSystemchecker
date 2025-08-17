@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-17 16:04:30
-**Data Source:** 2025-08-17T16:04:30.440882
-**Total Fortified:** 127 (51 with decay analysis)
+**Report Generated:** 2025-08-17 20:04:42
+**Data Source:** 2025-08-17T20:04:42.667362
+**Total Fortified:** 129 (51 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,10 +11,10 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Timbalderis** | +238,568 CP | 35,623 | 239,618 | 87.7% |
-| ✅ | **Crucis Sector PC-V a2-1** | +33,517 CP | 21,235 | 33,789 | 46.1% |
-| ✅ | **Umbrigua** | +15,239 CP | 4,980 | 15,754 | 31.1% |
-| ✅ | **LTT 4487** | +9,101 CP | 9,314 | 9,829 | 33.2% |
+| ✅ | **Timbalderis** | +249,795 CP | 35,623 | 250,882 | 89.4% |
+| ✅ | **Crucis Sector PC-V a2-1** | +42,273 CP | 21,595 | 42,968 | 47.4% |
+| ✅ | **Umbrigua** | +15,274 CP | 4,980 | 15,797 | 31.1% |
+| ✅ | **LTT 4487** | +9,218 CP | 9,314 | 9,971 | 33.2% |
 | ✅ | **Parapa** | +5,872 CP | 30,664 | 6,160 | 48.8% |
 
 ### 🔴 **Most Threatened Systems**
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Timbalderis** | +238,568 CP | 87.7% | 35,623 | 239,618 |
+| ✅ | **Timbalderis** | +249,795 CP | 89.4% | 35,623 | 250,882 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,27 +53,28 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Timbalderis | 239,618 | 35,623 | 93.2% | 51.00% | 87.7% | 570,050 | +238,568 | 🟢 High Reinforcement |
-| ✅ | Crucis Sector PC-V a2-1 | 33,789 | 21,235 | 49.4% | 40.94% | 46.1% | 299,650 | +33,517 | 🟢 High Reinforcement |
-| ✅ | Umbrigua | 15,754 | 4,980 | 31.9% | 28.76% | 31.1% | 202,150 | +15,239 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 250,882 | 35,623 | 94.9% | 50.97% | 89.4% | 581,100 | +249,795 | 🟢 High Reinforcement |
+| ✅ | Crucis Sector PC-V a2-1 | 42,968 | 21,595 | 50.7% | 40.90% | 47.4% | 308,100 | +42,273 | 🟢 High Reinforcement |
+| ✅ | Umbrigua | 15,797 | 4,980 | 31.9% | 28.75% | 31.1% | 202,150 | +15,274 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 4487 | 9,829 | 9,314 | 34.6% | 31.80% | 33.2% | 215,800 | +9,101 | 🟡 Medium Reinforcement |
+| ✅ | LTT 4487 | 9,971 | 9,314 | 34.6% | 31.78% | 33.2% | 215,800 | +9,218 | 🟡 Medium Reinforcement |
 | ✅ | Parapa | 6,160 | 30,664 | 53.5% | 47.90% | 48.8% | 317,200 | +5,872 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | b2 Carinae | 4,292 | 4,902 | 30.1% | 28.72% | 29.3% | 190,450 | +3,800 | 🔵 Low Reinforcement |
+| ✅ | b2 Carinae | 4,742 | 4,902 | 30.2% | 28.74% | 29.4% | 191,100 | +4,285 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 3,382 | 38,249 | 60.0% | 53.60% | 54.1% | 351,650 | +3,233 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 3,502 | 22,102 | 45.3% | 41.43% | 41.9% | 272,350 | +3,028 | 🔵 Low Reinforcement |
-| ✅ | LHS 2037 | 3,119 | 3,126 | 28.1% | 27.23% | 27.6% | 179,400 | +2,394 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 3,567 | 3,126 | 28.2% | 27.26% | 27.7% | 180,049 | +2,877 | 🔵 Low Reinforcement |
 | ✅ | Huangais | 2,149 | 3,549 | 28.5% | 27.74% | 28.0% | 182,000 | +1,690 | 🔵 Low Reinforcement |
 | ✅ | 54 G. Antlia | 1,911 | 22,362 | 45.4% | 41.75% | 42.0% | 273,000 | +1,608 | 🔵 Low Reinforcement |
-| ✅ | NLTT 21088 | 1,791 | 38,249 | 59.7% | 53.56% | 53.8% | 349,699 | +1,580 | 🔵 Low Reinforcement |
+| ✅ | Agarda | 1,686 | 26,188 | 48.8% | 44.59% | 44.8% | 291,199 | +1,392 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 1,597 | 12,068 | 36.1% | 34.03% | 34.2% | 222,300 | +1,129 | 🔵 Low Reinforcement |
 
 
