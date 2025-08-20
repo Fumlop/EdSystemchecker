@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-19 20:05:05
-**Data Source:** 2025-08-19T20:05:05.583320
+**Report Generated:** 2025-08-20 00:17:14
+**Data Source:** 2025-08-20T00:17:14.095223
 **Total Fortified:** 129 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -13,9 +13,9 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Timbalderis** | +325,042 CP | 36,000 | 326,474 | 101.0% |
 | ✅ | **Crucis Sector PC-V a2-1** | +50,450 CP | 21,595 | 51,088 | 48.7% |
-| ✅ | **Parapa** | +18,005 CP | 30,664 | 18,248 | 50.7% |
+| ✅ | **Parapa** | +21,269 CP | 30,664 | 21,515 | 51.2% |
 | ✅ | **Umbrigua** | +17,697 CP | 4,980 | 18,183 | 31.5% |
-| ✅ | **LTT 4487** | +9,216 CP | 9,675 | 10,330 | 33.2% |
+| ✅ | **LTT 4487** | +9,322 CP | 9,675 | 10,457 | 33.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -66,30 +66,30 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Timbalderis | 326,474 | 36,000 | 106.5% | 50.99% | 101.0% | 656,500 | +325,042 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 51,088 | 21,595 | 52.0% | 40.94% | 48.7% | 316,550 | +50,450 | 🟢 High Reinforcement |
-| ✅ | Parapa | 18,248 | 30,664 | 55.4% | 47.93% | 50.7% | 329,550 | +18,005 | 🟢 High Reinforcement |
+| ✅ | Parapa | 21,515 | 30,664 | 55.9% | 47.93% | 51.2% | 332,800 | +21,269 | 🟢 High Reinforcement |
 | ✅ | Umbrigua | 18,183 | 4,980 | 32.3% | 28.78% | 31.5% | 204,750 | +17,697 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 4487 | 10,330 | 9,675 | 34.7% | 31.78% | 33.2% | 215,800 | +9,216 | 🟡 Medium Reinforcement |
+| ✅ | LTT 4487 | 10,457 | 9,675 | 34.7% | 31.77% | 33.2% | 215,800 | +9,322 | 🟡 Medium Reinforcement |
 | ✅ | NLTT 21088 | 7,880 | 38,249 | 60.7% | 53.61% | 54.8% | 356,199 | +7,740 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 2037 | 5,008 | 3,126 | 28.4% | 27.24% | 27.9% | 181,349 | +4,294 | 🔵 Low Reinforcement |
-| ✅ | b2 Carinae | 4,742 | 4,902 | 30.2% | 28.74% | 29.4% | 191,100 | +4,285 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 5,295 | 3,126 | 28.5% | 27.29% | 28.0% | 182,000 | +4,644 | 🔵 Low Reinforcement |
+| ✅ | b2 Carinae | 4,757 | 4,902 | 30.2% | 28.74% | 29.4% | 191,100 | +4,297 | 🔵 Low Reinforcement |
 | ✅ | Agarda | 4,178 | 26,188 | 49.2% | 44.60% | 45.2% | 293,800 | +3,903 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 3,908 | 22,102 | 45.4% | 41.47% | 42.0% | 273,000 | +3,476 | 🔵 Low Reinforcement |
-| ✅ | Huangais | 2,680 | 3,549 | 28.6% | 27.76% | 28.1% | 182,650 | +2,241 | 🔵 Low Reinforcement |
-| ✅ | 18 Puppis | 2,525 | 19,731 | 43.1% | 39.77% | 40.1% | 260,650 | +2,165 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 3,145 | 19,731 | 43.2% | 39.77% | 40.2% | 261,300 | +2,790 | 🔵 Low Reinforcement |
+| ✅ | Huangais | 3,189 | 3,549 | 28.6% | 27.69% | 28.1% | 182,650 | +2,663 | 🔵 Low Reinforcement |
 | ✅ | 54 G. Antlia | 2,162 | 22,362 | 45.4% | 41.72% | 42.0% | 273,000 | +1,815 | 🔵 Low Reinforcement |
-| ✅ | Mbutsi | 1,884 | 12,068 | 36.2% | 34.07% | 34.3% | 222,949 | +1,478 | 🔵 Low Reinforcement |
+| ✅ | Mbutsi | 1,951 | 12,073 | 36.2% | 34.06% | 34.3% | 222,949 | +1,529 | 🔵 Low Reinforcement |
+| ✅ | Hyades Sector KC-U c3-21 | 1,724 | 17,620 | 41.1% | 38.19% | 38.4% | 249,600 | +1,344 | 🔵 Low Reinforcement |
 | ✅ | Delta Muscae | 2,087 | 9,609 | 33.7% | 32.00% | 32.2% | 209,300 | +1,329 | 🔵 Low Reinforcement |
-| ✅ | Hyades Sector KC-U c3-21 | 1,616 | 17,620 | 41.1% | 38.21% | 38.4% | 249,600 | +1,255 | 🔵 Low Reinforcement |
 
 
 ---
