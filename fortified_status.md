@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-20 16:05:20
-**Data Source:** 2025-08-20T16:05:20.741410
-**Total Fortified:** 131 (52 with decay analysis)
+**Report Generated:** 2025-08-20 20:05:14
+**Data Source:** 2025-08-20T20:05:14.162313
+**Total Fortified:** 132 (52 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,9 +11,9 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Timbalderis** | +334,990 CP | 36,059 | 336,522 | 102.5% |
+| ✅ | **Timbalderis** | +335,294 CP | 36,059 | 336,754 | 102.6% |
 | ✅ | **Crucis Sector PC-V a2-1** | +50,450 CP | 21,595 | 51,088 | 48.7% |
-| ✅ | **Parapa** | +30,080 CP | 30,664 | 30,266 | 52.6% |
+| ✅ | **Parapa** | +36,318 CP | 30,664 | 36,585 | 53.5% |
 | ✅ | **Kharahua** | +26,647 CP | 10,882 | 27,048 | 37.3% |
 | ✅ | **Umbrigua** | +17,697 CP | 4,980 | 18,183 | 31.5% |
 
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Timbalderis** | +334,990 CP | 102.5% | 36,059 | 336,522 |
+| ✅ | **Timbalderis** | +335,294 CP | 102.6% | 36,059 | 336,754 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -48,11 +48,11 @@
 
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
-| ⬆️ **Timbalderis** | 102.5% | stronghold | +334,990 | 336,522 | 36,059 |
+| ⬆️ **Timbalderis** | 102.6% | stronghold | +335,294 | 336,754 | 36,059 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 1
-- **Highest Progress**: 102.5%
+- **Highest Progress**: 102.6%
 - **Status Change**: Fortified → Stronghold
 
 ---
@@ -64,19 +64,19 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Timbalderis | 336,522 | 36,059 | 108.0% | 50.96% | 102.5% | 666,250 | +334,990 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 336,754 | 36,059 | 108.1% | 51.02% | 102.6% | 666,900 | +335,294 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 51,088 | 21,595 | 52.0% | 40.94% | 48.7% | 316,550 | +50,450 | 🟢 High Reinforcement |
-| ✅ | Parapa | 30,266 | 30,664 | 57.3% | 47.97% | 52.6% | 341,900 | +30,080 | 🟢 High Reinforcement |
+| ✅ | Parapa | 36,585 | 30,664 | 58.2% | 47.91% | 53.5% | 347,750 | +36,318 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 27,048 | 10,882 | 39.0% | 33.20% | 37.3% | 242,450 | +26,647 | 🟢 High Reinforcement |
 | ✅ | Umbrigua | 18,183 | 4,980 | 32.3% | 28.78% | 31.5% | 204,750 | +17,697 | 🟢 High Reinforcement |
-| ✅ | LTT 4487 | 12,481 | 9,675 | 35.0% | 31.76% | 33.5% | 217,750 | +11,333 | 🟢 High Reinforcement |
+| ✅ | LTT 4487 | 14,427 | 9,675 | 35.3% | 31.76% | 33.8% | 219,699 | +13,279 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | NLTT 21088 | 9,561 | 38,249 | 60.9% | 53.56% | 55.0% | 357,500 | +9,355 | 🟡 Medium Reinforcement |
-| ✅ | Agarda | 7,193 | 26,193 | 49.7% | 44.63% | 45.7% | 297,050 | +6,954 | 🟡 Medium Reinforcement |
+| ✅ | Agarda | 7,275 | 26,193 | 49.7% | 44.62% | 45.7% | 297,050 | +7,022 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
@@ -90,9 +90,11 @@
 | ✅ | 18 Puppis | 3,145 | 19,731 | 43.2% | 39.77% | 40.2% | 261,300 | +2,790 | 🔵 Low Reinforcement |
 | ✅ | LHS 1887 | 2,363 | 12,624 | 36.7% | 34.50% | 34.8% | 226,199 | +1,974 | 🔵 Low Reinforcement |
 | ✅ | 54 G. Antlia | 2,162 | 22,362 | 45.4% | 41.72% | 42.0% | 273,000 | +1,815 | 🔵 Low Reinforcement |
-| ✅ | Mbutsi | 1,959 | 12,073 | 36.2% | 34.06% | 34.3% | 222,949 | +1,536 | 🔵 Low Reinforcement |
+| ✅ | Mbutsi | 2,069 | 12,073 | 36.2% | 34.05% | 34.3% | 222,949 | +1,627 | 🔵 Low Reinforcement |
+| ✅ | Hyades Sector KC-U c3-21 | 1,926 | 17,620 | 41.1% | 38.17% | 38.4% | 249,600 | +1,511 | 🔵 Low Reinforcement |
 | ✅ | Delta Muscae | 2,136 | 9,609 | 33.7% | 31.99% | 32.2% | 209,300 | +1,369 | 🔵 Low Reinforcement |
-| ✅ | Hyades Sector KC-U c3-21 | 1,724 | 17,620 | 41.1% | 38.19% | 38.4% | 249,600 | +1,344 | 🔵 Low Reinforcement |
+| ✅ | UBV 8670 | 1,532 | 13,752 | 37.6% | 35.32% | 35.5% | 230,750 | +1,138 | 🔵 Low Reinforcement |
+| ✅ | Namte | 1,209 | 36,028 | 57.6% | 51.94% | 52.1% | 338,650 | +1,032 | 🔵 Low Reinforcement |
 
 
 ---
