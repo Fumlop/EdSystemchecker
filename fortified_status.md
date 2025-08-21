@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-20 20:05:14
-**Data Source:** 2025-08-20T20:05:14.162313
-**Total Fortified:** 132 (52 with decay analysis)
+**Report Generated:** 2025-08-21 00:16:40
+**Data Source:** 2025-08-21T00:16:40.584364
+**Total Fortified:** 133 (52 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,9 +11,9 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Timbalderis** | +335,294 CP | 36,059 | 336,754 | 102.6% |
-| ✅ | **Crucis Sector PC-V a2-1** | +50,450 CP | 21,595 | 51,088 | 48.7% |
-| ✅ | **Parapa** | +36,318 CP | 30,664 | 36,585 | 53.5% |
+| ✅ | **Timbalderis** | +335,349 CP | 36,127 | 336,889 | 102.6% |
+| ✅ | **Crucis Sector PC-V a2-1** | +75,230 CP | 21,595 | 75,885 | 52.5% |
+| ✅ | **Parapa** | +36,313 CP | 30,680 | 36,595 | 53.5% |
 | ✅ | **Kharahua** | +26,647 CP | 10,882 | 27,048 | 37.3% |
 | ✅ | **Umbrigua** | +17,697 CP | 4,980 | 18,183 | 31.5% |
 
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Timbalderis** | +335,294 CP | 102.6% | 36,059 | 336,754 |
+| ✅ | **Timbalderis** | +335,349 CP | 102.6% | 36,127 | 336,889 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -48,7 +48,7 @@
 
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
-| ⬆️ **Timbalderis** | 102.6% | stronghold | +335,294 | 336,754 | 36,059 |
+| ⬆️ **Timbalderis** | 102.6% | stronghold | +335,349 | 336,889 | 36,127 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 1
@@ -64,37 +64,37 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Timbalderis | 336,754 | 36,059 | 108.1% | 51.02% | 102.6% | 666,900 | +335,294 | 🟢 High Reinforcement |
-| ✅ | Crucis Sector PC-V a2-1 | 51,088 | 21,595 | 52.0% | 40.94% | 48.7% | 316,550 | +50,450 | 🟢 High Reinforcement |
-| ✅ | Parapa | 36,585 | 30,664 | 58.2% | 47.91% | 53.5% | 347,750 | +36,318 | 🟢 High Reinforcement |
+| ✅ | Timbalderis | 336,889 | 36,127 | 108.2% | 51.01% | 102.6% | 666,900 | +335,349 | 🟢 High Reinforcement |
+| ✅ | Crucis Sector PC-V a2-1 | 75,885 | 21,595 | 55.8% | 40.93% | 52.5% | 341,250 | +75,230 | 🟢 High Reinforcement |
+| ✅ | Parapa | 36,595 | 30,680 | 58.2% | 47.91% | 53.5% | 347,750 | +36,313 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 27,048 | 10,882 | 39.0% | 33.20% | 37.3% | 242,450 | +26,647 | 🟢 High Reinforcement |
 | ✅ | Umbrigua | 18,183 | 4,980 | 32.3% | 28.78% | 31.5% | 204,750 | +17,697 | 🟢 High Reinforcement |
-| ✅ | LTT 4487 | 14,427 | 9,675 | 35.3% | 31.76% | 33.8% | 219,699 | +13,279 | 🟢 High Reinforcement |
+| ✅ | Agarda | 17,181 | 26,193 | 51.2% | 44.60% | 47.2% | 306,800 | +16,901 | 🟢 High Reinforcement |
+| ✅ | LTT 4487 | 14,508 | 9,693 | 35.3% | 31.75% | 33.8% | 219,699 | +13,331 | 🟢 High Reinforcement |
+| ✅ | NLTT 21088 | 11,939 | 38,249 | 61.3% | 53.59% | 55.4% | 360,099 | +11,771 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
-| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
-|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | NLTT 21088 | 9,561 | 38,249 | 60.9% | 53.56% | 55.0% | 357,500 | +9,355 | 🟡 Medium Reinforcement |
-| ✅ | Agarda | 7,275 | 26,193 | 49.7% | 44.62% | 45.7% | 297,050 | +7,022 | 🟡 Medium Reinforcement |
+*No fortified systems with medium reinforcement activity*
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 2037 | 5,297 | 3,126 | 28.5% | 27.29% | 28.0% | 182,000 | +4,645 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 5,477 | 3,126 | 28.5% | 27.26% | 28.0% | 182,000 | +4,794 | 🔵 Low Reinforcement |
 | ✅ | Huangais | 4,838 | 3,549 | 28.9% | 27.73% | 28.4% | 184,599 | +4,363 | 🔵 Low Reinforcement |
-| ✅ | b2 Carinae | 4,762 | 4,938 | 30.2% | 28.74% | 29.4% | 191,100 | +4,271 | 🔵 Low Reinforcement |
-| ✅ | Achansa | 4,628 | 14,915 | 38.8% | 35.91% | 36.5% | 237,250 | +3,858 | 🔵 Low Reinforcement |
+| ✅ | b2 Carinae | 4,762 | 4,956 | 30.2% | 28.75% | 29.4% | 191,100 | +4,256 | 🔵 Low Reinforcement |
+| ✅ | Achansa | 4,736 | 14,915 | 38.8% | 35.89% | 36.5% | 237,250 | +3,947 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 3,865 | 19,731 | 43.3% | 39.76% | 40.3% | 261,949 | +3,498 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 3,908 | 22,102 | 45.4% | 41.47% | 42.0% | 273,000 | +3,476 | 🔵 Low Reinforcement |
-| ✅ | 18 Puppis | 3,145 | 19,731 | 43.2% | 39.77% | 40.2% | 261,300 | +2,790 | 🔵 Low Reinforcement |
 | ✅ | LHS 1887 | 2,363 | 12,624 | 36.7% | 34.50% | 34.8% | 226,199 | +1,974 | 🔵 Low Reinforcement |
 | ✅ | 54 G. Antlia | 2,162 | 22,362 | 45.4% | 41.72% | 42.0% | 273,000 | +1,815 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 2,069 | 12,073 | 36.2% | 34.05% | 34.3% | 222,949 | +1,627 | 🔵 Low Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 1,926 | 17,620 | 41.1% | 38.17% | 38.4% | 249,600 | +1,511 | 🔵 Low Reinforcement |
 | ✅ | Delta Muscae | 2,136 | 9,609 | 33.7% | 31.99% | 32.2% | 209,300 | +1,369 | 🔵 Low Reinforcement |
+| ✅ | Namte | 1,347 | 36,028 | 57.6% | 51.92% | 52.1% | 338,650 | +1,146 | 🔵 Low Reinforcement |
 | ✅ | UBV 8670 | 1,532 | 13,752 | 37.6% | 35.32% | 35.5% | 230,750 | +1,138 | 🔵 Low Reinforcement |
-| ✅ | Namte | 1,209 | 36,028 | 57.6% | 51.94% | 52.1% | 338,650 | +1,032 | 🔵 Low Reinforcement |
+| ✅ | Polahukuna | 1,539 | 12,282 | 36.3% | 34.23% | 34.4% | 223,599 | +1,127 | 🔵 Low Reinforcement |
 
 
 ---
