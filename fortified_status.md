@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-22 08:06:00
-**Data Source:** 2025-08-22T08:06:00.176018
-**Total Fortified:** 117 (48 with decay analysis)
+**Report Generated:** 2025-08-22 12:07:13
+**Data Source:** 2025-08-22T12:07:13.861071
+**Total Fortified:** 114 (46 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Kharahua** | +26,647 CP | 10,882 | 27,048 | 37.3% |
 | ✅ | **Crucis Sector PC-V a2-1** | +18,149 CP | 33,295 | 18,346 | 52.7% |
 | ✅ | **LTT 4487** | +9,737 CP | 9,857 | 10,193 | 33.9% |
 | ✅ | **Parapa** | +6,602 CP | 31,826 | 6,851 | 49.8% |
-| ✅ | **Hyades Sector KC-U c3-21** | +1,511 CP | 17,620 | 1,926 | 38.4% |
+| ✅ | **NLTT 21088** | +1,203 CP | 33,743 | 1,432 | 50.4% |
+| ✅ | **UBV 8670** | +1,138 CP | 13,752 | 1,532 | 35.5% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -53,7 +53,6 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Kharahua | 27,048 | 10,882 | 39.0% | 33.20% | 37.3% | 242,450 | +26,647 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 18,346 | 33,295 | 57.8% | 49.91% | 52.7% | 342,550 | +18,149 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -67,7 +66,6 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Hyades Sector KC-U c3-21 | 1,926 | 17,620 | 41.1% | 38.17% | 38.4% | 249,600 | +1,511 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 1,432 | 33,743 | 55.6% | 50.21% | 50.4% | 327,600 | +1,203 | 🔵 Low Reinforcement |
 | ✅ | UBV 8670 | 1,532 | 13,752 | 37.6% | 35.32% | 35.5% | 230,750 | +1,138 | 🔵 Low Reinforcement |
 
