@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-22 04:04:56
-**Data Source:** 2025-08-22T04:04:56.272700
-**Total Stronghold:** 51 (29 with decay analysis)
+**Report Generated:** 2025-08-22 08:06:00
+**Data Source:** 2025-08-22T08:06:00.177497
+**Total Stronghold:** 57 (32 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,8 +11,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Algorab** | +15,432 CP | 42,500 | 16,554 | 42.8% |
-| ✅ | **LHS 317** | +9,259 CP | 118,833 | 13,138 | 71.5% |
+| ✅ | **Algorab** | +16,232 CP | 42,500 | 17,304 | 42.9% |
+| ✅ | **LHS 317** | +9,613 CP | 118,833 | 13,582 | 71.5% |
 | ✅ | **HIP 52780** | +8,825 CP | 45,583 | 10,117 | 43.3% |
 | ✅ | **LP 726-6** | +5,743 CP | 74,458 | 8,033 | 54.1% |
 | ✅ | **Andel** | +5,715 CP | 52,125 | 7,248 | 45.5% |
@@ -23,10 +23,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **BD-01 1707** | -3,394 CP | 125,541 | 755 | 72.8% |
+| ✅ | **Asetsi** | -1,369 CP | 48,750 | 30 | 43.5% |
 | ✅ | **Gurus** | -1,292 CP | 48,875 | 0 | 43.6% |
 | ✅ | **Fousang** | -1,224 CP | 60,583 | 500 | 48.1% |
 | ✅ | **Inovik** | -1,106 CP | 44,541 | 166 | 41.9% |
-| ✅ | **Rhea** | -1,056 CP | 38,541 | 0 | 39.6% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **BD-01 1707** | -3,394 CP | 72.8% | 125,541 | 755 |
-| ✅ | **LHS 317** | +9,259 CP | 71.5% | 118,833 | 13,138 |
+| ✅ | **LHS 317** | +9,613 CP | 71.5% | 118,833 | 13,582 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -54,13 +54,13 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Algorab | 16,554 | 42,500 | 47.0% | 41.26% | 42.8% | 428,000 | +15,432 | 🟢 High Reinforcement |
+| ✅ | Algorab | 17,304 | 42,500 | 47.1% | 41.28% | 42.9% | 429,000 | +16,232 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 317 | 13,138 | 118,833 | 83.4% | 70.57% | 71.5% | 715,000 | +9,259 | 🟡 Medium Reinforcement |
+| ✅ | LHS 317 | 13,582 | 118,833 | 83.4% | 70.54% | 71.5% | 715,000 | +9,613 | 🟡 Medium Reinforcement |
 | ✅ | HIP 52780 | 10,117 | 45,583 | 47.9% | 42.42% | 43.3% | 433,000 | +8,825 | 🟡 Medium Reinforcement |
 | ✅ | LP 726-6 | 8,033 | 74,458 | 61.5% | 53.53% | 54.1% | 541,000 | +5,743 | 🟡 Medium Reinforcement |
 | ✅ | Andel | 7,248 | 52,125 | 50.7% | 44.93% | 45.5% | 455,000 | +5,715 | 🟡 Medium Reinforcement |
@@ -71,8 +71,8 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Corbenic | 3,917 | 7,753 | 29.1% | 27.90% | 28.3% | 283,000 | +4,017 | 🔵 Low Reinforcement |
 | ✅ | Orishpucho | 4,960 | 60,916 | 54.7% | 48.29% | 48.6% | 486,000 | +3,078 | 🔵 Low Reinforcement |
+| ✅ | LTT 3607 | 3,654 | 32,266 | 40.8% | 37.31% | 37.6% | 376,000 | +2,869 | 🔵 Low Reinforcement |
 | ✅ | HIP 61632 | 2,089 | 11,583 | 30.8% | 29.39% | 29.6% | 296,000 | +2,102 | 🔵 Low Reinforcement |
-| ✅ | LTT 3607 | 2,213 | 32,266 | 40.7% | 37.35% | 37.5% | 375,000 | +1,516 | 🔵 Low Reinforcement |
 | ✅ | Athena | 1,682 | 29,791 | 39.5% | 36.39% | 36.5% | 365,000 | +1,064 | 🔵 Low Reinforcement |
 
 
@@ -94,6 +94,7 @@
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 | ✅ | BD-01 1707 | 125,541 | 85.4% | 73.14% | 72.8% | 755 | 728,000 | -3,394 | 🟡 Low Undermining |
+| ✅ | Asetsi | 48,750 | 48.4% | 43.64% | 43.5% | 30 | 435,000 | -1,369 | 🟡 Low Undermining |
 | ✅ | Gurus | 48,875 | 48.5% | 43.73% | 43.6% | 0 | 436,000 | -1,292 | 🟡 Low Undermining |
 | ✅ | Fousang | 60,583 | 54.2% | 48.22% | 48.1% | 500 | 481,000 | -1,224 | 🟡 Low Undermining |
 | ✅ | Inovik | 44,541 | 46.4% | 42.01% | 41.9% | 166 | 419,000 | -1,106 | 🟡 Low Undermining |
