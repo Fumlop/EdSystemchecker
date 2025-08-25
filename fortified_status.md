@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-25 00:18:27
-**Data Source:** 2025-08-25T00:18:27.536007
+**Report Generated:** 2025-08-25 04:08:35
+**Data Source:** 2025-08-25T04:08:35.103028
 **Total Fortified:** 128 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -23,8 +23,8 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **b2 Carinae** | -30,189 CP | 46,349 | 11,711 | 24.1% |
-| ✅ | **HR 3277** | -21,415 CP | 40,872 | 184 | 36.4% |
-| ✅ | **Aasgay** | -808 CP | 1,575 | 270 | 25.7% |
+| ✅ | **HR 3277** | -21,422 CP | 40,880 | 184 | 36.4% |
+| ✅ | **Aasgay** | -804 CP | 1,575 | 275 | 25.7% |
 | ✅ | **Pisaly** | -555 CP | 51 | 0 | 25.0% |
 | ✅ | **LTT 4716** | -543 CP | 2,067 | 0 | 26.5% |
 
@@ -65,24 +65,25 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Ralu | 8,540 | 19,047 | 43.4% | 39.25% | 40.5% | 263,250 | +8,157 | 🟡 Medium Reinforcement |
-| ✅ | NLTT 21088 | 8,184 | 33,743 | 56.7% | 50.27% | 51.5% | 334,750 | +8,024 | 🟡 Medium Reinforcement |
+| ✅ | Ralu | 8,545 | 19,047 | 43.4% | 39.24% | 40.5% | 263,250 | +8,161 | 🟡 Medium Reinforcement |
+| ✅ | NLTT 21088 | 8,197 | 33,743 | 56.7% | 50.26% | 51.5% | 334,750 | +8,034 | 🟡 Medium Reinforcement |
 | ✅ | Eme | 5,803 | 7,465 | 32.6% | 30.67% | 31.5% | 204,750 | +5,394 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Umbrigua | 4,916 | 7,226 | 32.3% | 30.50% | 31.2% | 202,800 | +4,522 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 4,281 | 3,308 | 28.6% | 27.52% | 28.1% | 182,650 | +3,766 | 🔵 Low Reinforcement |
-| ✅ | Umbrigua | 4,155 | 7,226 | 32.1% | 30.44% | 31.0% | 201,500 | +3,668 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 3,756 | 12,897 | 37.2% | 34.68% | 35.2% | 228,800 | +3,350 | 🔵 Low Reinforcement |
-| ✅ | Agarda | 3,326 | 25,539 | 48.5% | 44.13% | 44.6% | 289,900 | +3,062 | 🔵 Low Reinforcement |
+| ✅ | Agarda | 3,393 | 25,539 | 48.5% | 44.12% | 44.6% | 289,900 | +3,118 | 🔵 Low Reinforcement |
 | ✅ | Polahukuna | 3,441 | 10,472 | 34.9% | 32.84% | 33.3% | 216,449 | +2,967 | 🔵 Low Reinforcement |
 | ✅ | Namte | 2,673 | 30,192 | 52.5% | 47.54% | 47.9% | 311,350 | +2,368 | 🔵 Low Reinforcement |
 | ✅ | LHS 306 | 3,030 | 455 | 25.6% | 25.16% | 25.5% | 165,750 | +2,179 | 🔵 Low Reinforcement |
 | ✅ | 54 G. Antlia | 1,841 | 18,911 | 42.3% | 39.17% | 39.4% | 256,099 | +1,493 | 🔵 Low Reinforcement |
+| ✅ | Col 285 Sector XT-F b12-7 | 1,766 | 7,294 | 31.8% | 30.50% | 30.7% | 199,550 | +1,298 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 1,690 | 10,369 | 34.6% | 32.81% | 33.0% | 214,500 | +1,267 | 🔵 Low Reinforcement |
-| ✅ | Col 285 Sector XT-F b12-7 | 1,664 | 7,294 | 31.8% | 30.51% | 30.7% | 199,550 | +1,214 | 🔵 Low Reinforcement |
+| ✅ | Helgaedi | 1,604 | 6,440 | 31.1% | 29.92% | 30.1% | 195,650 | +1,199 | 🔵 Low Reinforcement |
 | ✅ | EGGR 431 | 1,458 | 18,637 | 42.0% | 38.94% | 39.1% | 254,150 | +1,067 | 🔵 Low Reinforcement |
 | ✅ | UBV 8670 | 1,425 | 11,702 | 35.8% | 33.84% | 34.0% | 221,000 | +1,065 | 🔵 Low Reinforcement |
 
@@ -97,7 +98,7 @@
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 | ✅ | b2 Carinae | 46,349 | 31.2% | 28.74% | 24.1% | 11,711 | 156,650 | -30,189 | ⚠️ High Undermining |
-| ✅ | HR 3277 | 40,872 | 42.7% | 39.69% | 36.4% | 184 | 236,600 | -21,415 | ⚠️ High Undermining |
+| ✅ | HR 3277 | 40,880 | 42.7% | 39.70% | 36.4% | 184 | 236,600 | -21,422 | ⚠️ High Undermining |
 
 ### 🔶 Medium Activity (5000-9999 CP Undermining)
 
