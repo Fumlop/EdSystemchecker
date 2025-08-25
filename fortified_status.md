@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-25 16:05:04
-**Data Source:** 2025-08-25T16:05:04.425081
-**Total Fortified:** 128 (51 with decay analysis)
+**Report Generated:** 2025-08-25 20:04:57
+**Data Source:** 2025-08-25T20:04:57.857958
+**Total Fortified:** 129 (51 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Hyades Sector KC-U c3-21** | +125,294 CP | 15,221 | 125,670 | 55.7% |
+| ✅ | **Hyades Sector KC-U c3-21** | +149,234 CP | 15,221 | 149,587 | 59.4% |
 | ✅ | **Crucis Sector PC-V a2-1** | +98,059 CP | 33,295 | 98,247 | 65.0% |
 | ✅ | **Parapa** | +36,564 CP | 31,928 | 36,928 | 54.4% |
+| ✅ | **LTT 4487** | +27,382 CP | 10,200 | 28,201 | 36.6% |
 | ✅ | **Kharahua** | +25,784 CP | 14,972 | 26,981 | 39.6% |
-| ✅ | **LTT 4487** | +25,303 CP | 10,200 | 26,095 | 36.3% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -53,21 +53,22 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Hyades Sector KC-U c3-21 | 125,670 | 15,221 | 58.0% | 36.42% | 55.7% | 362,050 | +125,294 | 🟢 High Reinforcement |
+| ✅ | Hyades Sector KC-U c3-21 | 149,587 | 15,221 | 61.7% | 36.44% | 59.4% | 386,100 | +149,234 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 98,247 | 33,295 | 70.1% | 49.91% | 65.0% | 422,500 | +98,059 | 🟢 High Reinforcement |
 | ✅ | Parapa | 36,928 | 31,928 | 59.3% | 48.77% | 54.4% | 353,600 | +36,564 | 🟢 High Reinforcement |
+| ✅ | LTT 4487 | 28,201 | 10,200 | 38.2% | 32.39% | 36.6% | 237,900 | +27,382 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 26,981 | 14,972 | 41.9% | 35.63% | 39.6% | 257,400 | +25,784 | 🟢 High Reinforcement |
-| ✅ | LTT 4487 | 26,095 | 10,200 | 37.9% | 32.41% | 36.3% | 235,950 | +25,303 | 🟢 High Reinforcement |
-| ✅ | b2 Carinae | 65,326 | 48,524 | 39.5% | 28.73% | 32.0% | 208,000 | +21,236 | 🟢 High Reinforcement |
-| ✅ | V902 Centauri | 19,359 | 13,179 | 39.8% | 34.89% | 37.8% | 245,699 | +18,943 | 🟢 High Reinforcement |
-| ✅ | NLTT 21088 | 13,014 | 33,743 | 57.4% | 50.23% | 52.2% | 339,300 | +12,805 | 🟢 High Reinforcement |
+| ✅ | V902 Centauri | 24,440 | 13,179 | 40.6% | 34.90% | 38.6% | 250,900 | +24,044 | 🟢 High Reinforcement |
+| ✅ | b2 Carinae | 65,326 | 48,942 | 39.4% | 28.70% | 31.9% | 207,350 | +20,778 | 🟢 High Reinforcement |
+| ✅ | NLTT 21088 | 13,509 | 33,941 | 57.4% | 50.19% | 52.2% | 339,300 | +13,051 | 🟢 High Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 11,390 | 4,902 | 31.2% | 28.72% | 30.4% | 197,600 | +10,907 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Ralu | 8,545 | 19,047 | 43.4% | 39.24% | 40.5% | 263,250 | +8,161 | 🟡 Medium Reinforcement |
+| ✅ | LHS 2037 | 10,299 | 3,314 | 29.5% | 27.50% | 29.0% | 188,500 | +9,750 | 🟡 Medium Reinforcement |
+| ✅ | Ralu | 8,894 | 19,047 | 43.5% | 39.28% | 40.6% | 263,900 | +8,562 | 🟡 Medium Reinforcement |
 | ✅ | Eme | 5,803 | 7,465 | 32.6% | 30.67% | 31.5% | 204,750 | +5,394 | 🟡 Medium Reinforcement |
 | ✅ | Umbrigua | 5,697 | 7,226 | 32.4% | 30.49% | 31.3% | 203,450 | +5,280 | 🟡 Medium Reinforcement |
 
@@ -75,15 +76,14 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 2037 | 5,391 | 3,308 | 28.8% | 27.54% | 28.3% | 183,950 | +4,909 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 3,829 | 12,897 | 37.2% | 34.68% | 35.2% | 228,800 | +3,410 | 🔵 Low Reinforcement |
-| ✅ | Agarda | 3,393 | 25,539 | 48.5% | 44.12% | 44.6% | 289,900 | +3,118 | 🔵 Low Reinforcement |
+| ✅ | Agarda | 3,539 | 25,539 | 48.5% | 44.10% | 44.6% | 289,900 | +3,239 | 🔵 Low Reinforcement |
 | ✅ | Polahukuna | 3,441 | 10,472 | 34.9% | 32.84% | 33.3% | 216,449 | +2,967 | 🔵 Low Reinforcement |
 | ✅ | Namte | 2,712 | 30,192 | 52.5% | 47.53% | 47.9% | 311,350 | +2,400 | 🔵 Low Reinforcement |
 | ✅ | LHS 306 | 3,030 | 455 | 25.6% | 25.16% | 25.5% | 165,750 | +2,179 | 🔵 Low Reinforcement |
 | ✅ | Col 285 Sector XT-F b12-7 | 2,081 | 7,294 | 31.9% | 30.54% | 30.8% | 200,200 | +1,671 | 🔵 Low Reinforcement |
 | ✅ | 54 G. Antlia | 1,841 | 18,911 | 42.3% | 39.17% | 39.4% | 256,099 | +1,493 | 🔵 Low Reinforcement |
-| ✅ | Mbutsi | 1,725 | 10,369 | 34.6% | 32.80% | 33.0% | 214,500 | +1,296 | 🔵 Low Reinforcement |
+| ✅ | Mbutsi | 1,730 | 10,369 | 34.6% | 32.80% | 33.0% | 214,500 | +1,300 | 🔵 Low Reinforcement |
 | ✅ | Huangais | 1,928 | 3,943 | 28.7% | 27.90% | 28.1% | 182,650 | +1,293 | 🔵 Low Reinforcement |
 | ✅ | Helgaedi | 1,604 | 6,451 | 31.1% | 29.92% | 30.1% | 195,650 | +1,190 | 🔵 Low Reinforcement |
 | ✅ | EGGR 431 | 1,458 | 18,637 | 42.0% | 38.94% | 39.1% | 254,150 | +1,067 | 🔵 Low Reinforcement |
