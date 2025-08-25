@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-25 04:08:35
-**Data Source:** 2025-08-25T04:08:35.103028
+**Report Generated:** 2025-08-25 08:06:14
+**Data Source:** 2025-08-25T08:06:14.802208
 **Total Fortified:** 128 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,21 +12,21 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Hyades Sector KC-U c3-21** | +125,294 CP | 15,221 | 125,670 | 55.7% |
-| ✅ | **Crucis Sector PC-V a2-1** | +76,809 CP | 33,295 | 77,039 | 61.7% |
+| ✅ | **Crucis Sector PC-V a2-1** | +98,059 CP | 33,295 | 98,247 | 65.0% |
 | ✅ | **Parapa** | +36,563 CP | 31,928 | 36,926 | 54.4% |
+| ✅ | **Kharahua** | +25,784 CP | 14,972 | 26,981 | 39.6% |
 | ✅ | **LTT 4487** | +25,306 CP | 10,037 | 25,936 | 36.3% |
-| ✅ | **Kharahua** | +24,779 CP | 14,972 | 26,038 | 39.4% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **b2 Carinae** | -30,189 CP | 46,349 | 11,711 | 24.1% |
 | ✅ | **HR 3277** | -21,422 CP | 40,880 | 184 | 36.4% |
 | ✅ | **Aasgay** | -804 CP | 1,575 | 275 | 25.7% |
 | ✅ | **Pisaly** | -555 CP | 51 | 0 | 25.0% |
 | ✅ | **LTT 4716** | -543 CP | 2,067 | 0 | 26.5% |
+| ✅ | **Atat** | -512 CP | 3,383 | 0 | 27.5% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -40,7 +40,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **b2 Carinae** | -30,189 CP | 24.1% | 46,349 | 11,711 |
+| - | *No systems with <25% progress found* | - | - | - | - |
 ## 🔄 System Status Transitions
 *Systems that have exceeded 100% progress*
 
@@ -54,10 +54,11 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Hyades Sector KC-U c3-21 | 125,670 | 15,221 | 58.0% | 36.42% | 55.7% | 362,050 | +125,294 | 🟢 High Reinforcement |
-| ✅ | Crucis Sector PC-V a2-1 | 77,039 | 33,295 | 66.8% | 49.88% | 61.7% | 401,050 | +76,809 | 🟢 High Reinforcement |
+| ✅ | Crucis Sector PC-V a2-1 | 98,247 | 33,295 | 70.1% | 49.91% | 65.0% | 422,500 | +98,059 | 🟢 High Reinforcement |
 | ✅ | Parapa | 36,926 | 31,928 | 59.3% | 48.77% | 54.4% | 353,600 | +36,563 | 🟢 High Reinforcement |
+| ✅ | Kharahua | 26,981 | 14,972 | 41.9% | 35.63% | 39.6% | 257,400 | +25,784 | 🟢 High Reinforcement |
 | ✅ | LTT 4487 | 25,936 | 10,037 | 37.8% | 32.41% | 36.3% | 235,950 | +25,306 | 🟢 High Reinforcement |
-| ✅ | Kharahua | 26,038 | 14,972 | 41.7% | 35.59% | 39.4% | 256,099 | +24,779 | 🟢 High Reinforcement |
+| ✅ | b2 Carinae | 65,006 | 46,349 | 39.4% | 28.74% | 32.3% | 209,949 | +23,107 | 🟢 High Reinforcement |
 | ✅ | V902 Centauri | 15,168 | 13,179 | 39.2% | 34.92% | 37.2% | 241,800 | +14,802 | 🟢 High Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 11,390 | 4,902 | 31.2% | 28.72% | 30.4% | 197,600 | +10,907 | 🟢 High Reinforcement |
 
@@ -66,7 +67,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Ralu | 8,545 | 19,047 | 43.4% | 39.24% | 40.5% | 263,250 | +8,161 | 🟡 Medium Reinforcement |
-| ✅ | NLTT 21088 | 8,197 | 33,743 | 56.7% | 50.26% | 51.5% | 334,750 | +8,034 | 🟡 Medium Reinforcement |
+| ✅ | NLTT 21088 | 8,207 | 33,743 | 56.7% | 50.26% | 51.5% | 334,750 | +8,043 | 🟡 Medium Reinforcement |
 | ✅ | Eme | 5,803 | 7,465 | 32.6% | 30.67% | 31.5% | 204,750 | +5,394 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
@@ -97,7 +98,6 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | b2 Carinae | 46,349 | 31.2% | 28.74% | 24.1% | 11,711 | 156,650 | -30,189 | ⚠️ High Undermining |
 | ✅ | HR 3277 | 40,880 | 42.7% | 39.70% | 36.4% | 184 | 236,600 | -21,422 | ⚠️ High Undermining |
 
 ### 🔶 Medium Activity (5000-9999 CP Undermining)
