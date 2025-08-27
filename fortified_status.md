@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-27 08:05:40
-**Data Source:** 2025-08-27T08:05:40.209387
+**Report Generated:** 2025-08-27 12:07:01
+**Data Source:** 2025-08-27T12:07:01.149455
 **Total Fortified:** 130 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Hyades Sector KC-U c3-21** | +290,318 CP | 15,221 | 290,678 | 81.1% |
+| ✅ | **Hyades Sector KC-U c3-21** | +344,304 CP | 15,221 | 344,671 | 89.4% |
 | ✅ | **Crucis Sector PC-V a2-1** | +115,660 CP | 33,295 | 115,859 | 67.7% |
-| ✅ | **V902 Centauri** | +77,164 CP | 13,179 | 77,522 | 46.8% |
-| ✅ | **b2 Carinae** | +59,494 CP | 64,360 | 119,401 | 37.9% |
-| ✅ | **Parapa** | +36,613 CP | 31,952 | 37,011 | 54.4% |
+| ✅ | **V902 Centauri** | +94,995 CP | 13,194 | 95,426 | 49.5% |
+| ✅ | **b2 Carinae** | +53,797 CP | 70,025 | 119,401 | 37.0% |
+| ✅ | **Parapa** | +36,936 CP | 31,952 | 37,266 | 54.5% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Hyades Sector KC-U c3-21** | +290,318 CP | 81.1% | 15,221 | 290,678 |
+| ✅ | **Hyades Sector KC-U c3-21** | +344,304 CP | 89.4% | 15,221 | 344,671 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,15 +53,15 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Hyades Sector KC-U c3-21 | 290,678 | 15,221 | 83.4% | 36.44% | 81.1% | 527,150 | +290,318 | 🟢 High Reinforcement |
+| ✅ | Hyades Sector KC-U c3-21 | 344,671 | 15,221 | 91.7% | 36.43% | 89.4% | 581,100 | +344,304 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 115,859 | 33,295 | 72.8% | 49.91% | 67.7% | 440,050 | +115,660 | 🟢 High Reinforcement |
-| ✅ | V902 Centauri | 77,522 | 13,179 | 48.8% | 34.93% | 46.8% | 304,200 | +77,164 | 🟢 High Reinforcement |
-| ✅ | b2 Carinae | 119,401 | 64,360 | 47.8% | 28.75% | 37.9% | 246,350 | +59,494 | 🟢 High Reinforcement |
-| ✅ | Parapa | 37,011 | 31,952 | 59.3% | 48.77% | 54.4% | 353,600 | +36,613 | 🟢 High Reinforcement |
+| ✅ | V902 Centauri | 95,426 | 13,194 | 51.5% | 34.89% | 49.5% | 321,750 | +94,995 | 🟢 High Reinforcement |
+| ✅ | b2 Carinae | 119,401 | 70,025 | 47.8% | 28.72% | 37.0% | 240,500 | +53,797 | 🟢 High Reinforcement |
+| ✅ | Parapa | 37,266 | 31,952 | 59.4% | 48.82% | 54.5% | 354,250 | +36,936 | 🟢 High Reinforcement |
 | ✅ | LTT 4487 | 30,570 | 10,205 | 38.6% | 32.42% | 37.0% | 240,500 | +29,787 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 26,981 | 14,972 | 41.9% | 35.63% | 39.6% | 257,400 | +25,784 | 🟢 High Reinforcement |
-| ✅ | NLTT 21088 | 14,736 | 33,941 | 57.6% | 50.20% | 52.4% | 340,600 | +14,291 | 🟢 High Reinforcement |
-| ✅ | LHS 2037 | 11,633 | 3,314 | 29.7% | 27.50% | 29.2% | 189,800 | +11,078 | 🟢 High Reinforcement |
+| ✅ | NLTT 21088 | 17,760 | 33,941 | 58.1% | 50.23% | 52.9% | 343,850 | +17,354 | 🟢 High Reinforcement |
+| ✅ | LHS 2037 | 11,778 | 3,314 | 29.8% | 27.56% | 29.3% | 190,450 | +11,310 | 🟢 High Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 11,390 | 4,902 | 31.2% | 28.72% | 30.4% | 197,600 | +10,907 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -81,7 +81,7 @@
 | ✅ | LHS 306 | 5,522 | 455 | 26.0% | 25.18% | 25.9% | 168,350 | +4,689 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 3,829 | 12,897 | 37.2% | 34.68% | 35.2% | 228,800 | +3,410 | 🔵 Low Reinforcement |
 | ✅ | Wulpurna | 3,652 | 19,697 | 43.3% | 39.78% | 40.3% | 261,949 | +3,349 | 🔵 Low Reinforcement |
-| ✅ | Polahukuna | 3,441 | 10,498 | 34.9% | 32.85% | 33.3% | 216,449 | +2,946 | 🔵 Low Reinforcement |
+| ✅ | Polahukuna | 3,474 | 10,498 | 35.0% | 32.93% | 33.4% | 217,099 | +3,085 | 🔵 Low Reinforcement |
 | ✅ | Namte | 2,712 | 30,192 | 52.5% | 47.53% | 47.9% | 311,350 | +2,400 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 2,143 | 10,369 | 34.7% | 32.83% | 33.1% | 215,150 | +1,754 | 🔵 Low Reinforcement |
 | ✅ | Col 285 Sector XT-F b12-7 | 2,081 | 7,294 | 31.9% | 30.54% | 30.8% | 200,200 | +1,671 | 🔵 Low Reinforcement |
@@ -89,7 +89,7 @@
 | ✅ | 54 G. Antlia | 1,876 | 18,911 | 42.3% | 39.17% | 39.4% | 256,099 | +1,522 | 🔵 Low Reinforcement |
 | ✅ | Huangais | 2,150 | 3,954 | 28.7% | 27.87% | 28.1% | 182,650 | +1,467 | 🔵 Low Reinforcement |
 | ✅ | Helgaedi | 1,793 | 6,459 | 31.1% | 29.89% | 30.1% | 195,650 | +1,339 | 🔵 Low Reinforcement |
-| ✅ | UBV 8670 | 1,663 | 11,926 | 35.8% | 33.83% | 34.0% | 221,000 | +1,077 | 🔵 Low Reinforcement |
+| ✅ | UBV 8670 | 1,806 | 11,926 | 35.8% | 33.82% | 34.0% | 221,000 | +1,195 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 1,477 | 17,079 | 40.5% | 37.74% | 37.9% | 246,350 | +1,027 | 🔵 Low Reinforcement |
 
 
