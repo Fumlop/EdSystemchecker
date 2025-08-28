@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-28 12:07:03
-**Data Source:** 2025-08-28T12:07:03.038193
-**Total Fortified:** 15 (6 with decay analysis)
+**Report Generated:** 2025-08-28 16:05:20
+**Data Source:** 2025-08-28T16:05:20.029918
+**Total Fortified:** 48 (20 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,18 +11,18 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| - | *No systems currently gaining CP* | - | - | - | - |
+| ✅ | **Agarda** | +615 CP | 22,532 | 882 | 42.0% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Pisaly** | -555 CP | 51 | 0 | 25.0% |
+| ✅ | **LHS 306** | -534 CP | 973 | 0 | 25.7% |
+| ✅ | **LHS 2037** | -510 CP | 5,005 | 0 | 28.7% |
 | ✅ | **Aasgay** | -506 CP | 939 | 0 | 25.7% |
 | ✅ | **Umbrigua** | -498 CP | 7,021 | 0 | 30.2% |
-| ✅ | **Huangais** | -471 CP | 3,604 | 0 | 27.7% |
-| ✅ | **LFT 601** | -453 CP | 1,281 | 0 | 26.0% |
-| ✅ | **Eme** | -443 CP | 7,226 | 0 | 30.4% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
