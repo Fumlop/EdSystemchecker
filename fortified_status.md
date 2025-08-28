@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-28 16:05:20
-**Data Source:** 2025-08-28T16:05:20.029918
-**Total Fortified:** 48 (20 with decay analysis)
+**Report Generated:** 2025-08-28 20:04:55
+**Data Source:** 2025-08-28T20:04:55.390272
+**Total Fortified:** 75 (28 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,18 +11,22 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Agarda** | +615 CP | 22,532 | 882 | 42.0% |
+| ✅ | **Agarda** | +1,612 CP | 22,532 | 1,951 | 42.1% |
+| ✅ | **Kharahua** | +477 CP | 18,706 | 814 | 39.1% |
+| ✅ | **b2 Carinae** | +331 CP | 16,280 | 649 | 37.3% |
+| ✅ | **LTT 4487** | +208 CP | 13,547 | 610 | 35.2% |
+| ✅ | **Crucis Sector PC-V a2-1** | +87 CP | 51,130 | 143 | 63.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Umbrigua** | -575 CP | 7,114 | 0 | 30.2% |
 | ✅ | **Pisaly** | -555 CP | 51 | 0 | 25.0% |
 | ✅ | **LHS 306** | -534 CP | 973 | 0 | 25.7% |
 | ✅ | **LHS 2037** | -510 CP | 5,005 | 0 | 28.7% |
 | ✅ | **Aasgay** | -506 CP | 939 | 0 | 25.7% |
-| ✅ | **Umbrigua** | -498 CP | 7,021 | 0 | 30.2% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -55,7 +59,9 @@
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
-*No fortified systems with low reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Agarda | 1,951 | 22,532 | 45.6% | 41.85% | 42.1% | 273,650 | +1,612 | 🔵 Low Reinforcement |
 
 
 ---
