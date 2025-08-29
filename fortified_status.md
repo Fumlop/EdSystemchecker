@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-29 12:06:50
-**Data Source:** 2025-08-29T12:06:50.633756
-**Total Fortified:** 123 (47 with decay analysis)
+**Report Generated:** 2025-08-29 16:04:46
+**Data Source:** 2025-08-29T16:04:46.722819
+**Total Fortified:** 121 (46 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,10 +12,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Achansa** | +4,086 CP | 12,897 | 4,510 | 35.3% |
-| ✅ | **NLTT 21088** | +2,023 CP | 31,826 | 2,266 | 49.1% |
+| ✅ | **NLTT 21088** | +2,099 CP | 31,826 | 2,357 | 49.1% |
 | ✅ | **Agarda** | +1,696 CP | 22,532 | 2,052 | 42.1% |
-| ✅ | **Col 285 Sector XT-F b12-7** | +1,671 CP | 7,294 | 2,081 | 30.8% |
-| ✅ | **Delta Muscae** | +1,374 CP | 8,678 | 2,429 | 31.3% |
+| ✅ | **b2 Carinae** | +622 CP | 16,280 | 1,001 | 37.3% |
+| ✅ | **Kharahua** | +477 CP | 18,706 | 814 | 39.1% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -24,9 +24,9 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Umbrigua** | -575 CP | 7,114 | 0 | 30.2% |
 | ✅ | **Pisaly** | -555 CP | 51 | 0 | 25.0% |
+| ✅ | **Tau Centauri** | -541 CP | 11,134 | 0 | 33.2% |
 | ✅ | **Turni** | -535 CP | 1,110 | 0 | 25.8% |
-| ✅ | **LHS 2037** | -525 CP | 5,023 | 0 | 28.7% |
-| ✅ | **Aasgay** | -506 CP | 939 | 0 | 25.7% |
+| ✅ | **Aasgay** | -515 CP | 950 | 0 | 25.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -62,10 +62,8 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Achansa | 4,510 | 12,897 | 37.3% | 34.67% | 35.3% | 229,450 | +4,086 | 🔵 Low Reinforcement |
-| ✅ | NLTT 21088 | 2,266 | 31,826 | 54.0% | 48.79% | 49.1% | 319,150 | +2,023 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 2,357 | 31,826 | 54.0% | 48.78% | 49.1% | 319,150 | +2,099 | 🔵 Low Reinforcement |
 | ✅ | Agarda | 2,052 | 22,532 | 45.6% | 41.84% | 42.1% | 273,650 | +1,696 | 🔵 Low Reinforcement |
-| ✅ | Col 285 Sector XT-F b12-7 | 2,081 | 7,294 | 31.9% | 30.54% | 30.8% | 200,200 | +1,671 | 🔵 Low Reinforcement |
-| ✅ | Delta Muscae | 2,429 | 8,678 | 32.6% | 31.09% | 31.3% | 203,450 | +1,374 | 🔵 Low Reinforcement |
 
 
 ---
