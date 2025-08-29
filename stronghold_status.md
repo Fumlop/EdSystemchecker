@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-28 20:04:55
-**Data Source:** 2025-08-28T20:04:55.391399
-**Total Stronghold:** 40 (24 with decay analysis)
+**Report Generated:** 2025-08-29 00:17:36
+**Data Source:** 2025-08-29T00:17:36.690705
+**Total Stronghold:** 50 (29 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,22 +11,22 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LHS 317** | +5,787 CP | 107,458 | 9,216 | 66.8% |
+| ✅ | **LHS 317** | +10,452 CP | 107,458 | 14,047 | 67.2% |
+| ✅ | **Athena** | +5,019 CP | 32,083 | 5,659 | 37.8% |
+| ✅ | **Carnoeck** | +2,778 CP | 26,291 | 3,338 | 35.3% |
+| ✅ | **LP 490-68** | +1,768 CP | 1,958 | 1,332 | 25.9% |
 | ✅ | **LP 726-6** | +1,531 CP | 81,000 | 4,036 | 56.2% |
-| ✅ | **Carnoeck** | +1,244 CP | 26,291 | 1,670 | 35.2% |
-| ✅ | **Athena** | +1,180 CP | 32,083 | 1,860 | 37.4% |
-| ✅ | **NLTT 19808** | +1,122 CP | 17,828 | 1,336 | 31.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Fousang** | -1,809 CP | 61,375 | 59 | 48.3% |
-| ✅ | **Algorab** | -870 CP | 70,791 | 1,364 | 52.0% |
+| ✅ | **Mbambiva** | -6,327 CP | 11,329 | 74 | 26.1% |
+| ✅ | **BD-01 1707** | -3,330 CP | 103,625 | 0 | 64.4% |
+| ✅ | **Fousang** | -1,781 CP | 61,375 | 93 | 48.3% |
 | ✅ | **LHS 1928** | -853 CP | 34,041 | 20 | 37.9% |
 | ✅ | **Orishpucho** | -799 CP | 61,125 | 1,072 | 48.3% |
-| ✅ | **Asetsi** | -747 CP | 30,625 | 0 | 36.6% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -51,22 +51,26 @@
 
 ### 🟢 High Activity (≥10,000 CP Reinforcement)
 
-*No stronghold systems with high reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | LHS 317 | 14,047 | 107,458 | 77.9% | 66.15% | 67.2% | 672,000 | +10,452 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 317 | 9,216 | 107,458 | 77.5% | 66.22% | 66.8% | 667,999 | +5,787 | 🟡 Medium Reinforcement |
+| ✅ | Athena | 5,659 | 32,083 | 41.0% | 37.30% | 37.8% | 377,999 | +5,019 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Carnoeck | 3,338 | 26,291 | 37.9% | 35.02% | 35.3% | 353,000 | +2,778 | 🔵 Low Reinforcement |
+| ✅ | LP 490-68 | 1,332 | 1,958 | 26.1% | 25.72% | 25.9% | 259,000 | +1,768 | 🔵 Low Reinforcement |
 | ✅ | LP 726-6 | 4,036 | 81,000 | 64.3% | 56.05% | 56.2% | 562,000 | +1,531 | 🔵 Low Reinforcement |
-| ✅ | Carnoeck | 1,670 | 26,291 | 37.8% | 35.08% | 35.2% | 352,000 | +1,244 | 🔵 Low Reinforcement |
-| ✅ | Athena | 1,860 | 32,083 | 40.6% | 37.28% | 37.4% | 374,000 | +1,180 | 🔵 Low Reinforcement |
+| ✅ | LTT 3607 | 1,803 | 27,809 | 38.5% | 35.59% | 35.7% | 357,000 | +1,140 | 🔵 Low Reinforcement |
 | ✅ | NLTT 19808 | 1,336 | 17,828 | 33.7% | 31.79% | 31.9% | 319,000 | +1,122 | 🔵 Low Reinforcement |
+| ✅ | Gurus | 2,159 | 41,500 | 45.1% | 40.89% | 41.0% | 410,000 | +1,113 | 🔵 Low Reinforcement |
 
 
 ---
@@ -80,10 +84,13 @@
 
 ### 🔶 Medium Activity (5000-9999 CP Undermining)
 
-*No stronghold systems with medium undermining activity*
+| Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
+|--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
+| ✅ | Mbambiva | 11,329 | 27.2% | 26.73% | 26.1% | 74 | 261,000 | -6,327 | 🔶 Medium Undermining |
 
 ### 🟡 Low Activity (1000-4999 CP Undermining)
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Fousang | 61,375 | 54.4% | 48.48% | 48.3% | 59 | 483,000 | -1,809 | 🟡 Low Undermining |
+| ✅ | BD-01 1707 | 103,625 | 74.8% | 64.73% | 64.4% | 0 | 644,000 | -3,330 | 🟡 Low Undermining |
+| ✅ | Fousang | 61,375 | 54.4% | 48.48% | 48.3% | 93 | 483,000 | -1,781 | 🟡 Low Undermining |

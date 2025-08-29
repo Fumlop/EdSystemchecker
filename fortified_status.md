@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-28 20:04:55
-**Data Source:** 2025-08-28T20:04:55.390272
-**Total Fortified:** 75 (28 with decay analysis)
+**Report Generated:** 2025-08-29 00:17:36
+**Data Source:** 2025-08-29T00:17:36.689288
+**Total Fortified:** 95 (33 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Agarda** | +1,612 CP | 22,532 | 1,951 | 42.1% |
+| ✅ | **Agarda** | +1,696 CP | 22,532 | 2,052 | 42.1% |
 | ✅ | **Kharahua** | +477 CP | 18,706 | 814 | 39.1% |
 | ✅ | **b2 Carinae** | +331 CP | 16,280 | 649 | 37.3% |
 | ✅ | **LTT 4487** | +208 CP | 13,547 | 610 | 35.2% |
@@ -22,9 +22,9 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Yaricans** | -724 CP | 8,799 | 15 | 31.3% |
 | ✅ | **Umbrigua** | -575 CP | 7,114 | 0 | 30.2% |
 | ✅ | **Pisaly** | -555 CP | 51 | 0 | 25.0% |
-| ✅ | **LHS 306** | -534 CP | 973 | 0 | 25.7% |
 | ✅ | **LHS 2037** | -510 CP | 5,005 | 0 | 28.7% |
 | ✅ | **Aasgay** | -506 CP | 939 | 0 | 25.7% |
 
@@ -61,7 +61,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Agarda | 1,951 | 22,532 | 45.6% | 41.85% | 42.1% | 273,650 | +1,612 | 🔵 Low Reinforcement |
+| ✅ | Agarda | 2,052 | 22,532 | 45.6% | 41.84% | 42.1% | 273,650 | +1,696 | 🔵 Low Reinforcement |
 
 
 ---
