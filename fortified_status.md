@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-29 00:17:36
-**Data Source:** 2025-08-29T00:17:36.689288
-**Total Fortified:** 95 (33 with decay analysis)
+**Report Generated:** 2025-08-29 04:05:06
+**Data Source:** 2025-08-29T04:05:06.636862
+**Total Fortified:** 103 (36 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -14,7 +14,7 @@
 | ✅ | **Agarda** | +1,696 CP | 22,532 | 2,052 | 42.1% |
 | ✅ | **Kharahua** | +477 CP | 18,706 | 814 | 39.1% |
 | ✅ | **b2 Carinae** | +331 CP | 16,280 | 649 | 37.3% |
-| ✅ | **LTT 4487** | +208 CP | 13,547 | 610 | 35.2% |
+| ✅ | **LTT 4487** | +220 CP | 13,547 | 625 | 35.2% |
 | ✅ | **Crucis Sector PC-V a2-1** | +87 CP | 51,130 | 143 | 63.2% |
 
 ### 🔴 **Most Threatened Systems**
@@ -22,11 +22,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Yaricans** | -724 CP | 8,799 | 15 | 31.3% |
+| ✅ | **Yaricans** | -720 CP | 8,799 | 20 | 31.3% |
 | ✅ | **Umbrigua** | -575 CP | 7,114 | 0 | 30.2% |
 | ✅ | **Pisaly** | -555 CP | 51 | 0 | 25.0% |
-| ✅ | **LHS 2037** | -510 CP | 5,005 | 0 | 28.7% |
-| ✅ | **Aasgay** | -506 CP | 939 | 0 | 25.7% |
+| ✅ | **Turni** | -535 CP | 1,110 | 0 | 25.8% |
+| ✅ | **LHS 2037** | -525 CP | 5,023 | 0 | 28.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
