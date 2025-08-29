@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-29 08:05:31
-**Data Source:** 2025-08-29T08:05:31.455132
-**Total Fortified:** 125 (48 with decay analysis)
+**Report Generated:** 2025-08-29 12:06:50
+**Data Source:** 2025-08-29T12:06:50.633756
+**Total Fortified:** 123 (47 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -26,7 +26,7 @@
 | ✅ | **Pisaly** | -555 CP | 51 | 0 | 25.0% |
 | ✅ | **Turni** | -535 CP | 1,110 | 0 | 25.8% |
 | ✅ | **LHS 2037** | -525 CP | 5,023 | 0 | 28.7% |
-| ✅ | **Lesheima** | -516 CP | 7,179 | 0 | 30.3% |
+| ✅ | **Aasgay** | -506 CP | 939 | 0 | 25.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
