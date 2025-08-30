@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-30 16:04:13
-**Data Source:** 2025-08-30T16:04:13.138716
-**Total Fortified:** 125 (50 with decay analysis)
+**Report Generated:** 2025-08-30 20:04:11
+**Data Source:** 2025-08-30T20:04:11.746137
+**Total Fortified:** 123 (49 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,22 +11,22 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **LTT 4487** | +5,594 CP | 13,572 | 6,060 | 36.0% |
+| ✅ | **Heveri** | +4,550 CP | 1,666 | 37,651 | 25.7% |
 | ✅ | **Achansa** | +4,086 CP | 12,897 | 4,510 | 35.3% |
 | ✅ | **Agarda** | +4,078 CP | 22,532 | 4,389 | 42.5% |
-| ✅ | **Heveri** | +3,900 CP | 1,666 | 37,029 | 25.6% |
 | ✅ | **Umbrigua** | +3,366 CP | 7,240 | 4,075 | 30.8% |
-| ✅ | **NLTT 21088** | +2,784 CP | 31,826 | 3,050 | 49.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HR 3277** | -20,482 CP | 37,202 | 349 | 34.4% |
-| ✅ | **b2 Carinae** | -1,633 CP | 18,599 | 1,001 | 37.0% |
+| ✅ | **HR 3277** | -21,659 CP | 38,353 | 349 | 34.2% |
+| ✅ | **b2 Carinae** | -4,849 CP | 21,994 | 1,187 | 36.5% |
 | ✅ | **LTT 4716** | -1,460 CP | 3,089 | 184 | 26.3% |
-| ✅ | **Lesheima** | -661 CP | 7,729 | 375 | 30.3% |
 | ✅ | **Pisaly** | -555 CP | 51 | 0 | 25.0% |
+| ✅ | **Turni** | -535 CP | 1,110 | 0 | 25.8% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -55,20 +55,22 @@
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
-*No fortified systems with medium reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | LTT 4487 | 6,060 | 13,572 | 38.1% | 35.14% | 36.0% | 234,000 | +5,594 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Heveri | 37,651 | 1,666 | 26.0% | 25.00% | 25.7% | 167,050 | +4,550 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 4,510 | 12,897 | 37.3% | 34.67% | 35.3% | 229,450 | +4,086 | 🔵 Low Reinforcement |
 | ✅ | Agarda | 4,389 | 22,532 | 46.0% | 41.87% | 42.5% | 276,250 | +4,078 | 🔵 Low Reinforcement |
-| ✅ | Heveri | 37,029 | 1,666 | 25.9% | 25.00% | 25.6% | 166,400 | +3,900 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 4,075 | 7,240 | 31.9% | 30.28% | 30.8% | 200,200 | +3,366 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 3,050 | 31,826 | 54.1% | 48.77% | 49.2% | 319,800 | +2,784 | 🔵 Low Reinforcement |
-| ✅ | LHS 2037 | 1,936 | 5,023 | 29.8% | 28.78% | 29.0% | 188,500 | +1,414 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 1,941 | 5,023 | 29.8% | 28.78% | 29.0% | 188,500 | +1,418 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 1,652 | 17,583 | 41.1% | 38.20% | 38.4% | 249,600 | +1,315 | 🔵 Low Reinforcement |
-| ✅ | Wulpurna | 1,492 | 16,982 | 40.5% | 37.73% | 37.9% | 246,350 | +1,120 | 🔵 Low Reinforcement |
+| ✅ | Wulpurna | 1,527 | 16,982 | 40.5% | 37.72% | 37.9% | 246,350 | +1,149 | 🔵 Low Reinforcement |
 | ✅ | Namte | 1,381 | 25,608 | 48.2% | 44.14% | 44.3% | 287,949 | +1,059 | 🔵 Low Reinforcement |
 
 
@@ -81,7 +83,7 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | HR 3277 | 37,202 | 40.1% | 37.55% | 34.4% | 349 | 223,599 | -20,482 | ⚠️ High Undermining |
+| ✅ | HR 3277 | 38,353 | 40.1% | 37.53% | 34.2% | 349 | 222,300 | -21,659 | ⚠️ High Undermining |
 
 ### 🔶 Medium Activity (5000-9999 CP Undermining)
 
@@ -91,5 +93,5 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | b2 Carinae | 18,599 | 39.9% | 37.25% | 37.0% | 1,001 | 240,500 | -1,633 | 🟡 Low Undermining |
+| ✅ | b2 Carinae | 21,994 | 39.9% | 37.25% | 36.5% | 1,187 | 237,250 | -4,849 | 🟡 Low Undermining |
 | ✅ | LTT 4716 | 3,089 | 26.8% | 26.52% | 26.3% | 184 | 170,950 | -1,460 | 🟡 Low Undermining |
