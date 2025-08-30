@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-30 04:05:00
-**Data Source:** 2025-08-30T04:05:00.677773
-**Total Fortified:** 119 (47 with decay analysis)
+**Report Generated:** 2025-08-30 08:04:40
+**Data Source:** 2025-08-30T08:04:40.807189
+**Total Fortified:** 127 (50 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Heveri** | +3,250 CP | 1,656 | 36,492 | 25.5% |
+| ✅ | **Achansa** | +4,086 CP | 12,897 | 4,510 | 35.3% |
+| ✅ | **Agarda** | +4,078 CP | 22,532 | 4,389 | 42.5% |
+| ✅ | **Heveri** | +3,250 CP | 1,666 | 36,492 | 25.5% |
 | ✅ | **NLTT 21088** | +2,784 CP | 31,826 | 3,050 | 49.2% |
-| ✅ | **Agarda** | +1,704 CP | 22,532 | 2,062 | 42.1% |
 | ✅ | **LHS 2037** | +1,140 CP | 5,023 | 1,605 | 29.0% |
-| ✅ | **Wulpurna** | +1,070 CP | 16,982 | 1,432 | 37.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -61,9 +61,10 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Heveri | 36,492 | 1,656 | 25.8% | 25.00% | 25.5% | 165,750 | +3,250 | 🔵 Low Reinforcement |
+| ✅ | Achansa | 4,510 | 12,897 | 37.3% | 34.67% | 35.3% | 229,450 | +4,086 | 🔵 Low Reinforcement |
+| ✅ | Agarda | 4,389 | 22,532 | 46.0% | 41.87% | 42.5% | 276,250 | +4,078 | 🔵 Low Reinforcement |
+| ✅ | Heveri | 36,492 | 1,666 | 25.8% | 25.00% | 25.5% | 165,750 | +3,250 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 3,050 | 31,826 | 54.1% | 48.77% | 49.2% | 319,800 | +2,784 | 🔵 Low Reinforcement |
-| ✅ | Agarda | 2,062 | 22,532 | 45.6% | 41.84% | 42.1% | 273,650 | +1,704 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 1,605 | 5,023 | 29.8% | 28.82% | 29.0% | 188,500 | +1,140 | 🔵 Low Reinforcement |
 | ✅ | Wulpurna | 1,432 | 16,982 | 40.5% | 37.74% | 37.9% | 246,350 | +1,070 | 🔵 Low Reinforcement |
 | ✅ | Namte | 1,381 | 25,597 | 48.2% | 44.14% | 44.3% | 287,949 | +1,068 | 🔵 Low Reinforcement |
