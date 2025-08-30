@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-08-29 20:04:34
-**Data Source:** 2025-08-29T20:04:34.759792
-**Total Fortified:** 121 (47 with decay analysis)
+**Report Generated:** 2025-08-30 00:16:28
+**Data Source:** 2025-08-30T00:16:27.936979
+**Total Fortified:** 119 (47 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,17 +12,17 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Achansa** | +4,086 CP | 12,897 | 4,510 | 35.3% |
-| ✅ | **NLTT 21088** | +2,099 CP | 31,826 | 2,357 | 49.1% |
+| ✅ | **Heveri** | +3,250 CP | 1,656 | 36,492 | 25.5% |
+| ✅ | **NLTT 21088** | +2,456 CP | 31,826 | 2,653 | 49.2% |
 | ✅ | **Agarda** | +1,704 CP | 22,532 | 2,062 | 42.1% |
 | ✅ | **LHS 2037** | +1,140 CP | 5,023 | 1,605 | 29.0% |
-| ✅ | **Wulpurna** | +717 CP | 16,982 | 1,141 | 37.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Heveri** | -1,950 CP | 1,656 | 31,140 | 24.7% |
+| ✅ | **LTT 4716** | -1,460 CP | 3,089 | 184 | 26.3% |
 | ✅ | **Umbrigua** | -679 CP | 7,240 | 0 | 30.2% |
 | ✅ | **Pisaly** | -555 CP | 51 | 0 | 25.0% |
 | ✅ | **Tau Centauri** | -541 CP | 11,134 | 0 | 33.2% |
@@ -40,7 +40,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Heveri** | -1,950 CP | 24.7% | 1,656 | 31,140 |
+| - | *No systems with <25% progress found* | - | - | - | - |
 ## 🔄 System Status Transitions
 *Systems that have exceeded 100% progress*
 
@@ -62,9 +62,11 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Achansa | 4,510 | 12,897 | 37.3% | 34.67% | 35.3% | 229,450 | +4,086 | 🔵 Low Reinforcement |
-| ✅ | NLTT 21088 | 2,357 | 31,826 | 54.0% | 48.78% | 49.1% | 319,150 | +2,099 | 🔵 Low Reinforcement |
+| ✅ | Heveri | 36,492 | 1,656 | 25.8% | 25.00% | 25.5% | 165,750 | +3,250 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 2,653 | 31,826 | 54.1% | 48.82% | 49.2% | 319,800 | +2,456 | 🔵 Low Reinforcement |
 | ✅ | Agarda | 2,062 | 22,532 | 45.6% | 41.84% | 42.1% | 273,650 | +1,704 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 1,605 | 5,023 | 29.8% | 28.82% | 29.0% | 188,500 | +1,140 | 🔵 Low Reinforcement |
+| ✅ | Wulpurna | 1,432 | 16,982 | 40.5% | 37.74% | 37.9% | 246,350 | +1,070 | 🔵 Low Reinforcement |
 
 
 ---
@@ -84,4 +86,4 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Heveri | 1,656 | 25.0% | 25.00% | 24.7% | 31,140 | 160,550 | -1,950 | 🟡 Low Undermining |
+| ✅ | LTT 4716 | 3,089 | 26.8% | 26.52% | 26.3% | 184 | 170,950 | -1,460 | 🟡 Low Undermining |
