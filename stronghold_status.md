@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-08-31 04:05:04
-**Data Source:** 2025-08-31T04:05:04.906081
-**Total Stronghold:** 58 (35 with decay analysis)
+**Report Generated:** 2025-08-31 08:05:21
+**Data Source:** 2025-08-31T08:05:21.283189
+**Total Stronghold:** 59 (35 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Algorab** | +390,475 CP | 71,326 | 393,079 | 91.2% |
-| ✅ | **LHS 317** | +88,342 CP | 107,458 | 91,910 | 75.0% |
+| ✅ | **Algorab** | +391,946 CP | 71,326 | 394,668 | 91.3% |
+| ✅ | **LHS 317** | +91,892 CP | 107,458 | 95,347 | 75.4% |
 | ✅ | **Athena** | +48,256 CP | 32,209 | 49,081 | 42.1% |
+| ✅ | **LP 726-6** | +34,270 CP | 81,000 | 36,709 | 59.5% |
 | ✅ | **Orishpucho** | +34,089 CP | 61,125 | 35,932 | 51.8% |
-| ✅ | **LP 726-6** | +32,830 CP | 81,000 | 35,409 | 59.3% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -24,17 +24,17 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Mbambiva** | -6,980 CP | 12,001 | 180 | 26.0% |
 | ✅ | **HIP 52780** | -3,305 CP | 66,701 | 0 | 49.7% |
-| ✅ | **BD-01 1707** | -3,069 CP | 103,625 | 327 | 64.4% |
-| ✅ | **Asetsi** | -819 CP | 30,715 | 0 | 36.6% |
+| ✅ | **BD-01 1707** | -3,053 CP | 103,625 | 347 | 64.4% |
 | ✅ | **Rhea** | -680 CP | 30,541 | 0 | 36.6% |
+| ✅ | **Asetsi** | -206 CP | 30,747 | 548 | 36.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Algorab** | +390,475 CP | 91.2% | 71,326 | 393,079 |
-| ✅ | **LHS 317** | +88,342 CP | 75.0% | 107,458 | 91,910 |
+| ✅ | **Algorab** | +391,946 CP | 91.3% | 71,326 | 394,668 |
+| ✅ | **LHS 317** | +91,892 CP | 75.4% | 107,458 | 95,347 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -54,11 +54,11 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Algorab | 393,079 | 71,326 | 98.3% | 52.15% | 91.2% | 912,000 | +390,475 | 🟢 High Reinforcement |
-| ✅ | LHS 317 | 91,910 | 107,458 | 85.7% | 66.17% | 75.0% | 750,000 | +88,342 | 🟢 High Reinforcement |
+| ✅ | Algorab | 394,668 | 71,326 | 98.4% | 52.11% | 91.3% | 912,999 | +391,946 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 95,347 | 107,458 | 86.1% | 66.21% | 75.4% | 754,000 | +91,892 | 🟢 High Reinforcement |
 | ✅ | Athena | 49,081 | 32,209 | 45.3% | 37.27% | 42.1% | 421,000 | +48,256 | 🟢 High Reinforcement |
+| ✅ | LP 726-6 | 36,709 | 81,000 | 67.6% | 56.07% | 59.5% | 595,000 | +34,270 | 🟢 High Reinforcement |
 | ✅ | Orishpucho | 35,932 | 61,125 | 57.9% | 48.39% | 51.8% | 518,000 | +34,089 | 🟢 High Reinforcement |
-| ✅ | LP 726-6 | 35,409 | 81,000 | 67.4% | 56.02% | 59.3% | 593,000 | +32,830 | 🟢 High Reinforcement |
 | ✅ | Corbenic | 31,238 | 15,768 | 35.7% | 30.99% | 34.1% | 341,000 | +31,086 | 🟢 High Reinforcement |
 | ✅ | Gurus | 13,039 | 41,500 | 46.2% | 40.90% | 42.1% | 421,000 | +12,017 | 🟢 High Reinforcement |
 
@@ -66,9 +66,9 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Carnoeck | 9,892 | 26,291 | 38.6% | 35.06% | 36.0% | 360,000 | +9,422 | 🟡 Medium Reinforcement |
+| ✅ | Carnoeck | 9,931 | 26,291 | 38.6% | 35.05% | 36.0% | 360,000 | +9,453 | 🟡 Medium Reinforcement |
 | ✅ | LTT 3607 | 8,269 | 27,835 | 39.2% | 35.63% | 36.4% | 364,000 | +7,692 | 🟡 Medium Reinforcement |
-| ✅ | Andel | 8,540 | 49,630 | 49.6% | 43.91% | 44.6% | 446,000 | +6,937 | 🟡 Medium Reinforcement |
+| ✅ | Andel | 9,138 | 49,630 | 49.7% | 43.94% | 44.7% | 447,000 | +7,616 | 🟡 Medium Reinforcement |
 | ✅ | Inovik | 6,861 | 39,095 | 44.4% | 39.92% | 40.5% | 405,000 | +5,791 | 🟡 Medium Reinforcement |
 | ✅ | Fousang | 6,905 | 61,375 | 55.1% | 48.49% | 49.0% | 490,000 | +5,068 | 🟡 Medium Reinforcement |
 
@@ -107,4 +107,4 @@
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 | ✅ | HIP 52780 | 66,701 | 56.4% | 50.03% | 49.7% | 0 | 497,000 | -3,305 | 🟡 Low Undermining |
-| ✅ | BD-01 1707 | 103,625 | 74.8% | 64.71% | 64.4% | 327 | 644,000 | -3,069 | 🟡 Low Undermining |
+| ✅ | BD-01 1707 | 103,625 | 74.8% | 64.71% | 64.4% | 347 | 644,000 | -3,053 | 🟡 Low Undermining |
