@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-01 08:06:02
-**Data Source:** 2025-09-01T08:06:02.626371
-**Total Fortified:** 131 (51 with decay analysis)
+**Report Generated:** 2025-09-01 12:07:12
+**Data Source:** 2025-09-01T12:07:12.509510
+**Total Fortified:** 130 (51 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,8 +12,8 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **HR 3277** | +48,742 CP | 38,353 | 70,791 | 45.0% |
+| ✅ | **NLTT 21088** | +10,473 CP | 31,846 | 10,736 | 50.4% |
 | ✅ | **Kharahua** | +9,346 CP | 18,706 | 9,635 | 40.5% |
-| ✅ | **NLTT 21088** | +8,691 CP | 31,846 | 8,989 | 50.1% |
 | ✅ | **Parapa** | +7,257 CP | 32,851 | 7,449 | 50.7% |
 | ✅ | **Achansa** | +7,251 CP | 11,497 | 7,611 | 34.8% |
 
@@ -54,17 +54,17 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | HR 3277 | 70,791 | 38,353 | 50.9% | 37.50% | 45.0% | 292,500 | +48,742 | 🟢 High Reinforcement |
+| ✅ | NLTT 21088 | 10,736 | 31,846 | 55.3% | 48.79% | 50.4% | 327,600 | +10,473 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kharahua | 9,635 | 18,706 | 43.4% | 39.06% | 40.5% | 263,250 | +9,346 | 🟡 Medium Reinforcement |
-| ✅ | NLTT 21088 | 8,989 | 31,846 | 55.0% | 48.76% | 50.1% | 325,650 | +8,691 | 🟡 Medium Reinforcement |
 | ✅ | Parapa | 7,449 | 32,851 | 55.8% | 49.58% | 50.7% | 329,550 | +7,257 | 🟡 Medium Reinforcement |
 | ✅ | Achansa | 7,611 | 11,497 | 36.6% | 33.68% | 34.8% | 226,199 | +7,251 | 🟡 Medium Reinforcement |
-| ✅ | Heveri | 39,939 | 1,670 | 26.4% | 25.00% | 26.1% | 169,650 | +7,150 | 🟡 Medium Reinforcement |
-| ✅ | LTT 4487 | 6,356 | 13,594 | 38.2% | 35.19% | 36.1% | 234,650 | +5,933 | 🟡 Medium Reinforcement |
+| ✅ | Heveri | 39,974 | 1,670 | 26.4% | 25.00% | 26.1% | 169,650 | +7,150 | 🟡 Medium Reinforcement |
+| ✅ | LTT 4487 | 6,433 | 13,630 | 38.2% | 35.18% | 36.1% | 234,650 | +5,967 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
@@ -73,11 +73,12 @@
 | ✅ | Agarda | 4,834 | 22,532 | 46.1% | 41.90% | 42.6% | 276,900 | +4,558 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 4,816 | 7,240 | 32.1% | 30.35% | 31.0% | 201,500 | +4,203 | 🔵 Low Reinforcement |
 | ✅ | Wulpurna | 3,874 | 16,982 | 40.9% | 37.76% | 38.3% | 248,949 | +3,539 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 2,557 | 14,683 | 38.5% | 35.89% | 36.2% | 235,300 | +2,000 | 🔵 Low Reinforcement |
 | ✅ | Namte | 2,331 | 25,608 | 48.3% | 44.10% | 44.4% | 288,600 | +1,958 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 2,405 | 5,023 | 29.9% | 28.81% | 29.1% | 189,150 | +1,914 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 1,976 | 17,583 | 41.1% | 38.16% | 38.4% | 249,600 | +1,583 | 🔵 Low Reinforcement |
+| ✅ | Lesheima | 2,884 | 8,035 | 31.8% | 30.37% | 30.6% | 198,900 | +1,498 | 🔵 Low Reinforcement |
 | ✅ | Yaricans | 2,429 | 9,034 | 33.0% | 31.38% | 31.6% | 205,400 | +1,415 | 🔵 Low Reinforcement |
-| ✅ | 18 Puppis | 1,931 | 14,683 | 38.4% | 35.89% | 36.1% | 234,650 | +1,369 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 1,612 | 9,198 | 33.4% | 31.84% | 32.0% | 208,000 | +1,051 | 🔵 Low Reinforcement |
 | ✅ | Tau Centauri | 1,662 | 11,178 | 35.1% | 33.24% | 33.4% | 217,099 | +1,022 | 🔵 Low Reinforcement |
 
