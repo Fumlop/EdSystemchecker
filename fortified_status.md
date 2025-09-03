@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-03 12:07:18
-**Data Source:** 2025-09-03T12:07:18.156501
+**Report Generated:** 2025-09-03 16:05:12
+**Data Source:** 2025-09-03T16:05:12.147361
 **Total Fortified:** 132 (52 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,7 +11,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HR 3277** | +187,309 CP | 38,353 | 209,383 | 66.3% |
+| ✅ | **HR 3277** | +209,124 CP | 38,353 | 231,138 | 69.7% |
 | ✅ | **Hyades Sector KC-U c3-21** | +176,527 CP | 25,362 | 112,566 | 118.6% |
 | ✅ | **Kharahua** | +45,513 CP | 18,706 | 45,889 | 46.0% |
 | ✅ | **NLTT 21088** | +15,127 CP | 31,876 | 15,441 | 51.1% |
@@ -22,7 +22,7 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Delta Muscae** | -43,557 CP | 51,345 | 1,231 | 23.6% |
+| ✅ | **Delta Muscae** | -46,573 CP | 54,312 | 1,231 | 23.1% |
 | ✅ | **b2 Carinae** | -43,062 CP | 62,248 | 3,256 | 30.6% |
 | ✅ | **LTT 4716** | -1,658 CP | 3,192 | 184 | 26.2% |
 | ✅ | **Turni** | -519 CP | 1,110 | 20 | 25.8% |
@@ -40,7 +40,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Delta Muscae** | -43,557 CP | 23.6% | 51,345 | 1,231 |
+| ✅ | **Delta Muscae** | -46,573 CP | 23.1% | 54,312 | 1,231 |
 ## 🔄 System Status Transitions  
 *Systems that have exceeded 100% progress and will transition to "stronghold"*
 
@@ -64,7 +64,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HR 3277 | 209,383 | 38,353 | 72.2% | 37.48% | 66.3% | 430,949 | +187,309 | 🟢 High Reinforcement |
+| ✅ | HR 3277 | 231,138 | 38,353 | 75.6% | 37.53% | 69.7% | 453,050 | +209,124 | 🟢 High Reinforcement |
 | ✅ | Hyades Sector KC-U c3-21 | 112,566 | 25,362 | 122.5% | 91.44% | 118.6% | 770,900 | +176,527 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 45,889 | 18,706 | 48.9% | 39.00% | 46.0% | 299,000 | +45,513 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 15,441 | 31,876 | 56.0% | 48.77% | 51.1% | 332,150 | +15,127 | 🟢 High Reinforcement |
@@ -88,15 +88,16 @@
 | ✅ | Ralu | 5,056 | 17,583 | 41.6% | 38.18% | 38.9% | 252,850 | +4,693 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 5,410 | 7,251 | 32.1% | 30.28% | 31.0% | 201,500 | +4,686 | 🔵 Low Reinforcement |
 | ✅ | Agarda | 4,921 | 22,748 | 46.0% | 41.83% | 42.5% | 276,250 | +4,340 | 🔵 Low Reinforcement |
-| ✅ | 18 Puppis | 4,153 | 15,233 | 38.7% | 35.92% | 36.4% | 236,600 | +3,089 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 4,283 | 15,233 | 38.7% | 35.91% | 36.4% | 236,600 | +3,197 | 🔵 Low Reinforcement |
 | ✅ | Namte | 3,390 | 25,608 | 48.5% | 44.13% | 44.6% | 289,900 | +3,058 | 🔵 Low Reinforcement |
 | ✅ | Mexicatese | 3,232 | 11,804 | 36.1% | 33.87% | 34.3% | 222,949 | +2,812 | 🔵 Low Reinforcement |
-| ✅ | LHS 2037 | 2,838 | 5,023 | 30.0% | 28.83% | 29.2% | 189,800 | +2,384 | 🔵 Low Reinforcement |
-| ✅ | UBV 8670 | 3,023 | 10,271 | 34.5% | 32.54% | 32.9% | 213,849 | +2,339 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 2,863 | 5,023 | 30.0% | 28.83% | 29.2% | 189,800 | +2,405 | 🔵 Low Reinforcement |
+| ✅ | UBV 8670 | 3,053 | 10,271 | 34.5% | 32.54% | 32.9% | 213,849 | +2,364 | 🔵 Low Reinforcement |
 | ✅ | Tau Centauri | 2,621 | 11,188 | 35.3% | 33.29% | 33.6% | 218,400 | +2,032 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 2,197 | 9,198 | 33.5% | 31.85% | 32.1% | 208,650 | +1,648 | 🔵 Low Reinforcement |
-| ✅ | Lesheima | 3,145 | 8,294 | 31.9% | 30.37% | 30.6% | 198,900 | +1,500 | 🔵 Low Reinforcement |
 | ✅ | Yaricans | 2,545 | 9,100 | 33.0% | 31.38% | 31.6% | 205,400 | +1,457 | 🔵 Low Reinforcement |
+| ✅ | Lesheima | 3,145 | 8,465 | 31.9% | 30.39% | 30.6% | 198,900 | +1,358 | 🔵 Low Reinforcement |
+| ✅ | EGGR 431 | 1,553 | 15,952 | 39.5% | 36.84% | 37.0% | 240,500 | +1,015 | 🔵 Low Reinforcement |
 
 
 ---
@@ -108,7 +109,7 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Delta Muscae | 51,345 | 31.5% | 30.30% | 23.6% | 1,231 | 153,400 | -43,557 | ⚠️ High Undermining |
+| ✅ | Delta Muscae | 54,312 | 31.5% | 30.27% | 23.1% | 1,231 | 150,150 | -46,573 | ⚠️ High Undermining |
 | ✅ | b2 Carinae | 62,248 | 40.2% | 37.22% | 30.6% | 3,256 | 198,900 | -43,062 | ⚠️ High Undermining |
 
 ### 🔶 Medium Activity (5000-9999 CP Undermining)
