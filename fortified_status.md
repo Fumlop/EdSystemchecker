@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-04 12:06:54
-**Data Source:** 2025-09-04T12:06:53.973835
-**Total Fortified:** 29 (14 with decay analysis)
+**Report Generated:** 2025-09-04 16:05:11
+**Data Source:** 2025-09-04T16:05:11.616291
+**Total Fortified:** 59 (27 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -20,9 +20,9 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Atat** | -546 CP | 2,477 | 0 | 26.8% |
 | ✅ | **b2 Carinae** | -545 CP | 2,340 | 0 | 26.7% |
-| ✅ | **Heveri** | -542 CP | 1,930 | 0 | 26.4% |
 | ✅ | **LFT 601** | -507 CP | 1,076 | 0 | 25.8% |
 | ✅ | **Eme** | -493 CP | 6,474 | 0 | 29.8% |
+| ✅ | **Aasgay** | -477 CP | 905 | 0 | 25.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
