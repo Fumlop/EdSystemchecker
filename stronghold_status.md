@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-09-04 16:05:11
-**Data Source:** 2025-09-04T16:05:11.617277
-**Total Stronghold:** 38 (25 with decay analysis)
+**Report Generated:** 2025-09-04 20:05:16
+**Data Source:** 2025-09-04T20:05:16.936961
+**Total Stronghold:** 47 (28 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,29 +11,29 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LTT 3607** | +710 CP | 26,958 | 1,167 | 35.4% |
-| ✅ | **Kaura** | +630 CP | 16,416 | 814 | 31.3% |
-| ✅ | **Tiveronisa** | +465 CP | 500 | 0 | 25.2% |
-| ✅ | **Karnarki** | +397 CP | 4,625 | 25 | 26.8% |
-| ✅ | **Mbambiva** | +370 CP | 2,375 | 0 | 25.9% |
+| ✅ | **Athena** | +6,082 CP | 45,318 | 7,927 | 42.7% |
+| ✅ | **LTT 3607** | +1,318 CP | 26,958 | 1,927 | 35.4% |
+| ✅ | **Kaura** | +782 CP | 16,416 | 1,004 | 31.3% |
+| ✅ | **Corbenic** | +726 CP | 22,041 | 1,038 | 33.5% |
+| ✅ | **Karnarki** | +493 CP | 4,625 | 145 | 26.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Algorab** | -5,062 CP | 156,250 | 266 | 84.4% |
+| ✅ | **Algorab** | -3,928 CP | 156,250 | 1,434 | 84.5% |
 | ✅ | **BD-01 1707** | -2,940 CP | 89,333 | 0 | 58.9% |
-| ✅ | **LHS 317** | -2,827 CP | 114,583 | 1,047 | 68.6% |
 | ✅ | **LP 726-6** | -2,501 CP | 80,000 | 0 | 55.4% |
-| ✅ | **Orishpucho** | -1,827 CP | 59,583 | 0 | 47.6% |
+| ✅ | **Orishpucho** | -1,022 CP | 59,583 | 757 | 47.7% |
+| ✅ | **Inovik** | -869 CP | 34,291 | 0 | 38.0% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Algorab** | -5,062 CP | 84.4% | 156,250 | 266 |
+| ✅ | **Algorab** | -3,928 CP | 84.5% | 156,250 | 1,434 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -55,11 +55,15 @@
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
-*No stronghold systems with medium reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Athena | 7,927 | 45,318 | 47.2% | 42.09% | 42.7% | 427,000 | +6,082 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
-*No stronghold systems with low reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | LTT 3607 | 1,927 | 26,958 | 38.1% | 35.27% | 35.4% | 354,000 | +1,318 | 🔵 Low Reinforcement |
 
 
 ---
@@ -73,17 +77,13 @@
 
 ### 🔶 Medium Activity (5000-9999 CP Undermining)
 
-| Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
-|--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Algorab | 156,250 | 100.0% | 84.91% | 84.4% | 266 | 844,000 | -5,062 | 🔶 Medium Undermining |
+*No stronghold systems with medium undermining activity*
 
 ### 🟡 Low Activity (1000-4999 CP Undermining)
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
+| ✅ | Algorab | 156,250 | 100.1% | 84.89% | 84.5% | 1,434 | 845,000 | -3,928 | 🟡 Low Undermining |
 | ✅ | BD-01 1707 | 89,333 | 67.8% | 59.19% | 58.9% | 0 | 589,000 | -2,940 | 🟡 Low Undermining |
-| ✅ | LHS 317 | 114,583 | 80.1% | 68.88% | 68.6% | 1,047 | 686,000 | -2,827 | 🟡 Low Undermining |
 | ✅ | LP 726-6 | 80,000 | 63.4% | 55.65% | 55.4% | 0 | 553,999 | -2,501 | 🟡 Low Undermining |
-| ✅ | Orishpucho | 59,583 | 53.6% | 47.78% | 47.6% | 0 | 476,000 | -1,827 | 🟡 Low Undermining |
-| ✅ | Athena | 44,750 | 46.5% | 42.12% | 42.0% | 0 | 420,000 | -1,205 | 🟡 Low Undermining |
-| ✅ | Andel | 42,958 | 45.6% | 41.42% | 41.3% | 0 | 413,000 | -1,177 | 🟡 Low Undermining |
+| ✅ | Orishpucho | 59,583 | 53.7% | 47.80% | 47.7% | 757 | 477,000 | -1,022 | 🟡 Low Undermining |
