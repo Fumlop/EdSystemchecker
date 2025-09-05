@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-04 20:05:17
-**Data Source:** 2025-09-04T20:05:16.935590
-**Total Fortified:** 89 (41 with decay analysis)
+**Report Generated:** 2025-09-05 00:17:26
+**Data Source:** 2025-09-05T00:17:26.303394
+**Total Fortified:** 99 (43 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,9 +12,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Crucis Sector PC-V a2-1** | +3,687 CP | 49,627 | 3,802 | 62.6% |
-| ✅ | **Heveri** | +1,988 CP | 2,024 | 2,609 | 26.8% |
+| ✅ | **Heveri** | +1,895 CP | 2,136 | 2,609 | 26.8% |
+| ✅ | **Mbutsi** | +1,005 CP | 8,182 | 1,488 | 31.3% |
 | ✅ | **Gliese 2084** | +239 CP | 666 | 762 | 25.6% |
-| ✅ | **HR 3277** | +36 CP | 57,622 | 76 | 68.0% |
+| ✅ | **UBV 8670** | +170 CP | 8,763 | 653 | 31.6% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -24,8 +25,8 @@
 | ✅ | **Lesheima** | -1,889 CP | 7,619 | 0 | 29.4% |
 | ✅ | **Pisaly** | -555 CP | 187 | 0 | 25.1% |
 | ✅ | **Atat** | -546 CP | 2,477 | 0 | 26.8% |
-| ✅ | **b2 Carinae** | -545 CP | 2,340 | 0 | 26.7% |
 | ✅ | **LTT 4716** | -537 CP | 1,383 | 0 | 26.0% |
+| ✅ | **Turni** | -534 CP | 973 | 0 | 25.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -61,7 +62,8 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Crucis Sector PC-V a2-1 | 3,802 | 49,627 | 70.2% | 62.03% | 62.6% | 406,900 | +3,687 | 🔵 Low Reinforcement |
-| ✅ | Heveri | 2,609 | 2,024 | 27.1% | 26.49% | 26.8% | 174,200 | +1,988 | 🔵 Low Reinforcement |
+| ✅ | Heveri | 2,609 | 2,136 | 27.1% | 26.51% | 26.8% | 174,200 | +1,895 | 🔵 Low Reinforcement |
+| ✅ | Mbutsi | 1,488 | 8,182 | 32.6% | 31.15% | 31.3% | 203,450 | +1,005 | 🔵 Low Reinforcement |
 
 
 ---

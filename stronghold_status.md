@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-09-04 20:05:16
-**Data Source:** 2025-09-04T20:05:16.936961
-**Total Stronghold:** 47 (28 with decay analysis)
+**Report Generated:** 2025-09-05 00:17:26
+**Data Source:** 2025-09-05T00:17:26.304822
+**Total Stronghold:** 51 (31 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,29 +11,29 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Athena** | +6,082 CP | 45,318 | 7,927 | 42.7% |
-| ✅ | **LTT 3607** | +1,318 CP | 26,958 | 1,927 | 35.4% |
-| ✅ | **Kaura** | +782 CP | 16,416 | 1,004 | 31.3% |
-| ✅ | **Corbenic** | +726 CP | 22,041 | 1,038 | 33.5% |
-| ✅ | **Karnarki** | +493 CP | 4,625 | 145 | 26.8% |
+| ✅ | **LHS 317** | +6,968 CP | 114,615 | 10,823 | 69.6% |
+| ✅ | **Athena** | +6,085 CP | 45,318 | 7,930 | 42.7% |
+| ✅ | **Algorab** | +3,229 CP | 156,250 | 8,630 | 85.2% |
+| ✅ | **Noti** | +1,954 CP | 24,875 | 2,397 | 34.7% |
+| ✅ | **Corbenic** | +1,604 CP | 22,041 | 1,886 | 33.6% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Algorab** | -3,928 CP | 156,250 | 1,434 | 84.5% |
-| ✅ | **BD-01 1707** | -2,940 CP | 89,333 | 0 | 58.9% |
+| ✅ | **BD-01 1707** | -2,928 CP | 89,333 | 15 | 58.9% |
 | ✅ | **LP 726-6** | -2,501 CP | 80,000 | 0 | 55.4% |
-| ✅ | **Orishpucho** | -1,022 CP | 59,583 | 757 | 47.7% |
-| ✅ | **Inovik** | -869 CP | 34,291 | 0 | 38.0% |
+| ✅ | **Gurus** | -1,465 CP | 56,250 | 132 | 46.4% |
+| ✅ | **Inovik** | -829 CP | 34,291 | 50 | 38.0% |
+| ✅ | **LHS 1928** | -672 CP | 30,541 | 10 | 36.6% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Algorab** | -3,928 CP | 84.5% | 156,250 | 1,434 |
+| ✅ | **Algorab** | +3,229 CP | 85.2% | 156,250 | 8,630 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -57,13 +57,17 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Athena | 7,927 | 45,318 | 47.2% | 42.09% | 42.7% | 427,000 | +6,082 | 🟡 Medium Reinforcement |
+| ✅ | LHS 317 | 10,823 | 114,615 | 81.1% | 68.90% | 69.6% | 696,000 | +6,968 | 🟡 Medium Reinforcement |
+| ✅ | Athena | 7,930 | 45,318 | 47.2% | 42.09% | 42.7% | 427,000 | +6,085 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 3607 | 1,927 | 26,958 | 38.1% | 35.27% | 35.4% | 354,000 | +1,318 | 🔵 Low Reinforcement |
+| ✅ | Algorab | 8,630 | 156,250 | 100.8% | 84.88% | 85.2% | 852,000 | +3,229 | 🔵 Low Reinforcement |
+| ✅ | Noti | 2,397 | 24,875 | 37.2% | 34.50% | 34.7% | 347,000 | +1,954 | 🔵 Low Reinforcement |
+| ✅ | Corbenic | 1,886 | 22,041 | 35.8% | 33.44% | 33.6% | 336,000 | +1,604 | 🔵 Low Reinforcement |
+| ✅ | LTT 3607 | 1,927 | 27,004 | 38.1% | 35.27% | 35.4% | 354,000 | +1,281 | 🔵 Low Reinforcement |
 
 
 ---
@@ -83,7 +87,6 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Algorab | 156,250 | 100.1% | 84.89% | 84.5% | 1,434 | 845,000 | -3,928 | 🟡 Low Undermining |
-| ✅ | BD-01 1707 | 89,333 | 67.8% | 59.19% | 58.9% | 0 | 589,000 | -2,940 | 🟡 Low Undermining |
+| ✅ | BD-01 1707 | 89,333 | 67.8% | 59.19% | 58.9% | 15 | 589,000 | -2,928 | 🟡 Low Undermining |
 | ✅ | LP 726-6 | 80,000 | 63.4% | 55.65% | 55.4% | 0 | 553,999 | -2,501 | 🟡 Low Undermining |
-| ✅ | Orishpucho | 59,583 | 53.7% | 47.80% | 47.7% | 757 | 477,000 | -1,022 | 🟡 Low Undermining |
+| ✅ | Gurus | 56,250 | 52.0% | 46.55% | 46.4% | 132 | 463,999 | -1,465 | 🟡 Low Undermining |
