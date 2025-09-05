@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-05 04:05:00
-**Data Source:** 2025-09-05T04:05:00.071803
-**Total Fortified:** 100 (43 with decay analysis)
+**Report Generated:** 2025-09-05 08:05:29
+**Data Source:** 2025-09-05T08:05:29.568720
+**Total Fortified:** 122 (47 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,18 +11,18 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Kharahua** | +45,513 CP | 18,706 | 45,889 | 46.0% |
+| ✅ | **Parapa** | +7,983 CP | 32,851 | 8,191 | 50.8% |
 | ✅ | **Crucis Sector PC-V a2-1** | +3,687 CP | 49,627 | 3,802 | 62.6% |
 | ✅ | **Heveri** | +2,732 CP | 2,136 | 3,485 | 26.9% |
 | ✅ | **Mbutsi** | +1,005 CP | 8,182 | 1,488 | 31.3% |
-| ✅ | **Gliese 2084** | +239 CP | 666 | 762 | 25.6% |
-| ✅ | **UBV 8670** | +170 CP | 8,763 | 653 | 31.6% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Lesheima** | -1,889 CP | 7,619 | 0 | 29.4% |
+| ✅ | **Lesheima** | -1,911 CP | 7,652 | 6 | 29.4% |
 | ✅ | **Helgaedi** | -754 CP | 5,029 | 0 | 28.5% |
 | ✅ | **Atat** | -546 CP | 2,477 | 0 | 26.8% |
 | ✅ | **LTT 4716** | -537 CP | 1,383 | 0 | 26.0% |
@@ -51,11 +51,15 @@
 
 ### 🟢 High Activity (≥10,000 CP Reinforcement)
 
-*No fortified systems with high reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Kharahua | 45,889 | 18,706 | 48.9% | 39.00% | 46.0% | 299,000 | +45,513 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
-*No fortified systems with medium reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Parapa | 8,191 | 32,851 | 55.9% | 49.57% | 50.8% | 330,200 | +7,983 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
@@ -83,4 +87,4 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Lesheima | 7,619 | 30.6% | 29.69% | 29.4% | 0 | 191,100 | -1,889 | 🟡 Low Undermining |
+| ✅ | Lesheima | 7,652 | 30.6% | 29.69% | 29.4% | 6 | 191,100 | -1,911 | 🟡 Low Undermining |
