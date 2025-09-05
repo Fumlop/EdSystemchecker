@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-05 00:17:26
-**Data Source:** 2025-09-05T00:17:26.303394
-**Total Fortified:** 99 (43 with decay analysis)
+**Report Generated:** 2025-09-05 04:05:00
+**Data Source:** 2025-09-05T04:05:00.071803
+**Total Fortified:** 100 (43 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,7 +12,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Crucis Sector PC-V a2-1** | +3,687 CP | 49,627 | 3,802 | 62.6% |
-| ✅ | **Heveri** | +1,895 CP | 2,136 | 2,609 | 26.8% |
+| ✅ | **Heveri** | +2,732 CP | 2,136 | 3,485 | 26.9% |
 | ✅ | **Mbutsi** | +1,005 CP | 8,182 | 1,488 | 31.3% |
 | ✅ | **Gliese 2084** | +239 CP | 666 | 762 | 25.6% |
 | ✅ | **UBV 8670** | +170 CP | 8,763 | 653 | 31.6% |
@@ -23,7 +23,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Lesheima** | -1,889 CP | 7,619 | 0 | 29.4% |
-| ✅ | **Pisaly** | -555 CP | 187 | 0 | 25.1% |
+| ✅ | **Helgaedi** | -754 CP | 5,029 | 0 | 28.5% |
 | ✅ | **Atat** | -546 CP | 2,477 | 0 | 26.8% |
 | ✅ | **LTT 4716** | -537 CP | 1,383 | 0 | 26.0% |
 | ✅ | **Turni** | -534 CP | 973 | 0 | 25.7% |
@@ -62,7 +62,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Crucis Sector PC-V a2-1 | 3,802 | 49,627 | 70.2% | 62.03% | 62.6% | 406,900 | +3,687 | 🔵 Low Reinforcement |
-| ✅ | Heveri | 2,609 | 2,136 | 27.1% | 26.51% | 26.8% | 174,200 | +1,895 | 🔵 Low Reinforcement |
+| ✅ | Heveri | 3,485 | 2,136 | 27.2% | 26.48% | 26.9% | 174,849 | +2,732 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 1,488 | 8,182 | 32.6% | 31.15% | 31.3% | 203,450 | +1,005 | 🔵 Low Reinforcement |
 
 

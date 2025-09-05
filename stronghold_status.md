@@ -1,8 +1,8 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-09-05 00:17:26
-**Data Source:** 2025-09-05T00:17:26.304822
-**Total Stronghold:** 51 (31 with decay analysis)
+**Report Generated:** 2025-09-05 04:05:00
+**Data Source:** 2025-09-05T04:05:00.070871
+**Total Stronghold:** 54 (33 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,29 +11,29 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LHS 317** | +6,968 CP | 114,615 | 10,823 | 69.6% |
+| ✅ | **Noti** | +15,642 CP | 24,875 | 16,007 | 36.1% |
+| ✅ | **LHS 317** | +8,086 CP | 114,615 | 11,970 | 69.7% |
 | ✅ | **Athena** | +6,085 CP | 45,318 | 7,930 | 42.7% |
-| ✅ | **Algorab** | +3,229 CP | 156,250 | 8,630 | 85.2% |
-| ✅ | **Noti** | +1,954 CP | 24,875 | 2,397 | 34.7% |
-| ✅ | **Corbenic** | +1,604 CP | 22,041 | 1,886 | 33.6% |
+| ✅ | **Algorab** | +3,102 CP | 156,509 | 8,731 | 85.2% |
+| ✅ | **Orishpucho** | +2,676 CP | 59,583 | 4,379 | 48.1% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **BD-01 1707** | -2,928 CP | 89,333 | 15 | 58.9% |
+| ✅ | **BD-01 1707** | -2,699 CP | 89,333 | 50 | 59.0% |
 | ✅ | **LP 726-6** | -2,501 CP | 80,000 | 0 | 55.4% |
+| ✅ | **HIP 52780** | -1,575 CP | 55,000 | 0 | 45.9% |
 | ✅ | **Gurus** | -1,465 CP | 56,250 | 132 | 46.4% |
 | ✅ | **Inovik** | -829 CP | 34,291 | 50 | 38.0% |
-| ✅ | **LHS 1928** | -672 CP | 30,541 | 10 | 36.6% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Algorab** | +3,229 CP | 85.2% | 156,250 | 8,630 |
+| ✅ | **Algorab** | +3,102 CP | 85.2% | 156,509 | 8,731 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -51,22 +51,25 @@
 
 ### 🟢 High Activity (≥10,000 CP Reinforcement)
 
-*No stronghold systems with high reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Noti | 16,007 | 24,875 | 38.6% | 34.54% | 36.1% | 361,000 | +15,642 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 317 | 10,823 | 114,615 | 81.1% | 68.90% | 69.6% | 696,000 | +6,968 | 🟡 Medium Reinforcement |
+| ✅ | LHS 317 | 11,970 | 114,615 | 81.2% | 68.89% | 69.7% | 697,000 | +8,086 | 🟡 Medium Reinforcement |
 | ✅ | Athena | 7,930 | 45,318 | 47.2% | 42.09% | 42.7% | 427,000 | +6,085 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Algorab | 8,630 | 156,250 | 100.8% | 84.88% | 85.2% | 852,000 | +3,229 | 🔵 Low Reinforcement |
-| ✅ | Noti | 2,397 | 24,875 | 37.2% | 34.50% | 34.7% | 347,000 | +1,954 | 🔵 Low Reinforcement |
+| ✅ | Algorab | 8,731 | 156,509 | 100.9% | 84.89% | 85.2% | 852,000 | +3,102 | 🔵 Low Reinforcement |
+| ✅ | Orishpucho | 4,379 | 59,583 | 54.1% | 47.83% | 48.1% | 481,000 | +2,676 | 🔵 Low Reinforcement |
 | ✅ | Corbenic | 1,886 | 22,041 | 35.8% | 33.44% | 33.6% | 336,000 | +1,604 | 🔵 Low Reinforcement |
+| ✅ | Fousang | 3,060 | 51,833 | 50.2% | 44.84% | 45.0% | 450,000 | +1,598 | 🔵 Low Reinforcement |
 | ✅ | LTT 3607 | 1,927 | 27,004 | 38.1% | 35.27% | 35.4% | 354,000 | +1,281 | 🔵 Low Reinforcement |
 
 
@@ -87,6 +90,7 @@
 
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | BD-01 1707 | 89,333 | 67.8% | 59.19% | 58.9% | 15 | 589,000 | -2,928 | 🟡 Low Undermining |
+| ✅ | BD-01 1707 | 89,333 | 67.9% | 59.27% | 59.0% | 50 | 590,000 | -2,699 | 🟡 Low Undermining |
 | ✅ | LP 726-6 | 80,000 | 63.4% | 55.65% | 55.4% | 0 | 553,999 | -2,501 | 🟡 Low Undermining |
+| ✅ | HIP 52780 | 55,000 | 51.4% | 46.06% | 45.9% | 0 | 458,999 | -1,575 | 🟡 Low Undermining |
 | ✅ | Gurus | 56,250 | 52.0% | 46.55% | 46.4% | 132 | 463,999 | -1,465 | 🟡 Low Undermining |
