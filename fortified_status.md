@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-08 08:06:34
-**Data Source:** 2025-09-08T08:06:34.721191
+**Report Generated:** 2025-09-08 12:07:47
+**Data Source:** 2025-09-08T12:07:47.229854
 **Total Fortified:** 129 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -22,8 +22,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **LTT 4487** | -4,152 CP | 20,675 | 4,365 | 33.8% |
 | ✅ | **Turni** | -581 CP | 1,078 | 48 | 25.7% |
-| ✅ | **Atat** | -546 CP | 2,477 | 0 | 26.8% |
 | ✅ | **LTT 4716** | -537 CP | 1,383 | 0 | 26.0% |
 | ✅ | **LFT 601** | -482 CP | 1,076 | 30 | 25.8% |
 | ✅ | **LHS 1887** | -446 CP | 7,636 | 0 | 30.7% |
@@ -73,8 +73,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 4487 | 4,365 | 13,325 | 36.9% | 34.41% | 34.9% | 226,849 | +3,163 | 🔵 Low Reinforcement |
-| ✅ | Parapa | 1,996 | 28,736 | 51.1% | 46.44% | 46.7% | 303,550 | +1,668 | 🔵 Low Reinforcement |
+| ✅ | Parapa | 2,588 | 28,736 | 51.2% | 46.45% | 46.8% | 304,200 | +2,270 | 🔵 Low Reinforcement |
+| ✅ | V902 Centauri | 1,817 | 26,866 | 49.4% | 45.07% | 45.3% | 294,450 | +1,499 | 🔵 Low Reinforcement |
 | ✅ | UBV 8670 | 2,182 | 9,099 | 33.2% | 31.59% | 31.8% | 206,700 | +1,381 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 1,711 | 15,534 | 39.3% | 36.69% | 36.9% | 239,850 | +1,379 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 1,437 | 17,554 | 41.0% | 38.14% | 38.3% | 248,949 | +1,049 | 🔵 Low Reinforcement |
@@ -95,4 +95,6 @@
 
 ### 🟡 Low Activity (1000-4999 CP Undermining)
 
-*No fortified systems with low undermining activity*
+| Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
+|--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
+| ✅ | LTT 4487 | 20,675 | 37.0% | 34.44% | 33.8% | 4,365 | 219,699 | -4,152 | 🟡 Low Undermining |
