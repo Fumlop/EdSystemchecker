@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-09 00:17:29
-**Data Source:** 2025-09-09T00:17:29.232993
+**Report Generated:** 2025-09-09 04:04:58
+**Data Source:** 2025-09-09T04:04:58.703666
 **Total Fortified:** 129 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -23,9 +23,9 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **LTT 4487** | -4,064 CP | 20,675 | 4,472 | 33.8% |
+| ✅ | **HR 3277** | -2,982 CP | 122,756 | 62,105 | 67.6% |
 | ✅ | **Turni** | -581 CP | 1,078 | 48 | 25.7% |
 | ✅ | **LTT 4716** | -537 CP | 1,383 | 0 | 26.0% |
-| ✅ | **LFT 601** | -482 CP | 1,076 | 30 | 25.8% |
 | ✅ | **LHS 1887** | -446 CP | 7,636 | 0 | 30.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
@@ -63,12 +63,11 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | NLTT 21088 | 9,698 | 29,420 | 52.8% | 46.87% | 48.3% | 313,950 | +9,269 | 🟡 Medium Reinforcement |
+| ✅ | NLTT 21088 | 9,918 | 29,420 | 52.9% | 46.93% | 48.4% | 314,600 | +9,563 | 🟡 Medium Reinforcement |
 | ✅ | Wulpurna | 9,062 | 15,066 | 39.9% | 36.27% | 37.6% | 244,400 | +8,635 | 🟡 Medium Reinforcement |
-| ✅ | HR 3277 | 61,057 | 110,532 | 86.3% | 68.04% | 69.3% | 450,449 | +8,172 | 🟡 Medium Reinforcement |
 | ✅ | Col 285 Sector XT-F b12-7 | 7,852 | 5,504 | 31.1% | 29.17% | 30.3% | 196,950 | +7,369 | 🟡 Medium Reinforcement |
 | ✅ | Achansa | 7,253 | 11,078 | 36.1% | 33.35% | 34.4% | 223,599 | +6,853 | 🟡 Medium Reinforcement |
-| ✅ | Aasgay | 7,604 | 1,170 | 27.0% | 25.75% | 26.8% | 174,200 | +6,829 | 🟡 Medium Reinforcement |
+| ✅ | Aasgay | 7,604 | 1,180 | 27.0% | 25.75% | 26.8% | 174,200 | +6,821 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
@@ -82,8 +81,8 @@
 | ✅ | UBV 8670 | 2,182 | 9,103 | 33.2% | 31.59% | 31.8% | 206,700 | +1,378 | 🔵 Low Reinforcement |
 | ✅ | Atat | 1,751 | 2,477 | 27.5% | 26.91% | 27.1% | 176,150 | +1,239 | 🔵 Low Reinforcement |
 | ✅ | Eme | 1,505 | 6,474 | 31.1% | 29.93% | 30.1% | 195,650 | +1,089 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 1,638 | 12,837 | 36.7% | 34.53% | 34.7% | 225,550 | +1,086 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 1,437 | 17,554 | 41.0% | 38.14% | 38.3% | 248,949 | +1,049 | 🔵 Low Reinforcement |
-| ✅ | 18 Puppis | 1,407 | 12,705 | 36.7% | 34.55% | 34.7% | 225,550 | +1,004 | 🔵 Low Reinforcement |
 
 
 ---
@@ -104,3 +103,4 @@
 | Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
 |--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
 | ✅ | LTT 4487 | 20,675 | 37.0% | 34.43% | 33.8% | 4,472 | 219,699 | -4,064 | 🟡 Low Undermining |
+| ✅ | HR 3277 | 122,756 | 86.5% | 68.06% | 67.6% | 62,105 | 439,399 | -2,982 | 🟡 Low Undermining |
