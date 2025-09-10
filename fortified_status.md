@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-09 20:04:50
-**Data Source:** 2025-09-09T20:04:50.438811
-**Total Fortified:** 130 (50 with decay analysis)
+**Report Generated:** 2025-09-10 00:16:29
+**Data Source:** 2025-09-10T00:16:29.673847
+**Total Fortified:** 131 (50 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,10 +11,10 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **b2 Carinae** | +168,698 CP | 16,238 | 183,056 | 52.8% |
-| ✅ | **Crucis Sector PC-V a2-1** | +88,473 CP | 49,627 | 88,512 | 75.7% |
-| ✅ | **Heveri** | +16,999 CP | 2,382 | 17,991 | 29.1% |
-| ✅ | **Kharahua** | +13,890 CP | 24,124 | 14,317 | 45.1% |
+| ✅ | **b2 Carinae** | +167,600 CP | 17,299 | 183,061 | 52.6% |
+| ✅ | **Crucis Sector PC-V a2-1** | +98,299 CP | 49,627 | 98,354 | 77.2% |
+| ✅ | **Kharahua** | +22,379 CP | 24,124 | 22,814 | 46.4% |
+| ✅ | **Heveri** | +17,186 CP | 2,382 | 18,081 | 29.2% |
 | ✅ | **Wulpurna** | +12,574 CP | 15,066 | 13,009 | 38.2% |
 
 ### 🔴 **Most Threatened Systems**
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Crucis Sector PC-V a2-1** | +88,473 CP | 75.7% | 49,627 | 88,512 |
+| ✅ | **Crucis Sector PC-V a2-1** | +98,299 CP | 77.2% | 49,627 | 98,354 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,10 +53,10 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | b2 Carinae | 183,056 | 16,238 | 55.3% | 26.85% | 52.8% | 343,200 | +168,698 | 🟢 High Reinforcement |
-| ✅ | Crucis Sector PC-V a2-1 | 88,512 | 49,627 | 83.3% | 62.09% | 75.7% | 492,050 | +88,473 | 🟢 High Reinforcement |
-| ✅ | Heveri | 17,991 | 2,382 | 29.5% | 26.48% | 29.1% | 189,150 | +16,999 | 🟢 High Reinforcement |
-| ✅ | Kharahua | 14,317 | 24,124 | 48.8% | 42.96% | 45.1% | 293,150 | +13,890 | 🟢 High Reinforcement |
+| ✅ | b2 Carinae | 183,061 | 17,299 | 55.3% | 26.82% | 52.6% | 341,900 | +167,600 | 🟢 High Reinforcement |
+| ✅ | Crucis Sector PC-V a2-1 | 98,354 | 49,627 | 84.8% | 62.08% | 77.2% | 501,800 | +98,299 | 🟢 High Reinforcement |
+| ✅ | Kharahua | 22,814 | 24,124 | 50.1% | 42.96% | 46.4% | 301,600 | +22,379 | 🟢 High Reinforcement |
+| ✅ | Heveri | 18,081 | 2,382 | 29.6% | 26.56% | 29.2% | 189,800 | +17,186 | 🟢 High Reinforcement |
 | ✅ | Wulpurna | 13,009 | 15,066 | 40.5% | 36.27% | 38.2% | 248,300 | +12,574 | 🟢 High Reinforcement |
 | ✅ | Mbutsi | 11,596 | 8,217 | 34.2% | 31.19% | 32.9% | 213,849 | +11,135 | 🟢 High Reinforcement |
 
@@ -80,10 +80,10 @@
 | ✅ | LHS 2037 | 1,973 | 4,663 | 29.5% | 28.57% | 28.8% | 187,200 | +1,518 | 🔵 Low Reinforcement |
 | ✅ | V902 Centauri | 1,822 | 26,866 | 49.4% | 45.07% | 45.3% | 294,450 | +1,504 | 🔵 Low Reinforcement |
 | ✅ | UBV 8670 | 2,261 | 9,103 | 33.2% | 31.58% | 31.8% | 206,700 | +1,443 | 🔵 Low Reinforcement |
+| ✅ | Nugua | 1,667 | 17,554 | 41.1% | 38.19% | 38.4% | 249,600 | +1,352 | 🔵 Low Reinforcement |
 | ✅ | Atat | 1,751 | 2,477 | 27.5% | 26.91% | 27.1% | 176,150 | +1,239 | 🔵 Low Reinforcement |
 | ✅ | Eme | 1,515 | 6,474 | 31.1% | 29.93% | 30.1% | 195,650 | +1,097 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 1,638 | 12,837 | 36.7% | 34.53% | 34.7% | 225,550 | +1,086 | 🔵 Low Reinforcement |
-| ✅ | Nugua | 1,437 | 17,554 | 41.0% | 38.14% | 38.3% | 248,949 | +1,049 | 🔵 Low Reinforcement |
 
 
 ---
