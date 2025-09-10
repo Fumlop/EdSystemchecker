@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-10 00:16:29
-**Data Source:** 2025-09-10T00:16:29.673847
+**Report Generated:** 2025-09-10 04:05:14
+**Data Source:** 2025-09-10T04:05:14.679501
 **Total Fortified:** 131 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **Crucis Sector PC-V a2-1** | +98,299 CP | 49,627 | 98,354 | 77.2% |
 | ✅ | **Kharahua** | +22,379 CP | 24,124 | 22,814 | 46.4% |
 | ✅ | **Heveri** | +17,186 CP | 2,382 | 18,081 | 29.2% |
-| ✅ | **Wulpurna** | +12,574 CP | 15,066 | 13,009 | 38.2% |
+| ✅ | **Wulpurna** | +16,441 CP | 15,066 | 16,870 | 38.8% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -57,7 +57,7 @@
 | ✅ | Crucis Sector PC-V a2-1 | 98,354 | 49,627 | 84.8% | 62.08% | 77.2% | 501,800 | +98,299 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 22,814 | 24,124 | 50.1% | 42.96% | 46.4% | 301,600 | +22,379 | 🟢 High Reinforcement |
 | ✅ | Heveri | 18,081 | 2,382 | 29.6% | 26.56% | 29.2% | 189,800 | +17,186 | 🟢 High Reinforcement |
-| ✅ | Wulpurna | 13,009 | 15,066 | 40.5% | 36.27% | 38.2% | 248,300 | +12,574 | 🟢 High Reinforcement |
+| ✅ | Wulpurna | 16,870 | 15,066 | 41.1% | 36.27% | 38.8% | 252,199 | +16,441 | 🟢 High Reinforcement |
 | ✅ | Mbutsi | 11,596 | 8,217 | 34.2% | 31.19% | 32.9% | 213,849 | +11,135 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -77,12 +77,13 @@
 | ✅ | Lesheima | 4,670 | 8,519 | 31.3% | 29.71% | 30.0% | 195,000 | +1,904 | 🔵 Low Reinforcement |
 | ✅ | LHS 306 | 2,246 | 2,051 | 27.2% | 26.63% | 26.9% | 174,849 | +1,777 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 1,916 | 15,534 | 39.3% | 36.66% | 36.9% | 239,850 | +1,549 | 🔵 Low Reinforcement |
-| ✅ | LHS 2037 | 1,973 | 4,663 | 29.5% | 28.57% | 28.8% | 187,200 | +1,518 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 1,973 | 4,669 | 29.5% | 28.57% | 28.8% | 187,200 | +1,513 | 🔵 Low Reinforcement |
 | ✅ | V902 Centauri | 1,822 | 26,866 | 49.4% | 45.07% | 45.3% | 294,450 | +1,504 | 🔵 Low Reinforcement |
-| ✅ | UBV 8670 | 2,261 | 9,103 | 33.2% | 31.58% | 31.8% | 206,700 | +1,443 | 🔵 Low Reinforcement |
+| ✅ | UBV 8670 | 2,266 | 9,103 | 33.2% | 31.58% | 31.8% | 206,700 | +1,447 | 🔵 Low Reinforcement |
 | ✅ | Nugua | 1,667 | 17,554 | 41.1% | 38.19% | 38.4% | 249,600 | +1,352 | 🔵 Low Reinforcement |
+| ✅ | Umbrigua | 1,867 | 6,881 | 31.4% | 30.10% | 30.3% | 196,950 | +1,276 | 🔵 Low Reinforcement |
 | ✅ | Atat | 1,751 | 2,477 | 27.5% | 26.91% | 27.1% | 176,150 | +1,239 | 🔵 Low Reinforcement |
-| ✅ | Eme | 1,515 | 6,474 | 31.1% | 29.93% | 30.1% | 195,650 | +1,097 | 🔵 Low Reinforcement |
+| ✅ | Eme | 1,520 | 6,474 | 31.1% | 29.93% | 30.1% | 195,650 | +1,101 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 1,638 | 12,837 | 36.7% | 34.53% | 34.7% | 225,550 | +1,086 | 🔵 Low Reinforcement |
 
 
