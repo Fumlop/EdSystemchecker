@@ -1,12 +1,12 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-09-11 00:17:05
-**Data Source:** 2025-09-10T00:17:04.948042
+**Report Generated:** 2025-09-11 04:05:22
+**Data Source:** 2025-09-10T04:05:21.731378
 **Total Contested:** 7 systems
-**Total Expansion:** 2288 systems
+**Total Expansion:** 2292 systems
 **Priority Acquisition Targets:** 0 of 4 systems are contested
 
-**Total Expansion:** 2288 systems
+**Total Expansion:** 2292 systems
 
 ## 📊 Quick Summary
 
@@ -14,17 +14,17 @@
 
 | Status | System | Winters Progress | Opposition | Opposing Powers |
 |--------|--------|------------------|------------|----------------|
-| 💀 | Yenic | 🟢 **512.6%** | 474.5% | Aisling Duval (15.3%), Nakato Kaine (474.5%) |
-| 💀 | Crucis Sector GM-V b2-2 | 69.1% | 🔴 **325.4%** | Aisling Duval (325.4%), Arissa Lavigny-Duval (42.6%), Edmund Mahon (77.9%), Nakato Kaine (28.9%), Yuri Grom (13.8%) |
-| ⚔ | Choenpetese | 🟢 **61.2%** | 54.1% | Aisling Duval (54.1%), Arissa Lavigny-Duval (9.6%), Denton Patreus (9.1%), Edmund Mahon (0.6%), Yuri Grom (0.1%), Zemina Torval (0.0%) |
+| 💀 | Yenic | 🟢 **550.1%** | 500.8% | Aisling Duval (15.3%), Nakato Kaine (500.8%) |
+| 💀 | Crucis Sector GM-V b2-2 | 69.1% | 🔴 **330.3%** | Aisling Duval (330.3%), Arissa Lavigny-Duval (42.6%), Edmund Mahon (82.5%), Nakato Kaine (28.9%), Yuri Grom (13.8%) |
+| ⚔ | Choenpetese | 🟢 **61.2%** | 54.1% | Aisling Duval (54.1%), Arissa Lavigny-Duval (9.6%), Denton Patreus (9.1%), Edmund Mahon (0.7%), Yuri Grom (0.1%), Zemina Torval (0.0%) |
 
 ### 🔴 Nearly Lost Systems
 
 | Status | System | Winters Progress | Opposition | Opposing Powers |
 |--------|--------|------------------|------------|----------------|
-| 💀 | Yenic | 🟢 **512.6%** | 474.5% | Aisling Duval (15.3%), Nakato Kaine (474.5%) |
-| 💀 | Crucis Sector GM-V b2-2 | 69.1% | 🔴 **325.4%** | Aisling Duval (325.4%), Arissa Lavigny-Duval (42.6%), Edmund Mahon (77.9%), Nakato Kaine (28.9%), Yuri Grom (13.8%) |
-| 💀 | Puppis Sector DL-Y d142 | 23.7% | 🔴 **312.0%** | Aisling Duval (57.6%), Arissa Lavigny-Duval (191.4%), Denton Patreus (0.0%), Edmund Mahon (10.2%), Jerome Archer (312.0%), Li Yong-Rui (123.5%), Yuri Grom (12.1%), Zemina Torval (1.0%) |
+| 💀 | Yenic | 🟢 **550.1%** | 500.8% | Aisling Duval (15.3%), Nakato Kaine (500.8%) |
+| 💀 | Crucis Sector GM-V b2-2 | 69.1% | 🔴 **330.3%** | Aisling Duval (330.3%), Arissa Lavigny-Duval (42.6%), Edmund Mahon (82.5%), Nakato Kaine (28.9%), Yuri Grom (13.8%) |
+| 💀 | Puppis Sector DL-Y d142 | 24.1% | 🔴 **315.2%** | Aisling Duval (57.6%), Arissa Lavigny-Duval (193.0%), Denton Patreus (0.0%), Edmund Mahon (10.2%), Jerome Archer (315.2%), Li Yong-Rui (123.5%), Yuri Grom (12.1%), Zemina Torval (1.0%) |
 | 💀 | Dethall | 7.2% | 🔴 **297.8%** | Aisling Duval (20.2%), Edmund Mahon (5.8%), Jerome Archer (49.0%), Yuri Grom (9.9%), Zemina Torval (297.8%) |
 | 💀 | HIP 53787 | 44.0% | 🔴 **165.7%** | Aisling Duval (2.9%), Arissa Lavigny-Duval (165.7%) |
 
@@ -35,12 +35,12 @@
 
 | Status | System | Progress % | Opposing Powers |
 |--------|--------|------------|----------------|
-| 🟢 | Yenic | 512.6% | Aisling Duval (15.3%), Nakato Kaine (474.5%) |
-| 🟡 | Crucis Sector GM-V b2-2 | 69.1% | Aisling Duval (325.4%), Arissa Lavigny-Duval (42.6%), Edmund Mahon (77.9%), Nakato Kaine (28.9%), Yuri Grom (13.8%) |
-| 🟡 | Choenpetese | 61.2% | Aisling Duval (54.1%), Arissa Lavigny-Duval (9.6%), Denton Patreus (9.1%), Edmund Mahon (0.6%), Yuri Grom (0.1%), Zemina Torval (0.0%) |
-| 🟡 | Puppis Sector ZE-A d118 | 50.5% | Aisling Duval (42.2%) |
+| 🟢 | Yenic | 550.1% | Aisling Duval (15.3%), Nakato Kaine (500.8%) |
+| 🟡 | Crucis Sector GM-V b2-2 | 69.1% | Aisling Duval (330.3%), Arissa Lavigny-Duval (42.6%), Edmund Mahon (82.5%), Nakato Kaine (28.9%), Yuri Grom (13.8%) |
+| 🟡 | Choenpetese | 61.2% | Aisling Duval (54.1%), Arissa Lavigny-Duval (9.6%), Denton Patreus (9.1%), Edmund Mahon (0.7%), Yuri Grom (0.1%), Zemina Torval (0.0%) |
+| 🟡 | Puppis Sector ZE-A d118 | 56.6% | Aisling Duval (47.3%) |
 | 🟠 | HIP 53787 | 44.0% | Aisling Duval (2.9%), Arissa Lavigny-Duval (165.7%) |
-| 🔴 | Puppis Sector DL-Y d142 | 23.7% | Aisling Duval (57.6%), Arissa Lavigny-Duval (191.4%), Denton Patreus (0.0%), Edmund Mahon (10.2%), Jerome Archer (312.0%), Li Yong-Rui (123.5%), Yuri Grom (12.1%), Zemina Torval (1.0%) |
+| 🔴 | Puppis Sector DL-Y d142 | 24.1% | Aisling Duval (57.6%), Arissa Lavigny-Duval (193.0%), Denton Patreus (0.0%), Edmund Mahon (10.2%), Jerome Archer (315.2%), Li Yong-Rui (123.5%), Yuri Grom (12.1%), Zemina Torval (1.0%) |
 | 🔴 | Dethall | 7.2% | Aisling Duval (20.2%), Edmund Mahon (5.8%), Jerome Archer (49.0%), Yuri Grom (9.9%), Zemina Torval (297.8%) |
 
 ---
@@ -51,12 +51,12 @@
 | Status | System | Progress % |
 |--------|--------|------------|
 | 🔵 | Hydrae Sector DL-Y c19 | 144.9% |
-| 🔵 | Puppis Sector OI-T b3-6 | 115.5% |
+| 🔵 | Puppis Sector OI-T b3-6 | 115.7% |
 | 🔵 | Puppis Sector ZE-A d107 | 111.3% |
 | 🔵 | LHS 273 | 109.2% |
 | 🔵 | HR 4758 | 101.1% |
 | 🔵 | Col 285 Sector YT-F b12-5 | 98.8% |
-| 🔵 | HIP 64059 | 88.1% |
+| 🔵 | HIP 64059 | 88.7% |
 | 🔵 | Hydrae Sector DQ-Y b1 | 78.3% |
 | 🔵 | Antliae Sector MC-V b2-1 | 77.3% |
 | 🔵 | Cocopa | 76.2% |
@@ -73,6 +73,7 @@
 | 🔵 | Hyades Sector QO-P b6-5 | 47.5% |
 | 🔵 | LHS 2010 | 44.5% |
 | 🔵 | Kokarwang | 44.0% |
+| 🔵 | HIP 38718 | 42.7% |
 | 🔵 | Col 285 Sector YE-P c6-12 | 41.9% |
 | 🔵 | Col 285 Sector KX-P b20-2 | 39.3% |
 | 🔵 | HIP 47440 | 38.8% |
@@ -110,6 +111,7 @@
 | 🔵 | Chi Cancri | 21.6% |
 | 🔵 | Klikudiya | 21.4% |
 | 🔵 | Liu Xians | 21.1% |
+| 🔵 | Antliae Sector FG-Y d133 | 20.4% |
 | 🔵 | Col 285 Sector DY-U b18-2 | 20.4% |
 | 🔵 | Muthniu | 20.0% |
 | 🔵 | CT Pyxidis | 19.6% |
@@ -122,6 +124,7 @@
 | 🔵 | Puppis Sector IR-W c1-28 | 18.1% |
 | 🔵 | Ilbandi | 17.8% |
 | 🔵 | HIP 52248 | 17.6% |
+| 🔵 | HIP 46777 | 17.5% |
 | 🔵 | Kwelepita | 17.5% |
 | 🔵 | NLTT 23036 | 17.4% |
 | 🔵 | Nogambe | 17.3% |
@@ -130,7 +133,6 @@
 | 🔵 | Col 285 Sector CB-B b15-1 | 16.9% |
 | 🔵 | HIP 37844 | 16.8% |
 | 🔵 | 171 Puppis | 16.6% |
-| 🔵 | HIP 46777 | 16.6% |
 | 🔵 | Aracinicnii | 16.4% |
 | 🔵 | Muthi | 16.2% |
 | 🔵 | R Canis Majoris | 16.2% |
@@ -203,12 +205,12 @@
 | 🔵 | Kirram | 8.9% |
 | 🔵 | LHS 6171 | 8.9% |
 | 🔵 | NLTT 18561 | 8.9% |
+| 🔵 | Puppis Sector JH-V b2-4 | 8.9% |
 | 🔵 | HIP 48680 | 8.8% |
 | 🔵 | Crucis Sector DR-V b2-5 | 8.7% |
 | 🔵 | Col 285 Sector RY-H c10-21 | 8.6% |
 | 🔵 | Nortia | 8.6% |
 | 🔵 | LP 673-42 | 8.5% |
-| 🔵 | Puppis Sector JH-V b2-4 | 8.5% |
 | 🔵 | Tsimshis | 8.5% |
 | 🔵 | Ukko | 8.5% |
 | 🔵 | Psi Velorum | 8.4% |
@@ -227,6 +229,7 @@
 | 🔵 | Crucis Sector CL-X b1-2 | 7.5% |
 | 🔵 | Kinnara | 7.5% |
 | 🔵 | Puppis Sector LC-V b2-6 | 7.4% |
+| 🔵 | Zhou Maola | 7.4% |
 | 🔵 | BD-03 1821 | 7.3% |
 | 🔵 | Mu Cancri | 7.3% |
 | 🔵 | Ross 880 | 7.3% |
@@ -359,6 +362,7 @@
 | 🔵 | Crucis Sector ZP-X b1-2 | 3.6% |
 | 🔵 | LHS 314 | 3.6% |
 | 🔵 | Teuten | 3.6% |
+| 🔵 | Chuangubu | 3.5% |
 | 🔵 | Col 285 Sector FR-R b19-1 | 3.5% |
 | 🔵 | Crucis Sector HM-V b2-3 | 3.5% |
 | 🔵 | Desurinbin | 3.5% |
@@ -368,7 +372,6 @@
 | 🔵 | Puppis Sector CL-P a5-5 | 3.5% |
 | 🔵 | 2 Hydrae | 3.4% |
 | 🔵 | BD+01 2684 | 3.4% |
-| 🔵 | Chuangubu | 3.4% |
 | 🔵 | Crucis Sector DQ-Y b4 | 3.4% |
 | 🔵 | Djeriman | 3.4% |
 | 🔵 | Hyades Sector QE-O b7-0 | 3.4% |
@@ -652,6 +655,7 @@
 | 🔵 | Col 285 Sector DB-B b15-3 | 0.9% |
 | 🔵 | Col 285 Sector DM-I b11-3 | 0.9% |
 | 🔵 | Col 285 Sector DM-Z b15-2 | 0.9% |
+| 🔵 | Col 285 Sector ER-R b19-2 | 0.9% |
 | 🔵 | Col 285 Sector RS-H b11-2 | 0.9% |
 | 🔵 | Col 285 Sector YR-W b17-2 | 0.9% |
 | 🔵 | Crucis Sector AQ-X b1-4 | 0.9% |
@@ -676,7 +680,6 @@
 | 🔵 | Zurvan | 0.9% |
 | 🔵 | 78 Iota Leonis | 0.8% |
 | 🔵 | Bhaguthians | 0.8% |
-| 🔵 | Col 285 Sector ER-R b19-2 | 0.8% |
 | 🔵 | Col 285 Sector RS-H b11-6 | 0.8% |
 | 🔵 | Col 285 Sector TL-Y b16-3 | 0.8% |
 | 🔵 | Col 285 Sector UY-F b12-4 | 0.8% |
@@ -853,6 +856,7 @@
 | 🔵 | Col 285 Sector OT-V b17-3 | 0.4% |
 | 🔵 | Col 285 Sector PY-S a33-0 | 0.4% |
 | 🔵 | Col 285 Sector RY-H c10-14 | 0.4% |
+| 🔵 | Col 285 Sector TN-H b11-5 | 0.4% |
 | 🔵 | Cowiskimo | 0.4% |
 | 🔵 | Crucis Sector CB-O a6-0 | 0.4% |
 | 🔵 | Crucis Sector CB-O a6-2 | 0.4% |
@@ -1462,7 +1466,6 @@
 | 🔵 | Antliae Sector OI-T b3-6 | 0.0% |
 | 🔵 | Antliae Sector OS-U b2-2 | 0.0% |
 | 🔵 | Antliae Sector OS-U b2-4 | 0.0% |
-| 🔵 | Antliae Sector OS-U b2-5 | 0.0% |
 | 🔵 | Antliae Sector OS-U b2-7 | 0.0% |
 | 🔵 | Antliae Sector OX-U b2-5 | 0.0% |
 | 🔵 | Antliae Sector PI-T b3-2 | 0.0% |
@@ -1473,8 +1476,10 @@
 | 🔵 | Antliae Sector RD-T b3-2 | 0.0% |
 | 🔵 | Antliae Sector RD-T b3-4 | 0.0% |
 | 🔵 | Antliae Sector RD-T b3-5 | 0.0% |
+| 🔵 | Antliae Sector RT-R b4-0 | 0.0% |
 | 🔵 | Antliae Sector SO-R b4-4 | 0.0% |
 | 🔵 | Antliae Sector SO-R b4-6 | 0.0% |
+| 🔵 | Antliae Sector TO-R b4-2 | 0.0% |
 | 🔵 | Antliae Sector TY-S b3-1 | 0.0% |
 | 🔵 | Antliae Sector TY-S b3-3 | 0.0% |
 | 🔵 | Antliae Sector TY-S b3-4 | 0.0% |
@@ -1497,7 +1502,6 @@
 | 🔵 | BD+22 1802 | 0.0% |
 | 🔵 | BD+30 1423 | 0.0% |
 | 🔵 | Bhungkan | 0.0% |
-| 🔵 | Buri | 0.0% |
 | 🔵 | CD-47 7273 | 0.0% |
 | 🔵 | CD-50 2947 | 0.0% |
 | 🔵 | CD-63 359 | 0.0% |
@@ -1615,7 +1619,6 @@
 | 🔵 | Col 285 Sector IS-U a32-2 | 0.0% |
 | 🔵 | Col 285 Sector IS-U a32-3 | 0.0% |
 | 🔵 | Col 285 Sector IS-U a32-4 | 0.0% |
-| 🔵 | Col 285 Sector IS-X b16-1 | 0.0% |
 | 🔵 | Col 285 Sector IX-J c9-27 | 0.0% |
 | 🔵 | Col 285 Sector IX-P b20-3 | 0.0% |
 | 🔵 | Col 285 Sector JC-T c4-11 | 0.0% |
@@ -1629,6 +1632,7 @@
 | 🔵 | Col 285 Sector JX-U a32-3 | 0.0% |
 | 🔵 | Col 285 Sector KE-C b15-0 | 0.0% |
 | 🔵 | Col 285 Sector KG-L b9-0 | 0.0% |
+| 🔵 | Col 285 Sector KG-L b9-1 | 0.0% |
 | 🔵 | Col 285 Sector KI-O b21-6 | 0.0% |
 | 🔵 | Col 285 Sector KI-O b21-7 | 0.0% |
 | 🔵 | Col 285 Sector KM-A b15-2 | 0.0% |
@@ -1678,7 +1682,6 @@
 | 🔵 | Col 285 Sector OS-T d3-96 | 0.0% |
 | 🔵 | Col 285 Sector OX-H b11-5 | 0.0% |
 | 🔵 | Col 285 Sector OY-S a33-1 | 0.0% |
-| 🔵 | Col 285 Sector PD-T a33-0 | 0.0% |
 | 🔵 | Col 285 Sector PD-T a33-1 | 0.0% |
 | 🔵 | Col 285 Sector PD-T a33-2 | 0.0% |
 | 🔵 | Col 285 Sector PD-T a33-4 | 0.0% |
@@ -1808,6 +1811,7 @@
 | 🔵 | Crucis Sector GR-V b2-3 | 0.0% |
 | 🔵 | Crucis Sector GW-N a6-4 | 0.0% |
 | 🔵 | Crucis Sector HB-X b1-3 | 0.0% |
+| 🔵 | Crucis Sector HB-X b1-7 | 0.0% |
 | 🔵 | Crucis Sector HH-M a7-1 | 0.0% |
 | 🔵 | Crucis Sector HH-V b2-5 | 0.0% |
 | 🔵 | Crucis Sector HH-V b2-6 | 0.0% |
@@ -2031,6 +2035,7 @@
 | 🔵 | Hyades Sector BB-M b8-6 | 0.0% |
 | 🔵 | Hyades Sector BQ-N b7-2 | 0.0% |
 | 🔵 | Hyades Sector BQ-N b7-3 | 0.0% |
+| 🔵 | Hyades Sector BQ-N b7-6 | 0.0% |
 | 🔵 | Hyades Sector CB-M b8-1 | 0.0% |
 | 🔵 | Hyades Sector CM-K b9-1 | 0.0% |
 | 🔵 | Hyades Sector CM-K b9-3 | 0.0% |
@@ -2057,7 +2062,6 @@
 | 🔵 | Hyades Sector IH-V d2-132 | 0.0% |
 | 🔵 | Hyades Sector IH-V d2-98 | 0.0% |
 | 🔵 | Hyades Sector JC-U c3-14 | 0.0% |
-| 🔵 | Hyades Sector JH-V d2-111 | 0.0% |
 | 🔵 | Hyades Sector JS-R b5-1 | 0.0% |
 | 🔵 | Hyades Sector KC-U c3-10 | 0.0% |
 | 🔵 | Hyades Sector KC-U c3-17 | 0.0% |
@@ -2124,7 +2128,6 @@
 | 🔵 | Hydrae Sector FW-W b1-4 | 0.0% |
 | 🔵 | Hydrae Sector GB-X b1-4 | 0.0% |
 | 🔵 | Hydrae Sector GB-X b1-5 | 0.0% |
-| 🔵 | Hydrae Sector HB-X b1-4 | 0.0% |
 | 🔵 | Hydrae Sector IR-W c1-12 | 0.0% |
 | 🔵 | Hydrae Sector IR-W c1-22 | 0.0% |
 | 🔵 | Hydrae Sector KM-W c1-16 | 0.0% |
@@ -2286,6 +2289,7 @@
 | 🔵 | Shui Wei Sector GS-Q a6-1 | 0.0% |
 | 🔵 | Shui Wei Sector GS-Q a6-2 | 0.0% |
 | 🔵 | Shui Wei Sector KY-O a7-3 | 0.0% |
+| 🔵 | Sisi | 0.0% |
 | 🔵 | SPOCS 308 | 0.0% |
 | 🔵 | Srnja | 0.0% |
 | 🔵 | Svandovit | 0.0% |
