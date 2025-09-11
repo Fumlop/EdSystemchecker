@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-11 16:05:24
-**Data Source:** 2025-09-11T16:05:24.459509
-**Total Fortified:** 56 (21 with decay analysis)
+**Report Generated:** 2025-09-11 20:04:24
+**Data Source:** 2025-09-11T20:04:24.624507
+**Total Fortified:** 82 (33 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,19 +11,22 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **HR 3277** | +25,191 CP | 52,257 | 25,240 | 67.9% |
 | ✅ | **LTT 4487** | +1,095 CP | 10,540 | 1,517 | 33.1% |
-| ✅ | **LFT 601** | +66 CP | 939 | 555 | 25.8% |
+| ✅ | **LFT 601** | +376 CP | 939 | 930 | 25.8% |
+| ✅ | **Lesheima** | +351 CP | 5,722 | 809 | 29.4% |
+| ✅ | **Tau Centauri** | +335 CP | 8,156 | 787 | 31.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Aasgay** | -545 CP | 2,340 | 0 | 26.7% |
 | ✅ | **Eme** | -515 CP | 5,688 | 0 | 29.2% |
 | ✅ | **LHS 306** | -514 CP | 2,032 | 0 | 26.5% |
 | ✅ | **Tarhul** | -497 CP | 3,365 | 0 | 27.5% |
-| ✅ | **Umbrigua** | -490 CP | 6,064 | 0 | 29.5% |
-| ✅ | **Huangais** | -465 CP | 2,921 | 0 | 27.2% |
+| ✅ | **Namte** | -493 CP | 18,386 | 0 | 38.6% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -48,7 +51,9 @@
 
 ### 🟢 High Activity (≥10,000 CP Reinforcement)
 
-*No fortified systems with high reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | HR 3277 | 25,240 | 52,257 | 75.9% | 64.02% | 67.9% | 441,350 | +25,191 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
