@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-11 20:04:24
-**Data Source:** 2025-09-11T20:04:24.624507
-**Total Fortified:** 82 (33 with decay analysis)
+**Report Generated:** 2025-09-12 00:16:42
+**Data Source:** 2025-09-12T00:16:42.696928
+**Total Fortified:** 93 (41 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,10 +12,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **HR 3277** | +25,191 CP | 52,257 | 25,240 | 67.9% |
-| ✅ | **LTT 4487** | +1,095 CP | 10,540 | 1,517 | 33.1% |
-| ✅ | **LFT 601** | +376 CP | 939 | 930 | 25.8% |
-| ✅ | **Lesheima** | +351 CP | 5,722 | 809 | 29.4% |
-| ✅ | **Tau Centauri** | +335 CP | 8,156 | 787 | 31.2% |
+| ✅ | **Kharahua** | +3,573 CP | 24,104 | 3,862 | 43.6% |
+| ✅ | **V902 Centauri** | +1,741 CP | 22,737 | 2,041 | 42.3% |
+| ✅ | **LTT 4487** | +1,027 CP | 10,622 | 1,517 | 33.1% |
+| ✅ | **Lesheima** | +920 CP | 5,722 | 1,361 | 29.5% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -25,8 +25,8 @@
 | ✅ | **Aasgay** | -545 CP | 2,340 | 0 | 26.7% |
 | ✅ | **Eme** | -515 CP | 5,688 | 0 | 29.2% |
 | ✅ | **LHS 306** | -514 CP | 2,032 | 0 | 26.5% |
-| ✅ | **Tarhul** | -497 CP | 3,365 | 0 | 27.5% |
-| ✅ | **Namte** | -493 CP | 18,386 | 0 | 38.6% |
+| ✅ | **Turni** | -504 CP | 802 | 0 | 25.6% |
+| ✅ | **Pisaly** | -501 CP | 392 | 0 | 25.3% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -63,7 +63,9 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 4487 | 1,517 | 10,540 | 34.7% | 32.93% | 33.1% | 215,150 | +1,095 | 🔵 Low Reinforcement |
+| ✅ | Kharahua | 3,862 | 24,104 | 47.3% | 43.05% | 43.6% | 283,400 | +3,573 | 🔵 Low Reinforcement |
+| ✅ | V902 Centauri | 2,041 | 22,737 | 45.8% | 42.03% | 42.3% | 274,950 | +1,741 | 🔵 Low Reinforcement |
+| ✅ | LTT 4487 | 1,517 | 10,622 | 34.7% | 32.94% | 33.1% | 215,150 | +1,027 | 🔵 Low Reinforcement |
 
 
 ---
