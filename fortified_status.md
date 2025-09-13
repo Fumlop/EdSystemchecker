@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-12 20:04:36
-**Data Source:** 2025-09-12T20:04:36.644697
-**Total Fortified:** 122 (46 with decay analysis)
+**Report Generated:** 2025-09-13 00:15:42
+**Data Source:** 2025-09-13T00:15:42.208645
+**Total Fortified:** 121 (46 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -14,19 +14,19 @@
 | ✅ | **HR 3277** | +54,262 CP | 52,257 | 54,274 | 72.4% |
 | ✅ | **Crucis Sector PC-V a2-1** | +22,765 CP | 63,811 | 22,763 | 76.1% |
 | ✅ | **UBV 8670** | +4,210 CP | 8,124 | 4,760 | 31.7% |
+| ✅ | **LTT 4487** | +3,847 CP | 10,622 | 4,383 | 33.5% |
 | ✅ | **Kharahua** | +3,573 CP | 24,104 | 3,862 | 43.6% |
-| ✅ | **LTT 4487** | +3,562 CP | 10,622 | 4,039 | 33.5% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Aasgay** | -545 CP | 2,340 | 0 | 26.7% |
 | ✅ | **Eme** | -515 CP | 5,688 | 0 | 29.2% |
 | ✅ | **LHS 306** | -514 CP | 2,032 | 0 | 26.5% |
 | ✅ | **Turni** | -504 CP | 802 | 0 | 25.6% |
 | ✅ | **Pisaly** | -501 CP | 392 | 0 | 25.3% |
+| ✅ | **LHS 1887** | -492 CP | 6,337 | 0 | 29.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -66,9 +66,10 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | UBV 8670 | 4,760 | 8,124 | 32.9% | 31.05% | 31.7% | 206,050 | +4,210 | 🔵 Low Reinforcement |
+| ✅ | LTT 4487 | 4,383 | 10,622 | 35.1% | 32.91% | 33.5% | 217,750 | +3,847 | 🔵 Low Reinforcement |
 | ✅ | Kharahua | 3,862 | 24,104 | 47.3% | 43.05% | 43.6% | 283,400 | +3,573 | 🔵 Low Reinforcement |
-| ✅ | LTT 4487 | 4,039 | 10,622 | 35.1% | 32.95% | 33.5% | 217,750 | +3,562 | 🔵 Low Reinforcement |
-| ✅ | Lesheima | 3,205 | 5,722 | 30.7% | 29.37% | 29.8% | 193,700 | +2,782 | 🔵 Low Reinforcement |
+| ✅ | Lesheima | 3,268 | 5,722 | 30.7% | 29.36% | 29.8% | 193,700 | +2,834 | 🔵 Low Reinforcement |
+| ✅ | Achansa | 2,717 | 8,627 | 33.2% | 31.54% | 31.9% | 207,350 | +2,327 | 🔵 Low Reinforcement |
 | ✅ | V902 Centauri | 2,326 | 22,737 | 45.8% | 42.00% | 42.3% | 274,950 | +1,977 | 🔵 Low Reinforcement |
 
 
