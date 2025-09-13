@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-13 00:15:42
-**Data Source:** 2025-09-13T00:15:42.208645
+**Report Generated:** 2025-09-13 04:05:14
+**Data Source:** 2025-09-13T04:05:14.274239
 **Total Fortified:** 121 (46 with decay analysis)
 
 ## 📊 Quick Summary
@@ -22,11 +22,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Eme** | -515 CP | 5,688 | 0 | 29.2% |
+| ✅ | **Heveri** | -581 CP | 5,675 | 178 | 29.0% |
+| ✅ | **Eme** | -516 CP | 5,689 | 0 | 29.2% |
 | ✅ | **LHS 306** | -514 CP | 2,032 | 0 | 26.5% |
 | ✅ | **Turni** | -504 CP | 802 | 0 | 25.6% |
 | ✅ | **Pisaly** | -501 CP | 392 | 0 | 25.3% |
-| ✅ | **LHS 1887** | -492 CP | 6,337 | 0 | 29.7% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -69,8 +69,9 @@
 | ✅ | LTT 4487 | 4,383 | 10,622 | 35.1% | 32.91% | 33.5% | 217,750 | +3,847 | 🔵 Low Reinforcement |
 | ✅ | Kharahua | 3,862 | 24,104 | 47.3% | 43.05% | 43.6% | 283,400 | +3,573 | 🔵 Low Reinforcement |
 | ✅ | Lesheima | 3,268 | 5,722 | 30.7% | 29.36% | 29.8% | 193,700 | +2,834 | 🔵 Low Reinforcement |
-| ✅ | Achansa | 2,717 | 8,627 | 33.2% | 31.54% | 31.9% | 207,350 | +2,327 | 🔵 Low Reinforcement |
+| ✅ | Achansa | 2,742 | 8,627 | 33.2% | 31.54% | 31.9% | 207,350 | +2,347 | 🔵 Low Reinforcement |
 | ✅ | V902 Centauri | 2,326 | 22,737 | 45.8% | 42.00% | 42.3% | 274,950 | +1,977 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 1,485 | 26,055 | 48.6% | 44.43% | 44.6% | 289,900 | +1,112 | 🔵 Low Reinforcement |
 
 
 ---
