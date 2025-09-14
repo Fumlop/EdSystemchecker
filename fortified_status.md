@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-14 08:05:15
-**Data Source:** 2025-09-14T08:05:15.753918
-**Total Fortified:** 131 (50 with decay analysis)
+**Report Generated:** 2025-09-14 12:06:34
+**Data Source:** 2025-09-14T12:06:34.626760
+**Total Fortified:** 130 (50 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -22,8 +22,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Heveri** | -651 CP | 5,874 | 292 | 29.0% |
-| ✅ | **LHS 306** | -514 CP | 2,032 | 0 | 26.5% |
+| ✅ | **Heveri** | -673 CP | 5,901 | 292 | 29.0% |
+| ✅ | **LHS 306** | -593 CP | 2,127 | 0 | 26.5% |
 | ✅ | **Pisaly** | -501 CP | 392 | 0 | 25.3% |
 | ✅ | **Turni** | -484 CP | 851 | 74 | 25.6% |
 | ✅ | **LHS 1887** | -483 CP | 6,337 | 10 | 29.7% |
