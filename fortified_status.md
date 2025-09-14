@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-14 00:18:06
-**Data Source:** 2025-09-14T00:18:06.187060
-**Total Fortified:** 124 (48 with decay analysis)
+**Report Generated:** 2025-09-14 04:05:15
+**Data Source:** 2025-09-14T04:05:15.067680
+**Total Fortified:** 124 (47 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -14,8 +14,8 @@
 | ✅ | **HR 3277** | +135,622 CP | 55,408 | 138,807 | 84.9% |
 | ✅ | **Crucis Sector PC-V a2-1** | +57,356 CP | 64,347 | 57,919 | 81.4% |
 | ✅ | **Kharahua** | +8,838 CP | 24,104 | 9,140 | 44.4% |
-| ✅ | **UBV 8670** | +5,589 CP | 8,124 | 6,156 | 31.9% |
-| ✅ | **Lesheima** | +4,190 CP | 5,774 | 4,688 | 30.0% |
+| ✅ | **UBV 8670** | +5,607 CP | 8,124 | 6,178 | 31.9% |
+| ✅ | **Lesheima** | +4,705 CP | 5,774 | 5,175 | 30.1% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -62,16 +62,16 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kharahua | 9,140 | 24,104 | 48.1% | 43.04% | 44.4% | 288,600 | +8,838 | 🟡 Medium Reinforcement |
-| ✅ | UBV 8670 | 6,156 | 8,124 | 33.1% | 31.04% | 31.9% | 207,350 | +5,589 | 🟡 Medium Reinforcement |
+| ✅ | UBV 8670 | 6,178 | 8,124 | 33.1% | 31.04% | 31.9% | 207,350 | +5,607 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Lesheima | 4,688 | 5,774 | 30.9% | 29.36% | 30.0% | 195,000 | +4,190 | 🔵 Low Reinforcement |
+| ✅ | Lesheima | 5,175 | 5,774 | 31.0% | 29.38% | 30.1% | 195,650 | +4,705 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 4,399 | 8,627 | 33.4% | 31.49% | 32.1% | 208,650 | +3,943 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 4,383 | 10,622 | 35.1% | 32.91% | 33.5% | 217,750 | +3,847 | 🔵 Low Reinforcement |
-| ✅ | V902 Centauri | 2,429 | 22,737 | 45.9% | 42.07% | 42.4% | 275,600 | +2,174 | 🔵 Low Reinforcement |
+| ✅ | V902 Centauri | 2,654 | 22,737 | 45.9% | 42.04% | 42.4% | 275,600 | +2,360 | 🔵 Low Reinforcement |
 | ✅ | LFT 601 | 2,096 | 939 | 26.1% | 25.76% | 26.0% | 169,000 | +1,565 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 1,598 | 4,219 | 29.0% | 28.23% | 28.4% | 184,599 | +1,127 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 1,485 | 26,055 | 48.6% | 44.43% | 44.6% | 289,900 | +1,112 | 🔵 Low Reinforcement |
