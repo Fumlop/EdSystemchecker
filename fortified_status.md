@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-17 08:05:44
-**Data Source:** 2025-09-17T08:05:44.366954
+**Report Generated:** 2025-09-17 12:07:21
+**Data Source:** 2025-09-17T12:07:21.569887
 **Total Fortified:** 132 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -15,7 +15,7 @@
 | ✅ | **Crucis Sector PC-V a2-1** | +86,389 CP | 64,347 | 86,906 | 85.9% |
 | ✅ | **Kharahua** | +19,734 CP | 24,104 | 20,004 | 46.1% |
 | ✅ | **Lesheima** | +18,399 CP | 6,063 | 19,167 | 32.2% |
-| ✅ | **UBV 8670** | +13,850 CP | 8,124 | 14,377 | 33.2% |
+| ✅ | **UBV 8670** | +13,937 CP | 8,124 | 14,483 | 33.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -24,9 +24,9 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Heveri** | -626 CP | 6,334 | 782 | 29.0% |
 | ✅ | **Aasgay** | -584 CP | 2,652 | 265 | 26.7% |
+| ✅ | **LTT 4716** | -504 CP | 1,208 | 0 | 25.9% |
 | ✅ | **Pisaly** | -501 CP | 392 | 0 | 25.3% |
 | ✅ | **Delta-2 Canis Minoris** | -488 CP | 4,322 | 20 | 28.2% |
-| ✅ | **Turni** | -484 CP | 851 | 74 | 25.6% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -69,8 +69,8 @@
 | ✅ | Crucis Sector PC-V a2-1 | 86,906 | 64,347 | 95.8% | 72.61% | 85.9% | 558,350 | +86,389 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 20,004 | 24,104 | 49.8% | 43.06% | 46.1% | 299,650 | +19,734 | 🟢 High Reinforcement |
 | ✅ | Lesheima | 19,167 | 6,063 | 33.1% | 29.37% | 32.2% | 209,300 | +18,399 | 🟢 High Reinforcement |
-| ✅ | UBV 8670 | 14,377 | 8,124 | 34.4% | 31.07% | 33.2% | 215,800 | +13,850 | 🟢 High Reinforcement |
-| ✅ | LTT 4487 | 13,216 | 10,952 | 36.5% | 32.90% | 34.8% | 226,199 | +12,341 | 🟢 High Reinforcement |
+| ✅ | UBV 8670 | 14,483 | 8,124 | 34.4% | 31.06% | 33.2% | 215,800 | +13,937 | 🟢 High Reinforcement |
+| ✅ | LTT 4487 | 13,556 | 10,952 | 36.6% | 32.94% | 34.9% | 226,849 | +12,734 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -86,7 +86,7 @@
 | ✅ | b2 Carinae | 3,557 | 30,812 | 52.8% | 47.67% | 48.1% | 312,650 | +2,811 | 🔵 Low Reinforcement |
 | ✅ | V902 Centauri | 2,960 | 22,737 | 45.9% | 42.00% | 42.4% | 275,600 | +2,614 | 🔵 Low Reinforcement |
 | ✅ | Namte | 2,810 | 18,409 | 41.9% | 38.73% | 39.1% | 254,150 | +2,374 | 🔵 Low Reinforcement |
-| ✅ | LHS 2037 | 2,755 | 4,387 | 29.2% | 28.18% | 28.5% | 185,249 | +2,058 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 2,969 | 4,387 | 29.3% | 28.24% | 28.6% | 185,900 | +2,347 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 2,171 | 8,729 | 33.2% | 31.62% | 31.9% | 207,350 | +1,790 | 🔵 Low Reinforcement |
 | ✅ | LFT 601 | 2,321 | 1,107 | 26.2% | 25.75% | 26.0% | 169,000 | +1,612 | 🔵 Low Reinforcement |
 | ✅ | Atat | 1,744 | 2,374 | 27.4% | 26.81% | 27.0% | 175,500 | +1,207 | 🔵 Low Reinforcement |

@@ -1,7 +1,7 @@
 # 🏛️ Stronghold Status Report
 
-**Report Generated:** 2025-09-17 08:05:44
-**Data Source:** 2025-09-17T08:05:44.368751
+**Report Generated:** 2025-09-17 12:07:21
+**Data Source:** 2025-09-17T12:07:21.571635
 **Total Stronghold:** 59 (35 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,8 +12,8 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Algorab** | +202,672 CP | 156,298 | 207,982 | 105.2% |
-| ✅ | **LHS 317** | +176,720 CP | 109,333 | 180,250 | 84.6% |
-| ✅ | **Orishpucho** | +59,016 CP | 54,471 | 60,712 | 51.7% |
+| ✅ | **LHS 317** | +176,789 CP | 109,333 | 180,336 | 84.6% |
+| ✅ | **Orishpucho** | +60,786 CP | 54,471 | 62,424 | 51.9% |
 | ✅ | **Carnoeck** | +35,764 CP | 57,090 | 69,378 | 37.7% |
 | ✅ | **LP 726-6** | +30,960 CP | 70,590 | 33,703 | 54.9% |
 
@@ -32,7 +32,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **Algorab** | +202,672 CP | 105.2% | 156,298 | 207,982 |
-| ✅ | **LHS 317** | +176,720 CP | 84.6% | 109,333 | 180,250 |
+| ✅ | **LHS 317** | +176,789 CP | 84.6% | 109,333 | 180,336 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -64,25 +64,25 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Algorab | 207,982 | 156,298 | 120.8% | 84.93% | 105.2% | 1,052,000 | +202,672 | 🟢 High Reinforcement |
-| ✅ | LHS 317 | 180,250 | 109,333 | 95.5% | 66.93% | 84.6% | 846,000 | +176,720 | 🟢 High Reinforcement |
-| ✅ | Orishpucho | 60,712 | 54,471 | 57.1% | 45.80% | 51.7% | 517,000 | +59,016 | 🟢 High Reinforcement |
+| ✅ | LHS 317 | 180,336 | 109,333 | 95.5% | 66.92% | 84.6% | 846,000 | +176,789 | 🟢 High Reinforcement |
+| ✅ | Orishpucho | 62,424 | 54,471 | 57.3% | 45.82% | 51.9% | 519,000 | +60,786 | 🟢 High Reinforcement |
 | ✅ | Carnoeck | 69,378 | 57,090 | 43.4% | 34.12% | 37.7% | 377,000 | +35,764 | 🟢 High Reinforcement |
 | ✅ | LP 726-6 | 33,703 | 70,590 | 62.0% | 51.80% | 54.9% | 548,999 | +30,960 | 🟢 High Reinforcement |
 | ✅ | BD-01 1707 | 32,428 | 73,000 | 63.3% | 52.98% | 56.0% | 560,000 | +30,221 | 🟢 High Reinforcement |
 | ✅ | LTT 3607 | 23,197 | 27,605 | 40.4% | 35.38% | 37.6% | 376,000 | +22,217 | 🟢 High Reinforcement |
 | ✅ | Fousang | 20,244 | 50,071 | 50.9% | 44.05% | 45.9% | 458,999 | +18,548 | 🟢 High Reinforcement |
-| ✅ | Corbenic | 15,364 | 20,583 | 36.5% | 32.89% | 34.4% | 344,000 | +15,149 | 🟢 High Reinforcement |
+| ✅ | Corbenic | 16,052 | 20,583 | 36.5% | 32.83% | 34.4% | 344,000 | +15,699 | 🟢 High Reinforcement |
 | ✅ | Athena | 20,156 | 47,519 | 47.9% | 41.61% | 43.1% | 431,000 | +14,901 | 🟢 High Reinforcement |
 | ✅ | Robor | 13,591 | 5,020 | 28.8% | 26.91% | 28.3% | 283,000 | +13,935 | 🟢 High Reinforcement |
+| ✅ | Neche | 12,647 | 8,030 | 30.1% | 28.02% | 29.3% | 293,000 | +12,780 | 🟢 High Reinforcement |
 | ✅ | Andel | 12,083 | 39,041 | 44.9% | 39.90% | 41.0% | 410,000 | +11,012 | 🟢 High Reinforcement |
-| ✅ | Neche | 10,739 | 8,030 | 29.9% | 28.01% | 29.1% | 291,000 | +10,854 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Noti | 10,389 | 26,857 | 38.9% | 35.22% | 36.2% | 362,000 | +9,768 | 🟡 Medium Reinforcement |
-| ✅ | Kaura | 8,886 | 16,287 | 33.6% | 31.14% | 32.0% | 320,000 | +8,590 | 🟡 Medium Reinforcement |
+| ✅ | Kaura | 9,149 | 16,287 | 33.7% | 31.20% | 32.1% | 321,000 | +9,001 | 🟡 Medium Reinforcement |
 | ✅ | Karnarki | 7,059 | 4,125 | 27.7% | 26.56% | 27.3% | 273,000 | +7,423 | 🟡 Medium Reinforcement |
 | ✅ | LHS 1928 | 7,077 | 29,208 | 39.7% | 36.16% | 36.8% | 368,000 | +6,445 | 🟡 Medium Reinforcement |
 | ✅ | Siki | 5,060 | 5,416 | 28.1% | 27.06% | 27.6% | 276,000 | +5,394 | 🟡 Medium Reinforcement |
