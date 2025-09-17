@@ -1,7 +1,7 @@
 {
   "state": "Fortified",
   "system_count": 130,
-  "last_update": "2025-09-17T00:17:03.713357",
+  "last_update": "2025-09-17T04:05:19.674026",
   "systems": [
     {
       "system": "1 Hydrae",
@@ -12,7 +12,7 @@
       "current_progress_cp": 126750,
       "last_cycle_cp_actual": 126918,
       "last_cycle_percent": 19.5,
-      "extracted_at": "2025-09-16T17:17:03.098526",
+      "extracted_at": "2025-09-16T17:05:19.076455",
       "current_cycle_refresh": true
     },
     {
@@ -24,7 +24,7 @@
       "current_progress_cp": 215800,
       "last_cycle_cp_actual": 226745,
       "last_cycle_percent": 34.9,
-      "extracted_at": "2025-09-16T13:17:03.099159",
+      "extracted_at": "2025-09-16T13:05:19.077101",
       "current_cycle_refresh": true,
       "natural_decay": 33.19,
       "expected_progress_cp": 215745,
@@ -39,7 +39,7 @@
       "current_progress_cp": 154050,
       "last_cycle_cp_actual": 154050,
       "last_cycle_percent": 23.7,
-      "extracted_at": "2025-09-16T13:17:03.099330",
+      "extracted_at": "2025-09-16T14:05:19.077275",
       "current_cycle_refresh": true
     },
     {
@@ -51,7 +51,7 @@
       "current_progress_cp": 93600,
       "last_cycle_cp_actual": 93606,
       "last_cycle_percent": 14.4,
-      "extracted_at": "2025-09-16T06:17:03.099545",
+      "extracted_at": "2025-09-16T06:05:19.077511",
       "current_cycle_refresh": true
     },
     {
@@ -63,7 +63,7 @@
       "current_progress_cp": 217099,
       "last_cycle_cp_actual": 229110,
       "last_cycle_percent": 35.2,
-      "extracted_at": "2025-09-16T23:48:03.099965",
+      "extracted_at": "2025-09-17T00:05:19.077936",
       "current_cycle_refresh": true,
       "natural_decay": 33.43,
       "expected_progress_cp": 217285,
@@ -78,7 +78,7 @@
       "current_progress_cp": 173550,
       "last_cycle_cp_actual": 176202,
       "last_cycle_percent": 27.1,
-      "extracted_at": "2025-09-16T23:17:03.100238",
+      "extracted_at": "2025-09-17T00:05:19.078220",
       "current_cycle_refresh": true,
       "natural_decay": 26.79,
       "expected_progress_cp": 174134,
@@ -93,7 +93,7 @@
       "current_progress_cp": 208650,
       "last_cycle_cp_actual": 217277,
       "last_cycle_percent": 33.4,
-      "extracted_at": "2025-09-16T00:17:03.100467",
+      "extracted_at": "2025-09-16T04:05:19.078454",
       "current_cycle_refresh": true,
       "natural_decay": 31.49,
       "expected_progress_cp": 204707,
@@ -103,16 +103,16 @@
       "system": "Agarda",
       "state": "Fortified",
       "undermining": 16382,
-      "reinforcement": 838,
+      "reinforcement": 1155,
       "progress_percent": 37.4,
       "current_progress_cp": 243100,
       "last_cycle_cp_actual": 259482,
       "last_cycle_percent": 39.9,
-      "extracted_at": "2025-09-16T17:17:03.100635",
+      "extracted_at": "2025-09-17T03:59:19.078627",
       "current_cycle_refresh": true,
-      "natural_decay": 37.32,
-      "expected_progress_cp": 242585,
-      "net_cp": 515
+      "natural_decay": 37.28,
+      "expected_progress_cp": 242322,
+      "net_cp": 778
     },
     {
       "system": "Alchita",
@@ -123,19 +123,19 @@
       "current_progress_cp": 81250,
       "last_cycle_cp_actual": 82092,
       "last_cycle_percent": 12.6,
-      "extracted_at": "2025-09-16T22:17:03.101111",
+      "extracted_at": "2025-09-16T23:05:19.079114",
       "current_cycle_refresh": true
     },
     {
       "system": "Amaterasu",
       "state": "Fortified",
       "undermining": 0,
-      "reinforcement": 3568,
-      "progress_percent": 24.0,
-      "current_progress_cp": 156000,
-      "last_cycle_cp_actual": 156000,
-      "last_cycle_percent": 24.0,
-      "extracted_at": "2025-09-16T22:17:03.101562",
+      "reinforcement": 4516,
+      "progress_percent": 24.1,
+      "current_progress_cp": 156650,
+      "last_cycle_cp_actual": 156650,
+      "last_cycle_percent": 24.1,
+      "extracted_at": "2025-09-17T03:55:19.079558",
       "current_cycle_refresh": true
     },
     {
@@ -147,7 +147,7 @@
       "current_progress_cp": 72799,
       "last_cycle_cp_actual": 73510,
       "last_cycle_percent": 11.3,
-      "extracted_at": "2025-09-16T23:17:03.101756",
+      "extracted_at": "2025-09-17T00:05:19.079753",
       "current_cycle_refresh": true
     },
     {
@@ -159,7 +159,7 @@
       "current_progress_cp": 62400,
       "last_cycle_cp_actual": 62400,
       "last_cycle_percent": 9.6,
-      "extracted_at": "2025-09-16T00:17:03.101933",
+      "extracted_at": "2025-09-16T06:05:19.079934",
       "current_cycle_refresh": true
     },
     {
@@ -171,7 +171,7 @@
       "current_progress_cp": 90350,
       "last_cycle_cp_actual": 90350,
       "last_cycle_percent": 13.9,
-      "extracted_at": "2025-09-16T00:17:03.102303",
+      "extracted_at": "2025-09-16T04:05:19.080306",
       "current_cycle_refresh": true
     },
     {
@@ -183,7 +183,7 @@
       "current_progress_cp": 151450,
       "last_cycle_cp_actual": 151450,
       "last_cycle_percent": 23.3,
-      "extracted_at": "2025-09-16T17:17:03.102514",
+      "extracted_at": "2025-09-16T17:05:19.080499",
       "current_cycle_refresh": true
     },
     {
@@ -195,7 +195,7 @@
       "current_progress_cp": 114400,
       "last_cycle_cp_actual": 114400,
       "last_cycle_percent": 17.6,
-      "extracted_at": "2025-09-16T10:17:03.102709",
+      "extracted_at": "2025-09-16T10:05:19.080690",
       "current_cycle_refresh": true
     },
     {
@@ -207,7 +207,7 @@
       "current_progress_cp": 176800,
       "last_cycle_cp_actual": 179721,
       "last_cycle_percent": 27.6,
-      "extracted_at": "2025-09-16T04:17:03.102916",
+      "extracted_at": "2025-09-16T04:05:19.080889",
       "current_cycle_refresh": true,
       "natural_decay": 27.25,
       "expected_progress_cp": 177135,
@@ -222,7 +222,7 @@
       "current_progress_cp": 104000,
       "last_cycle_cp_actual": 105457,
       "last_cycle_percent": 16.2,
-      "extracted_at": "2025-09-16T00:17:03.103165",
+      "extracted_at": "2025-09-17T03:05:19.081139",
       "current_cycle_refresh": true
     },
     {
@@ -234,7 +234,7 @@
       "current_progress_cp": 175500,
       "last_cycle_cp_actual": 177874,
       "last_cycle_percent": 27.4,
-      "extracted_at": "2025-09-16T22:17:03.103542",
+      "extracted_at": "2025-09-16T23:05:19.081517",
       "current_cycle_refresh": true,
       "natural_decay": 26.81,
       "expected_progress_cp": 174293,
@@ -244,12 +244,12 @@
       "system": "Azaladshu",
       "state": "Fortified",
       "undermining": 842,
-      "reinforcement": 6403,
+      "reinforcement": 6408,
       "progress_percent": 8.8,
       "current_progress_cp": 57200,
       "last_cycle_cp_actual": 58042,
       "last_cycle_percent": 8.9,
-      "extracted_at": "2025-09-16T20:17:03.104006",
+      "extracted_at": "2025-09-17T02:05:19.081989",
       "current_cycle_refresh": true
     },
     {
@@ -261,7 +261,7 @@
       "current_progress_cp": 312650,
       "last_cycle_cp_actual": 343462,
       "last_cycle_percent": 52.8,
-      "extracted_at": "2025-09-16T18:17:03.104229",
+      "extracted_at": "2025-09-17T02:05:19.082218",
       "current_cycle_refresh": true,
       "natural_decay": 47.67,
       "expected_progress_cp": 309839,
@@ -276,7 +276,7 @@
       "current_progress_cp": 17550,
       "last_cycle_cp_actual": 17589,
       "last_cycle_percent": 2.7,
-      "extracted_at": "2025-09-16T05:17:03.104420",
+      "extracted_at": "2025-09-16T05:05:19.082421",
       "current_cycle_refresh": true
     },
     {
@@ -288,7 +288,7 @@
       "current_progress_cp": 48100,
       "last_cycle_cp_actual": 48100,
       "last_cycle_percent": 7.4,
-      "extracted_at": "2025-09-16T21:17:03.104795",
+      "extracted_at": "2025-09-17T02:05:19.082791",
       "current_cycle_refresh": true
     },
     {
@@ -300,7 +300,7 @@
       "current_progress_cp": 111799,
       "last_cycle_cp_actual": 111839,
       "last_cycle_percent": 17.2,
-      "extracted_at": "2025-09-16T17:17:03.105381",
+      "extracted_at": "2025-09-16T17:05:19.083392",
       "current_cycle_refresh": true
     },
     {
@@ -312,7 +312,7 @@
       "current_progress_cp": 41600,
       "last_cycle_cp_actual": 41706,
       "last_cycle_percent": 6.4,
-      "extracted_at": "2025-09-16T04:17:03.105596",
+      "extracted_at": "2025-09-16T04:05:19.083612",
       "current_cycle_refresh": true
     },
     {
@@ -324,7 +324,7 @@
       "current_progress_cp": 20150,
       "last_cycle_cp_actual": 20150,
       "last_cycle_percent": 3.1,
-      "extracted_at": "2025-09-16T17:17:03.105753",
+      "extracted_at": "2025-09-16T17:05:19.083774",
       "current_cycle_refresh": true
     },
     {
@@ -336,7 +336,7 @@
       "current_progress_cp": 57200,
       "last_cycle_cp_actual": 57200,
       "last_cycle_percent": 8.8,
-      "extracted_at": "2025-09-16T18:17:03.105964",
+      "extracted_at": "2025-09-16T18:05:19.083991",
       "current_cycle_refresh": true
     },
     {
@@ -348,7 +348,7 @@
       "current_progress_cp": 38350,
       "last_cycle_cp_actual": 38350,
       "last_cycle_percent": 5.9,
-      "extracted_at": "2025-09-16T23:19:03.106397",
+      "extracted_at": "2025-09-17T00:05:19.084445",
       "current_cycle_refresh": true
     },
     {
@@ -360,7 +360,7 @@
       "current_progress_cp": 78650,
       "last_cycle_cp_actual": 78650,
       "last_cycle_percent": 12.1,
-      "extracted_at": "2025-09-16T23:46:03.106660",
+      "extracted_at": "2025-09-17T00:05:19.084678",
       "current_cycle_refresh": true
     },
     {
@@ -372,7 +372,7 @@
       "current_progress_cp": 63049,
       "last_cycle_cp_actual": 63049,
       "last_cycle_percent": 9.7,
-      "extracted_at": "2025-09-16T22:17:03.106821",
+      "extracted_at": "2025-09-16T22:05:19.084834",
       "current_cycle_refresh": true
     },
     {
@@ -384,7 +384,7 @@
       "current_progress_cp": 50050,
       "last_cycle_cp_actual": 50050,
       "last_cycle_percent": 7.7,
-      "extracted_at": "2025-09-16T00:17:03.106981",
+      "extracted_at": "2025-09-16T04:05:19.084995",
       "current_cycle_refresh": true
     },
     {
@@ -396,7 +396,7 @@
       "current_progress_cp": 67600,
       "last_cycle_cp_actual": 67600,
       "last_cycle_percent": 10.4,
-      "extracted_at": "2025-09-16T20:17:03.107149",
+      "extracted_at": "2025-09-17T03:05:19.085168",
       "current_cycle_refresh": true
     },
     {
@@ -408,23 +408,23 @@
       "current_progress_cp": 77350,
       "last_cycle_cp_actual": 77350,
       "last_cycle_percent": 11.9,
-      "extracted_at": "2025-09-16T05:17:03.107303",
+      "extracted_at": "2025-09-16T06:05:19.085325",
       "current_cycle_refresh": true
     },
     {
       "system": "Col 285 Sector XT-F b12-7",
       "state": "Fortified",
       "undermining": 5825,
-      "reinforcement": 49,
+      "reinforcement": 54,
       "progress_percent": 29.4,
       "current_progress_cp": 191100,
       "last_cycle_cp_actual": 196925,
       "last_cycle_percent": 30.3,
-      "extracted_at": "2025-09-15T00:17:03.107494",
+      "extracted_at": "2025-09-16T11:05:19.085521",
       "current_cycle_refresh": true,
       "natural_decay": 29.46,
-      "expected_progress_cp": 191463,
-      "net_cp": -363
+      "expected_progress_cp": 191459,
+      "net_cp": -359
     },
     {
       "system": "Crucis Sector PC-V a2-1",
@@ -435,7 +435,7 @@
       "current_progress_cp": 558350,
       "last_cycle_cp_actual": 622697,
       "last_cycle_percent": 95.8,
-      "extracted_at": "2025-09-15T00:17:03.107940",
+      "extracted_at": "2025-09-15T04:05:19.085989",
       "current_cycle_refresh": true,
       "natural_decay": 72.61,
       "expected_progress_cp": 471961,
@@ -450,7 +450,7 @@
       "current_progress_cp": 81250,
       "last_cycle_cp_actual": 81250,
       "last_cycle_percent": 12.5,
-      "extracted_at": "2025-09-16T16:17:03.108099",
+      "extracted_at": "2025-09-16T17:05:19.086157",
       "current_cycle_refresh": true
     },
     {
@@ -462,7 +462,7 @@
       "current_progress_cp": 31850,
       "last_cycle_cp_actual": 32160,
       "last_cycle_percent": 4.9,
-      "extracted_at": "2025-09-16T00:17:03.108284",
+      "extracted_at": "2025-09-16T04:05:19.086352",
       "current_cycle_refresh": true
     },
     {
@@ -474,7 +474,7 @@
       "current_progress_cp": 44850,
       "last_cycle_cp_actual": 44850,
       "last_cycle_percent": 6.9,
-      "extracted_at": "2025-09-16T06:17:03.108496",
+      "extracted_at": "2025-09-17T03:37:19.086570",
       "current_cycle_refresh": true
     },
     {
@@ -486,7 +486,7 @@
       "current_progress_cp": 120250,
       "last_cycle_cp_actual": 121023,
       "last_cycle_percent": 18.6,
-      "extracted_at": "2025-09-16T23:17:03.108739",
+      "extracted_at": "2025-09-17T00:05:19.086818",
       "current_cycle_refresh": true
     },
     {
@@ -498,7 +498,7 @@
       "current_progress_cp": 183299,
       "last_cycle_cp_actual": 187621,
       "last_cycle_percent": 28.9,
-      "extracted_at": "2025-09-16T00:17:03.108921",
+      "extracted_at": "2025-09-16T04:05:19.087009",
       "current_cycle_refresh": true,
       "natural_decay": 28.27,
       "expected_progress_cp": 183787,
@@ -513,7 +513,7 @@
       "current_progress_cp": 156650,
       "last_cycle_cp_actual": 156661,
       "last_cycle_percent": 24.1,
-      "extracted_at": "2025-09-16T01:17:03.109089",
+      "extracted_at": "2025-09-16T21:05:19.087186",
       "current_cycle_refresh": true
     },
     {
@@ -525,7 +525,7 @@
       "current_progress_cp": 82550,
       "last_cycle_cp_actual": 82550,
       "last_cycle_percent": 12.7,
-      "extracted_at": "2025-09-16T20:17:03.109298",
+      "extracted_at": "2025-09-16T20:05:19.087404",
       "current_cycle_refresh": true
     },
     {
@@ -537,7 +537,7 @@
       "current_progress_cp": 33800,
       "last_cycle_cp_actual": 33993,
       "last_cycle_percent": 5.2,
-      "extracted_at": "2025-09-16T22:17:03.109543",
+      "extracted_at": "2025-09-17T03:26:19.087668",
       "current_cycle_refresh": true
     },
     {
@@ -549,7 +549,7 @@
       "current_progress_cp": 218400,
       "last_cycle_cp_actual": 229782,
       "last_cycle_percent": 35.4,
-      "extracted_at": "2025-09-16T18:17:03.109729",
+      "extracted_at": "2025-09-16T18:05:19.087861",
       "current_cycle_refresh": true,
       "natural_decay": 33.54,
       "expected_progress_cp": 218040,
@@ -564,7 +564,7 @@
       "current_progress_cp": 191100,
       "last_cycle_cp_actual": 196825,
       "last_cycle_percent": 30.3,
-      "extracted_at": "2025-09-17T00:17:03.110510",
+      "extracted_at": "2025-09-17T03:05:19.088653",
       "current_cycle_refresh": true,
       "natural_decay": 29.32,
       "expected_progress_cp": 190576,
@@ -579,7 +579,7 @@
       "current_progress_cp": 48100,
       "last_cycle_cp_actual": 48111,
       "last_cycle_percent": 7.4,
-      "extracted_at": "2025-09-16T00:17:03.110717",
+      "extracted_at": "2025-09-16T04:05:19.088858",
       "current_cycle_refresh": true
     },
     {
@@ -591,7 +591,7 @@
       "current_progress_cp": 200850,
       "last_cycle_cp_actual": 208622,
       "last_cycle_percent": 32.1,
-      "extracted_at": "2025-09-16T12:17:03.110886",
+      "extracted_at": "2025-09-17T02:05:19.089033",
       "current_cycle_refresh": true,
       "natural_decay": 30.87,
       "expected_progress_cp": 200677,
@@ -606,7 +606,7 @@
       "current_progress_cp": 195000,
       "last_cycle_cp_actual": 201679,
       "last_cycle_percent": 31.0,
-      "extracted_at": "2025-09-16T17:17:03.111058",
+      "extracted_at": "2025-09-16T17:05:19.089215",
       "current_cycle_refresh": true,
       "natural_decay": 30.06,
       "expected_progress_cp": 195384,
@@ -621,7 +621,7 @@
       "current_progress_cp": 130000,
       "last_cycle_cp_actual": 130017,
       "last_cycle_percent": 20.0,
-      "extracted_at": "2025-09-16T16:17:03.111463",
+      "extracted_at": "2025-09-17T03:05:19.089631",
       "current_cycle_refresh": true
     },
     {
@@ -633,7 +633,7 @@
       "current_progress_cp": 85150,
       "last_cycle_cp_actual": 85150,
       "last_cycle_percent": 13.1,
-      "extracted_at": "2025-09-16T18:17:03.111660",
+      "extracted_at": "2025-09-16T18:05:19.089833",
       "current_cycle_refresh": true
     },
     {
@@ -645,19 +645,19 @@
       "current_progress_cp": 28600,
       "last_cycle_cp_actual": 28600,
       "last_cycle_percent": 4.4,
-      "extracted_at": "2025-09-14T00:17:03.112259",
+      "extracted_at": "2025-09-14T04:05:19.090167",
       "current_cycle_refresh": true
     },
     {
       "system": "Grovii",
       "state": "Fortified",
       "undermining": 0,
-      "reinforcement": 588,
-      "progress_percent": 7.5,
-      "current_progress_cp": 48750,
-      "last_cycle_cp_actual": 48750,
-      "last_cycle_percent": 7.5,
-      "extracted_at": "2025-09-15T00:17:03.112962",
+      "reinforcement": 961,
+      "progress_percent": 7.6,
+      "current_progress_cp": 49400,
+      "last_cycle_cp_actual": 49400,
+      "last_cycle_percent": 7.6,
+      "extracted_at": "2025-09-16T23:05:19.090528",
       "current_cycle_refresh": true
     },
     {
@@ -669,7 +669,7 @@
       "current_progress_cp": 59800,
       "last_cycle_cp_actual": 59800,
       "last_cycle_percent": 9.2,
-      "extracted_at": "2025-09-16T19:17:03.114102",
+      "extracted_at": "2025-09-17T01:05:19.091097",
       "current_cycle_refresh": true
     },
     {
@@ -681,7 +681,7 @@
       "current_progress_cp": 182650,
       "last_cycle_cp_actual": 186787,
       "last_cycle_percent": 28.7,
-      "extracted_at": "2025-09-16T19:17:03.114569",
+      "extracted_at": "2025-09-16T19:05:19.091340",
       "current_cycle_refresh": true,
       "natural_decay": 28.17,
       "expected_progress_cp": 183113,
@@ -696,7 +696,7 @@
       "current_progress_cp": 17550,
       "last_cycle_cp_actual": 17550,
       "last_cycle_percent": 2.7,
-      "extracted_at": "2025-09-16T23:35:03.114756",
+      "extracted_at": "2025-09-17T02:05:19.091521",
       "current_cycle_refresh": true
     },
     {
@@ -708,7 +708,7 @@
       "current_progress_cp": 188500,
       "last_cycle_cp_actual": 194834,
       "last_cycle_percent": 30.0,
-      "extracted_at": "2025-09-16T23:17:03.115000",
+      "extracted_at": "2025-09-17T02:05:19.091771",
       "current_cycle_refresh": true,
       "natural_decay": 29.1,
       "expected_progress_cp": 189126,
@@ -723,7 +723,7 @@
       "current_progress_cp": 26649,
       "last_cycle_cp_actual": 26660,
       "last_cycle_percent": 4.1,
-      "extracted_at": "2025-09-16T17:17:03.115814",
+      "extracted_at": "2025-09-16T17:05:19.092557",
       "current_cycle_refresh": true
     },
     {
@@ -735,7 +735,7 @@
       "current_progress_cp": 226849,
       "last_cycle_cp_actual": 240102,
       "last_cycle_percent": 36.9,
-      "extracted_at": "2025-09-16T00:17:03.115983",
+      "extracted_at": "2025-09-16T04:05:19.092731",
       "current_cycle_refresh": true,
       "natural_decay": 34.96,
       "expected_progress_cp": 227239,
@@ -750,7 +750,7 @@
       "current_progress_cp": 33800,
       "last_cycle_cp_actual": 33800,
       "last_cycle_percent": 5.2,
-      "extracted_at": "2025-09-16T18:17:03.116157",
+      "extracted_at": "2025-09-16T18:05:19.092901",
       "current_cycle_refresh": true
     },
     {
@@ -762,7 +762,7 @@
       "current_progress_cp": 53950,
       "last_cycle_cp_actual": 53982,
       "last_cycle_percent": 8.3,
-      "extracted_at": "2025-09-13T00:17:03.116893",
+      "extracted_at": "2025-09-13T04:05:19.093628",
       "current_cycle_refresh": true
     },
     {
@@ -774,7 +774,7 @@
       "current_progress_cp": 43550,
       "last_cycle_cp_actual": 43550,
       "last_cycle_percent": 6.7,
-      "extracted_at": "2025-09-16T21:17:03.117089",
+      "extracted_at": "2025-09-16T21:05:19.093824",
       "current_cycle_refresh": true
     },
     {
@@ -786,19 +786,19 @@
       "current_progress_cp": 108549,
       "last_cycle_cp_actual": 110433,
       "last_cycle_percent": 17.0,
-      "extracted_at": "2025-09-16T22:17:03.117266",
+      "extracted_at": "2025-09-16T22:05:19.094003",
       "current_cycle_refresh": true
     },
     {
       "system": "HIP 66509",
       "state": "Fortified",
-      "undermining": 373,
-      "reinforcement": 316,
+      "undermining": 411,
+      "reinforcement": 321,
       "progress_percent": 24.5,
       "current_progress_cp": 159250,
-      "last_cycle_cp_actual": 159623,
+      "last_cycle_cp_actual": 159661,
       "last_cycle_percent": 24.6,
-      "extracted_at": "2025-09-15T00:17:03.117794",
+      "extracted_at": "2025-09-17T03:05:19.094509",
       "current_cycle_refresh": true
     },
     {
@@ -810,7 +810,7 @@
       "current_progress_cp": 207350,
       "last_cycle_cp_actual": 216489,
       "last_cycle_percent": 33.3,
-      "extracted_at": "2025-09-16T00:17:03.117974",
+      "extracted_at": "2025-09-16T04:05:19.094691",
       "current_cycle_refresh": true,
       "natural_decay": 31.92,
       "expected_progress_cp": 207477,
@@ -825,7 +825,7 @@
       "current_progress_cp": 668850,
       "last_cycle_cp_actual": 724258,
       "last_cycle_percent": 111.4,
-      "extracted_at": "2025-09-16T15:17:03.118159",
+      "extracted_at": "2025-09-16T15:05:19.094880",
       "current_cycle_refresh": true,
       "natural_decay": 63.99,
       "expected_progress_cp": 415936,
@@ -840,7 +840,7 @@
       "current_progress_cp": 28600,
       "last_cycle_cp_actual": 28740,
       "last_cycle_percent": 4.4,
-      "extracted_at": "2025-09-16T21:17:03.118338",
+      "extracted_at": "2025-09-16T21:05:19.095067",
       "current_cycle_refresh": true
     },
     {
@@ -852,23 +852,23 @@
       "current_progress_cp": 91000,
       "last_cycle_cp_actual": 91000,
       "last_cycle_percent": 14.0,
-      "extracted_at": "2025-09-17T00:13:03.118553",
+      "extracted_at": "2025-09-17T01:05:19.095262",
       "current_cycle_refresh": true
     },
     {
       "system": "Huangais",
       "state": "Fortified",
       "undermining": 3322,
-      "reinforcement": 571,
-      "progress_percent": 27.2,
-      "current_progress_cp": 176800,
-      "last_cycle_cp_actual": 180122,
-      "last_cycle_percent": 27.7,
-      "extracted_at": "2025-09-16T22:17:03.118793",
+      "reinforcement": 1021,
+      "progress_percent": 27.3,
+      "current_progress_cp": 177450,
+      "last_cycle_cp_actual": 180772,
+      "last_cycle_percent": 27.8,
+      "extracted_at": "2025-09-17T00:05:19.095522",
       "current_cycle_refresh": true,
-      "natural_decay": 27.25,
-      "expected_progress_cp": 177125,
-      "net_cp": -325
+      "natural_decay": 27.28,
+      "expected_progress_cp": 177290,
+      "net_cp": 160
     },
     {
       "system": "Jambavan",
@@ -879,7 +879,7 @@
       "current_progress_cp": 107900,
       "last_cycle_cp_actual": 108095,
       "last_cycle_percent": 16.6,
-      "extracted_at": "2025-09-16T23:17:03.119406",
+      "extracted_at": "2025-09-16T23:05:19.096158",
       "current_cycle_refresh": true
     },
     {
@@ -891,7 +891,7 @@
       "current_progress_cp": 35750,
       "last_cycle_cp_actual": 35750,
       "last_cycle_percent": 5.5,
-      "extracted_at": "2025-09-16T00:17:03.119607",
+      "extracted_at": "2025-09-16T04:05:19.096339",
       "current_cycle_refresh": true
     },
     {
@@ -903,7 +903,7 @@
       "current_progress_cp": 299650,
       "last_cycle_cp_actual": 323754,
       "last_cycle_percent": 49.8,
-      "extracted_at": "2025-09-16T23:17:03.120789",
+      "extracted_at": "2025-09-16T23:05:19.097538",
       "current_cycle_refresh": true,
       "natural_decay": 43.06,
       "expected_progress_cp": 279916,
@@ -918,7 +918,7 @@
       "current_progress_cp": 33150,
       "last_cycle_cp_actual": 33150,
       "last_cycle_percent": 5.1,
-      "extracted_at": "2025-09-16T00:17:03.121479",
+      "extracted_at": "2025-09-16T04:05:19.098230",
       "current_cycle_refresh": true
     },
     {
@@ -930,19 +930,19 @@
       "current_progress_cp": 74100,
       "last_cycle_cp_actual": 74198,
       "last_cycle_percent": 11.4,
-      "extracted_at": "2025-09-15T00:17:03.121644",
+      "extracted_at": "2025-09-15T04:05:19.098396",
       "current_cycle_refresh": true
     },
     {
       "system": "Kutenis",
       "state": "Fortified",
       "undermining": 224,
-      "reinforcement": 3155,
-      "progress_percent": 14.5,
-      "current_progress_cp": 94250,
-      "last_cycle_cp_actual": 94474,
-      "last_cycle_percent": 14.5,
-      "extracted_at": "2025-09-16T00:17:03.121848",
+      "reinforcement": 3309,
+      "progress_percent": 14.6,
+      "current_progress_cp": 94900,
+      "last_cycle_cp_actual": 95124,
+      "last_cycle_percent": 14.6,
+      "extracted_at": "2025-09-17T00:05:19.098630",
       "current_cycle_refresh": true
     },
     {
@@ -954,23 +954,23 @@
       "current_progress_cp": 52650,
       "last_cycle_cp_actual": 52650,
       "last_cycle_percent": 8.1,
-      "extracted_at": "2025-09-16T15:17:03.122023",
+      "extracted_at": "2025-09-16T16:05:19.098812",
       "current_cycle_refresh": true
     },
     {
       "system": "Lesheima",
       "state": "Fortified",
-      "undermining": 6019,
+      "undermining": 6063,
       "reinforcement": 19167,
       "progress_percent": 32.2,
       "current_progress_cp": 209300,
-      "last_cycle_cp_actual": 215319,
+      "last_cycle_cp_actual": 215363,
       "last_cycle_percent": 33.1,
-      "extracted_at": "2025-09-16T20:17:03.122274",
+      "extracted_at": "2025-09-17T01:05:19.099071",
       "current_cycle_refresh": true,
-      "natural_decay": 29.36,
-      "expected_progress_cp": 190864,
-      "net_cp": 18436
+      "natural_decay": 29.37,
+      "expected_progress_cp": 190901,
+      "net_cp": 18399
     },
     {
       "system": "Leucosimha",
@@ -981,7 +981,7 @@
       "current_progress_cp": 92950,
       "last_cycle_cp_actual": 92950,
       "last_cycle_percent": 14.3,
-      "extracted_at": "2025-09-16T00:17:03.122496",
+      "extracted_at": "2025-09-17T03:05:19.099277",
       "current_cycle_refresh": true
     },
     {
@@ -993,7 +993,7 @@
       "current_progress_cp": 169000,
       "last_cycle_cp_actual": 170107,
       "last_cycle_percent": 26.2,
-      "extracted_at": "2025-09-16T15:17:03.122723",
+      "extracted_at": "2025-09-16T15:05:19.099521",
       "current_cycle_refresh": true,
       "natural_decay": 25.75,
       "expected_progress_cp": 167388,
@@ -1008,7 +1008,7 @@
       "current_progress_cp": 76050,
       "last_cycle_cp_actual": 76218,
       "last_cycle_percent": 11.7,
-      "extracted_at": "2025-09-16T23:17:03.122907",
+      "extracted_at": "2025-09-16T23:05:19.099714",
       "current_cycle_refresh": true
     },
     {
@@ -1020,7 +1020,7 @@
       "current_progress_cp": 115050,
       "last_cycle_cp_actual": 115050,
       "last_cycle_percent": 17.7,
-      "extracted_at": "2025-09-16T22:17:03.123084",
+      "extracted_at": "2025-09-16T23:05:19.099901",
       "current_cycle_refresh": true
     },
     {
@@ -1032,7 +1032,7 @@
       "current_progress_cp": 193700,
       "last_cycle_cp_actual": 200037,
       "last_cycle_percent": 30.8,
-      "extracted_at": "2025-09-16T17:17:03.123278",
+      "extracted_at": "2025-09-16T17:05:19.100100",
       "current_cycle_refresh": true,
       "natural_decay": 29.83,
       "expected_progress_cp": 193885,
@@ -1042,55 +1042,55 @@
       "system": "LHS 1920",
       "state": "Fortified",
       "undermining": 0,
-      "reinforcement": 4570,
-      "progress_percent": 20.8,
-      "current_progress_cp": 135200,
-      "last_cycle_cp_actual": 135200,
-      "last_cycle_percent": 20.8,
-      "extracted_at": "2025-09-16T21:17:03.123543",
+      "reinforcement": 5572,
+      "progress_percent": 20.9,
+      "current_progress_cp": 135850,
+      "last_cycle_cp_actual": 135850,
+      "last_cycle_percent": 20.9,
+      "extracted_at": "2025-09-17T03:05:19.100349",
       "current_cycle_refresh": true
     },
     {
       "system": "LHS 2037",
       "state": "Fortified",
       "undermining": 4387,
-      "reinforcement": 2486,
+      "reinforcement": 2755,
       "progress_percent": 28.5,
       "current_progress_cp": 185249,
       "last_cycle_cp_actual": 189636,
       "last_cycle_percent": 29.2,
-      "extracted_at": "2025-09-16T19:17:03.123988",
+      "extracted_at": "2025-09-17T03:57:19.100812",
       "current_cycle_refresh": true,
-      "natural_decay": 28.22,
-      "expected_progress_cp": 183414,
-      "net_cp": 1835
+      "natural_decay": 28.18,
+      "expected_progress_cp": 183191,
+      "net_cp": 2058
     },
     {
       "system": "LHS 277",
       "state": "Fortified",
       "undermining": 183,
-      "reinforcement": 961,
+      "reinforcement": 1016,
       "progress_percent": 23.8,
       "current_progress_cp": 154700,
       "last_cycle_cp_actual": 154883,
       "last_cycle_percent": 23.8,
-      "extracted_at": "2025-09-16T23:17:03.124216",
+      "extracted_at": "2025-09-17T01:05:19.101048",
       "current_cycle_refresh": true
     },
     {
       "system": "LHS 306",
       "state": "Fortified",
       "undermining": 2138,
-      "reinforcement": 156,
-      "progress_percent": 26.5,
-      "current_progress_cp": 172250,
-      "last_cycle_cp_actual": 174388,
-      "last_cycle_percent": 26.8,
-      "extracted_at": "2025-09-16T23:17:03.124427",
+      "reinforcement": 386,
+      "progress_percent": 26.6,
+      "current_progress_cp": 172900,
+      "last_cycle_cp_actual": 175038,
+      "last_cycle_percent": 26.9,
+      "extracted_at": "2025-09-17T03:05:19.101269",
       "current_cycle_refresh": true,
-      "natural_decay": 26.57,
-      "expected_progress_cp": 172723,
-      "net_cp": -473
+      "natural_decay": 26.63,
+      "expected_progress_cp": 173070,
+      "net_cp": -170
     },
     {
       "system": "Libarai",
@@ -1101,7 +1101,7 @@
       "current_progress_cp": 72150,
       "last_cycle_cp_actual": 72150,
       "last_cycle_percent": 11.1,
-      "extracted_at": "2025-09-14T00:17:03.125100",
+      "extracted_at": "2025-09-14T04:05:19.101926",
       "current_cycle_refresh": true
     },
     {
@@ -1113,7 +1113,7 @@
       "current_progress_cp": 42250,
       "last_cycle_cp_actual": 42253,
       "last_cycle_percent": 6.5,
-      "extracted_at": "2025-09-16T15:17:03.125316",
+      "extracted_at": "2025-09-17T00:05:19.102145",
       "current_cycle_refresh": true
     },
     {
@@ -1125,7 +1125,7 @@
       "current_progress_cp": 119600,
       "last_cycle_cp_actual": 119600,
       "last_cycle_percent": 18.4,
-      "extracted_at": "2025-09-16T04:17:03.126344",
+      "extracted_at": "2025-09-16T04:05:19.103181",
       "current_cycle_refresh": true
     },
     {
@@ -1137,7 +1137,7 @@
       "current_progress_cp": 226199,
       "last_cycle_cp_actual": 237151,
       "last_cycle_percent": 36.5,
-      "extracted_at": "2025-09-16T23:54:03.126864",
+      "extracted_at": "2025-09-17T03:29:19.103711",
       "current_cycle_refresh": true,
       "natural_decay": 32.95,
       "expected_progress_cp": 214180,
@@ -1152,7 +1152,7 @@
       "current_progress_cp": 63700,
       "last_cycle_cp_actual": 63700,
       "last_cycle_percent": 9.8,
-      "extracted_at": "2025-09-16T00:17:03.127067",
+      "extracted_at": "2025-09-16T04:05:19.103916",
       "current_cycle_refresh": true
     },
     {
@@ -1164,7 +1164,7 @@
       "current_progress_cp": 168350,
       "last_cycle_cp_actual": 169528,
       "last_cycle_percent": 26.1,
-      "extracted_at": "2025-09-16T06:17:03.127278",
+      "extracted_at": "2025-09-16T06:05:19.104132",
       "current_cycle_refresh": true,
       "natural_decay": 25.97,
       "expected_progress_cp": 168829,
@@ -1179,7 +1179,7 @@
       "current_progress_cp": 163150,
       "last_cycle_cp_actual": 163212,
       "last_cycle_percent": 25.1,
-      "extracted_at": "2025-09-16T22:17:03.127498",
+      "extracted_at": "2025-09-16T22:05:19.104337",
       "current_cycle_refresh": true,
       "natural_decay": 25.0,
       "expected_progress_cp": 162500,
@@ -1194,7 +1194,7 @@
       "current_progress_cp": 64350,
       "last_cycle_cp_actual": 64350,
       "last_cycle_percent": 9.9,
-      "extracted_at": "2025-09-15T00:17:03.128140",
+      "extracted_at": "2025-09-15T04:05:19.105015",
       "current_cycle_refresh": true
     },
     {
@@ -1206,7 +1206,7 @@
       "current_progress_cp": 113099,
       "last_cycle_cp_actual": 113323,
       "last_cycle_percent": 17.4,
-      "extracted_at": "2025-09-16T19:17:03.128394",
+      "extracted_at": "2025-09-16T19:05:19.105276",
       "current_cycle_refresh": true
     },
     {
@@ -1218,7 +1218,7 @@
       "current_progress_cp": 74750,
       "last_cycle_cp_actual": 74750,
       "last_cycle_percent": 11.5,
-      "extracted_at": "2025-09-16T00:17:03.128586",
+      "extracted_at": "2025-09-16T04:05:19.105459",
       "current_cycle_refresh": true
     },
     {
@@ -1230,7 +1230,7 @@
       "current_progress_cp": 207350,
       "last_cycle_cp_actual": 216079,
       "last_cycle_percent": 33.2,
-      "extracted_at": "2025-09-16T20:17:03.129230",
+      "extracted_at": "2025-09-16T20:05:19.106136",
       "current_cycle_refresh": true,
       "natural_decay": 31.62,
       "expected_progress_cp": 205560,
@@ -1240,16 +1240,16 @@
       "system": "Mentesuri",
       "state": "Fortified",
       "undermining": 10232,
-      "reinforcement": 925,
+      "reinforcement": 979,
       "progress_percent": 32.8,
       "current_progress_cp": 213199,
       "last_cycle_cp_actual": 223431,
       "last_cycle_percent": 34.4,
-      "extracted_at": "2025-09-16T01:17:03.129397",
+      "extracted_at": "2025-09-16T21:05:19.106313",
       "current_cycle_refresh": true,
-      "natural_decay": 32.72,
-      "expected_progress_cp": 212676,
-      "net_cp": 523
+      "natural_decay": 32.71,
+      "expected_progress_cp": 212631,
+      "net_cp": 568
     },
     {
       "system": "Mexicatese",
@@ -1260,7 +1260,7 @@
       "current_progress_cp": 204750,
       "last_cycle_cp_actual": 213495,
       "last_cycle_percent": 32.8,
-      "extracted_at": "2025-09-16T13:17:03.129588",
+      "extracted_at": "2025-09-16T14:05:19.106503",
       "current_cycle_refresh": true,
       "natural_decay": 31.57,
       "expected_progress_cp": 205195,
@@ -1270,12 +1270,12 @@
       "system": "n Puppis",
       "state": "Fortified",
       "undermining": 66,
-      "reinforcement": 346,
+      "reinforcement": 492,
       "progress_percent": 14.0,
       "current_progress_cp": 91000,
       "last_cycle_cp_actual": 91066,
       "last_cycle_percent": 14.0,
-      "extracted_at": "2025-09-16T16:17:03.130212",
+      "extracted_at": "2025-09-17T03:21:19.107143",
       "current_cycle_refresh": true
     },
     {
@@ -1287,7 +1287,7 @@
       "current_progress_cp": 254150,
       "last_cycle_cp_actual": 272559,
       "last_cycle_percent": 41.9,
-      "extracted_at": "2025-09-16T22:17:03.130408",
+      "extracted_at": "2025-09-17T02:05:19.107347",
       "current_cycle_refresh": true,
       "natural_decay": 38.73,
       "expected_progress_cp": 251776,
@@ -1302,23 +1302,23 @@
       "current_progress_cp": 121550,
       "last_cycle_cp_actual": 121550,
       "last_cycle_percent": 18.7,
-      "extracted_at": "2025-09-16T15:17:03.130818",
+      "extracted_at": "2025-09-16T16:05:19.107767",
       "current_cycle_refresh": true
     },
     {
       "system": "NLTT 21088",
       "state": "Fortified",
       "undermining": 26329,
-      "reinforcement": 4195,
+      "reinforcement": 4210,
       "progress_percent": 45.0,
       "current_progress_cp": 292500,
       "last_cycle_cp_actual": 318829,
       "last_cycle_percent": 49.1,
-      "extracted_at": "2025-09-16T18:17:03.131265",
+      "extracted_at": "2025-09-17T01:05:19.108227",
       "current_cycle_refresh": true,
       "natural_decay": 44.45,
-      "expected_progress_cp": 288924,
-      "net_cp": 3576
+      "expected_progress_cp": 288912,
+      "net_cp": 3588
     },
     {
       "system": "Nugua",
@@ -1329,7 +1329,7 @@
       "current_progress_cp": 235950,
       "last_cycle_cp_actual": 250845,
       "last_cycle_percent": 38.6,
-      "extracted_at": "2025-09-16T16:17:03.131646",
+      "extracted_at": "2025-09-16T17:05:19.108622",
       "current_cycle_refresh": true,
       "natural_decay": 36.17,
       "expected_progress_cp": 235097,
@@ -1344,7 +1344,7 @@
       "current_progress_cp": 99450,
       "last_cycle_cp_actual": 99546,
       "last_cycle_percent": 15.3,
-      "extracted_at": "2025-09-16T21:17:03.132255",
+      "extracted_at": "2025-09-17T03:05:19.109249",
       "current_cycle_refresh": true
     },
     {
@@ -1356,7 +1356,7 @@
       "current_progress_cp": 284050,
       "last_cycle_cp_actual": 308803,
       "last_cycle_percent": 47.5,
-      "extracted_at": "2025-09-16T00:17:03.132416",
+      "extracted_at": "2025-09-16T04:05:19.109431",
       "current_cycle_refresh": true,
       "natural_decay": 43.55,
       "expected_progress_cp": 283083,
@@ -1371,7 +1371,7 @@
       "current_progress_cp": 112450,
       "last_cycle_cp_actual": 112450,
       "last_cycle_percent": 17.3,
-      "extracted_at": "2025-09-13T00:17:03.132597",
+      "extracted_at": "2025-09-13T04:05:19.109602",
       "current_cycle_refresh": true
     },
     {
@@ -1383,7 +1383,7 @@
       "current_progress_cp": 114400,
       "last_cycle_cp_actual": 114400,
       "last_cycle_percent": 17.6,
-      "extracted_at": "2025-09-15T00:17:03.132776",
+      "extracted_at": "2025-09-15T04:05:19.109785",
       "current_cycle_refresh": true
     },
     {
@@ -1395,7 +1395,7 @@
       "current_progress_cp": 164450,
       "last_cycle_cp_actual": 164842,
       "last_cycle_percent": 25.4,
-      "extracted_at": "2025-09-16T05:17:03.132988",
+      "extracted_at": "2025-09-16T05:05:19.110000",
       "current_cycle_refresh": true,
       "natural_decay": 25.38,
       "expected_progress_cp": 164951,
@@ -1410,7 +1410,7 @@
       "current_progress_cp": 195000,
       "last_cycle_cp_actual": 201702,
       "last_cycle_percent": 31.0,
-      "extracted_at": "2025-09-16T18:17:03.133170",
+      "extracted_at": "2025-09-16T18:05:19.110186",
       "current_cycle_refresh": true,
       "natural_decay": 30.06,
       "expected_progress_cp": 195391,
@@ -1425,23 +1425,23 @@
       "current_progress_cp": 114400,
       "last_cycle_cp_actual": 114400,
       "last_cycle_percent": 17.6,
-      "extracted_at": "2025-09-16T23:49:03.133352",
+      "extracted_at": "2025-09-17T00:05:19.110373",
       "current_cycle_refresh": true
     },
     {
       "system": "Ralu",
       "state": "Fortified",
       "undermining": 13457,
-      "reinforcement": 1082,
+      "reinforcement": 1317,
       "progress_percent": 35.0,
       "current_progress_cp": 227500,
       "last_cycle_cp_actual": 240957,
       "last_cycle_percent": 37.1,
-      "extracted_at": "2025-09-16T21:17:03.133557",
+      "extracted_at": "2025-09-17T01:05:19.110583",
       "current_cycle_refresh": true,
-      "natural_decay": 34.93,
-      "expected_progress_cp": 227051,
-      "net_cp": 449
+      "natural_decay": 34.9,
+      "expected_progress_cp": 226856,
+      "net_cp": 644
     },
     {
       "system": "Sala",
@@ -1452,7 +1452,7 @@
       "current_progress_cp": 161850,
       "last_cycle_cp_actual": 161850,
       "last_cycle_percent": 24.9,
-      "extracted_at": "2025-09-16T03:17:03.134148",
+      "extracted_at": "2025-09-16T04:05:19.111182",
       "current_cycle_refresh": true
     },
     {
@@ -1464,7 +1464,7 @@
       "current_progress_cp": 210600,
       "last_cycle_cp_actual": 220374,
       "last_cycle_percent": 33.9,
-      "extracted_at": "2025-09-16T16:17:03.134357",
+      "extracted_at": "2025-09-16T16:05:19.111398",
       "current_cycle_refresh": true,
       "natural_decay": 32.39,
       "expected_progress_cp": 210532,
@@ -1474,12 +1474,12 @@
       "system": "Selebegua",
       "state": "Fortified",
       "undermining": 0,
-      "reinforcement": 4014,
-      "progress_percent": 22.7,
-      "current_progress_cp": 147550,
-      "last_cycle_cp_actual": 147550,
-      "last_cycle_percent": 22.7,
-      "extracted_at": "2025-09-16T15:17:03.134570",
+      "reinforcement": 4484,
+      "progress_percent": 22.8,
+      "current_progress_cp": 148200,
+      "last_cycle_cp_actual": 148200,
+      "last_cycle_percent": 22.8,
+      "extracted_at": "2025-09-16T19:05:19.111617",
       "current_cycle_refresh": true
     },
     {
@@ -1491,7 +1491,7 @@
       "current_progress_cp": 32500,
       "last_cycle_cp_actual": 32500,
       "last_cycle_percent": 5.0,
-      "extracted_at": "2025-09-16T14:17:03.134766",
+      "extracted_at": "2025-09-16T14:05:19.111816",
       "current_cycle_refresh": true
     },
     {
@@ -1503,7 +1503,7 @@
       "current_progress_cp": 121550,
       "last_cycle_cp_actual": 121550,
       "last_cycle_percent": 18.7,
-      "extracted_at": "2025-09-12T00:17:03.135110",
+      "extracted_at": "2025-09-12T04:05:19.112166",
       "current_cycle_refresh": true
     },
     {
@@ -1515,7 +1515,7 @@
       "current_progress_cp": 179400,
       "last_cycle_cp_actual": 182765,
       "last_cycle_percent": 28.1,
-      "extracted_at": "2025-09-16T00:17:03.135285",
+      "extracted_at": "2025-09-16T04:05:19.112350",
       "current_cycle_refresh": true,
       "natural_decay": 27.56,
       "expected_progress_cp": 179157,
@@ -1530,7 +1530,7 @@
       "current_progress_cp": 203450,
       "last_cycle_cp_actual": 211732,
       "last_cycle_percent": 32.6,
-      "extracted_at": "2025-09-16T10:17:03.135495",
+      "extracted_at": "2025-09-16T10:05:19.112561",
       "current_cycle_refresh": true,
       "natural_decay": 31.18,
       "expected_progress_cp": 202663,
@@ -1545,7 +1545,7 @@
       "current_progress_cp": 96850,
       "last_cycle_cp_actual": 96850,
       "last_cycle_percent": 14.9,
-      "extracted_at": "2025-09-16T23:50:03.135758",
+      "extracted_at": "2025-09-17T01:05:19.112832",
       "current_cycle_refresh": true
     },
     {
@@ -1557,7 +1557,7 @@
       "current_progress_cp": 22100,
       "last_cycle_cp_actual": 22359,
       "last_cycle_percent": 3.4,
-      "extracted_at": "2025-09-16T23:17:03.136010",
+      "extracted_at": "2025-09-17T03:05:19.113090",
       "current_cycle_refresh": true
     },
     {
@@ -1569,7 +1569,7 @@
       "current_progress_cp": 48100,
       "last_cycle_cp_actual": 48100,
       "last_cycle_percent": 7.4,
-      "extracted_at": "2025-09-12T00:17:03.136667",
+      "extracted_at": "2025-09-12T04:05:19.113766",
       "current_cycle_refresh": true
     },
     {
@@ -1581,7 +1581,7 @@
       "current_progress_cp": 55250,
       "last_cycle_cp_actual": 55250,
       "last_cycle_percent": 8.5,
-      "extracted_at": "2025-09-16T10:17:03.136831",
+      "extracted_at": "2025-09-16T11:05:19.113934",
       "current_cycle_refresh": true
     },
     {
@@ -1593,7 +1593,7 @@
       "current_progress_cp": 166400,
       "last_cycle_cp_actual": 167251,
       "last_cycle_percent": 25.7,
-      "extracted_at": "2025-09-16T00:17:03.137028",
+      "extracted_at": "2025-09-16T04:05:19.114142",
       "current_cycle_refresh": true,
       "natural_decay": 25.67,
       "expected_progress_cp": 166884,
@@ -1608,7 +1608,7 @@
       "current_progress_cp": 92299,
       "last_cycle_cp_actual": 92299,
       "last_cycle_percent": 14.2,
-      "extracted_at": "2025-09-15T00:17:03.137195",
+      "extracted_at": "2025-09-15T04:05:19.114311",
       "current_cycle_refresh": true
     },
     {
@@ -1620,7 +1620,7 @@
       "current_progress_cp": 215800,
       "last_cycle_cp_actual": 223924,
       "last_cycle_percent": 34.4,
-      "extracted_at": "2025-09-16T22:17:03.137450",
+      "extracted_at": "2025-09-16T22:05:19.114573",
       "current_cycle_refresh": true,
       "natural_decay": 31.07,
       "expected_progress_cp": 201950,
@@ -1635,7 +1635,7 @@
       "current_progress_cp": 196300,
       "last_cycle_cp_actual": 202864,
       "last_cycle_percent": 31.2,
-      "extracted_at": "2025-09-16T23:17:03.137666",
+      "extracted_at": "2025-09-16T23:05:19.114792",
       "current_cycle_refresh": true,
       "natural_decay": 29.62,
       "expected_progress_cp": 192519,
@@ -1650,7 +1650,7 @@
       "current_progress_cp": 275600,
       "last_cycle_cp_actual": 298337,
       "last_cycle_percent": 45.9,
-      "extracted_at": "2025-09-17T00:00:03.137988",
+      "extracted_at": "2025-09-17T00:05:19.115059",
       "current_cycle_refresh": true,
       "natural_decay": 42.0,
       "expected_progress_cp": 272986,
@@ -1665,7 +1665,7 @@
       "current_progress_cp": 210600,
       "last_cycle_cp_actual": 220388,
       "last_cycle_percent": 33.9,
-      "extracted_at": "2025-09-16T20:17:03.138160",
+      "extracted_at": "2025-09-16T20:05:19.115229",
       "current_cycle_refresh": true,
       "natural_decay": 32.37,
       "expected_progress_cp": 210392,
@@ -1680,23 +1680,23 @@
       "current_progress_cp": 143000,
       "last_cycle_cp_actual": 143000,
       "last_cycle_percent": 22.0,
-      "extracted_at": "2025-09-15T00:17:03.138345",
+      "extracted_at": "2025-09-15T04:05:19.115435",
       "current_cycle_refresh": true
     },
     {
       "system": "Wulpurna",
       "state": "Fortified",
       "undermining": 15357,
-      "reinforcement": 366,
-      "progress_percent": 36.5,
-      "current_progress_cp": 237250,
-      "last_cycle_cp_actual": 252607,
-      "last_cycle_percent": 38.9,
-      "extracted_at": "2025-09-16T12:17:03.138552",
+      "reinforcement": 895,
+      "progress_percent": 36.6,
+      "current_progress_cp": 237900,
+      "last_cycle_cp_actual": 253257,
+      "last_cycle_percent": 39.0,
+      "extracted_at": "2025-09-17T02:05:19.115636",
       "current_cycle_refresh": true,
-      "natural_decay": 36.51,
-      "expected_progress_cp": 237285,
-      "net_cp": -35
+      "natural_decay": 36.52,
+      "expected_progress_cp": 237386,
+      "net_cp": 514
     },
     {
       "system": "Yaricans",
@@ -1707,7 +1707,7 @@
       "current_progress_cp": 193050,
       "last_cycle_cp_actual": 199251,
       "last_cycle_percent": 30.7,
-      "extracted_at": "2025-09-14T00:17:03.138910",
+      "extracted_at": "2025-09-16T07:05:19.116007",
       "current_cycle_refresh": true,
       "natural_decay": 29.74,
       "expected_progress_cp": 193285,
