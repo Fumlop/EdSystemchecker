@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-17 12:07:21
-**Data Source:** 2025-09-17T12:07:21.569887
+**Report Generated:** 2025-09-17 16:05:32
+**Data Source:** 2025-09-17T16:05:32.486953
 **Total Fortified:** 132 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,10 +11,10 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HR 3277** | +252,914 CP | 55,408 | 256,160 | 102.9% |
+| ✅ | **HR 3277** | +308,556 CP | 55,408 | 311,749 | 111.5% |
 | ✅ | **Crucis Sector PC-V a2-1** | +86,389 CP | 64,347 | 86,906 | 85.9% |
-| ✅ | **Kharahua** | +19,734 CP | 24,104 | 20,004 | 46.1% |
-| ✅ | **Lesheima** | +18,399 CP | 6,063 | 19,167 | 32.2% |
+| ✅ | **Kharahua** | +23,324 CP | 24,104 | 23,665 | 46.6% |
+| ✅ | **Lesheima** | +18,396 CP | 6,067 | 19,167 | 32.2% |
 | ✅ | **UBV 8670** | +13,937 CP | 8,124 | 14,483 | 33.2% |
 
 ### 🔴 **Most Threatened Systems**
@@ -22,8 +22,8 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Heveri** | -626 CP | 6,334 | 782 | 29.0% |
 | ✅ | **Aasgay** | -584 CP | 2,652 | 265 | 26.7% |
+| ✅ | **Heveri** | -568 CP | 6,334 | 852 | 29.0% |
 | ✅ | **LTT 4716** | -504 CP | 1,208 | 0 | 25.9% |
 | ✅ | **Pisaly** | -501 CP | 392 | 0 | 25.3% |
 | ✅ | **Delta-2 Canis Minoris** | -488 CP | 4,322 | 20 | 28.2% |
@@ -33,7 +33,7 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **HR 3277** | +252,914 CP | 102.9% | 55,408 | 256,160 |
+| ✅ | **HR 3277** | +308,556 CP | 111.5% | 55,408 | 311,749 |
 | ✅ | **Crucis Sector PC-V a2-1** | +86,389 CP | 85.9% | 64,347 | 86,906 |
 
 ### 🔴 **Low Progress Systems (<25%)**
@@ -49,11 +49,11 @@
 
 | System | Progress % | Next State | Net CP | Reinforcement | Undermining | 
 |--------|------------|-------------|--------|---------------|-------------|
-| ⬆️ **HR 3277** | 102.9% | stronghold | +252,914 | 256,160 | 55,408 |
+| ⬆️ **HR 3277** | 111.5% | stronghold | +308,556 | 311,749 | 55,408 |
 
 ### 📈 Transition Details
 - **Systems over 100%**: 1
-- **Highest Progress**: 102.9%
+- **Highest Progress**: 111.5%
 - **Status Change**: Fortified → Stronghold
 
 ---
@@ -65,29 +65,32 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HR 3277 | 256,160 | 55,408 | 111.4% | 63.99% | 102.9% | 668,850 | +252,914 | 🟢 High Reinforcement |
+| ✅ | HR 3277 | 311,749 | 55,408 | 120.0% | 64.03% | 111.5% | 724,750 | +308,556 | 🟢 High Reinforcement |
 | ✅ | Crucis Sector PC-V a2-1 | 86,906 | 64,347 | 95.8% | 72.61% | 85.9% | 558,350 | +86,389 | 🟢 High Reinforcement |
-| ✅ | Kharahua | 20,004 | 24,104 | 49.8% | 43.06% | 46.1% | 299,650 | +19,734 | 🟢 High Reinforcement |
-| ✅ | Lesheima | 19,167 | 6,063 | 33.1% | 29.37% | 32.2% | 209,300 | +18,399 | 🟢 High Reinforcement |
+| ✅ | Kharahua | 23,665 | 24,104 | 50.3% | 43.01% | 46.6% | 302,900 | +23,324 | 🟢 High Reinforcement |
+| ✅ | Lesheima | 19,167 | 6,067 | 33.1% | 29.37% | 32.2% | 209,300 | +18,396 | 🟢 High Reinforcement |
 | ✅ | UBV 8670 | 14,483 | 8,124 | 34.4% | 31.06% | 33.2% | 215,800 | +13,937 | 🟢 High Reinforcement |
 | ✅ | LTT 4487 | 13,556 | 10,952 | 36.6% | 32.94% | 34.9% | 226,849 | +12,734 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
-*No fortified systems with medium reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Achansa | 5,920 | 8,627 | 33.7% | 31.55% | 32.4% | 210,600 | +5,538 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Umbrigua | 5,188 | 6,564 | 31.2% | 29.56% | 30.2% | 196,300 | +4,174 | 🔵 Low Reinforcement |
-| ✅ | Achansa | 4,399 | 8,627 | 33.4% | 31.49% | 32.1% | 208,650 | +3,943 | 🔵 Low Reinforcement |
-| ✅ | NLTT 21088 | 4,210 | 26,329 | 49.1% | 44.45% | 45.0% | 292,500 | +3,588 | 🔵 Low Reinforcement |
+| ✅ | Umbrigua | 5,188 | 6,577 | 31.2% | 29.56% | 30.2% | 196,300 | +4,164 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 4,277 | 26,396 | 49.1% | 44.45% | 45.0% | 292,500 | +3,588 | 🔵 Low Reinforcement |
 | ✅ | b2 Carinae | 3,557 | 30,812 | 52.8% | 47.67% | 48.1% | 312,650 | +2,811 | 🔵 Low Reinforcement |
 | ✅ | V902 Centauri | 2,960 | 22,737 | 45.9% | 42.00% | 42.4% | 275,600 | +2,614 | 🔵 Low Reinforcement |
-| ✅ | Namte | 2,810 | 18,409 | 41.9% | 38.73% | 39.1% | 254,150 | +2,374 | 🔵 Low Reinforcement |
+| ✅ | Namte | 2,812 | 18,409 | 41.9% | 38.73% | 39.1% | 254,150 | +2,376 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 2,969 | 4,387 | 29.3% | 28.24% | 28.6% | 185,900 | +2,347 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 2,171 | 8,729 | 33.2% | 31.62% | 31.9% | 207,350 | +1,790 | 🔵 Low Reinforcement |
+| ✅ | Eme | 2,221 | 5,725 | 30.5% | 29.33% | 29.6% | 192,400 | +1,741 | 🔵 Low Reinforcement |
+| ✅ | Ralu | 2,241 | 13,457 | 37.3% | 34.95% | 35.2% | 228,800 | +1,632 | 🔵 Low Reinforcement |
 | ✅ | LFT 601 | 2,321 | 1,107 | 26.2% | 25.75% | 26.0% | 169,000 | +1,612 | 🔵 Low Reinforcement |
 | ✅ | Atat | 1,744 | 2,374 | 27.4% | 26.81% | 27.0% | 175,500 | +1,207 | 🔵 Low Reinforcement |
 
