@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-17 04:05:19
-**Data Source:** 2025-09-17T04:05:19.674026
-**Total Fortified:** 130 (50 with decay analysis)
+**Report Generated:** 2025-09-17 08:05:44
+**Data Source:** 2025-09-17T08:05:44.366954
+**Total Fortified:** 132 (51 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -70,7 +70,7 @@
 | ✅ | Kharahua | 20,004 | 24,104 | 49.8% | 43.06% | 46.1% | 299,650 | +19,734 | 🟢 High Reinforcement |
 | ✅ | Lesheima | 19,167 | 6,063 | 33.1% | 29.37% | 32.2% | 209,300 | +18,399 | 🟢 High Reinforcement |
 | ✅ | UBV 8670 | 14,377 | 8,124 | 34.4% | 31.07% | 33.2% | 215,800 | +13,850 | 🟢 High Reinforcement |
-| ✅ | LTT 4487 | 12,827 | 10,952 | 36.5% | 32.95% | 34.8% | 226,199 | +12,019 | 🟢 High Reinforcement |
+| ✅ | LTT 4487 | 13,216 | 10,952 | 36.5% | 32.90% | 34.8% | 226,199 | +12,341 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -80,8 +80,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Umbrigua | 5,188 | 6,564 | 31.2% | 29.56% | 30.2% | 196,300 | +4,174 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 4,399 | 8,627 | 33.4% | 31.49% | 32.1% | 208,650 | +3,943 | 🔵 Low Reinforcement |
-| ✅ | Umbrigua | 4,713 | 6,564 | 31.2% | 29.62% | 30.2% | 196,300 | +3,781 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 4,210 | 26,329 | 49.1% | 44.45% | 45.0% | 292,500 | +3,588 | 🔵 Low Reinforcement |
 | ✅ | b2 Carinae | 3,557 | 30,812 | 52.8% | 47.67% | 48.1% | 312,650 | +2,811 | 🔵 Low Reinforcement |
 | ✅ | V902 Centauri | 2,960 | 22,737 | 45.9% | 42.00% | 42.4% | 275,600 | +2,614 | 🔵 Low Reinforcement |
