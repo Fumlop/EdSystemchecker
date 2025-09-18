@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-18 12:07:16
-**Data Source:** 2025-09-18T12:07:16.188426
-**Total Fortified:** 18 (9 with decay analysis)
+**Report Generated:** 2025-09-18 16:05:23
+**Data Source:** 2025-09-18T16:05:22.957153
+**Total Fortified:** 49 (24 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,18 +11,19 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| - | *No systems currently gaining CP* | - | - | - | - |
+| ✅ | **LTT 4487** | +1,359 CP | 10,984 | 1,739 | 33.5% |
+| ✅ | **b2 Carinae** | +1,082 CP | 25,676 | 1,341 | 44.4% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LHS 2037** | -474 CP | 4,014 | 0 | 28.0% |
-| ✅ | **EGGR 431** | -461 CP | 9,549 | 0 | 32.1% |
-| ✅ | **54 G. Antlia** | -460 CP | 9,412 | 0 | 32.0% |
-| ✅ | **Aasgay** | -458 CP | 1,964 | 0 | 26.5% |
-| ✅ | **LTT 4487** | -416 CP | 10,984 | 0 | 33.2% |
+| ✅ | **Umbrigua** | -535 CP | 5,848 | 0 | 29.3% |
+| ✅ | **LHS 306** | -514 CP | 2,032 | 0 | 26.5% |
+| ✅ | **Polahukuna** | -514 CP | 5,552 | 0 | 29.1% |
+| ✅ | **Heveri** | -505 CP | 4,458 | 0 | 28.3% |
+| ✅ | **LTT 4772** | -499 CP | 119 | 0 | 25.1% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -55,7 +56,10 @@
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
-*No fortified systems with low reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | LTT 4487 | 1,739 | 10,984 | 35.2% | 33.29% | 33.5% | 217,750 | +1,359 | 🔵 Low Reinforcement |
+| ✅ | b2 Carinae | 1,341 | 25,676 | 48.4% | 44.23% | 44.4% | 288,600 | +1,082 | 🔵 Low Reinforcement |
 
 
 ---
