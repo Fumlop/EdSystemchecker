@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-19 00:16:54
-**Data Source:** 2025-09-19T00:16:53.918088
-**Total Fortified:** 85 (34 with decay analysis)
+**Report Generated:** 2025-09-19 04:05:09
+**Data Source:** 2025-09-19T04:05:09.449955
+**Total Fortified:** 97 (36 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -13,8 +13,8 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Aasgay** | +32,434 CP | 1,964 | 32,973 | 31.5% |
 | ✅ | **LTT 4487** | +1,121 CP | 11,146 | 1,749 | 33.4% |
-| ✅ | **b2 Carinae** | +1,064 CP | 25,788 | 1,431 | 44.4% |
-| ✅ | **Lesheima** | +610 CP | 8,090 | 1,054 | 31.2% |
+| ✅ | **Lesheima** | +755 CP | 8,103 | 1,242 | 31.2% |
+| ✅ | **b2 Carinae** | +674 CP | 26,124 | 1,431 | 44.3% |
 | ✅ | **Achansa** | +351 CP | 8,182 | 833 | 31.2% |
 
 ### 🔴 **Most Threatened Systems**
@@ -64,7 +64,6 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | LTT 4487 | 1,749 | 11,146 | 35.1% | 33.23% | 33.4% | 217,099 | +1,121 | 🔵 Low Reinforcement |
-| ✅ | b2 Carinae | 1,431 | 25,788 | 48.4% | 44.24% | 44.4% | 288,600 | +1,064 | 🔵 Low Reinforcement |
 
 
 ---
