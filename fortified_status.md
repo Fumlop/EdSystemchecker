@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-18 20:04:46
-**Data Source:** 2025-09-18T20:04:46.861031
-**Total Fortified:** 69 (29 with decay analysis)
+**Report Generated:** 2025-09-19 00:16:54
+**Data Source:** 2025-09-19T00:16:53.918088
+**Total Fortified:** 85 (34 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,20 +11,22 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Aasgay** | +29,678 CP | 1,964 | 30,185 | 31.1% |
-| ✅ | **LTT 4487** | +1,135 CP | 11,119 | 1,739 | 33.4% |
+| ✅ | **Aasgay** | +32,434 CP | 1,964 | 32,973 | 31.5% |
+| ✅ | **LTT 4487** | +1,121 CP | 11,146 | 1,749 | 33.4% |
 | ✅ | **b2 Carinae** | +1,064 CP | 25,788 | 1,431 | 44.4% |
+| ✅ | **Lesheima** | +610 CP | 8,090 | 1,054 | 31.2% |
+| ✅ | **Achansa** | +351 CP | 8,182 | 833 | 31.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Umbrigua** | -535 CP | 5,848 | 0 | 29.3% |
+| ✅ | **Eme** | -546 CP | 5,194 | 10 | 28.8% |
 | ✅ | **Turni** | -532 CP | 700 | 0 | 25.5% |
+| ✅ | **Umbrigua** | -531 CP | 5,848 | 5 | 29.3% |
 | ✅ | **LHS 306** | -514 CP | 2,032 | 0 | 26.5% |
 | ✅ | **Polahukuna** | -514 CP | 5,552 | 0 | 29.1% |
-| ✅ | **Eme** | -511 CP | 5,142 | 0 | 28.8% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -51,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Aasgay | 30,185 | 1,964 | 31.4% | 26.53% | 31.1% | 202,150 | +29,678 | 🟢 High Reinforcement |
+| ✅ | Aasgay | 32,973 | 1,964 | 31.8% | 26.51% | 31.5% | 204,750 | +32,434 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -61,7 +63,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 4487 | 1,739 | 11,119 | 35.1% | 33.23% | 33.4% | 217,099 | +1,135 | 🔵 Low Reinforcement |
+| ✅ | LTT 4487 | 1,749 | 11,146 | 35.1% | 33.23% | 33.4% | 217,099 | +1,121 | 🔵 Low Reinforcement |
 | ✅ | b2 Carinae | 1,431 | 25,788 | 48.4% | 44.24% | 44.4% | 288,600 | +1,064 | 🔵 Low Reinforcement |
 
 
