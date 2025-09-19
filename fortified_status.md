@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-19 16:05:29
-**Data Source:** 2025-09-19T16:05:28.983747
-**Total Fortified:** 119 (45 with decay analysis)
+**Report Generated:** 2025-09-19 20:04:37
+**Data Source:** 2025-09-19T20:04:37.603437
+**Total Fortified:** 115 (44 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,9 +11,9 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Aasgay** | +44,553 CP | 1,964 | 45,044 | 33.4% |
-| ✅ | **Lesheima** | +2,724 CP | 8,192 | 3,304 | 31.5% |
-| ✅ | **LTT 4487** | +1,713 CP | 11,176 | 2,359 | 33.5% |
+| ✅ | **Aasgay** | +67,471 CP | 1,964 | 67,997 | 36.9% |
+| ✅ | **Lesheima** | +3,021 CP | 8,192 | 3,662 | 31.5% |
+| ✅ | **LTT 4487** | +1,671 CP | 11,227 | 2,359 | 33.5% |
 | ✅ | **Parapa** | +1,653 CP | 24,753 | 1,920 | 43.8% |
 | ✅ | **Ralu** | +1,597 CP | 11,497 | 1,998 | 33.9% |
 
@@ -53,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Aasgay | 45,044 | 1,964 | 33.7% | 26.55% | 33.4% | 217,099 | +44,553 | 🟢 High Reinforcement |
+| ✅ | Aasgay | 67,997 | 1,964 | 37.2% | 26.52% | 36.9% | 239,850 | +67,471 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -63,8 +63,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Lesheima | 3,304 | 8,192 | 32.8% | 31.08% | 31.5% | 204,750 | +2,724 | 🔵 Low Reinforcement |
-| ✅ | LTT 4487 | 2,359 | 11,176 | 35.2% | 33.24% | 33.5% | 217,750 | +1,713 | 🔵 Low Reinforcement |
+| ✅ | Lesheima | 3,662 | 8,192 | 32.8% | 31.04% | 31.5% | 204,750 | +3,021 | 🔵 Low Reinforcement |
+| ✅ | LTT 4487 | 2,359 | 11,227 | 35.2% | 33.24% | 33.5% | 217,750 | +1,671 | 🔵 Low Reinforcement |
 | ✅ | Parapa | 1,920 | 24,753 | 47.6% | 43.55% | 43.8% | 284,699 | +1,653 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 1,998 | 11,497 | 35.7% | 33.65% | 33.9% | 220,349 | +1,597 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 2,002 | 4,014 | 28.9% | 28.07% | 28.3% | 183,950 | +1,519 | 🔵 Low Reinforcement |
