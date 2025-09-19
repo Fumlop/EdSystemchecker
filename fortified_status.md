@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-19 08:05:44
-**Data Source:** 2025-09-19T08:05:44.600474
-**Total Fortified:** 119 (46 with decay analysis)
+**Report Generated:** 2025-09-19 12:07:13
+**Data Source:** 2025-09-19T12:07:13.886923
+**Total Fortified:** 119 (45 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,9 +11,9 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Aasgay** | +43,218 CP | 1,964 | 43,702 | 33.2% |
+| ✅ | **Aasgay** | +44,553 CP | 1,964 | 45,044 | 33.4% |
 | ✅ | **Kharahua** | +23,324 CP | 24,104 | 23,665 | 46.6% |
-| ✅ | **Ralu** | +2,641 CP | 13,457 | 3,324 | 35.3% |
+| ✅ | **LTT 4487** | +1,697 CP | 11,166 | 2,329 | 33.5% |
 | ✅ | **Parapa** | +1,653 CP | 24,753 | 1,920 | 43.8% |
 | ✅ | **Lesheima** | +1,222 CP | 8,103 | 1,671 | 31.3% |
 
@@ -22,10 +22,10 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Eme** | -636 CP | 5,303 | 10 | 28.8% |
 | ✅ | **Gliese 2084** | -559 CP | 597 | 0 | 25.4% |
 | ✅ | **Arnais** | -546 CP | 2,477 | 0 | 26.8% |
-| ✅ | **Eme** | -546 CP | 5,194 | 10 | 28.8% |
-| ✅ | **Turni** | -532 CP | 700 | 0 | 25.5% |
+| ✅ | **Turni** | -528 CP | 700 | 5 | 25.5% |
 | ✅ | **LHS 306** | -514 CP | 2,032 | 0 | 26.5% |
 
 ### 🟢 **High Progress Systems (>=70%)**
@@ -53,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Aasgay | 43,702 | 1,964 | 33.5% | 26.55% | 33.2% | 215,800 | +43,218 | 🟢 High Reinforcement |
+| ✅ | Aasgay | 45,044 | 1,964 | 33.7% | 26.55% | 33.4% | 217,099 | +44,553 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 23,665 | 24,104 | 50.3% | 43.01% | 46.6% | 302,900 | +23,324 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -64,10 +64,10 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Ralu | 3,324 | 13,457 | 37.4% | 34.89% | 35.3% | 229,450 | +2,641 | 🔵 Low Reinforcement |
+| ✅ | LTT 4487 | 2,329 | 11,166 | 35.2% | 33.24% | 33.5% | 217,750 | +1,697 | 🔵 Low Reinforcement |
 | ✅ | Parapa | 1,920 | 24,753 | 47.6% | 43.55% | 43.8% | 284,699 | +1,653 | 🔵 Low Reinforcement |
 | ✅ | Lesheima | 1,671 | 8,103 | 32.5% | 31.11% | 31.3% | 203,450 | +1,222 | 🔵 Low Reinforcement |
-| ✅ | LTT 4487 | 1,749 | 11,146 | 35.1% | 33.23% | 33.4% | 217,099 | +1,121 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 1,608 | 4,014 | 28.8% | 28.03% | 28.2% | 183,299 | +1,081 | 🔵 Low Reinforcement |
 
 
 ---
