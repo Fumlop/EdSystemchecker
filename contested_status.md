@@ -1,12 +1,12 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-09-20 08:05:24
-**Data Source:** 2025-09-18T08:05:23.580642
+**Report Generated:** 2025-09-20 12:06:48
+**Data Source:** 2025-09-18T12:06:48.304051
 **Total Contested:** 1 systems
-**Total Expansion:** 1823 systems
+**Total Expansion:** 1843 systems
 **Priority Acquisition Targets:** 0 of 4 systems are contested
 
-**Total Expansion:** 1823 systems
+**Total Expansion:** 1843 systems
 
 ## 📊 Quick Summary
 
@@ -14,13 +14,13 @@
 
 | Status | System | Winters Progress | Opposition | Opposing Powers |
 |--------|--------|------------------|------------|----------------|
-| 🔒 | LP 605-37 | 🟢 **197.6%** | 83.8% | Jerome Archer (0.5%), Li Yong-Rui (0.7%), Zemina Torval (83.8%) |
+| 🔒 | LP 605-37 | 🟢 **212.8%** | 83.8% | Jerome Archer (0.5%), Li Yong-Rui (0.7%), Zemina Torval (83.8%) |
 
 ### 🔴 Nearly Lost Systems
 
 | Status | System | Winters Progress | Opposition | Opposing Powers |
 |--------|--------|------------------|------------|----------------|
-| 🔒 | LP 605-37 | 🟢 **197.6%** | 83.8% | Jerome Archer (0.5%), Li Yong-Rui (0.7%), Zemina Torval (83.8%) |
+| 🔒 | LP 605-37 | 🟢 **212.8%** | 83.8% | Jerome Archer (0.5%), Li Yong-Rui (0.7%), Zemina Torval (83.8%) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 | Status | System | Progress % | Opposing Powers |
 |--------|--------|------------|----------------|
-| 🟢 | LP 605-37 | 197.6% | Jerome Archer (0.5%), Li Yong-Rui (0.7%), Zemina Torval (83.8%) |
+| 🟢 | LP 605-37 | 212.8% | Jerome Archer (0.5%), Li Yong-Rui (0.7%), Zemina Torval (83.8%) |
 
 ---
 
@@ -39,7 +39,7 @@
 | Status | System | Progress % |
 |--------|--------|------------|
 | 🔵 | Col 285 Sector LZ-B b15-2 | 155.3% |
-| 🔵 | Cocopa | 88.2% |
+| 🔵 | Cocopa | 90.9% |
 | 🔵 | Col 285 Sector OY-N b8-1 | 79.0% |
 | 🔵 | LHS 2010 | 76.9% |
 | 🔵 | LTT 12723 | 75.9% |
@@ -81,12 +81,12 @@
 | 🔵 | Chi Cancri | 21.6% |
 | 🔵 | Crucis Sector MS-T b3-0 | 21.2% |
 | 🔵 | Bhime | 20.7% |
+| 🔵 | Chronos | 20.6% |
 | 🔵 | Col 285 Sector DY-U b18-2 | 20.4% |
 | 🔵 | Muthniu | 20.4% |
 | 🔵 | Puppis Sector DL-Y d122 | 20.4% |
 | 🔵 | Luvana | 19.6% |
 | 🔵 | Bastsegezi | 19.4% |
-| 🔵 | Chronos | 19.3% |
 | 🔵 | Ngai | 18.4% |
 | 🔵 | Col 285 Sector CB-B b15-1 | 18.3% |
 | 🔵 | Melcior | 18.2% |
@@ -108,7 +108,6 @@
 | 🔵 | Crucis Sector ZE-A d94 | 15.6% |
 | 🔵 | Crucis Sector CV-Y b1 | 15.3% |
 | 🔵 | Puppis Sector EQ-Y b5 | 15.3% |
-| 🔵 | Qi Gongzi | 15.1% |
 | 🔵 | Sha Di | 15.0% |
 | 🔵 | Hydrae Sector HW-W b1-2 | 14.4% |
 | 🔵 | 5 G. Apodis | 13.6% |
@@ -125,11 +124,11 @@
 | 🔵 | Balo | 12.0% |
 | 🔵 | Blende | 11.9% |
 | 🔵 | Yorundi | 11.9% |
+| 🔵 | Uteran | 11.8% |
 | 🔵 | Wogaiawong | 11.7% |
 | 🔵 | Puskabui | 11.6% |
 | 🔵 | Antliae Sector EB-X b1-6 | 11.5% |
 | 🔵 | CD-51 2650 | 11.5% |
-| 🔵 | Uteran | 11.4% |
 | 🔵 | Yukpeng | 11.4% |
 | 🔵 | Puppis Sector PI-T b3-5 | 11.2% |
 | 🔵 | Koryaks | 11.1% |
@@ -142,7 +141,7 @@
 | 🔵 | Kaun | 10.5% |
 | 🔵 | SPOCS 458 | 10.5% |
 | 🔵 | Jupaloku | 10.4% |
-| 🔵 | Thor | 10.2% |
+| 🔵 | Thor | 10.3% |
 | 🔵 | Wodaabe | 10.2% |
 | 🔵 | Puppis Sector HR-W c1-23 | 10.1% |
 | 🔵 | HIP 51568 | 10.0% |
@@ -155,6 +154,8 @@
 | 🔵 | Puppis Sector JH-V b2-4 | 9.2% |
 | 🔵 | HIP 48680 | 8.9% |
 | 🔵 | Crucis Sector DR-V b2-5 | 8.7% |
+| 🔵 | Puppis Sector TO-R b4-5 | 8.7% |
+| 🔵 | Col 285 Sector RY-H c10-21 | 8.6% |
 | 🔵 | Nortia | 8.6% |
 | 🔵 | LP 673-42 | 8.5% |
 | 🔵 | Ukko | 8.5% |
@@ -192,12 +193,11 @@
 | 🔵 | Puppis Sector BQ-P a5-1 | 6.6% |
 | 🔵 | Crucis Sector YE-A d96 | 6.5% |
 | 🔵 | Neali | 6.5% |
-| 🔵 | Puppis Sector TO-R b4-5 | 6.5% |
+| 🔵 | Ormt | 6.5% |
 | 🔵 | Col 285 Sector EW-L c8-17 | 6.4% |
 | 🔵 | Hydrae Sector DL-Y c18 | 6.4% |
 | 🔵 | LHS 2094 | 6.4% |
 | 🔵 | LP 782-16 | 6.4% |
-| 🔵 | Ormt | 6.4% |
 | 🔵 | Col 285 Sector LI-O b21-8 | 6.3% |
 | 🔵 | Crucis Sector CQ-Y c7 | 6.3% |
 | 🔵 | HIP 36081 | 6.3% |
@@ -222,6 +222,7 @@
 | 🔵 | Puppis Sector IM-V b2-0 | 5.3% |
 | 🔵 | Col 285 Sector LT-V b17-1 | 5.2% |
 | 🔵 | HIP 60028 | 5.2% |
+| 🔵 | Tambaiamo | 5.2% |
 | 🔵 | Hyades Sector EH-K b9-3 | 5.1% |
 | 🔵 | Mado | 5.1% |
 | 🔵 | Solibamba | 5.1% |
@@ -235,8 +236,6 @@
 | 🔵 | Bharu | 4.9% |
 | 🔵 | Col 285 Sector DL-N c7-8 | 4.9% |
 | 🔵 | LHS 2663 | 4.9% |
-| 🔵 | Orobrogee | 4.9% |
-| 🔵 | Tambaiamo | 4.9% |
 | 🔵 | Utgard | 4.9% |
 | 🔵 | HP Cancri | 4.8% |
 | 🔵 | LHS 378 | 4.8% |
@@ -259,6 +258,7 @@
 | 🔵 | LP 855-14 | 4.3% |
 | 🔵 | Puppis Sector WJ-R a4-3 | 4.3% |
 | 🔵 | San Mathaa | 4.3% |
+| 🔵 | Antliae Sector OS-U c2-17 | 4.2% |
 | 🔵 | Col 285 Sector OS-T d3-135 | 4.2% |
 | 🔵 | Crucis Sector AA-Z b1 | 4.2% |
 | 🔵 | Gliese 3535 | 4.2% |
@@ -266,9 +266,7 @@
 | 🔵 | Kaiawal | 4.2% |
 | 🔵 | Tsanas | 4.2% |
 | 🔵 | 63 Geminorum | 4.1% |
-| 🔵 | Antliae Sector OS-U c2-17 | 4.1% |
 | 🔵 | Bishankun | 4.1% |
-| 🔵 | Decean | 4.1% |
 | 🔵 | Dhorai | 4.1% |
 | 🔵 | HIP 52089 | 4.1% |
 | 🔵 | Ngobed | 4.1% |
@@ -289,9 +287,9 @@
 | 🔵 | Choere | 3.7% |
 | 🔵 | Col 285 Sector ND-O b21-4 | 3.7% |
 | 🔵 | Col 285 Sector OM-J b10-3 | 3.7% |
-| 🔵 | Pandin | 3.7% |
 | 🔵 | Puppis Sector CL-P a5-5 | 3.7% |
 | 🔵 | Caerdroia | 3.6% |
+| 🔵 | Col 285 Sector CL-N c7-15 | 3.6% |
 | 🔵 | Crucis Sector DL-Y c26 | 3.6% |
 | 🔵 | Crucis Sector DQ-Y b4 | 3.6% |
 | 🔵 | Crucis Sector ZP-X b1-2 | 3.6% |
@@ -299,7 +297,6 @@
 | 🔵 | Teuten | 3.6% |
 | 🔵 | Chuangubu | 3.5% |
 | 🔵 | Col 285 Sector FR-R b19-1 | 3.5% |
-| 🔵 | Crucis Sector HM-V b2-3 | 3.5% |
 | 🔵 | Desurinbin | 3.5% |
 | 🔵 | HIP 45401 | 3.5% |
 | 🔵 | HIP 51280 | 3.5% |
@@ -327,17 +324,18 @@
 | 🔵 | Gran | 3.0% |
 | 🔵 | Kaurushi | 3.0% |
 | 🔵 | Menkent | 3.0% |
+| 🔵 | Crucis Sector KX-T b3-0 | 2.9% |
 | 🔵 | HIP 46324 | 2.9% |
 | 🔵 | Puppis Sector EG-X b1-1 | 2.9% |
 | 🔵 | Puppis Sector HW-W b1-4 | 2.9% |
 | 🔵 | Puppis Sector IC-M a7-1 | 2.9% |
 | 🔵 | Arannos | 2.8% |
-| 🔵 | Crucis Sector YE-A d101 | 2.8% |
 | 🔵 | b3 Hydrae | 2.7% |
 | 🔵 | BD-09 2535 | 2.7% |
 | 🔵 | Crucis Sector DL-Y c20 | 2.7% |
 | 🔵 | Puppis Sector RD-T b3-7 | 2.7% |
 | 🔵 | Ross 903 | 2.7% |
+| 🔵 | Core Sys Sector ON-T b3-6 | 2.6% |
 | 🔵 | Crucis Sector FB-X b1-5 | 2.6% |
 | 🔵 | Crucis Sector YE-A d99 | 2.6% |
 | 🔵 | HIP 62857 | 2.6% |
@@ -346,7 +344,6 @@
 | 🔵 | Puppis Sector ZE-A d121 | 2.6% |
 | 🔵 | Sharru Sector HB-X b1-5 | 2.6% |
 | 🔵 | Wolf 1449 | 2.6% |
-| 🔵 | Core Sys Sector ON-T b3-6 | 2.5% |
 | 🔵 | Godharing | 2.5% |
 | 🔵 | Hydrae Sector SD-T b3-5 | 2.5% |
 | 🔵 | LHS 2848 | 2.5% |
@@ -358,10 +355,12 @@
 | 🔵 | Buzhu | 2.3% |
 | 🔵 | Puppis Sector JH-V b2-3 | 2.3% |
 | 🔵 | Sharru Sector JH-V b2-3 | 2.3% |
+| 🔵 | Ambisagrus | 2.2% |
 | 🔵 | Antliae Sector BG-X b1-0 | 2.2% |
 | 🔵 | Col 285 Sector IM-L c8-13 | 2.2% |
 | 🔵 | Col 285 Sector NM-J b10-3 | 2.2% |
 | 🔵 | Crucis Sector CL-X b1-6 | 2.2% |
+| 🔵 | Crucis Sector DL-Y c16 | 2.2% |
 | 🔵 | HIP 41810 | 2.2% |
 | 🔵 | HIP 45274 | 2.2% |
 | 🔵 | Hyades Sector CM-K b9-0 | 2.2% |
@@ -417,7 +416,7 @@
 | 🔵 | DEN 1048-3956 | 1.7% |
 | 🔵 | Ese Aibe | 1.7% |
 | 🔵 | Hereda | 1.7% |
-| 🔵 | Hyades Sector KC-U c3-20 | 1.7% |
+| 🔵 | HIP 59642 | 1.7% |
 | 🔵 | Hydrae Sector CQ-Y b2 | 1.7% |
 | 🔵 | LFT 764 | 1.7% |
 | 🔵 | LTT 5075 | 1.7% |
@@ -445,7 +444,6 @@
 | 🔵 | Antliae Sector SY-S b3-8 | 1.5% |
 | 🔵 | BD-15 1822 | 1.5% |
 | 🔵 | Col 285 Sector OT-V b17-2 | 1.5% |
-| 🔵 | Crucis Sector DL-Y c16 | 1.5% |
 | 🔵 | Khontam | 1.5% |
 | 🔵 | Kulillechet | 1.5% |
 | 🔵 | Puppis Sector WO-A b3 | 1.5% |
@@ -456,9 +454,9 @@
 | 🔵 | Ambibeb | 1.4% |
 | 🔵 | CD-42 7240 | 1.4% |
 | 🔵 | Col 285 Sector RY-H c10-35 | 1.4% |
-| 🔵 | Enga | 1.4% |
 | 🔵 | Gyvata Indi | 1.4% |
 | 🔵 | HIP 53289 | 1.4% |
+| 🔵 | Hyades Sector BB-M b8-2 | 1.4% |
 | 🔵 | LTT 5259 | 1.4% |
 | 🔵 | Picenile | 1.4% |
 | 🔵 | StKM 1-662 | 1.4% |
@@ -528,6 +526,7 @@
 | 🔵 | Baila | 0.9% |
 | 🔵 | CD-48 6090 | 0.9% |
 | 🔵 | Col 285 Sector DB-B b15-3 | 0.9% |
+| 🔵 | Col 285 Sector DM-I b11-3 | 0.9% |
 | 🔵 | Col 285 Sector DM-Z b15-2 | 0.9% |
 | 🔵 | Col 285 Sector ER-R b19-2 | 0.9% |
 | 🔵 | Col 285 Sector RS-H b11-2 | 0.9% |
@@ -588,7 +587,6 @@
 | 🔵 | HIP 47033 | 0.7% |
 | 🔵 | Hou Zu | 0.7% |
 | 🔵 | Hyades Sector AG-M b8-6 | 0.7% |
-| 🔵 | Hyades Sector MI-S c4-15 | 0.7% |
 | 🔵 | Lambda Geminorum | 0.7% |
 | 🔵 | LFT 729 | 0.7% |
 | 🔵 | LP 316-604 | 0.7% |
@@ -601,10 +599,10 @@
 | 🔵 | Sharru Sector GW-W c1-15 | 0.7% |
 | 🔵 | Sharru Sector HR-W c1-24 | 0.7% |
 | 🔵 | Shivarokkju | 0.7% |
-| 🔵 | Shonto | 0.7% |
 | 🔵 | Trianguli Sector IM-V b2-3 | 0.7% |
 | 🔵 | Yin Sector IW-W b1-2 | 0.7% |
 | 🔵 | Zvaizgan | 0.7% |
+| 🔵 | 63 G. Antlia | 0.6% |
 | 🔵 | AN Sextantis | 0.6% |
 | 🔵 | Andowa | 0.6% |
 | 🔵 | Antliae Sector VJ-R b4-7 | 0.6% |
@@ -662,7 +660,6 @@
 | 🔵 | Crucis Sector IM-V b2-4 | 0.5% |
 | 🔵 | Crucis Sector NN-T b3-8 | 0.5% |
 | 🔵 | Crucis Sector ZE-A d110 | 0.5% |
-| 🔵 | Ethwain | 0.5% |
 | 🔵 | Hyades Sector EB-X d1-114 | 0.5% |
 | 🔵 | Hyades Sector FB-X d1-105 | 0.5% |
 | 🔵 | Hyades Sector UJ-Q c5-10 | 0.5% |
@@ -704,7 +701,6 @@
 | 🔵 | Col 285 Sector PY-S a33-0 | 0.4% |
 | 🔵 | Col 285 Sector RY-H c10-14 | 0.4% |
 | 🔵 | Col 285 Sector RY-R d4-128 | 0.4% |
-| 🔵 | Col 285 Sector TN-H b11-5 | 0.4% |
 | 🔵 | Core Sys Sector PN-T b3-3 | 0.4% |
 | 🔵 | Cowiskimo | 0.4% |
 | 🔵 | Crucis Sector CB-O a6-0 | 0.4% |
@@ -760,6 +756,7 @@
 | 🔵 | Col 285 Sector KX-P b20-0 | 0.3% |
 | 🔵 | Col 285 Sector QX-H b11-0 | 0.3% |
 | 🔵 | Col 285 Sector RY-H c10-23 | 0.3% |
+| 🔵 | Col 285 Sector VY-F b12-3 | 0.3% |
 | 🔵 | Col 285 Sector VY-Q c5-22 | 0.3% |
 | 🔵 | Crucis Sector BL-X b1-1 | 0.3% |
 | 🔵 | Crucis Sector BL-X b1-2 | 0.3% |
@@ -799,6 +796,7 @@
 | 🔵 | LP 912-32 | 0.3% |
 | 🔵 | LTT 3010 | 0.3% |
 | 🔵 | LTT 3305 | 0.3% |
+| 🔵 | Mandelian | 0.3% |
 | 🔵 | Mbokokumal | 0.3% |
 | 🔵 | NLTT 19375 | 0.3% |
 | 🔵 | Oppidii | 0.3% |
@@ -840,6 +838,7 @@
 | 🔵 | Col 285 Sector SE-D b14-0 | 0.2% |
 | 🔵 | Col 285 Sector SS-H b11-0 | 0.2% |
 | 🔵 | Col 285 Sector WI-H b11-3 | 0.2% |
+| 🔵 | Col 285 Sector YU-C b14-1 | 0.2% |
 | 🔵 | CPD-76 769 | 0.2% |
 | 🔵 | Crucis Sector CL-X b1-1 | 0.2% |
 | 🔵 | Crucis Sector CW-V b2-3 | 0.2% |
@@ -865,6 +864,7 @@
 | 🔵 | Durga | 0.2% |
 | 🔵 | Fandi | 0.2% |
 | 🔵 | Gkutat | 0.2% |
+| 🔵 | HIP 40110 | 0.2% |
 | 🔵 | HIP 41503 | 0.2% |
 | 🔵 | HIP 44791 | 0.2% |
 | 🔵 | HIP 45389 | 0.2% |
@@ -931,16 +931,19 @@
 | 🔵 | Antliae Sector LC-V b2-2 | 0.1% |
 | 🔵 | Antliae Sector MC-V b2-0 | 0.1% |
 | 🔵 | Antliae Sector NN-T b3-1 | 0.1% |
+| 🔵 | Aobriguana | 0.1% |
 | 🔵 | Aramo | 0.1% |
 | 🔵 | Badb | 0.1% |
 | 🔵 | Barai | 0.1% |
 | 🔵 | BD-17 1959 | 0.1% |
 | 🔵 | Caeroerensi | 0.1% |
 | 🔵 | Col 285 Sector AQ-C b14-0 | 0.1% |
+| 🔵 | Col 285 Sector AQ-C b14-2 | 0.1% |
 | 🔵 | Col 285 Sector AQ-N c7-11 | 0.1% |
+| 🔵 | Col 285 Sector AR-I b11-0 | 0.1% |
 | 🔵 | Col 285 Sector BM-K c9-12 | 0.1% |
 | 🔵 | Col 285 Sector BW-R b19-7 | 0.1% |
-| 🔵 | Col 285 Sector BY-U b18-1 | 0.1% |
+| 🔵 | Col 285 Sector DV-D b13-1 | 0.1% |
 | 🔵 | Col 285 Sector EG-C b14-3 | 0.1% |
 | 🔵 | Col 285 Sector ER-R b19-4 | 0.1% |
 | 🔵 | Col 285 Sector EX-G b12-2 | 0.1% |
@@ -949,7 +952,6 @@
 | 🔵 | Col 285 Sector FT-U b18-3 | 0.1% |
 | 🔵 | Col 285 Sector GC-Q b20-3 | 0.1% |
 | 🔵 | Col 285 Sector GR-R b19-6 | 0.1% |
-| 🔵 | Col 285 Sector GR-V d2-60 | 0.1% |
 | 🔵 | Col 285 Sector HM-R b19-8 | 0.1% |
 | 🔵 | Col 285 Sector HS-X b16-0 | 0.1% |
 | 🔵 | Col 285 Sector JG-L b9-0 | 0.1% |
@@ -957,6 +959,7 @@
 | 🔵 | Col 285 Sector JX-P b20-0 | 0.1% |
 | 🔵 | Col 285 Sector KM-A b15-6 | 0.1% |
 | 🔵 | Col 285 Sector LI-X b16-4 | 0.1% |
+| 🔵 | Col 285 Sector LR-J b10-3 | 0.1% |
 | 🔵 | Col 285 Sector MR-J b10-5 | 0.1% |
 | 🔵 | Col 285 Sector NS-T d3-128 | 0.1% |
 | 🔵 | Col 285 Sector OM-J b10-1 | 0.1% |
@@ -968,6 +971,7 @@
 | 🔵 | Col 285 Sector TD-G b12-2 | 0.1% |
 | 🔵 | Col 285 Sector TJ-R a34-0 | 0.1% |
 | 🔵 | Col 285 Sector TN-H b11-4 | 0.1% |
+| 🔵 | Col 285 Sector VE-V b17-8 | 0.1% |
 | 🔵 | Col 285 Sector WE-Q d5-150 | 0.1% |
 | 🔵 | Col 285 Sector XT-F b12-6 | 0.1% |
 | 🔵 | Col 285 Sector ZP-C b14-0 | 0.1% |
@@ -975,11 +979,13 @@
 | 🔵 | Core Sys Sector DL-Y d133 | 0.1% |
 | 🔵 | Core Sys Sector ON-T b3-5 | 0.1% |
 | 🔵 | Crucis Sector AA-Z b4 | 0.1% |
+| 🔵 | Crucis Sector AA-Z b6 | 0.1% |
 | 🔵 | Crucis Sector BB-O a6-2 | 0.1% |
 | 🔵 | Crucis Sector BL-X b1-5 | 0.1% |
 | 🔵 | Crucis Sector CB-O a6-4 | 0.1% |
 | 🔵 | Crucis Sector CQ-Y c10 | 0.1% |
 | 🔵 | Crucis Sector CQ-Y c26 | 0.1% |
+| 🔵 | Crucis Sector CQ-Y c5 | 0.1% |
 | 🔵 | Crucis Sector DB-O a6-3 | 0.1% |
 | 🔵 | Crucis Sector EB-X b1-6 | 0.1% |
 | 🔵 | Crucis Sector FH-M a7-3 | 0.1% |
@@ -1001,6 +1007,7 @@
 | 🔵 | Crucis Sector QI-T a3-1 | 0.1% |
 | 🔵 | Crucis Sector RI-T a3-3 | 0.1% |
 | 🔵 | Crucis Sector UO-R a4-4 | 0.1% |
+| 🔵 | Crucis Sector WO-R a4-5 | 0.1% |
 | 🔵 | Crucis Sector XO-R a4-5 | 0.1% |
 | 🔵 | Crucis Sector XU-P a5-0 | 0.1% |
 | 🔵 | Crucis Sector YU-P a5-3 | 0.1% |
@@ -1020,6 +1027,7 @@
 | 🔵 | HIP 45858 | 0.1% |
 | 🔵 | HIP 46535 | 0.1% |
 | 🔵 | HIP 50515 | 0.1% |
+| 🔵 | HIP 50754 | 0.1% |
 | 🔵 | HIP 54977 | 0.1% |
 | 🔵 | HIP 58290 | 0.1% |
 | 🔵 | HIP 60845 | 0.1% |
@@ -1036,9 +1044,10 @@
 | 🔵 | Hyades Sector LI-I b10-3 | 0.1% |
 | 🔵 | Hyades Sector MI-S c4-20 | 0.1% |
 | 🔵 | Hyades Sector NY-P b6-2 | 0.1% |
+| 🔵 | Hyades Sector VZ-N b7-0 | 0.1% |
 | 🔵 | Hyades Sector VZ-N b7-3 | 0.1% |
+| 🔵 | Hyades Sector WU-N b7-1 | 0.1% |
 | 🔵 | Hyades Sector WU-N b7-2 | 0.1% |
-| 🔵 | Hyades Sector XF-M b8-3 | 0.1% |
 | 🔵 | Hydrae Sector AV-Y b0 | 0.1% |
 | 🔵 | Hydrae Sector FW-W b1-3 | 0.1% |
 | 🔵 | Hydrae Sector WO-A b2 | 0.1% |
@@ -1048,6 +1057,7 @@
 | 🔵 | Lazdongand | 0.1% |
 | 🔵 | LFT 460 | 0.1% |
 | 🔵 | LFT 963 | 0.1% |
+| 🔵 | LHS 1807 | 0.1% |
 | 🔵 | LHS 1840 | 0.1% |
 | 🔵 | LHS 1846 | 0.1% |
 | 🔵 | LHS 1904 | 0.1% |
@@ -1068,7 +1078,6 @@
 | 🔵 | Messi | 0.1% |
 | 🔵 | Nimari | 0.1% |
 | 🔵 | Nkonang | 0.1% |
-| 🔵 | NLTT 19993 | 0.1% |
 | 🔵 | Paitra | 0.1% |
 | 🔵 | Porja | 0.1% |
 | 🔵 | Puppis Sector CL-P a5-2 | 0.1% |
@@ -1100,7 +1109,6 @@
 | 🔵 | Sharru Sector ON-T b3-3 | 0.1% |
 | 🔵 | Sharru Sector QI-T b3-3 | 0.1% |
 | 🔵 | SPOCS 493 | 0.1% |
-| 🔵 | Succelli | 0.1% |
 | 🔵 | Suta | 0.1% |
 | 🔵 | Tamatz | 0.1% |
 | 🔵 | Tascheter Sector HM-V b2-4 | 0.1% |
@@ -1121,7 +1129,6 @@
 | 🔵 | Acokwus | 0.0% |
 | 🔵 | Acomatshi | 0.0% |
 | 🔵 | Aknara | 0.0% |
-| 🔵 | Ambisagrus | 0.0% |
 | 🔵 | Amitabha | 0.0% |
 | 🔵 | Anginti | 0.0% |
 | 🔵 | Anotche | 0.0% |
@@ -1137,6 +1144,7 @@
 | 🔵 | Antliae Sector EG-Y d105 | 0.0% |
 | 🔵 | Antliae Sector EG-Y d80 | 0.0% |
 | 🔵 | Antliae Sector EL-Y b6 | 0.0% |
+| 🔵 | Antliae Sector FW-W c1-13 | 0.0% |
 | 🔵 | Antliae Sector FW-W c1-16 | 0.0% |
 | 🔵 | Antliae Sector GM-V b2-4 | 0.0% |
 | 🔵 | Antliae Sector GW-W b1-2 | 0.0% |
@@ -1144,7 +1152,6 @@
 | 🔵 | Antliae Sector HH-V b2-2 | 0.0% |
 | 🔵 | Antliae Sector HH-V b2-4 | 0.0% |
 | 🔵 | Antliae Sector HR-W c1-13 | 0.0% |
-| 🔵 | Antliae Sector IM-W d1-128 | 0.0% |
 | 🔵 | Antliae Sector JC-V b2-2 | 0.0% |
 | 🔵 | Antliae Sector KM-W b1-7 | 0.0% |
 | 🔵 | Antliae Sector KS-T b3-1 | 0.0% |
@@ -1168,6 +1175,7 @@
 | 🔵 | Antliae Sector SO-R b4-6 | 0.0% |
 | 🔵 | Antliae Sector TY-S b3-3 | 0.0% |
 | 🔵 | Antliae Sector TY-S b3-7 | 0.0% |
+| 🔵 | Antliae Sector VJ-R b4-0 | 0.0% |
 | 🔵 | Antliae Sector YJ-A b3 | 0.0% |
 | 🔵 | Antliae Sector ZP-P b5-0 | 0.0% |
 | 🔵 | Arun | 0.0% |
@@ -1191,6 +1199,7 @@
 | 🔵 | Col 285 Sector AL-T b18-5 | 0.0% |
 | 🔵 | Col 285 Sector AL-T b18-6 | 0.0% |
 | 🔵 | Col 285 Sector AP-F b12-3 | 0.0% |
+| 🔵 | Col 285 Sector AP-F b12-8 | 0.0% |
 | 🔵 | Col 285 Sector AQ-C b14-6 | 0.0% |
 | 🔵 | Col 285 Sector AV-C b14-0 | 0.0% |
 | 🔵 | Col 285 Sector AV-C b14-2 | 0.0% |
@@ -1202,12 +1211,12 @@
 | 🔵 | Col 285 Sector BL-T b18-6 | 0.0% |
 | 🔵 | Col 285 Sector BQ-N c7-5 | 0.0% |
 | 🔵 | Col 285 Sector BR-I b11-0 | 0.0% |
-| 🔵 | Col 285 Sector CA-E b13-0 | 0.0% |
 | 🔵 | Col 285 Sector CB-M c8-15 | 0.0% |
 | 🔵 | Col 285 Sector CB-M c8-7 | 0.0% |
 | 🔵 | Col 285 Sector CG-T b18-7 | 0.0% |
 | 🔵 | Col 285 Sector CI-W b17-2 | 0.0% |
 | 🔵 | Col 285 Sector CL-Y a30-1 | 0.0% |
+| 🔵 | Col 285 Sector CR-I b11-1 | 0.0% |
 | 🔵 | Col 285 Sector CR-Z b15-2 | 0.0% |
 | 🔵 | Col 285 Sector CY-U b18-2 | 0.0% |
 | 🔵 | Col 285 Sector DB-B b15-4 | 0.0% |
@@ -1221,7 +1230,6 @@
 | 🔵 | Col 285 Sector DQ-C b14-0 | 0.0% |
 | 🔵 | Col 285 Sector DY-U b18-0 | 0.0% |
 | 🔵 | Col 285 Sector EG-C b14-4 | 0.0% |
-| 🔵 | Col 285 Sector EH-I b11-2 | 0.0% |
 | 🔵 | Col 285 Sector EL-C b14-4 | 0.0% |
 | 🔵 | Col 285 Sector EM-W a31-1 | 0.0% |
 | 🔵 | Col 285 Sector ER-R b19-3 | 0.0% |
@@ -1269,10 +1277,10 @@
 | 🔵 | Col 285 Sector IC-Z b15-5 | 0.0% |
 | 🔵 | Col 285 Sector IM-W a31-0 | 0.0% |
 | 🔵 | Col 285 Sector IM-W a31-1 | 0.0% |
-| 🔵 | Col 285 Sector IN-G b12-3 | 0.0% |
 | 🔵 | Col 285 Sector IN-O b21-1 | 0.0% |
 | 🔵 | Col 285 Sector IR-A b15-0 | 0.0% |
 | 🔵 | Col 285 Sector IR-A b15-1 | 0.0% |
+| 🔵 | Col 285 Sector IR-A b15-5 | 0.0% |
 | 🔵 | Col 285 Sector IS-U a32-1 | 0.0% |
 | 🔵 | Col 285 Sector IS-U a32-2 | 0.0% |
 | 🔵 | Col 285 Sector IS-U a32-3 | 0.0% |
@@ -1284,7 +1292,6 @@
 | 🔵 | Col 285 Sector JM-W a31-1 | 0.0% |
 | 🔵 | Col 285 Sector JM-W a31-4 | 0.0% |
 | 🔵 | Col 285 Sector JM-W a31-5 | 0.0% |
-| 🔵 | Col 285 Sector JS-U a32-0 | 0.0% |
 | 🔵 | Col 285 Sector JX-P b20-5 | 0.0% |
 | 🔵 | Col 285 Sector JX-U a32-3 | 0.0% |
 | 🔵 | Col 285 Sector JY-E b13-1 | 0.0% |
@@ -1297,8 +1304,8 @@
 | 🔵 | Col 285 Sector KX-U a32-0 | 0.0% |
 | 🔵 | Col 285 Sector KX-U a32-2 | 0.0% |
 | 🔵 | Col 285 Sector KY-E b13-2 | 0.0% |
-| 🔵 | Col 285 Sector KY-E b13-3 | 0.0% |
 | 🔵 | Col 285 Sector LI-X b16-2 | 0.0% |
+| 🔵 | Col 285 Sector LR-J b10-1 | 0.0% |
 | 🔵 | Col 285 Sector LR-J b10-2 | 0.0% |
 | 🔵 | Col 285 Sector LR-J b10-4 | 0.0% |
 | 🔵 | Col 285 Sector LS-U a32-0 | 0.0% |
@@ -1312,19 +1319,20 @@
 | 🔵 | Col 285 Sector MS-U a32-2 | 0.0% |
 | 🔵 | Col 285 Sector MS-U a32-3 | 0.0% |
 | 🔵 | Col 285 Sector ND-O b21-0 | 0.0% |
+| 🔵 | Col 285 Sector ND-O b21-3 | 0.0% |
 | 🔵 | Col 285 Sector ND-O b21-5 | 0.0% |
 | 🔵 | Col 285 Sector NK-A b16-2 | 0.0% |
 | 🔵 | Col 285 Sector NM-J b10-2 | 0.0% |
 | 🔵 | Col 285 Sector NR-J b10-0 | 0.0% |
 | 🔵 | Col 285 Sector NS-J c9-5 | 0.0% |
 | 🔵 | Col 285 Sector NS-J c9-6 | 0.0% |
+| 🔵 | Col 285 Sector NU-B b15-0 | 0.0% |
 | 🔵 | Col 285 Sector OD-T a33-0 | 0.0% |
 | 🔵 | Col 285 Sector OD-T a33-2 | 0.0% |
 | 🔵 | Col 285 Sector OD-X b16-0 | 0.0% |
 | 🔵 | Col 285 Sector OS-T d3-122 | 0.0% |
 | 🔵 | Col 285 Sector OS-T d3-147 | 0.0% |
 | 🔵 | Col 285 Sector OS-T d3-71 | 0.0% |
-| 🔵 | Col 285 Sector OS-T d3-96 | 0.0% |
 | 🔵 | Col 285 Sector OY-S a33-1 | 0.0% |
 | 🔵 | Col 285 Sector PD-T a33-1 | 0.0% |
 | 🔵 | Col 285 Sector PD-T a33-4 | 0.0% |
@@ -1338,7 +1346,6 @@
 | 🔵 | Col 285 Sector QY-S a33-3 | 0.0% |
 | 🔵 | Col 285 Sector RD-Y b15-4 | 0.0% |
 | 🔵 | Col 285 Sector RS-H b11-3 | 0.0% |
-| 🔵 | Col 285 Sector RY-H c10-19 | 0.0% |
 | 🔵 | Col 285 Sector RY-H c10-20 | 0.0% |
 | 🔵 | Col 285 Sector RY-H c10-25 | 0.0% |
 | 🔵 | Col 285 Sector RY-H c10-27 | 0.0% |
@@ -1357,6 +1364,7 @@
 | 🔵 | Col 285 Sector UL-Y b16-1 | 0.0% |
 | 🔵 | Col 285 Sector UN-H b11-0 | 0.0% |
 | 🔵 | Col 285 Sector UY-Q c5-12 | 0.0% |
+| 🔵 | Col 285 Sector UY-Q c5-4 | 0.0% |
 | 🔵 | Col 285 Sector VG-Y b16-0 | 0.0% |
 | 🔵 | Col 285 Sector VJ-E b13-1 | 0.0% |
 | 🔵 | Col 285 Sector VJ-W b16-0 | 0.0% |
@@ -1370,8 +1378,10 @@
 | 🔵 | Col 285 Sector WF-M c8-8 | 0.0% |
 | 🔵 | Col 285 Sector WJ-W b16-2 | 0.0% |
 | 🔵 | Col 285 Sector WJ-W b16-6 | 0.0% |
+| 🔵 | Col 285 Sector XF-M c8-13 | 0.0% |
 | 🔵 | Col 285 Sector XF-M c8-14 | 0.0% |
 | 🔵 | Col 285 Sector XJ-E b13-4 | 0.0% |
+| 🔵 | Col 285 Sector XU-N c7-14 | 0.0% |
 | 🔵 | Col 285 Sector XW-W b17-0 | 0.0% |
 | 🔵 | Col 285 Sector YT-F b12-0 | 0.0% |
 | 🔵 | Col 285 Sector YT-F b12-3 | 0.0% |
@@ -1379,7 +1389,6 @@
 | 🔵 | Col 285 Sector YT-F b12-7 | 0.0% |
 | 🔵 | Col 285 Sector ZE-E b13-3 | 0.0% |
 | 🔵 | Col 285 Sector ZO-F b12-2 | 0.0% |
-| 🔵 | Col 285 Sector ZQ-K c9-10 | 0.0% |
 | 🔵 | Core Sys Sector MS-T b3-6 | 0.0% |
 | 🔵 | Core Sys Sector ON-T b3-3 | 0.0% |
 | 🔵 | Crucis Sector AF-A c22 | 0.0% |
@@ -1399,6 +1408,7 @@
 | 🔵 | Crucis Sector CL-Y d120 | 0.0% |
 | 🔵 | Crucis Sector CQ-Y c28 | 0.0% |
 | 🔵 | Crucis Sector CQ-Y c6 | 0.0% |
+| 🔵 | Crucis Sector CV-P a5-4 | 0.0% |
 | 🔵 | Crucis Sector CV-Y b6 | 0.0% |
 | 🔵 | Crucis Sector CV-Y b7 | 0.0% |
 | 🔵 | Crucis Sector CW-V b2-4 | 0.0% |
@@ -1413,6 +1423,7 @@
 | 🔵 | Crucis Sector EW-N a6-0 | 0.0% |
 | 🔵 | Crucis Sector FG-Y c18 | 0.0% |
 | 🔵 | Crucis Sector FH-M a7-4 | 0.0% |
+| 🔵 | Crucis Sector FR-V b2-4 | 0.0% |
 | 🔵 | Crucis Sector FW-W b1-4 | 0.0% |
 | 🔵 | Crucis Sector GB-X b1-0 | 0.0% |
 | 🔵 | Crucis Sector GB-X b1-7 | 0.0% |
@@ -1421,7 +1432,6 @@
 | 🔵 | Crucis Sector GM-V b2-4 | 0.0% |
 | 🔵 | Crucis Sector GR-V b2-2 | 0.0% |
 | 🔵 | Crucis Sector GR-V b2-3 | 0.0% |
-| 🔵 | Crucis Sector HB-X b1-3 | 0.0% |
 | 🔵 | Crucis Sector HB-X b1-7 | 0.0% |
 | 🔵 | Crucis Sector HH-M a7-1 | 0.0% |
 | 🔵 | Crucis Sector HH-V b2-5 | 0.0% |
@@ -1431,6 +1441,7 @@
 | 🔵 | Crucis Sector HR-W c1-16 | 0.0% |
 | 🔵 | Crucis Sector HW-W b1-7 | 0.0% |
 | 🔵 | Crucis Sector IH-M a7-0 | 0.0% |
+| 🔵 | Crucis Sector IH-M a7-1 | 0.0% |
 | 🔵 | Crucis Sector IH-M a7-2 | 0.0% |
 | 🔵 | Crucis Sector IH-M a7-3 | 0.0% |
 | 🔵 | Crucis Sector IH-V b2-0 | 0.0% |
@@ -1445,7 +1456,6 @@
 | 🔵 | Crucis Sector JH-M a7-2 | 0.0% |
 | 🔵 | Crucis Sector JW-W b1-4 | 0.0% |
 | 🔵 | Crucis Sector JX-T b3-0 | 0.0% |
-| 🔵 | Crucis Sector KH-V b2-2 | 0.0% |
 | 🔵 | Crucis Sector KS-T b3-4 | 0.0% |
 | 🔵 | Crucis Sector KX-T b3-2 | 0.0% |
 | 🔵 | Crucis Sector LC-V b2-0 | 0.0% |
@@ -1486,6 +1496,7 @@
 | 🔵 | Crucis Sector PX-U a2-1 | 0.0% |
 | 🔵 | Crucis Sector PX-U a2-2 | 0.0% |
 | 🔵 | Crucis Sector PY-R b4-2 | 0.0% |
+| 🔵 | Crucis Sector PY-R b4-3 | 0.0% |
 | 🔵 | Crucis Sector PY-R b4-4 | 0.0% |
 | 🔵 | Crucis Sector QC-V a2-4 | 0.0% |
 | 🔵 | Crucis Sector QC-V a2-5 | 0.0% |
@@ -1523,6 +1534,7 @@
 | 🔵 | Crucis Sector XO-R a4-4 | 0.0% |
 | 🔵 | Crucis Sector YE-A d134 | 0.0% |
 | 🔵 | Crucis Sector YJ-R a4-1 | 0.0% |
+| 🔵 | Crucis Sector YO-R a4-1 | 0.0% |
 | 🔵 | Crucis Sector ZE-A d108 | 0.0% |
 | 🔵 | Crucis Sector ZE-A d150 | 0.0% |
 | 🔵 | Crucis Sector ZJ-R a4-1 | 0.0% |
@@ -1545,6 +1557,8 @@
 | 🔵 | Gangu | 0.0% |
 | 🔵 | Garanji | 0.0% |
 | 🔵 | Glusche | 0.0% |
+| 🔵 | Goanna | 0.0% |
+| 🔵 | Grans | 0.0% |
 | 🔵 | Groanomana | 0.0% |
 | 🔵 | Hayikoku | 0.0% |
 | 🔵 | Herao | 0.0% |
@@ -1555,7 +1569,6 @@
 | 🔵 | HIP 34540 | 0.0% |
 | 🔵 | HIP 34707 | 0.0% |
 | 🔵 | HIP 36874 | 0.0% |
-| 🔵 | HIP 37412 | 0.0% |
 | 🔵 | HIP 37528 | 0.0% |
 | 🔵 | HIP 38172 | 0.0% |
 | 🔵 | HIP 39821 | 0.0% |
@@ -1600,7 +1613,6 @@
 | 🔵 | HR 4350 | 0.0% |
 | 🔵 | Hyades Sector AB-M b8-0 | 0.0% |
 | 🔵 | Hyades Sector AB-M b8-6 | 0.0% |
-| 🔵 | Hyades Sector AQ-N b7-6 | 0.0% |
 | 🔵 | Hyades Sector BB-M b8-4 | 0.0% |
 | 🔵 | Hyades Sector BB-M b8-6 | 0.0% |
 | 🔵 | Hyades Sector BQ-N b7-3 | 0.0% |
@@ -1618,11 +1630,13 @@
 | 🔵 | Hyades Sector EB-X d1-71 | 0.0% |
 | 🔵 | Hyades Sector EB-X d1-96 | 0.0% |
 | 🔵 | Hyades Sector EW-V c2-5 | 0.0% |
+| 🔵 | Hyades Sector FW-L b8-3 | 0.0% |
 | 🔵 | Hyades Sector GH-K b9-2 | 0.0% |
 | 🔵 | Hyades Sector GH-K b9-3 | 0.0% |
 | 🔵 | Hyades Sector IC-K b9-2 | 0.0% |
 | 🔵 | Hyades Sector IH-V d2-132 | 0.0% |
 | 🔵 | Hyades Sector IH-V d2-98 | 0.0% |
+| 🔵 | Hyades Sector JC-U c3-10 | 0.0% |
 | 🔵 | Hyades Sector JC-U c3-14 | 0.0% |
 | 🔵 | Hyades Sector MI-I b10-3 | 0.0% |
 | 🔵 | Hyades Sector MI-I b10-4 | 0.0% |
@@ -1643,6 +1657,7 @@
 | 🔵 | Hyades Sector QT-P b6-1 | 0.0% |
 | 🔵 | Hyades Sector RE-O b7-4 | 0.0% |
 | 🔵 | Hyades Sector RJ-O b7-2 | 0.0% |
+| 🔵 | Hyades Sector RT-P b6-3 | 0.0% |
 | 🔵 | Hyades Sector SE-O b7-2 | 0.0% |
 | 🔵 | Hyades Sector SE-O b7-3 | 0.0% |
 | 🔵 | Hyades Sector SE-O b7-5 | 0.0% |
@@ -1707,7 +1722,6 @@
 | 🔵 | LP 837-53 | 0.0% |
 | 🔵 | LP 839-11 | 0.0% |
 | 🔵 | LP 857-29 | 0.0% |
-| 🔵 | LTT 12018 | 0.0% |
 | 🔵 | LTT 2396 | 0.0% |
 | 🔵 | LTT 3845 | 0.0% |
 | 🔵 | LTT 4277 | 0.0% |
@@ -1716,6 +1730,7 @@
 | 🔵 | Luchu | 0.0% |
 | 🔵 | Lugiu Dieva | 0.0% |
 | 🔵 | Lyncis Sector DL-Y d62 | 0.0% |
+| 🔵 | Lyncis Sector DL-Y d78 | 0.0% |
 | 🔵 | Lyncis Sector HR-V b2-4 | 0.0% |
 | 🔵 | Lyncis Sector JC-U b3-2 | 0.0% |
 | 🔵 | Lyncis Sector JM-V b2-3 | 0.0% |
@@ -1778,6 +1793,7 @@
 | 🔵 | Puppis Sector VJ-R a4-2 | 0.0% |
 | 🔵 | Puppis Sector WJ-R a4-0 | 0.0% |
 | 🔵 | Puppis Sector WJ-R a4-1 | 0.0% |
+| 🔵 | Puppis Sector XJ-R a4-1 | 0.0% |
 | 🔵 | Puppis Sector XJ-R a4-2 | 0.0% |
 | 🔵 | Puppis Sector XJ-R a4-3 | 0.0% |
 | 🔵 | Puppis Sector YJ-R a4-2 | 0.0% |
@@ -1795,6 +1811,7 @@
 | 🔵 | Selk'nam | 0.0% |
 | 🔵 | Sharru Sector BQ-Y c18 | 0.0% |
 | 🔵 | Sharru Sector CG-X b1-3 | 0.0% |
+| 🔵 | Sharru Sector CQ-Y c11 | 0.0% |
 | 🔵 | Sharru Sector CQ-Y c20 | 0.0% |
 | 🔵 | Sharru Sector CV-Y b4 | 0.0% |
 | 🔵 | Sharru Sector DG-X b1-1 | 0.0% |
@@ -1807,17 +1824,18 @@
 | 🔵 | Sharru Sector IH-V b2-4 | 0.0% |
 | 🔵 | Sharru Sector IM-V b2-1 | 0.0% |
 | 🔵 | Sharru Sector KC-V b2-6 | 0.0% |
-| 🔵 | Sharru Sector ON-T b3-4 | 0.0% |
 | 🔵 | Sharru Sector QI-T b3-2 | 0.0% |
 | 🔵 | Sharru Sector XE-Z b3 | 0.0% |
 | 🔵 | Shu | 0.0% |
 | 🔵 | Shui Wei Sector BM-S a5-4 | 0.0% |
+| 🔵 | Shui Wei Sector DB-W b2-3 | 0.0% |
 | 🔵 | Shui Wei Sector DB-W b2-5 | 0.0% |
 | 🔵 | Shui Wei Sector DS-Q a6-0 | 0.0% |
 | 🔵 | Shui Wei Sector FS-Q a6-0 | 0.0% |
 | 🔵 | Shui Wei Sector GS-Q a6-1 | 0.0% |
 | 🔵 | Shui Wei Sector GS-Q a6-2 | 0.0% |
 | 🔵 | Shui Wei Sector HH-U b3-6 | 0.0% |
+| 🔵 | Shui Wei Sector JY-O a7-1 | 0.0% |
 | 🔵 | Shui Wei Sector KY-O a7-3 | 0.0% |
 | 🔵 | Sisi | 0.0% |
 | 🔵 | SPOCS 308 | 0.0% |
@@ -1832,6 +1850,7 @@
 | 🔵 | Tascheter Sector HM-V b2-3 | 0.0% |
 | 🔵 | Tascheter Sector IM-V b2-3 | 0.0% |
 | 🔵 | Tascheter Sector KH-V b2-7 | 0.0% |
+| 🔵 | Tauls | 0.0% |
 | 🔵 | Tellotait | 0.0% |
 | 🔵 | Thrigpa | 0.0% |
 | 🔵 | Trianguli Sector BM-L a8-2 | 0.0% |
@@ -1859,5 +1878,6 @@
 | 🔵 | Yen Camus | 0.0% |
 | 🔵 | Yin Sector CV-Y b1 | 0.0% |
 | 🔵 | Yin Sector YO-A b5 | 0.0% |
+| 🔵 | Zach | 0.0% |
 | 🔵 | Zememede | 0.0% |
 | 🔵 | Zochna | 0.0% |
