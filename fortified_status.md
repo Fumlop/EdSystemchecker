@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-20 12:06:48
-**Data Source:** 2025-09-20T12:06:48.750417
+**Report Generated:** 2025-09-20 16:04:41
+**Data Source:** 2025-09-20T16:04:40.966093
 **Total Fortified:** 123 (47 with decay analysis)
 
 ## 📊 Quick Summary
@@ -13,9 +13,9 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Aasgay** | +92,472 CP | 1,964 | 92,925 | 40.8% |
 | ✅ | **Parapa** | +7,269 CP | 21,097 | 7,622 | 41.9% |
-| ✅ | **Lesheima** | +5,091 CP | 8,236 | 5,666 | 31.9% |
+| ✅ | **Lesheima** | +5,198 CP | 8,236 | 5,795 | 31.9% |
+| ✅ | **Ralu** | +5,118 CP | 11,497 | 5,576 | 34.4% |
 | ✅ | **Kharahua** | +3,950 CP | 26,667 | 4,173 | 45.6% |
-| ✅ | **Ralu** | +2,978 CP | 11,497 | 3,396 | 34.1% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -60,15 +60,15 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Parapa | 7,622 | 21,097 | 45.1% | 40.78% | 41.9% | 272,350 | +7,269 | 🟡 Medium Reinforcement |
-| ✅ | Lesheima | 5,666 | 8,236 | 33.2% | 31.12% | 31.9% | 207,350 | +5,091 | 🟡 Medium Reinforcement |
+| ✅ | Lesheima | 5,795 | 8,236 | 33.2% | 31.10% | 31.9% | 207,350 | +5,198 | 🟡 Medium Reinforcement |
+| ✅ | Ralu | 5,576 | 11,497 | 36.2% | 33.61% | 34.4% | 223,599 | +5,118 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kharahua | 4,173 | 26,667 | 49.7% | 44.99% | 45.6% | 296,400 | +3,950 | 🔵 Low Reinforcement |
-| ✅ | Ralu | 3,396 | 11,497 | 35.9% | 33.64% | 34.1% | 221,650 | +2,978 | 🔵 Low Reinforcement |
-| ✅ | Umbrigua | 3,057 | 5,860 | 30.7% | 29.41% | 29.8% | 193,700 | +2,545 | 🔵 Low Reinforcement |
+| ✅ | Umbrigua | 3,679 | 5,860 | 30.8% | 29.41% | 29.9% | 194,350 | +3,172 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 2,726 | 4,014 | 29.0% | 28.06% | 28.4% | 184,599 | +2,230 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 2,359 | 11,362 | 35.2% | 33.26% | 33.5% | 217,750 | +1,559 | 🔵 Low Reinforcement |
 
