@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-21 00:18:48
-**Data Source:** 2025-09-21T00:18:48.186068
-**Total Fortified:** 126 (47 with decay analysis)
+**Report Generated:** 2025-09-21 04:05:11
+**Data Source:** 2025-09-21T04:05:11.431047
+**Total Fortified:** 127 (48 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -15,7 +15,7 @@
 | ✅ | **Parapa** | +27,204 CP | 21,097 | 27,512 | 45.0% |
 | ✅ | **Lesheima** | +17,613 CP | 8,416 | 18,404 | 33.8% |
 | ✅ | **Kharahua** | +9,870 CP | 26,691 | 10,131 | 46.5% |
-| ✅ | **Umbrigua** | +8,476 CP | 5,860 | 9,004 | 30.7% |
+| ✅ | **Umbrigua** | +9,686 CP | 5,860 | 10,196 | 30.9% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -62,7 +62,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Kharahua | 10,131 | 26,691 | 50.6% | 44.98% | 46.5% | 302,250 | +9,870 | 🟡 Medium Reinforcement |
-| ✅ | Umbrigua | 9,004 | 5,860 | 31.6% | 29.40% | 30.7% | 199,550 | +8,476 | 🟡 Medium Reinforcement |
+| ✅ | Umbrigua | 10,196 | 5,860 | 31.8% | 29.41% | 30.9% | 200,850 | +9,686 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 5,576 | 11,497 | 36.2% | 33.61% | 34.4% | 223,599 | +5,118 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
@@ -71,8 +71,10 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | LTT 4487 | 4,047 | 11,362 | 35.5% | 33.29% | 33.8% | 219,699 | +3,292 | 🔵 Low Reinforcement |
 | ✅ | LHS 2037 | 2,990 | 4,014 | 29.1% | 28.11% | 28.5% | 185,249 | +2,561 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 1,880 | 22,365 | 45.4% | 41.76% | 42.0% | 273,000 | +1,580 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 1,806 | 9,344 | 33.7% | 32.08% | 32.3% | 209,949 | +1,427 | 🔵 Low Reinforcement |
-| ✅ | Atat | 1,827 | 2,272 | 27.3% | 26.79% | 27.0% | 175,500 | +1,360 | 🔵 Low Reinforcement |
+| ✅ | Atat | 1,867 | 2,272 | 27.3% | 26.79% | 27.0% | 175,500 | +1,393 | 🔵 Low Reinforcement |
+| ✅ | Mbutsi | 1,541 | 7,670 | 32.2% | 30.83% | 31.0% | 201,500 | +1,137 | 🔵 Low Reinforcement |
 
 
 ---
