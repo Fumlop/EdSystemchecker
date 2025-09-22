@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-22 00:18:37
-**Data Source:** 2025-09-22T00:18:37.306698
+**Report Generated:** 2025-09-22 04:05:42
+**Data Source:** 2025-09-22T04:05:42.476916
 **Total Fortified:** 130 (49 with decay analysis)
 
 ## 📊 Quick Summary
@@ -23,7 +23,7 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **b2 Carinae** | -1,427 CP | 29,815 | 2,990 | 44.0% |
-| ✅ | **Nugua** | -705 CP | 12,822 | 0 | 34.3% |
+| ✅ | **Nugua** | -685 CP | 12,822 | 25 | 34.3% |
 | ✅ | **LHS 1887** | -596 CP | 5,515 | 0 | 29.0% |
 | ✅ | **Sanos** | -572 CP | 8,329 | 0 | 31.1% |
 | ✅ | **LTT 4716** | -534 CP | 973 | 0 | 25.7% |
@@ -70,7 +70,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | LTT 4487 | 4,412 | 11,362 | 35.5% | 33.25% | 33.8% | 219,699 | +3,594 | 🔵 Low Reinforcement |
-| ✅ | LHS 2037 | 3,891 | 4,014 | 29.2% | 28.07% | 28.6% | 185,900 | +3,419 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 3,896 | 4,014 | 29.2% | 28.07% | 28.6% | 185,900 | +3,423 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 2,922 | 22,365 | 45.5% | 41.71% | 42.1% | 273,650 | +2,554 | 🔵 Low Reinforcement |
 | ✅ | 18 Puppis | 2,627 | 9,344 | 33.8% | 32.06% | 32.4% | 210,600 | +2,219 | 🔵 Low Reinforcement |
 | ✅ | Atat | 1,867 | 2,272 | 27.3% | 26.79% | 27.0% | 175,500 | +1,393 | 🔵 Low Reinforcement |
