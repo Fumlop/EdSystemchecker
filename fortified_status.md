@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-23 08:05:45
-**Data Source:** 2025-09-23T08:05:44.936332
+**Report Generated:** 2025-09-23 12:07:15
+**Data Source:** 2025-09-23T12:07:15.698745
 **Total Fortified:** 131 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -12,9 +12,9 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **Parapa** | +312,142 CP | 21,097 | 312,500 | 88.8% |
-| ✅ | **Aasgay** | +259,852 CP | 2,204 | 260,614 | 66.5% |
+| ✅ | **Aasgay** | +281,954 CP | 2,245 | 282,758 | 69.9% |
+| ✅ | **Umbrigua** | +20,724 CP | 5,878 | 21,249 | 32.6% |
 | ✅ | **Lesheima** | +20,143 CP | 8,596 | 21,100 | 34.2% |
-| ✅ | **Umbrigua** | +20,083 CP | 5,878 | 20,610 | 32.5% |
 | ✅ | **Kharahua** | +16,991 CP | 26,691 | 17,246 | 47.6% |
 
 ### 🔴 **Most Threatened Systems**
@@ -54,16 +54,16 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Parapa | 312,500 | 21,097 | 92.0% | 40.78% | 88.8% | 577,200 | +312,142 | 🟢 High Reinforcement |
-| ✅ | Aasgay | 260,614 | 2,204 | 66.8% | 26.52% | 66.5% | 432,250 | +259,852 | 🟢 High Reinforcement |
+| ✅ | Aasgay | 282,758 | 2,245 | 70.2% | 26.52% | 69.9% | 454,350 | +281,954 | 🟢 High Reinforcement |
+| ✅ | Umbrigua | 21,249 | 5,878 | 33.5% | 29.41% | 32.6% | 211,900 | +20,724 | 🟢 High Reinforcement |
 | ✅ | Lesheima | 21,100 | 8,596 | 35.5% | 31.10% | 34.2% | 222,300 | +20,143 | 🟢 High Reinforcement |
-| ✅ | Umbrigua | 20,610 | 5,878 | 33.4% | 29.41% | 32.5% | 211,250 | +20,083 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 17,246 | 26,691 | 51.7% | 44.99% | 47.6% | 309,400 | +16,991 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Ralu | 8,463 | 11,557 | 36.7% | 33.67% | 34.9% | 226,849 | +8,018 | 🟡 Medium Reinforcement |
+| ✅ | Ralu | 8,488 | 11,557 | 36.7% | 33.66% | 34.9% | 226,849 | +8,039 | 🟡 Medium Reinforcement |
 | ✅ | Helgaedi | 6,977 | 3,520 | 29.2% | 27.70% | 28.7% | 186,549 | +6,494 | 🟡 Medium Reinforcement |
 | ✅ | LTT 4487 | 6,043 | 11,362 | 35.8% | 33.29% | 34.1% | 221,650 | +5,281 | 🟡 Medium Reinforcement |
 
