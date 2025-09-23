@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-23 12:07:15
-**Data Source:** 2025-09-23T12:07:15.698745
+**Report Generated:** 2025-09-23 16:06:08
+**Data Source:** 2025-09-23T16:06:08.617124
 **Total Fortified:** 131 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,9 +11,9 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Parapa** | +312,142 CP | 21,097 | 312,500 | 88.8% |
-| ✅ | **Aasgay** | +281,954 CP | 2,245 | 282,758 | 69.9% |
-| ✅ | **Umbrigua** | +20,724 CP | 5,878 | 21,249 | 32.6% |
+| ✅ | **Parapa** | +373,900 CP | 21,097 | 374,259 | 98.3% |
+| ✅ | **Aasgay** | +309,644 CP | 2,245 | 310,393 | 74.2% |
+| ✅ | **Umbrigua** | +20,792 CP | 5,878 | 21,332 | 32.6% |
 | ✅ | **Lesheima** | +20,143 CP | 8,596 | 21,100 | 34.2% |
 | ✅ | **Kharahua** | +16,991 CP | 26,691 | 17,246 | 47.6% |
 
@@ -33,7 +33,8 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Parapa** | +312,142 CP | 88.8% | 21,097 | 312,500 |
+| ✅ | **Parapa** | +373,900 CP | 98.3% | 21,097 | 374,259 |
+| ✅ | **Aasgay** | +309,644 CP | 74.2% | 2,245 | 310,393 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -53,9 +54,9 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Parapa | 312,500 | 21,097 | 92.0% | 40.78% | 88.8% | 577,200 | +312,142 | 🟢 High Reinforcement |
-| ✅ | Aasgay | 282,758 | 2,245 | 70.2% | 26.52% | 69.9% | 454,350 | +281,954 | 🟢 High Reinforcement |
-| ✅ | Umbrigua | 21,249 | 5,878 | 33.5% | 29.41% | 32.6% | 211,900 | +20,724 | 🟢 High Reinforcement |
+| ✅ | Parapa | 374,259 | 21,097 | 101.5% | 40.78% | 98.3% | 638,950 | +373,900 | 🟢 High Reinforcement |
+| ✅ | Aasgay | 310,393 | 2,245 | 74.5% | 26.56% | 74.2% | 482,300 | +309,644 | 🟢 High Reinforcement |
+| ✅ | Umbrigua | 21,332 | 5,878 | 33.5% | 29.40% | 32.6% | 211,900 | +20,792 | 🟢 High Reinforcement |
 | ✅ | Lesheima | 21,100 | 8,596 | 35.5% | 31.10% | 34.2% | 222,300 | +20,143 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 17,246 | 26,691 | 51.7% | 44.99% | 47.6% | 309,400 | +16,991 | 🟢 High Reinforcement |
 
@@ -64,16 +65,17 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | Ralu | 8,488 | 11,557 | 36.7% | 33.66% | 34.9% | 226,849 | +8,039 | 🟡 Medium Reinforcement |
+| ✅ | Namte | 7,880 | 15,665 | 40.3% | 36.75% | 37.9% | 246,350 | +7,497 | 🟡 Medium Reinforcement |
 | ✅ | Helgaedi | 6,977 | 3,520 | 29.2% | 27.70% | 28.7% | 186,549 | +6,494 | 🟡 Medium Reinforcement |
-| ✅ | LTT 4487 | 6,043 | 11,362 | 35.8% | 33.29% | 34.1% | 221,650 | +5,281 | 🟡 Medium Reinforcement |
+| ✅ | LTT 4487 | 6,065 | 11,362 | 35.8% | 33.28% | 34.1% | 221,650 | +5,299 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LHS 2037 | 4,131 | 4,014 | 29.2% | 28.04% | 28.6% | 185,900 | +3,617 | 🔵 Low Reinforcement |
+| ✅ | LHS 2037 | 4,141 | 4,014 | 29.2% | 28.04% | 28.6% | 185,900 | +3,626 | 🔵 Low Reinforcement |
+| ✅ | 18 Puppis | 3,832 | 9,347 | 34.0% | 32.07% | 32.6% | 211,900 | +3,438 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 3,279 | 22,365 | 45.6% | 41.74% | 42.2% | 274,300 | +2,961 | 🔵 Low Reinforcement |
-| ✅ | 18 Puppis | 3,382 | 9,344 | 33.9% | 32.05% | 32.5% | 211,250 | +2,956 | 🔵 Low Reinforcement |
 | ✅ | Achansa | 2,115 | 8,182 | 32.7% | 31.15% | 31.4% | 204,100 | +1,636 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 2,042 | 7,690 | 32.2% | 30.76% | 31.0% | 201,500 | +1,535 | 🔵 Low Reinforcement |
 | ✅ | Atat | 1,867 | 2,272 | 27.3% | 26.79% | 27.0% | 175,500 | +1,393 | 🔵 Low Reinforcement |
