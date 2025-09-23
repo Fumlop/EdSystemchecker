@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-23 16:06:08
-**Data Source:** 2025-09-23T16:06:08.617124
+**Report Generated:** 2025-09-23 20:04:33
+**Data Source:** 2025-09-23T20:04:33.748064
 **Total Fortified:** 131 (50 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,9 +11,9 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Parapa** | +373,900 CP | 21,097 | 374,259 | 98.3% |
-| ✅ | **Aasgay** | +309,644 CP | 2,245 | 310,393 | 74.2% |
-| ✅ | **Umbrigua** | +20,792 CP | 5,878 | 21,332 | 32.6% |
+| ✅ | **Parapa** | +376,193 CP | 21,097 | 376,488 | 98.7% |
+| ✅ | **Aasgay** | +332,060 CP | 2,345 | 332,975 | 77.6% |
+| ✅ | **Umbrigua** | +22,749 CP | 5,878 | 23,290 | 32.9% |
 | ✅ | **Lesheima** | +20,143 CP | 8,596 | 21,100 | 34.2% |
 | ✅ | **Kharahua** | +16,991 CP | 26,691 | 17,246 | 47.6% |
 
@@ -33,8 +33,8 @@
 
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
-| ✅ | **Parapa** | +373,900 CP | 98.3% | 21,097 | 374,259 |
-| ✅ | **Aasgay** | +309,644 CP | 74.2% | 2,245 | 310,393 |
+| ✅ | **Parapa** | +376,193 CP | 98.7% | 21,097 | 376,488 |
+| ✅ | **Aasgay** | +332,060 CP | 77.6% | 2,345 | 332,975 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -54,9 +54,9 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Parapa | 374,259 | 21,097 | 101.5% | 40.78% | 98.3% | 638,950 | +373,900 | 🟢 High Reinforcement |
-| ✅ | Aasgay | 310,393 | 2,245 | 74.5% | 26.56% | 74.2% | 482,300 | +309,644 | 🟢 High Reinforcement |
-| ✅ | Umbrigua | 21,332 | 5,878 | 33.5% | 29.40% | 32.6% | 211,900 | +20,792 | 🟢 High Reinforcement |
+| ✅ | Parapa | 376,488 | 21,097 | 101.9% | 40.82% | 98.7% | 641,550 | +376,193 | 🟢 High Reinforcement |
+| ✅ | Aasgay | 332,975 | 2,345 | 78.0% | 26.51% | 77.6% | 504,399 | +332,060 | 🟢 High Reinforcement |
+| ✅ | Umbrigua | 23,290 | 5,878 | 33.8% | 29.40% | 32.9% | 213,849 | +22,749 | 🟢 High Reinforcement |
 | ✅ | Lesheima | 21,100 | 8,596 | 35.5% | 31.10% | 34.2% | 222,300 | +20,143 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 17,246 | 26,691 | 51.7% | 44.99% | 47.6% | 309,400 | +16,991 | 🟢 High Reinforcement |
 
@@ -64,8 +64,8 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Ralu | 8,488 | 11,557 | 36.7% | 33.66% | 34.9% | 226,849 | +8,039 | 🟡 Medium Reinforcement |
-| ✅ | Namte | 7,880 | 15,665 | 40.3% | 36.75% | 37.9% | 246,350 | +7,497 | 🟡 Medium Reinforcement |
+| ✅ | Ralu | 8,553 | 11,737 | 36.7% | 33.68% | 34.9% | 226,849 | +7,944 | 🟡 Medium Reinforcement |
+| ✅ | Namte | 7,944 | 15,665 | 40.3% | 36.74% | 37.9% | 246,350 | +7,550 | 🟡 Medium Reinforcement |
 | ✅ | Helgaedi | 6,977 | 3,520 | 29.2% | 27.70% | 28.7% | 186,549 | +6,494 | 🟡 Medium Reinforcement |
 | ✅ | LTT 4487 | 6,065 | 11,362 | 35.8% | 33.28% | 34.1% | 221,650 | +5,299 | 🟡 Medium Reinforcement |
 
