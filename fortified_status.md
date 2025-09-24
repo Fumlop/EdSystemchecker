@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-24 12:07:43
-**Data Source:** 2025-09-24T12:07:43.353807
+**Report Generated:** 2025-09-24 16:05:47
+**Data Source:** 2025-09-24T16:05:47.599924
 **Total Fortified:** 131 (51 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Aasgay** | +408,339 CP | 2,350 | 409,172 | 89.4% |
 | ✅ | **Parapa** | +406,063 CP | 21,097 | 406,352 | 103.3% |
-| ✅ | **Aasgay** | +375,962 CP | 2,350 | 376,820 | 84.4% |
 | ✅ | **Kharahua** | +26,189 CP | 26,691 | 26,465 | 49.0% |
 | ✅ | **Col 285 Sector KI-O b21-3** | +25,350 CP | 196 | 120,377 | 28.9% |
-| ✅ | **Umbrigua** | +24,392 CP | 5,878 | 24,869 | 33.2% |
+| ✅ | **Umbrigua** | +25,124 CP | 5,878 | 25,618 | 33.3% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -34,7 +34,7 @@
 | Status | System | Net CP | Progress | Undermining | Reinforcement |
 |--------|--------|--------|----------|-------------|---------------|
 | ✅ | **Parapa** | +406,063 CP | 103.3% | 21,097 | 406,352 |
-| ✅ | **Aasgay** | +375,962 CP | 84.4% | 2,350 | 376,820 |
+| ✅ | **Aasgay** | +408,339 CP | 89.4% | 2,350 | 409,172 |
 
 ### 🔴 **Low Progress Systems (<25%)**
 *Systems with low progress that need attention*
@@ -65,11 +65,11 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Aasgay | 409,172 | 2,350 | 89.8% | 26.58% | 89.4% | 581,100 | +408,339 | 🟢 High Reinforcement |
 | ✅ | Parapa | 406,352 | 21,097 | 106.5% | 40.83% | 103.3% | 671,450 | +406,063 | 🟢 High Reinforcement |
-| ✅ | Aasgay | 376,820 | 2,350 | 84.8% | 26.56% | 84.4% | 548,600 | +375,962 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 26,465 | 26,691 | 53.1% | 44.97% | 49.0% | 318,500 | +26,189 | 🟢 High Reinforcement |
 | ✅ | Col 285 Sector KI-O b21-3 | 120,377 | 196 | 28.9% | 25.00% | 28.9% | 187,850 | +25,350 | 🟢 High Reinforcement |
-| ✅ | Umbrigua | 24,869 | 5,878 | 34.1% | 29.45% | 33.2% | 215,800 | +24,392 | 🟢 High Reinforcement |
+| ✅ | Umbrigua | 25,618 | 5,878 | 34.2% | 29.43% | 33.3% | 216,449 | +25,124 | 🟢 High Reinforcement |
 | ✅ | Lesheima | 21,100 | 8,596 | 35.5% | 31.10% | 34.2% | 222,300 | +20,143 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
@@ -80,7 +80,7 @@
 | ✅ | Ralu | 8,803 | 11,777 | 36.7% | 33.65% | 34.9% | 226,849 | +8,117 | 🟡 Medium Reinforcement |
 | ✅ | Namte | 7,944 | 15,665 | 40.3% | 36.74% | 37.9% | 246,350 | +7,550 | 🟡 Medium Reinforcement |
 | ✅ | Helgaedi | 6,989 | 3,520 | 29.2% | 27.70% | 28.7% | 186,549 | +6,504 | 🟡 Medium Reinforcement |
-| ✅ | LTT 4487 | 6,196 | 11,382 | 35.9% | 33.27% | 34.1% | 221,650 | +5,391 | 🟡 Medium Reinforcement |
+| ✅ | LTT 4487 | 6,255 | 11,382 | 35.9% | 33.26% | 34.1% | 221,650 | +5,439 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
@@ -95,6 +95,8 @@
 | ✅ | LTT 4772 | 2,122 | 119 | 25.4% | 25.15% | 25.4% | 165,100 | +1,593 | 🔵 Low Reinforcement |
 | ✅ | UBV 8670 | 2,100 | 9,404 | 33.5% | 31.89% | 32.1% | 208,650 | +1,397 | 🔵 Low Reinforcement |
 | ✅ | Atat | 1,867 | 2,272 | 27.3% | 26.79% | 27.0% | 175,500 | +1,393 | 🔵 Low Reinforcement |
+| ✅ | V902 Centauri | 2,040 | 19,798 | 42.7% | 39.51% | 39.7% | 258,050 | +1,260 | 🔵 Low Reinforcement |
+| ✅ | Sala | 2,187 | 470 | 25.3% | 25.03% | 25.2% | 163,800 | +1,132 | 🔵 Low Reinforcement |
 | ✅ | HR 2798 | 1,545 | 7,649 | 32.1% | 30.74% | 30.9% | 200,850 | +1,046 | 🔵 Low Reinforcement |
 
 
