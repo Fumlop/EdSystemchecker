@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-25 16:05:37
-**Data Source:** 2025-09-25T16:05:37.500917
-**Total Fortified:** 58 (19 with decay analysis)
+**Report Generated:** 2025-09-25 20:04:49
+**Data Source:** 2025-09-25T20:04:49.746509
+**Total Fortified:** 81 (30 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,18 +11,21 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LTT 4487** | +4,986 CP | 10,711 | 5,443 | 33.8% |
+| ✅ | **LTT 4487** | +6,839 CP | 10,711 | 7,275 | 34.1% |
+| ✅ | **Umbrigua** | +980 CP | 9,617 | 1,403 | 32.4% |
+| ✅ | **Kharahua** | +965 CP | 27,692 | 1,185 | 45.9% |
+| ✅ | **NLTT 21088** | +5 CP | 19,526 | 388 | 39.6% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **LTT 4772** | -566 CP | 877 | 0 | 25.6% |
 | ✅ | **Turni** | -560 CP | 734 | 0 | 25.5% |
-| ✅ | **LTT 4716** | -500 CP | 256 | 0 | 25.2% |
-| ✅ | **Tarhul** | -492 CP | 2,818 | 0 | 27.1% |
-| ✅ | **LHS 2037** | -474 CP | 4,014 | 0 | 28.0% |
-| ✅ | **Heveri** | -473 CP | 3,877 | 0 | 27.9% |
+| ✅ | **Helgaedi** | -530 CP | 4,082 | 0 | 28.0% |
+| ✅ | **Delta-2 Canis Minoris** | -524 CP | 3,262 | 0 | 27.4% |
+| ✅ | **Arnais** | -515 CP | 2,169 | 0 | 26.6% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -51,13 +54,13 @@
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
-*No fortified systems with medium reinforcement activity*
+| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
+|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | LTT 4487 | 7,275 | 10,711 | 35.7% | 33.05% | 34.1% | 221,650 | +6,839 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
-| Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
-|--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 4487 | 5,443 | 10,711 | 35.4% | 33.03% | 33.8% | 219,699 | +4,986 | 🔵 Low Reinforcement |
+*No fortified systems with low reinforcement activity*
 
 
 ---
