@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-26 20:05:06
-**Data Source:** 2025-09-26T20:05:06.809739
-**Total Fortified:** 122 (45 with decay analysis)
+**Report Generated:** 2025-09-27 00:16:15
+**Data Source:** 2025-09-27T00:16:15.094311
+**Total Fortified:** 122 (44 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,20 +11,20 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LTT 4487** | +24,232 CP | 10,765 | 24,689 | 36.8% |
+| ✅ | **LTT 4487** | +24,989 CP | 10,765 | 25,469 | 36.9% |
 | ✅ | **Kharahua** | +4,405 CP | 27,692 | 4,664 | 46.4% |
 | ✅ | **Delta-2 Canis Minoris** | +3,876 CP | 3,262 | 4,368 | 28.1% |
 | ✅ | **Heveri** | +3,394 CP | 3,884 | 3,867 | 28.5% |
-| ✅ | **Namte** | +2,824 CP | 16,091 | 3,201 | 37.5% |
+| ✅ | **Umbrigua** | +2,965 CP | 9,617 | 3,396 | 32.7% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Lesheima** | -739 CP | 10,500 | 74 | 32.5% |
 | ✅ | **Turni** | -560 CP | 734 | 0 | 25.5% |
 | ✅ | **Helgaedi** | -530 CP | 4,082 | 0 | 28.0% |
-| ✅ | **Huangais** | -517 CP | 2,442 | 0 | 26.8% |
 | ✅ | **Yaricans** | -505 CP | 4,322 | 0 | 28.2% |
 | ✅ | **Col 285 Sector XT-F b12-7** | -503 CP | 4,185 | 0 | 28.1% |
 
@@ -53,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 4487 | 24,689 | 10,765 | 38.5% | 33.07% | 36.8% | 239,200 | +24,232 | 🟢 High Reinforcement |
+| ✅ | LTT 4487 | 25,469 | 10,765 | 38.6% | 33.06% | 36.9% | 239,850 | +24,989 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -66,9 +66,10 @@
 | ✅ | Kharahua | 4,664 | 27,692 | 50.7% | 45.72% | 46.4% | 301,600 | +4,405 | 🔵 Low Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 4,368 | 3,262 | 28.6% | 27.50% | 28.1% | 182,650 | +3,876 | 🔵 Low Reinforcement |
 | ✅ | Heveri | 3,867 | 3,884 | 29.1% | 27.98% | 28.5% | 185,249 | +3,394 | 🔵 Low Reinforcement |
-| ✅ | Namte | 3,201 | 16,091 | 40.0% | 37.07% | 37.5% | 243,750 | +2,824 | 🔵 Low Reinforcement |
+| ✅ | Umbrigua | 3,396 | 9,617 | 34.2% | 32.24% | 32.7% | 212,550 | +2,965 | 🔵 Low Reinforcement |
+| ✅ | Namte | 3,236 | 16,091 | 40.0% | 37.06% | 37.5% | 243,750 | +2,853 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 2,939 | 19,526 | 43.0% | 39.61% | 40.0% | 260,000 | +2,565 | 🔵 Low Reinforcement |
-| ✅ | Umbrigua | 2,408 | 9,617 | 34.1% | 32.29% | 32.6% | 211,900 | +2,036 | 🔵 Low Reinforcement |
+| ✅ | Ralu | 2,657 | 11,018 | 35.3% | 33.26% | 33.6% | 218,400 | +2,203 | 🔵 Low Reinforcement |
 | ✅ | LTT 4772 | 2,270 | 895 | 26.1% | 25.73% | 26.0% | 169,000 | +1,746 | 🔵 Low Reinforcement |
 
 
