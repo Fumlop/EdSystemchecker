@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-27 04:05:15
-**Data Source:** 2025-09-27T04:05:15.875214
-**Total Fortified:** 122 (44 with decay analysis)
+**Report Generated:** 2025-09-27 08:04:59
+**Data Source:** 2025-09-27T08:04:59.431135
+**Total Fortified:** 127 (47 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -22,11 +22,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **Achansa** | -5,696 CP | 12,359 | 5 | 29.5% |
 | ✅ | **LTT 4716** | -1,694 CP | 1,427 | 0 | 25.0% |
-| ✅ | **Lesheima** | -739 CP | 10,500 | 74 | 32.5% |
 | ✅ | **Turni** | -560 CP | 734 | 0 | 25.5% |
+| ✅ | **Lesheima** | -536 CP | 10,500 | 184 | 32.6% |
 | ✅ | **Helgaedi** | -530 CP | 4,082 | 0 | 28.0% |
-| ✅ | **Yaricans** | -505 CP | 4,322 | 0 | 28.2% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -69,6 +69,7 @@
 | ✅ | Umbrigua | 3,396 | 9,617 | 34.2% | 32.24% | 32.7% | 212,550 | +2,965 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 3,226 | 19,549 | 43.1% | 39.65% | 40.1% | 260,650 | +2,895 | 🔵 Low Reinforcement |
 | ✅ | Namte | 3,236 | 16,091 | 40.0% | 37.06% | 37.5% | 243,750 | +2,853 | 🔵 Low Reinforcement |
+| ✅ | Agarda | 2,713 | 11,633 | 35.9% | 33.75% | 34.1% | 221,650 | +2,300 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 2,657 | 11,018 | 35.3% | 33.26% | 33.6% | 218,400 | +2,203 | 🔵 Low Reinforcement |
 | ✅ | LTT 4772 | 2,270 | 895 | 26.1% | 25.73% | 26.0% | 169,000 | +1,746 | 🔵 Low Reinforcement |
 
@@ -84,7 +85,9 @@
 
 ### 🔶 Medium Activity (5000-9999 CP Undermining)
 
-*No fortified systems with medium undermining activity*
+| Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
+|--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
+| ✅ | Achansa | 12,359 | 31.4% | 30.38% | 29.5% | 5 | 191,750 | -5,696 | 🔶 Medium Undermining |
 
 ### 🟡 Low Activity (1000-4999 CP Undermining)
 
