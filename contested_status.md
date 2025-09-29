@@ -1,12 +1,12 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-09-29 08:06:19
-**Data Source:** 2025-09-28T23:06:18.865960
+**Report Generated:** 2025-09-29 12:07:36
+**Data Source:** 2025-09-28T23:07:35.783405
 **Total Contested:** 3 systems
-**Total Expansion:** 2237 systems
+**Total Expansion:** 2223 systems
 **Priority Acquisition Targets:** 0 of 4 systems are contested
 
-**Total Expansion:** 2237 systems
+**Total Expansion:** 2223 systems
 
 ## 📊 Quick Summary
 
@@ -359,7 +359,6 @@
 | 🔵 | Puppis Sector MC-V b2-5 | 3.5% |
 | 🔵 | Taunets | 3.5% |
 | 🔵 | Wolf 1449 | 3.5% |
-| 🔵 | 2 Hydrae | 3.4% |
 | 🔵 | BD+01 2684 | 3.4% |
 | 🔵 | Drevelli | 3.4% |
 | 🔵 | Enbilulu | 3.4% |
@@ -916,7 +915,6 @@
 | 🔵 | Col 285 Sector IC-Z b15-2 | 0.3% |
 | 🔵 | Col 285 Sector JY-E b13-1 | 0.3% |
 | 🔵 | Col 285 Sector NR-J b10-0 | 0.3% |
-| 🔵 | Col 285 Sector QX-H b11-0 | 0.3% |
 | 🔵 | Col 285 Sector VY-F b12-3 | 0.3% |
 | 🔵 | Col 285 Sector WG-Y b16-2 | 0.3% |
 | 🔵 | Col 285 Sector ZB-Y b16-1 | 0.3% |
@@ -1000,7 +998,6 @@
 | 🔵 | CD-59 1706 | 0.2% |
 | 🔵 | CD-59 1724 | 0.2% |
 | 🔵 | Col 285 Sector BV-C b14-2 | 0.2% |
-| 🔵 | Col 285 Sector CB-B b15-2 | 0.2% |
 | 🔵 | Col 285 Sector CL-N c7-19 | 0.2% |
 | 🔵 | Col 285 Sector DR-Z b15-2 | 0.2% |
 | 🔵 | Col 285 Sector DR-Z b15-4 | 0.2% |
@@ -1046,7 +1043,6 @@
 | 🔵 | Durga | 0.2% |
 | 🔵 | Fandi | 0.2% |
 | 🔵 | Gkutat | 0.2% |
-| 🔵 | HIP 40110 | 0.2% |
 | 🔵 | HIP 41503 | 0.2% |
 | 🔵 | HIP 44785 | 0.2% |
 | 🔵 | HIP 44791 | 0.2% |
@@ -1174,7 +1170,6 @@
 | 🔵 | Col 285 Sector LX-Y b15-3 | 0.1% |
 | 🔵 | Col 285 Sector OM-J b10-1 | 0.1% |
 | 🔵 | Col 285 Sector OS-T d3-102 | 0.1% |
-| 🔵 | Col 285 Sector PD-X b16-1 | 0.1% |
 | 🔵 | Col 285 Sector QD-S d4-99 | 0.1% |
 | 🔵 | Col 285 Sector QY-S a33-2 | 0.1% |
 | 🔵 | Col 285 Sector RY-W b16-4 | 0.1% |
@@ -1261,7 +1256,6 @@
 | 🔵 | Hyades Sector EW-L b8-6 | 0.1% |
 | 🔵 | Hyades Sector IC-K b9-7 | 0.1% |
 | 🔵 | Hyades Sector IH-V d2-130 | 0.1% |
-| 🔵 | Hyades Sector KC-U c3-8 | 0.1% |
 | 🔵 | Hyades Sector LI-I b10-3 | 0.1% |
 | 🔵 | Hyades Sector MI-S c4-20 | 0.1% |
 | 🔵 | Hyades Sector NY-P b6-2 | 0.1% |
@@ -1332,7 +1326,6 @@
 | 🔵 | Sharru Sector GW-W c1-13 | 0.1% |
 | 🔵 | Sharru Sector LH-V b2-2 | 0.1% |
 | 🔵 | Sharru Sector LH-V b2-3 | 0.1% |
-| 🔵 | Sharru Sector LH-V b2-4 | 0.1% |
 | 🔵 | Sharru Sector NN-T b3-3 | 0.1% |
 | 🔵 | Sharru Sector ON-T b3-2 | 0.1% |
 | 🔵 | Sharru Sector ON-T b3-3 | 0.1% |
@@ -1501,7 +1494,6 @@
 | 🔵 | Col 285 Sector EG-C b14-4 | 0.0% |
 | 🔵 | Col 285 Sector EL-C b14-4 | 0.0% |
 | 🔵 | Col 285 Sector EL-C b14-5 | 0.0% |
-| 🔵 | Col 285 Sector EM-W a31-1 | 0.0% |
 | 🔵 | Col 285 Sector ER-R b19-3 | 0.0% |
 | 🔵 | Col 285 Sector ER-R b19-5 | 0.0% |
 | 🔵 | Col 285 Sector ER-R b19-8 | 0.0% |
@@ -1521,7 +1513,6 @@
 | 🔵 | Col 285 Sector FS-I c10-11 | 0.0% |
 | 🔵 | Col 285 Sector FS-I c10-13 | 0.0% |
 | 🔵 | Col 285 Sector FS-I c10-15 | 0.0% |
-| 🔵 | Col 285 Sector FS-I c10-9 | 0.0% |
 | 🔵 | Col 285 Sector FW-A b15-5 | 0.0% |
 | 🔵 | Col 285 Sector FY-D b14-2 | 0.0% |
 | 🔵 | Col 285 Sector GC-Q b20-0 | 0.0% |
@@ -1547,7 +1538,6 @@
 | 🔵 | Col 285 Sector HR-A b15-5 | 0.0% |
 | 🔵 | Col 285 Sector HR-W a31-0 | 0.0% |
 | 🔵 | Col 285 Sector HR-W a31-1 | 0.0% |
-| 🔵 | Col 285 Sector HS-X b16-3 | 0.0% |
 | 🔵 | Col 285 Sector HW-A b15-0 | 0.0% |
 | 🔵 | Col 285 Sector HX-X b16-0 | 0.0% |
 | 🔵 | Col 285 Sector HX-X b16-5 | 0.0% |
@@ -1597,7 +1587,6 @@
 | 🔵 | Col 285 Sector KY-E b13-3 | 0.0% |
 | 🔵 | Col 285 Sector LI-X b16-2 | 0.0% |
 | 🔵 | Col 285 Sector LR-J b10-2 | 0.0% |
-| 🔵 | Col 285 Sector LR-J b10-4 | 0.0% |
 | 🔵 | Col 285 Sector LS-U a32-0 | 0.0% |
 | 🔵 | Col 285 Sector LS-U a32-1 | 0.0% |
 | 🔵 | Col 285 Sector LX-U a32-1 | 0.0% |
@@ -1688,7 +1677,6 @@
 | 🔵 | Col 285 Sector WJ-W b16-2 | 0.0% |
 | 🔵 | Col 285 Sector WJ-W b16-6 | 0.0% |
 | 🔵 | Col 285 Sector WJ-W b16-7 | 0.0% |
-| 🔵 | Col 285 Sector XF-M c8-12 | 0.0% |
 | 🔵 | Col 285 Sector XF-M c8-14 | 0.0% |
 | 🔵 | Col 285 Sector XG-Y b16-1 | 0.0% |
 | 🔵 | Col 285 Sector XJ-E b13-4 | 0.0% |
@@ -1712,7 +1700,6 @@
 | 🔵 | Col 285 Sector ZU-C b14-4 | 0.0% |
 | 🔵 | Core Sys Sector MS-T b3-6 | 0.0% |
 | 🔵 | Core Sys Sector ON-T b3-3 | 0.0% |
-| 🔵 | Crucis Sector AF-A c22 | 0.0% |
 | 🔵 | Crucis Sector AP-R a4-4 | 0.0% |
 | 🔵 | Crucis Sector AV-P a5-0 | 0.0% |
 | 🔵 | Crucis Sector AV-P a5-1 | 0.0% |
@@ -2205,7 +2192,6 @@
 | 🔵 | Sharru Sector CQ-Y c20 | 0.0% |
 | 🔵 | Sharru Sector CQ-Y c9 | 0.0% |
 | 🔵 | Sharru Sector CV-Y b3 | 0.0% |
-| 🔵 | Sharru Sector DG-X b1-1 | 0.0% |
 | 🔵 | Sharru Sector DV-Y b0 | 0.0% |
 | 🔵 | Sharru Sector DV-Y b3 | 0.0% |
 | 🔵 | Sharru Sector EQ-Y b2 | 0.0% |
