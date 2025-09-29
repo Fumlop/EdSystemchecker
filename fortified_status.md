@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-29 04:05:30
-**Data Source:** 2025-09-29T04:05:30.130690
-**Total Fortified:** 129 (48 with decay analysis)
+**Report Generated:** 2025-09-29 08:06:19
+**Data Source:** 2025-09-29T08:06:19.344102
+**Total Fortified:** 130 (49 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -78,10 +78,12 @@
 | ✅ | Arnais | 4,550 | 2,169 | 27.6% | 26.68% | 27.3% | 177,450 | +4,035 | 🔵 Low Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 4,368 | 3,262 | 28.6% | 27.50% | 28.1% | 182,650 | +3,876 | 🔵 Low Reinforcement |
 | ✅ | LTT 4772 | 2,850 | 895 | 26.2% | 25.74% | 26.1% | 169,650 | +2,338 | 🔵 Low Reinforcement |
+| ✅ | Tarhul | 2,509 | 2,818 | 27.9% | 27.19% | 27.5% | 178,750 | +2,033 | 🔵 Low Reinforcement |
 | ✅ | 54 G. Antlia | 2,318 | 7,841 | 32.4% | 30.91% | 31.2% | 202,800 | +1,863 | 🔵 Low Reinforcement |
 | ✅ | Mbutsi | 2,615 | 7,515 | 31.8% | 30.34% | 30.6% | 198,900 | +1,706 | 🔵 Low Reinforcement |
 | ✅ | EGGR 431 | 2,141 | 8,023 | 32.5% | 31.04% | 31.3% | 203,450 | +1,678 | 🔵 Low Reinforcement |
 | ✅ | Atat | 2,158 | 2,237 | 27.3% | 26.74% | 27.0% | 175,500 | +1,663 | 🔵 Low Reinforcement |
+| ✅ | Yaricans | 1,656 | 4,322 | 29.2% | 28.31% | 28.5% | 185,249 | +1,202 | 🔵 Low Reinforcement |
 
 
 ---
