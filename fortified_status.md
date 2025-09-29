@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-29 12:07:36
-**Data Source:** 2025-09-29T12:07:36.263659
-**Total Fortified:** 130 (49 with decay analysis)
+**Report Generated:** 2025-09-29 16:04:48
+**Data Source:** 2025-09-29T16:04:48.003474
+**Total Fortified:** 131 (49 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LTT 4487** | +32,342 CP | 10,765 | 32,864 | 38.0% |
+| ✅ | **LTT 4487** | +35,765 CP | 10,765 | 36,188 | 38.6% |
 | ✅ | **LHS 306** | +28,256 CP | 1,725 | 28,769 | 30.7% |
 | ✅ | **Kharahua** | +16,389 CP | 27,694 | 16,710 | 48.2% |
 | ✅ | **Ngolingo** | +16,250 CP | 0 | 77,210 | 27.5% |
-| ✅ | **LHS 2037** | +12,444 CP | 4,014 | 12,900 | 30.0% |
+| ✅ | **Helgaedi** | +12,779 CP | 4,082 | 13,238 | 30.1% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -53,20 +53,22 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 4487 | 32,864 | 10,765 | 39.7% | 33.02% | 38.0% | 247,000 | +32,342 | 🟢 High Reinforcement |
+| ✅ | LTT 4487 | 36,188 | 10,765 | 40.3% | 33.10% | 38.6% | 250,900 | +35,765 | 🟢 High Reinforcement |
 | ✅ | LHS 306 | 28,769 | 1,725 | 31.0% | 26.35% | 30.7% | 199,550 | +28,256 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 16,710 | 27,694 | 52.5% | 45.68% | 48.2% | 313,300 | +16,389 | 🟢 High Reinforcement |
 | ✅ | Ngolingo | 77,210 | 0 | 27.5% | 25.00% | 27.5% | 178,750 | +16,250 | 🟢 High Reinforcement |
-| ✅ | LHS 2037 | 12,900 | 4,014 | 30.6% | 28.09% | 30.0% | 195,000 | +12,444 | 🟢 High Reinforcement |
+| ✅ | Helgaedi | 13,238 | 4,082 | 30.7% | 28.13% | 30.1% | 195,650 | +12,779 | 🟢 High Reinforcement |
+| ✅ | LHS 2037 | 13,125 | 4,014 | 30.6% | 28.06% | 30.0% | 195,000 | +12,630 | 🟢 High Reinforcement |
+| ✅ | Umbrigua | 10,966 | 9,617 | 35.4% | 32.27% | 33.9% | 220,349 | +10,575 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Umbrigua | 10,394 | 9,617 | 35.3% | 32.26% | 33.8% | 219,699 | +9,989 | 🟡 Medium Reinforcement |
+| ✅ | Mbutsi | 9,123 | 7,515 | 32.8% | 30.34% | 31.6% | 205,400 | +8,213 | 🟡 Medium Reinforcement |
 | ✅ | Heveri | 7,421 | 3,913 | 29.6% | 27.94% | 29.0% | 188,500 | +6,872 | 🟡 Medium Reinforcement |
 | ✅ | Agarda | 7,017 | 11,633 | 36.6% | 33.78% | 34.8% | 226,199 | +6,646 | 🟡 Medium Reinforcement |
-| ✅ | NLTT 21088 | 6,219 | 19,568 | 43.5% | 39.61% | 40.5% | 263,250 | +5,805 | 🟡 Medium Reinforcement |
+| ✅ | NLTT 21088 | 6,604 | 19,568 | 43.6% | 39.64% | 40.6% | 263,900 | +6,236 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 6,181 | 11,018 | 35.9% | 33.31% | 34.2% | 222,300 | +5,791 | 🟡 Medium Reinforcement |
 | ✅ | Eme | 5,949 | 4,732 | 30.1% | 28.57% | 29.4% | 191,100 | +5,424 | 🟡 Medium Reinforcement |
 
@@ -80,10 +82,9 @@
 | ✅ | LTT 4772 | 2,850 | 895 | 26.2% | 25.74% | 26.1% | 169,650 | +2,338 | 🔵 Low Reinforcement |
 | ✅ | Tarhul | 2,509 | 2,818 | 27.9% | 27.19% | 27.5% | 178,750 | +2,033 | 🔵 Low Reinforcement |
 | ✅ | 54 G. Antlia | 2,318 | 7,841 | 32.4% | 30.91% | 31.2% | 202,800 | +1,863 | 🔵 Low Reinforcement |
-| ✅ | Mbutsi | 2,615 | 7,515 | 31.8% | 30.34% | 30.6% | 198,900 | +1,706 | 🔵 Low Reinforcement |
 | ✅ | EGGR 431 | 2,141 | 8,023 | 32.5% | 31.04% | 31.3% | 203,450 | +1,678 | 🔵 Low Reinforcement |
 | ✅ | Atat | 2,158 | 2,237 | 27.3% | 26.74% | 27.0% | 175,500 | +1,663 | 🔵 Low Reinforcement |
-| ✅ | Yaricans | 1,656 | 4,322 | 29.2% | 28.31% | 28.5% | 185,249 | +1,202 | 🔵 Low Reinforcement |
+| ✅ | Yaricans | 1,908 | 4,322 | 29.2% | 28.28% | 28.5% | 185,249 | +1,411 | 🔵 Low Reinforcement |
 
 
 ---
