@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-30 16:04:45
-**Data Source:** 2025-09-30T16:04:45.357563
-**Total Fortified:** 133 (49 with decay analysis)
+**Report Generated:** 2025-09-30 20:05:15
+**Data Source:** 2025-09-30T20:05:15.557182
+**Total Fortified:** 132 (48 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,9 +11,9 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LTT 4487** | +35,612 CP | 11,240 | 36,613 | 38.5% |
+| ✅ | **Helgaedi** | +41,295 CP | 4,082 | 41,737 | 34.5% |
+| ✅ | **LTT 4487** | +35,982 CP | 11,240 | 36,925 | 38.6% |
 | ✅ | **LHS 306** | +29,728 CP | 1,725 | 30,277 | 30.9% |
-| ✅ | **Helgaedi** | +25,998 CP | 4,082 | 26,502 | 32.1% |
 | ✅ | **Kharahua** | +16,389 CP | 27,694 | 16,710 | 48.2% |
 | ✅ | **Ngolingo** | +16,250 CP | 0 | 77,210 | 27.5% |
 
@@ -53,14 +53,15 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | LTT 4487 | 36,613 | 11,240 | 40.2% | 33.02% | 38.5% | 250,250 | +35,612 | 🟢 High Reinforcement |
+| ✅ | Helgaedi | 41,737 | 4,082 | 35.1% | 28.15% | 34.5% | 224,249 | +41,295 | 🟢 High Reinforcement |
+| ✅ | LTT 4487 | 36,925 | 11,240 | 40.3% | 33.06% | 38.6% | 250,900 | +35,982 | 🟢 High Reinforcement |
 | ✅ | LHS 306 | 30,277 | 1,725 | 31.2% | 26.33% | 30.9% | 200,850 | +29,728 | 🟢 High Reinforcement |
-| ✅ | Helgaedi | 26,502 | 4,082 | 32.7% | 28.10% | 32.1% | 208,650 | +25,998 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 16,710 | 27,694 | 52.5% | 45.68% | 48.2% | 313,300 | +16,389 | 🟢 High Reinforcement |
 | ✅ | Ngolingo | 77,210 | 0 | 27.5% | 25.00% | 27.5% | 178,750 | +16,250 | 🟢 High Reinforcement |
-| ✅ | Umbrigua | 15,802 | 9,617 | 36.1% | 32.24% | 34.6% | 224,900 | +15,362 | 🟢 High Reinforcement |
+| ✅ | Umbrigua | 16,082 | 9,617 | 36.2% | 32.28% | 34.7% | 225,550 | +15,706 | 🟢 High Reinforcement |
 | ✅ | LHS 2037 | 13,537 | 4,014 | 30.7% | 28.09% | 30.1% | 195,650 | +13,083 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 11,734 | 19,568 | 44.4% | 39.65% | 41.4% | 269,100 | +11,378 | 🟢 High Reinforcement |
+| ✅ | Heveri | 11,218 | 3,960 | 30.2% | 27.96% | 29.6% | 192,400 | +10,648 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -69,24 +70,23 @@
 | ✅ | Agarda | 10,252 | 11,633 | 37.1% | 33.78% | 35.3% | 229,450 | +9,884 | 🟡 Medium Reinforcement |
 | ✅ | Mbutsi | 9,158 | 7,515 | 32.8% | 30.33% | 31.6% | 205,400 | +8,242 | 🟡 Medium Reinforcement |
 | ✅ | Ralu | 7,519 | 11,018 | 36.1% | 33.30% | 34.4% | 223,599 | +7,123 | 🟡 Medium Reinforcement |
-| ✅ | Heveri | 7,561 | 3,945 | 29.6% | 27.93% | 29.0% | 188,500 | +6,962 | 🟡 Medium Reinforcement |
-| ✅ | Eme | 5,986 | 4,738 | 30.2% | 28.64% | 29.5% | 191,750 | +5,562 | 🟡 Medium Reinforcement |
+| ✅ | Eme | 6,041 | 4,738 | 30.2% | 28.64% | 29.5% | 191,750 | +5,607 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | Namte | 4,894 | 16,097 | 40.2% | 37.02% | 37.7% | 245,050 | +4,444 | 🔵 Low Reinforcement |
-| ✅ | Arnais | 4,550 | 2,169 | 27.6% | 26.68% | 27.3% | 177,450 | +4,035 | 🔵 Low Reinforcement |
+| ✅ | Namte | 5,169 | 16,097 | 40.3% | 37.06% | 37.8% | 245,699 | +4,784 | 🔵 Low Reinforcement |
+| ✅ | Arnais | 5,043 | 2,169 | 27.7% | 26.70% | 27.4% | 178,099 | +4,555 | 🔵 Low Reinforcement |
 | ✅ | Delta-2 Canis Minoris | 4,368 | 3,262 | 28.6% | 27.50% | 28.1% | 182,650 | +3,876 | 🔵 Low Reinforcement |
-| ✅ | LTT 4772 | 3,015 | 895 | 26.2% | 25.72% | 26.1% | 169,650 | +2,474 | 🔵 Low Reinforcement |
+| ✅ | LTT 4772 | 3,325 | 895 | 26.3% | 25.76% | 26.2% | 170,300 | +2,843 | 🔵 Low Reinforcement |
 | ✅ | Atat | 2,753 | 2,237 | 27.4% | 26.75% | 27.1% | 176,150 | +2,267 | 🔵 Low Reinforcement |
 | ✅ | Tarhul | 2,680 | 2,818 | 27.9% | 27.17% | 27.5% | 178,750 | +2,174 | 🔵 Low Reinforcement |
-| ✅ | Yaricans | 2,516 | 4,322 | 29.3% | 28.29% | 28.6% | 185,900 | +2,026 | 🔵 Low Reinforcement |
+| ✅ | Yaricans | 2,590 | 4,322 | 29.3% | 28.28% | 28.6% | 185,900 | +2,087 | 🔵 Low Reinforcement |
 | ✅ | EGGR 431 | 2,141 | 8,023 | 32.5% | 31.04% | 31.3% | 203,450 | +1,678 | 🔵 Low Reinforcement |
 | ✅ | b2 Carinae | 2,007 | 22,806 | 45.8% | 42.05% | 42.3% | 274,950 | +1,656 | 🔵 Low Reinforcement |
 | ✅ | 54 G. Antlia | 2,405 | 8,453 | 32.4% | 30.90% | 31.1% | 202,150 | +1,316 | 🔵 Low Reinforcement |
-| ✅ | UBV 8670 | 1,799 | 8,486 | 32.8% | 31.31% | 31.5% | 204,750 | +1,235 | 🔵 Low Reinforcement |
+| ✅ | UBV 8670 | 1,829 | 8,486 | 32.8% | 31.31% | 31.5% | 204,750 | +1,260 | 🔵 Low Reinforcement |
 
 
 ---
