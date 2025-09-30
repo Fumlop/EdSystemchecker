@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-09-30 04:05:20
-**Data Source:** 2025-09-30T04:05:20.362271
-**Total Fortified:** 131 (48 with decay analysis)
+**Report Generated:** 2025-09-30 08:06:03
+**Data Source:** 2025-09-30T08:06:03.619852
+**Total Fortified:** 133 (49 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -13,9 +13,9 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **LTT 4487** | +35,591 CP | 11,240 | 36,588 | 38.5% |
 | ✅ | **LHS 306** | +29,506 CP | 1,725 | 30,009 | 30.9% |
+| ✅ | **Helgaedi** | +25,998 CP | 4,082 | 26,502 | 32.1% |
 | ✅ | **Kharahua** | +16,389 CP | 27,694 | 16,710 | 48.2% |
 | ✅ | **Ngolingo** | +16,250 CP | 0 | 77,210 | 27.5% |
-| ✅ | **Umbrigua** | +13,965 CP | 9,617 | 14,385 | 34.4% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -55,21 +55,21 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | LTT 4487 | 36,588 | 11,240 | 40.2% | 33.02% | 38.5% | 250,250 | +35,591 | 🟢 High Reinforcement |
 | ✅ | LHS 306 | 30,009 | 1,725 | 31.2% | 26.36% | 30.9% | 200,850 | +29,506 | 🟢 High Reinforcement |
+| ✅ | Helgaedi | 26,502 | 4,082 | 32.7% | 28.10% | 32.1% | 208,650 | +25,998 | 🟢 High Reinforcement |
 | ✅ | Kharahua | 16,710 | 27,694 | 52.5% | 45.68% | 48.2% | 313,300 | +16,389 | 🟢 High Reinforcement |
 | ✅ | Ngolingo | 77,210 | 0 | 27.5% | 25.00% | 27.5% | 178,750 | +16,250 | 🟢 High Reinforcement |
 | ✅ | Umbrigua | 14,385 | 9,617 | 35.9% | 32.25% | 34.4% | 223,599 | +13,965 | 🟢 High Reinforcement |
-| ✅ | Helgaedi | 13,291 | 4,082 | 30.7% | 28.13% | 30.1% | 195,650 | +12,823 | 🟢 High Reinforcement |
-| ✅ | LHS 2037 | 13,251 | 4,014 | 30.6% | 28.04% | 30.0% | 195,000 | +12,734 | 🟢 High Reinforcement |
+| ✅ | LHS 2037 | 13,493 | 4,014 | 30.7% | 28.09% | 30.1% | 195,650 | +13,046 | 🟢 High Reinforcement |
 | ✅ | NLTT 21088 | 11,734 | 19,568 | 44.4% | 39.65% | 41.4% | 269,100 | +11,378 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
+| ✅ | Agarda | 10,252 | 11,633 | 37.1% | 33.78% | 35.3% | 229,450 | +9,884 | 🟡 Medium Reinforcement |
 | ✅ | Mbutsi | 9,158 | 7,515 | 32.8% | 30.33% | 31.6% | 205,400 | +8,242 | 🟡 Medium Reinforcement |
+| ✅ | Ralu | 7,519 | 11,018 | 36.1% | 33.30% | 34.4% | 223,599 | +7,123 | 🟡 Medium Reinforcement |
 | ✅ | Heveri | 7,561 | 3,945 | 29.6% | 27.93% | 29.0% | 188,500 | +6,962 | 🟡 Medium Reinforcement |
-| ✅ | Agarda | 7,017 | 11,633 | 36.6% | 33.78% | 34.8% | 226,199 | +6,646 | 🟡 Medium Reinforcement |
-| ✅ | Ralu | 6,181 | 11,018 | 35.9% | 33.31% | 34.2% | 222,300 | +5,791 | 🟡 Medium Reinforcement |
 | ✅ | Eme | 5,986 | 4,738 | 30.2% | 28.64% | 29.5% | 191,750 | +5,562 | 🟡 Medium Reinforcement |
 
 ### 🔴 Low Activity (1000-4999 CP Reinforcement)
