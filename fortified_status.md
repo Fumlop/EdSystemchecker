@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-10-02 16:05:10
-**Data Source:** 2025-10-02T16:05:10.613949
-**Total Fortified:** 44 (20 with decay analysis)
+**Report Generated:** 2025-10-02 20:05:11
+**Data Source:** 2025-10-02T20:05:10.982767
+**Total Fortified:** 77 (32 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,18 +11,18 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| - | *No systems currently gaining CP* | - | - | - | - |
+| ✅ | **54 G. Antlia** | +219 CP | 6,850 | 695 | 30.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
+| ✅ | **LTT 4487** | -1,113 CP | 16,490 | 197 | 36.5% |
 | ✅ | **LFT 601** | -534 CP | 973 | 0 | 25.7% |
+| ✅ | **LTT 4716** | -527 CP | 17 | 0 | 25.0% |
 | ✅ | **Atat** | -517 CP | 2,306 | 0 | 26.7% |
-| ✅ | **Delta-2 Canis Minoris** | -499 CP | 3,638 | 0 | 27.7% |
-| ✅ | **18 Puppis** | -471 CP | 7,260 | 0 | 30.4% |
-| ✅ | **LTT 4487** | -470 CP | 15,651 | 0 | 36.6% |
+| ✅ | **HR 2798** | -514 CP | 5,552 | 0 | 29.1% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -73,4 +73,6 @@
 
 ### 🟡 Low Activity (1000-4999 CP Undermining)
 
-*No fortified systems with low undermining activity*
+| Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
+|--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
+| ✅ | LTT 4487 | 16,490 | 39.0% | 36.67% | 36.5% | 197 | 237,250 | -1,113 | 🟡 Low Undermining |
