@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-10-02 12:06:59
-**Data Source:** 2025-10-02T12:06:59.131977
-**Total Fortified:** 18 (11 with decay analysis)
+**Report Generated:** 2025-10-02 16:05:10
+**Data Source:** 2025-10-02T16:05:10.613949
+**Total Fortified:** 44 (20 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -19,10 +19,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **LFT 601** | -534 CP | 973 | 0 | 25.7% |
+| ✅ | **Atat** | -517 CP | 2,306 | 0 | 26.7% |
 | ✅ | **Delta-2 Canis Minoris** | -499 CP | 3,638 | 0 | 27.7% |
-| ✅ | **LHS 306** | -466 CP | 6,577 | 0 | 29.9% |
-| ✅ | **UBV 8670** | -453 CP | 8,592 | 0 | 31.4% |
-| ✅ | **Mbutsi** | -444 CP | 7,362 | 0 | 30.5% |
+| ✅ | **18 Puppis** | -471 CP | 7,260 | 0 | 30.4% |
+| ✅ | **LTT 4487** | -470 CP | 15,651 | 0 | 36.6% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
