@@ -1,7 +1,7 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-10-03 16:05:09
-**Data Source:** 2025-10-03T16:05:08.996842
+**Report Generated:** 2025-10-03 20:04:41
+**Data Source:** 2025-10-03T20:04:41.196689
 **Total Fortified:** 117 (45 with decay analysis)
 
 ## 📊 Quick Summary
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HIP 43054** | +15,599 CP | 0 | 165,664 | 27.4% |
+| ✅ | **HIP 43054** | +44,850 CP | 0 | 195,364 | 31.9% |
 | ✅ | **54 G. Antlia** | +3,805 CP | 6,850 | 4,215 | 30.8% |
-| ✅ | **LTT 4487** | +1,900 CP | 16,501 | 3,172 | 37.0% |
-| ✅ | **Heveri** | +959 CP | 5,451 | 1,408 | 29.3% |
-| ✅ | **NLTT 21088** | +646 CP | 18,597 | 1,045 | 39.0% |
+| ✅ | **LTT 4487** | +1,904 CP | 16,501 | 3,177 | 37.0% |
+| ✅ | **NLTT 21088** | +1,169 CP | 18,597 | 1,542 | 39.1% |
+| ✅ | **Umbrigua** | +1,131 CP | 10,880 | 1,630 | 33.3% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -25,7 +25,7 @@
 | ✅ | **Yaricans** | -817 CP | 4,433 | 4 | 28.0% |
 | ✅ | **Turni** | -556 CP | 734 | 5 | 25.5% |
 | ✅ | **LFT 601** | -534 CP | 973 | 0 | 25.7% |
-| ✅ | **Fan Yin** | -530 CP | 3,946 | 0 | 27.9% |
+| ✅ | **LHS 1887** | -527 CP | 3,672 | 0 | 27.7% |
 | ✅ | **LTT 4716** | -527 CP | 17 | 0 | 25.0% |
 
 ### 🟢 **High Progress Systems (>=70%)**
@@ -53,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HIP 43054 | 165,664 | 0 | 27.4% | 25.00% | 27.4% | 178,099 | +15,599 | 🟢 High Reinforcement |
+| ✅ | HIP 43054 | 195,364 | 0 | 31.9% | 25.00% | 31.9% | 207,350 | +44,850 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -64,7 +64,9 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | 54 G. Antlia | 4,215 | 6,850 | 31.9% | 30.21% | 30.8% | 200,200 | +3,805 | 🔵 Low Reinforcement |
-| ✅ | LTT 4487 | 3,172 | 16,501 | 39.5% | 36.71% | 37.0% | 240,500 | +1,900 | 🔵 Low Reinforcement |
+| ✅ | LTT 4487 | 3,177 | 16,501 | 39.5% | 36.71% | 37.0% | 240,500 | +1,904 | 🔵 Low Reinforcement |
+| ✅ | NLTT 21088 | 1,542 | 18,597 | 42.0% | 38.92% | 39.1% | 254,150 | +1,169 | 🔵 Low Reinforcement |
+| ✅ | Umbrigua | 1,630 | 10,880 | 35.0% | 33.13% | 33.3% | 216,449 | +1,131 | 🔵 Low Reinforcement |
 
 
 ---
