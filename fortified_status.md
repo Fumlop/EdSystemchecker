@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-10-02 20:05:11
-**Data Source:** 2025-10-02T20:05:10.982767
-**Total Fortified:** 77 (32 with decay analysis)
+**Report Generated:** 2025-10-03 00:16:50
+**Data Source:** 2025-10-03T00:16:50.197565
+**Total Fortified:** 89 (34 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,18 +11,19 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **54 G. Antlia** | +219 CP | 6,850 | 695 | 30.2% |
+| ✅ | **54 G. Antlia** | +709 CP | 6,850 | 1,151 | 30.3% |
+| ✅ | **Umbrigua** | +459 CP | 10,847 | 921 | 33.2% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **LTT 4487** | -1,113 CP | 16,490 | 197 | 36.5% |
+| ✅ | **LTT 4487** | -655 CP | 16,490 | 615 | 36.6% |
 | ✅ | **LFT 601** | -534 CP | 973 | 0 | 25.7% |
+| ✅ | **Yaricans** | -530 CP | 4,082 | 0 | 28.0% |
 | ✅ | **LTT 4716** | -527 CP | 17 | 0 | 25.0% |
 | ✅ | **Atat** | -517 CP | 2,306 | 0 | 26.7% |
-| ✅ | **HR 2798** | -514 CP | 5,552 | 0 | 29.1% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -73,6 +74,4 @@
 
 ### 🟡 Low Activity (1000-4999 CP Undermining)
 
-| Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
-|--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | LTT 4487 | 16,490 | 39.0% | 36.67% | 36.5% | 197 | 237,250 | -1,113 | 🟡 Low Undermining |
+*No fortified systems with low undermining activity*
