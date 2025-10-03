@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-10-03 12:07:02
-**Data Source:** 2025-10-03T12:07:02.344096
-**Total Fortified:** 119 (45 with decay analysis)
+**Report Generated:** 2025-10-03 16:05:09
+**Data Source:** 2025-10-03T16:05:08.996842
+**Total Fortified:** 117 (45 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -13,7 +13,7 @@
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **HIP 43054** | +15,599 CP | 0 | 165,664 | 27.4% |
 | ✅ | **54 G. Antlia** | +3,805 CP | 6,850 | 4,215 | 30.8% |
-| ✅ | **LTT 4487** | +1,503 CP | 16,501 | 2,827 | 36.9% |
+| ✅ | **LTT 4487** | +1,900 CP | 16,501 | 3,172 | 37.0% |
 | ✅ | **Heveri** | +959 CP | 5,451 | 1,408 | 29.3% |
 | ✅ | **NLTT 21088** | +646 CP | 18,597 | 1,045 | 39.0% |
 
@@ -22,10 +22,10 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Tau Centauri** | -1,297 CP | 6,227 | 0 | 28.9% |
 | ✅ | **Yaricans** | -817 CP | 4,433 | 4 | 28.0% |
 | ✅ | **Turni** | -556 CP | 734 | 5 | 25.5% |
 | ✅ | **LFT 601** | -534 CP | 973 | 0 | 25.7% |
+| ✅ | **Fan Yin** | -530 CP | 3,946 | 0 | 27.9% |
 | ✅ | **LTT 4716** | -527 CP | 17 | 0 | 25.0% |
 
 ### 🟢 **High Progress Systems (>=70%)**
@@ -64,7 +64,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | 54 G. Antlia | 4,215 | 6,850 | 31.9% | 30.21% | 30.8% | 200,200 | +3,805 | 🔵 Low Reinforcement |
-| ✅ | LTT 4487 | 2,827 | 16,501 | 39.4% | 36.67% | 36.9% | 239,850 | +1,503 | 🔵 Low Reinforcement |
+| ✅ | LTT 4487 | 3,172 | 16,501 | 39.5% | 36.71% | 37.0% | 240,500 | +1,900 | 🔵 Low Reinforcement |
 
 
 ---
@@ -82,6 +82,4 @@
 
 ### 🟡 Low Activity (1000-4999 CP Undermining)
 
-| Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
-|--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Tau Centauri | 6,227 | 29.9% | 29.10% | 28.9% | 0 | 187,850 | -1,297 | 🟡 Low Undermining |
+*No fortified systems with low undermining activity*
