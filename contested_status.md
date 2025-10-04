@@ -1,7 +1,7 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-10-04 13:25:27
-**Data Source:** 2025-10-03T17:25:27.328331
+**Report Generated:** 2025-10-04 13:26:56
+**Data Source:** 2025-10-03T17:26:55.931038
 **Total Contested:** 1 systems
 **Total Expansion:** 1881 systems
 **Priority Acquisition Targets:** 0 of 4 systems are contested
@@ -1527,6 +1527,7 @@
 | 🔵 | Crucis Sector NI-T b3-3 | 0.0% |
 | 🔵 | Crucis Sector NS-T b3-4 | 0.0% |
 | 🔵 | Crucis Sector OC-V a2-0 | 0.0% |
+| 🔵 | Crucis Sector OC-V a2-1 | 0.0% |
 | 🔵 | Crucis Sector OC-V a2-3 | 0.0% |
 | 🔵 | Crucis Sector OI-T b3-1 | 0.0% |
 | 🔵 | Crucis Sector OI-T b3-2 | 0.0% |
@@ -1899,7 +1900,6 @@
 | 🔵 | V463 Carinae | 0.0% |
 | 🔵 | Vilia | 0.0% |
 | 🔵 | Vistsi | 0.0% |
-| 🔵 | W Ursae Majoris | 0.0% |
 | 🔵 | Wachmann's Flare Star | 0.0% |
 | 🔵 | Wakos | 0.0% |
 | 🔵 | Walmanglai | 0.0% |
