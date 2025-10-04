@@ -159,12 +159,16 @@ def generate_universal_report(state):
     systems = data['systems']
     
     # Include systems with net_cp OR systems that dropped from above 25% (decay+undermining)
+    # For exploited systems, also include systems under 25% as they are vulnerable
     systems_with_analysis = []
     for s in systems:
         if 'net_cp' in s:
             systems_with_analysis.append(s)
         elif s.get('last_cycle_percent', 0) >= 25.0 and s.get('progress_percent', 0) < 25.0:
             # System dropped from above 25% - likely decay+undermining
+            systems_with_analysis.append(s)
+        elif state == 'exploited' and s.get('progress_percent', 0) < 25.0:
+            # For exploited systems, include vulnerable systems under 25%
             systems_with_analysis.append(s)
     
     # Separate by Net CP (positive = reinforcement winning, negative = undermining winning)
