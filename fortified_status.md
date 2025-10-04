@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-10-04 08:05:25
-**Data Source:** 2025-10-04T08:05:25.178413
-**Total Fortified:** 126 (48 with decay analysis)
+**Report Generated:** 2025-10-04 12:06:30
+**Data Source:** 2025-10-04T12:06:30.651734
+**Total Fortified:** 127 (49 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -12,10 +12,10 @@
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
 | ✅ | **HIP 43054** | +169,650 CP | 0 | 320,021 | 51.1% |
-| ✅ | **Heveri** | +14,123 CP | 5,451 | 14,607 | 31.3% |
+| ✅ | **Heveri** | +23,998 CP | 5,451 | 24,508 | 32.8% |
 | ✅ | **54 G. Antlia** | +3,999 CP | 6,850 | 4,450 | 30.8% |
 | ✅ | **NLTT 21088** | +2,894 CP | 18,597 | 3,220 | 39.4% |
-| ✅ | **Tarhul** | +2,844 CP | 2,818 | 3,354 | 27.6% |
+| ✅ | **LTT 4487** | +1,896 CP | 16,511 | 3,177 | 37.0% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -54,7 +54,7 @@
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | HIP 43054 | 320,021 | 0 | 51.1% | 25.00% | 51.1% | 332,150 | +169,650 | 🟢 High Reinforcement |
-| ✅ | Heveri | 14,607 | 5,451 | 32.1% | 29.13% | 31.3% | 203,450 | +14,123 | 🟢 High Reinforcement |
+| ✅ | Heveri | 24,508 | 5,451 | 33.6% | 29.11% | 32.8% | 213,199 | +23,998 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -66,9 +66,9 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | 54 G. Antlia | 4,450 | 6,850 | 31.9% | 30.18% | 30.8% | 200,200 | +3,999 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 3,220 | 18,597 | 42.3% | 38.95% | 39.4% | 256,099 | +2,894 | 🔵 Low Reinforcement |
-| ✅ | Tarhul | 3,354 | 2,818 | 28.0% | 27.16% | 27.6% | 179,400 | +2,844 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 3,177 | 16,511 | 39.5% | 36.71% | 37.0% | 240,500 | +1,896 | 🔵 Low Reinforcement |
-| ✅ | Umbrigua | 1,630 | 10,880 | 35.0% | 33.13% | 33.3% | 216,449 | +1,131 | 🔵 Low Reinforcement |
+| ✅ | Ralu | 1,979 | 10,617 | 34.8% | 32.97% | 33.2% | 215,800 | +1,525 | 🔵 Low Reinforcement |
+| ✅ | Umbrigua | 1,664 | 10,891 | 35.0% | 33.12% | 33.3% | 216,449 | +1,150 | 🔵 Low Reinforcement |
 
 
 ---
