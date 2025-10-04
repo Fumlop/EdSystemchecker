@@ -1,12 +1,12 @@
 # 🏛️ Contested Systems Status Report
 
-**Report Generated:** 2025-10-04 13:26:56
-**Data Source:** 2025-10-03T17:26:55.931038
+**Report Generated:** 2025-10-04 13:34:13
+**Data Source:** 2025-10-03T17:34:13.250461
 **Total Contested:** 1 systems
-**Total Expansion:** 1881 systems
+**Total Expansion:** 1883 systems
 **Priority Acquisition Targets:** 0 of 4 systems are contested
 
-**Total Expansion:** 1881 systems
+**Total Expansion:** 1883 systems
 
 ## 📊 Quick Summary
 
@@ -456,7 +456,6 @@
 | 🔵 | Karamu | 1.5% |
 | 🔵 | LTT 3143 | 1.5% |
 | 🔵 | Puppis Sector WO-A b3 | 1.5% |
-| 🔵 | Raiju | 1.5% |
 | 🔵 | Sharru Sector BA-A d138 | 1.5% |
 | 🔵 | Uror | 1.5% |
 | 🔵 | CD-42 7240 | 1.4% |
@@ -600,6 +599,7 @@
 | 🔵 | Col 285 Sector GW-A b15-2 | 0.7% |
 | 🔵 | Col 285 Sector HR-A b15-6 | 0.7% |
 | 🔵 | Col 285 Sector MR-J b10-0 | 0.7% |
+| 🔵 | Col 285 Sector UL-Y b16-0 | 0.7% |
 | 🔵 | Col 285 Sector VY-Q c5-24 | 0.7% |
 | 🔵 | Crucis Sector AA-Z b3 | 0.7% |
 | 🔵 | Crucis Sector DL-Y d163 | 0.7% |
@@ -649,6 +649,7 @@
 | 🔵 | Crucis Sector PC-V a2-5 | 0.6% |
 | 🔵 | Crucis Sector ZE-A d136 | 0.6% |
 | 🔵 | FAUST 3725 | 0.6% |
+| 🔵 | Har Itaris | 0.6% |
 | 🔵 | HIP 37520 | 0.6% |
 | 🔵 | HIP 68785 | 0.6% |
 | 🔵 | Hyades Sector FB-X d1-129 | 0.6% |
@@ -1495,6 +1496,7 @@
 | 🔵 | Crucis Sector HR-W c1-16 | 0.0% |
 | 🔵 | Crucis Sector HW-W b1-7 | 0.0% |
 | 🔵 | Crucis Sector IC-M a7-1 | 0.0% |
+| 🔵 | Crucis Sector IC-U b3-2 | 0.0% |
 | 🔵 | Crucis Sector IH-M a7-0 | 0.0% |
 | 🔵 | Crucis Sector IH-M a7-2 | 0.0% |
 | 🔵 | Crucis Sector IH-V b2-0 | 0.0% |
