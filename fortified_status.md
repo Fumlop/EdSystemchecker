@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-10-04 12:06:30
-**Data Source:** 2025-10-04T12:06:30.651734
-**Total Fortified:** 127 (49 with decay analysis)
+**Report Generated:** 2025-10-04 13:25:27
+**Data Source:** 2025-10-04T13:25:27.792626
+**Total Fortified:** 126 (48 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -22,11 +22,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **Tau Centauri** | -1,297 CP | 6,227 | 0 | 28.9% |
 | ✅ | **Yaricans** | -808 CP | 4,433 | 15 | 28.0% |
 | ✅ | **Turni** | -556 CP | 734 | 5 | 25.5% |
 | ✅ | **LFT 601** | -534 CP | 973 | 0 | 25.7% |
 | ✅ | **LHS 1887** | -527 CP | 3,672 | 0 | 27.7% |
+| ✅ | **LTT 4716** | -527 CP | 17 | 0 | 25.0% |
 
 ### 🟢 **High Progress Systems (>=70%)**
 *Systems with strong progress that are close to completion*
@@ -68,6 +68,7 @@
 | ✅ | NLTT 21088 | 3,220 | 18,597 | 42.3% | 38.95% | 39.4% | 256,099 | +2,894 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 3,177 | 16,511 | 39.5% | 36.71% | 37.0% | 240,500 | +1,896 | 🔵 Low Reinforcement |
 | ✅ | Ralu | 1,979 | 10,617 | 34.8% | 32.97% | 33.2% | 215,800 | +1,525 | 🔵 Low Reinforcement |
+| ✅ | UBV 8670 | 1,830 | 8,592 | 33.0% | 31.49% | 31.7% | 206,050 | +1,397 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 1,664 | 10,891 | 35.0% | 33.12% | 33.3% | 216,449 | +1,150 | 🔵 Low Reinforcement |
 
 
@@ -86,6 +87,4 @@
 
 ### 🟡 Low Activity (1000-4999 CP Undermining)
 
-| Status | System | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Reinforcement | Current CP | Net CP | Activity |
-|--------|--------|-------------|--------------|-----------------|-------------------|---------------|------------|--------|----------|
-| ✅ | Tau Centauri | 6,227 | 29.9% | 29.10% | 28.9% | 0 | 187,850 | -1,297 | 🟡 Low Undermining |
+*No fortified systems with low undermining activity*
