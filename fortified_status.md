@@ -1,8 +1,8 @@
 # 🛡️ Fortified Status Report
 
-**Report Generated:** 2025-10-03 20:04:41
-**Data Source:** 2025-10-03T20:04:41.196689
-**Total Fortified:** 117 (45 with decay analysis)
+**Report Generated:** 2025-10-04 00:15:48
+**Data Source:** 2025-10-04T00:15:48.699614
+**Total Fortified:** 118 (44 with decay analysis)
 
 ## 📊 Quick Summary
 
@@ -11,11 +11,11 @@
 
 | Status | System | Net CP | Undermining | Reinforcement | Progress |
 |--------|--------|--------|-------------|---------------|----------|
-| ✅ | **HIP 43054** | +44,850 CP | 0 | 195,364 | 31.9% |
+| ✅ | **HIP 43054** | +137,800 CP | 0 | 288,382 | 46.2% |
 | ✅ | **54 G. Antlia** | +3,805 CP | 6,850 | 4,215 | 30.8% |
 | ✅ | **LTT 4487** | +1,904 CP | 16,501 | 3,177 | 37.0% |
+| ✅ | **Heveri** | +1,798 CP | 5,451 | 2,287 | 29.4% |
 | ✅ | **NLTT 21088** | +1,169 CP | 18,597 | 1,542 | 39.1% |
-| ✅ | **Umbrigua** | +1,131 CP | 10,880 | 1,630 | 33.3% |
 
 ### 🔴 **Most Threatened Systems**
 *Top systems with negative Net CP (undermining winning)*
@@ -53,7 +53,7 @@
 
 | Status | System | Reinforcement | Undermining | Last Cycle % | Natural Decay % | Current Progress % | Current CP | Net CP | Activity |
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
-| ✅ | HIP 43054 | 195,364 | 0 | 31.9% | 25.00% | 31.9% | 207,350 | +44,850 | 🟢 High Reinforcement |
+| ✅ | HIP 43054 | 288,382 | 0 | 46.2% | 25.00% | 46.2% | 300,300 | +137,800 | 🟢 High Reinforcement |
 
 ### 🟡 Medium Activity (5000-9999 CP Reinforcement)
 
@@ -65,6 +65,7 @@
 |--------|--------|---------------|-------------|--------------|-----------------|-------------------|------------|--------|----------|
 | ✅ | 54 G. Antlia | 4,215 | 6,850 | 31.9% | 30.21% | 30.8% | 200,200 | +3,805 | 🔵 Low Reinforcement |
 | ✅ | LTT 4487 | 3,177 | 16,501 | 39.5% | 36.71% | 37.0% | 240,500 | +1,904 | 🔵 Low Reinforcement |
+| ✅ | Heveri | 2,287 | 5,451 | 30.2% | 29.12% | 29.4% | 191,100 | +1,798 | 🔵 Low Reinforcement |
 | ✅ | NLTT 21088 | 1,542 | 18,597 | 42.0% | 38.92% | 39.1% | 254,150 | +1,169 | 🔵 Low Reinforcement |
 | ✅ | Umbrigua | 1,630 | 10,880 | 35.0% | 33.13% | 33.3% | 216,449 | +1,131 | 🔵 Low Reinforcement |
 
